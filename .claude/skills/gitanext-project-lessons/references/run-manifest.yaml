@@ -1,0 +1,22 @@
+last_run:
+  date: 2026-07-09
+  mode: full
+  head_sha: "77ee8db8dd92dba9e5a75d065edeecaa3f8dde44"
+  orchestrator_id: claude-fable-5
+  flags: [--handdown]
+transcripts_mined:
+  - { path: ~/.claude/projects/-Users-roshanpandey-PROJECTS-other-projects-gita-next/2999c76b-e08b-468c-a075-1d578c21baba.jsonl, size: 467584, mtime: 2026-06-16 }
+  - { path: ~/.claude/projects/-Users-roshanpandey-PROJECTS-other-projects-gita-next/2ff20c12-7b08-42de-bcb9-763598e2315e.jsonl, size: 326454, mtime: 2026-06-16 }
+skills_touched:
+  - { path: .claude/skills/gitanext-project-lessons/SKILL.md, changelog: "created (2 sessions, 4 commits, 0 incidents — success mining + review)" }
+  - { path: .claude/skills/gitanext-project-lessons/references/problems-log.md, changelog: "created: zero-incident control-group log" }
+  - { path: .claude/skills/gitanext-project-lessons/references/delegation-digest.md, changelog: "created: judge-authored, REASONED (cheap-tier replays hit session limit)" }
+  - { path: .claude/skills/gitanext-architecture/SKILL.md, changelog: "created from combined review + orchestrator spot-check" }
+  - { path: .claude/skills/gitanext-architecture/references/arch-problems.md, changelog: "created: 9 ranked problems; SW staleness upgraded to sev 4 on spot-check" }
+  - { path: .claude/skills/team-lessons/SKILL.md, changelog: "created: 2 seed predictions (no incidents to record)" }
+wired_files: []
+pending_validation:
+  - "handdown replays: FAILED (subagent session limit, resets 18:45 Asia/Kathmandu) — digest lines are judge predictions [REASONED]; re-run replays on next --delta"
+  - "trigger tests executed: no (reasoned only)"
+costs:
+  note: "orchestrator fable-tier; 1 miner + 1 combined reviewer on sonnet-tier; adversary pass done inline by orchestrator"
