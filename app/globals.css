@@ -70,6 +70,8 @@ section.s{height:100vh;height:100dvh;scroll-snap-align:start;scroll-snap-stop:al
 .ce .chno{font-size:.78rem;color:var(--acc);margin-bottom:1.4rem}
 .ce h2{font-size:clamp(1.7rem,7.4vw,2.5rem);font-weight:400;line-height:1.55;margin-bottom:.5rem}
 .ce .chmean{font-size:.95rem;color:var(--mut);margin-bottom:2rem}
+.ce .cestat{font-size:.84rem;line-height:1.7;color:var(--acc);opacity:.9;margin:-1rem 0 1.8rem}
+.ce .cestat:empty{display:none}
 .ce .teach{font-size:1.04rem;line-height:1.85;margin-bottom:2.2rem;opacity:.92}
 .ce .kv{font-size:.85rem;letter-spacing:.04em;color:var(--acc);opacity:.85;margin:-1.2rem 0 2.2rem}
 .ce .rline{width:2.2rem;height:1px;background:var(--acc);opacity:.7;margin-bottom:2rem}
@@ -155,6 +157,62 @@ details.xsec[open] summary{margin-bottom:.6rem}
 @keyframes wake{from{opacity:.45;transform:scale(1)}to{opacity:0;transform:scale(2.6)}}
 .eyeing #plabel{opacity:0}
 .xend{text-align:center;margin-top:3rem;color:var(--acc);font-size:1.1rem;opacity:.8}
+
+/* ---------- bell, toast, swipe hint ---------- */
+.cfg{position:absolute;top:-.2rem;right:2rem;z-index:3;padding:.4rem;color:var(--mut);opacity:.45;
+  transition:color .25s ease,opacity .25s ease,transform .15s ease}
+.cfg svg{display:block;width:1.15rem;height:1.15rem;fill:none;stroke:currentColor;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+.cfg:hover{opacity:.8}
+.cfg:active{transform:scale(.88)}
+.cfg.on{color:var(--acc);opacity:1}
+.hint-swipe{bottom:calc(5.4rem + env(safe-area-inset-bottom));font-size:.82rem;opacity:.9;animation:hintp 2.4s ease-in-out infinite}
+.hint-swipe::before{content:"←";font-size:1.05rem;opacity:.9}
+#toast{position:fixed;left:50%;bottom:calc(3.4rem + env(safe-area-inset-bottom));z-index:11;transform:translate(-50%,.4rem);
+  font-size:.82rem;color:var(--acc);pointer-events:none;opacity:0;white-space:nowrap;transition:opacity .3s ease,transform .3s ease}
+#toast.on{opacity:1;transform:translate(-50%,0)}
+#title .tback{margin-top:1.6rem;font-size:.86rem;line-height:1.7;color:var(--mut)}
+#title .tback:empty{display:none}
+
+/* ---------- reading plan and reminders (the bell) ---------- */
+#st{position:fixed;inset:0;z-index:10;background:var(--bg);background:color-mix(in srgb,var(--bg) 88%,black 12%);
+  display:none;overflow-y:auto;overscroll-behavior:contain;opacity:0;transition:opacity .4s ease;-webkit-overflow-scrolling:touch}
+#st.show{display:block}
+#st.open{opacity:1}
+#st .inner{width:min(92vw,32rem);margin:0 auto;padding:calc(3rem + env(safe-area-inset-top)) 0 calc(4rem + env(safe-area-inset-bottom))}
+.sthead{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;margin-bottom:.4rem}
+.sthead h3{font-weight:400;font-size:.8rem;color:var(--acc)}
+.sthead button{min-height:2.75rem;padding:0 .2rem;border:0;background:none;font:inherit;font-size:.84rem;color:var(--acc);cursor:pointer}
+.stsec{margin-top:2.2rem}
+.stline{display:flex;align-items:center;gap:.7rem;min-height:2.9rem;font-size:1rem;line-height:1.6;
+  border-bottom:1px solid rgba(128,128,128,.25);border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}
+.stline label{display:flex;align-items:center;gap:.7rem;flex:1}
+.stline>span:first-child{flex:1}
+.stline select,.stline input{flex:1;min-width:0;min-height:2.4rem;padding:.2rem .1rem;border:0;background:none;color:var(--ink);font:inherit;font-size:1rem}
+.stline input[type=number]{flex:none;width:4.2rem;text-align:center}
+.stline select:focus-visible,.stline input:focus-visible,#st button:focus-visible{outline:1px solid var(--acc);outline-offset:3px}
+.stnum{min-width:2.2rem;text-align:center;font-weight:400;font-size:1.25rem}
+.stline .stnum+span{flex:1}
+.stb{flex:none;width:2.75rem;height:2.75rem;border:0;background:none;color:var(--acc);font:inherit;font-size:1.3rem;cursor:pointer}
+.stsw{flex:none;position:relative;width:2.9rem;height:1.6rem;padding:0;border:1px solid var(--mut);border-radius:999px;background:none;cursor:pointer;transition:border-color .25s ease}
+.stsw i{position:absolute;top:50%;left:.2rem;width:1.1rem;height:1.1rem;border-radius:50%;background:var(--mut);transform:translateY(-50%);transition:left .25s ease,background .25s ease}
+.stsw[aria-checked=true]{border-color:var(--acc)}
+.stsw[aria-checked=true] i{left:1.5rem;background:var(--acc)}
+.ststats{display:flex;gap:1.2rem;padding:.4rem 0 1rem;border-bottom:1px solid rgba(128,128,128,.25);border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}
+.ststats div{flex:1}
+.ststats b{display:block;font-weight:400;font-size:1.7rem;line-height:1.3}
+.ststats b i{font-style:normal;font-size:.95rem;color:var(--mut)}
+.ststats span{display:block;font-size:.76rem;line-height:1.5;color:var(--mut)}
+.stnote{margin-top:.7rem;font-size:.82rem;line-height:1.7;color:var(--mut)}
+.stmsg{margin-top:1rem;padding-left:.9rem;border-left:2px solid var(--acc)}
+.stmsg small{display:block;font-size:.72rem;color:var(--mut);margin-bottom:.15rem}
+.stmsg b{display:block;font-weight:400;font-size:.95rem;line-height:1.6}
+.stmsg span{display:block;font-size:.88rem;line-height:1.65;color:var(--mut)}
+.stacts{flex-wrap:wrap;border:0;margin-top:.6rem;gap:1.4rem}
+.stacts button{min-height:2.75rem;padding:0;border:0;background:none;font:inherit;font-size:.84rem;color:var(--acc);cursor:pointer;text-align:left}
+.stguide{list-style:none;margin:0;padding:0}
+.stguide li{padding:.7rem 0;font-size:.92rem;line-height:1.7;color:var(--mut);
+  border-bottom:1px solid rgba(128,128,128,.25);border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}
+.stguide b{font-weight:400;color:var(--ink)}
 
 /* ---------- index overlay ---------- */
 #ix{position:fixed;inset:0;z-index:9;background:var(--bg);background:color-mix(in srgb,var(--bg) 88%,black 12%);

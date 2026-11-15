@@ -32,6 +32,29 @@ docker build -t gita-next . && docker run --rm -p 3400:3400 gita-next   # the pr
 Installable as a PWA; `public/sw.js` stores all 18 chapter files, the fonts and the page's own scripts for fully
 offline reading after the first visit. From a reader's second visit the app offers to install itself.
 
+## Reading plan and reminders
+
+The bell beside the star opens the plan: which chapters, how many shlokas a day (or how many days to finish), and
+whether to be reminded. Everything is worked out on the device and nothing is sent to a server.
+
+- `public/remind.js` holds the plan arithmetic, every reminder text and the rules for sending. The page and the
+  service worker both load it. `scripts/test-remind.mjs` checks it and runs in every build.
+- The page records what was read (`lib/engine.js`) and saves the state where the worker can read it (Cache API,
+  `gita-state`). The worker decides and shows the reminder (`public/sw.js`).
+- **What the platforms allow without a push server:** an installed app on Android is woken by the browser about once
+  a day (periodic background sync), so a reminder arrives some time after the chosen hour, not at it. iPhone has no
+  such wake-up: there the reader gets a line on the title screen saying where they left off, and a calendar file for
+  a daily reminder at an exact time.
+- The plan page also shows the reader's own record: days in a row, shlokas read today, the pace actually kept over
+  the last two weeks and the finishing date at that pace. Each chapter-end card says how many days the chapter took,
+  at what pace, and how long the rest takes at that rate; the "chapter complete" reminder says the same.
+- After three days away the reminder turns sad and carries a line from the Gita itself, cited by verse; it changes
+  again after a week and after two. Each is said once, then the reminders go back to what the next shloka holds.
+- iPhone gets the plan and the record but no reminder settings, since there are no reminders to set there.
+- Rules: at most one a day; never before the chosen time or after 22:00; none once the day's reading is done or the
+  app was open in the last three hours; unanswered reminders thin out (daily, every second day, every fourth) and
+  stop after ten until the reader returns. The last twelve sent are listed on the plan page.
+
 ## Structure
 
 - `lib/engine.js` — the reader engine (palettes, abstract chapter forms,
@@ -40,6 +63,7 @@ offline reading after the first visit. From a reader's second visit the app offe
   `app/reader.jsx` client component.
 - `app/globals.css` — design system: 18 chapter palettes via CSS variables,
   Tiro Devanagari Sanskrit embedded from `/public/fonts`.
+- `public/remind.js` — reading plan arithmetic, reminder texts and sending rules (shared with the service worker).
 - `public/data/index.json` — chapter meta (name, meaning, teaching,
   3 reflection questions, verse counts).
 - `public/data/chapter-NN.json` — canonical verse data, lazy-loaded per chapter.

@@ -1,6 +1,10 @@
 // shortcut: data, fonts and code are cache-first, so bump V whenever public/data changes
-const V = 'gita-v5';
-const CORE = ['/', '/manifest.webmanifest', '/icon.svg',
+const V = 'gita-v6';
+// The reader's plan and place, written by the page for the reminder code below. Kept apart from the versioned
+// cache so a new version does not erase it.
+const STATE = 'gita-state';
+importScripts('/remind.js');
+const CORE = ['/', '/manifest.webmanifest', '/icon.svg', '/remind.js',
   '/data/index.json',
   ...Array.from({length:18},(_,i)=>`/data/chapter-${String(i+1).padStart(2,'0')}.json`),
   '/fonts/tiro-devanagari-sanskrit-devanagari-400-normal.woff2',
@@ -17,7 +21,7 @@ self.addEventListener('install', e => {
   }).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V && k !== STATE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', e => {
   const r = e.request;
@@ -32,4 +36,34 @@ self.addEventListener('fetch', e => {
     return;
   }
   e.respondWith(caches.match(r).then(hit => hit || fetch(r).then(save)));
+});
+
+// ---- reading reminders (rules and texts: /remind.js; the reader's side: lib/engine.js) ----
+// Nothing is sent to a server. On an installed app Chrome wakes this worker now and then (periodic background sync);
+// each time it reads the saved state and asks GitaRemind.decide whether a reminder is due. iPhone has no such
+// wake-up, so there the reader sees the greeting on the title screen instead.
+const readState = () => caches.open(STATE).then(c => c.match('/state.json')).then(r => r ? r.json() : null).catch(() => null);
+const writeState = s => caches.open(STATE).then(c => c.put('/state.json', new Response(JSON.stringify(s), { headers: { 'Content-Type': 'application/json' } })));
+async function remind(force) {
+  const s = await readState();
+  if (!s || Notification.permission !== 'granted') return;
+  const now = new Date();
+  const d = force ? { send: true, msg: self.GitaRemind.pick(s, now) } : self.GitaRemind.decide(s, now);
+  if (!d.send || !d.msg) return;
+  await self.registration.showNotification(d.msg.title, {
+    body: d.msg.body, icon: '/icon-192.png', badge: '/icon-192.png', tag: 'gita-reading', renotify: true, lang: 'en',
+    data: { kind: d.msg.kind },
+  });
+  if (!force) await writeState(self.GitaRemind.recordSent(s, d.msg, now));
+}
+self.addEventListener('periodicsync', e => { if (e.tag === 'gita-remind') e.waitUntil(remind(false)); });
+// The settings form asks for a sample of what would be sent ("show me one now").
+self.addEventListener('message', e => { if (e.data && e.data.type === 'remind-test') e.waitUntil(remind(true)); });
+// A tap on the reminder opens the reader, which returns to the reader's place by itself.
+self.addEventListener('notificationclick', e => {
+  e.notification.close();
+  e.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then(ws => {
+    const w = ws.find(x => 'focus' in x);
+    return w ? w.focus() : self.clients.openWindow('/');
+  }));
 });
