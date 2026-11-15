@@ -2,7 +2,7 @@
 
 All 701 verses and the 18 chapter summaries were checked against outside sources, corrected, and extended.
 This file says what was compared with what, what changed, and what is still unverified.
-Full lists: [audit-issues.md](audit-issues.md) (every finding in the teachings) and [audit-verses.md](audit-verses.md) (sources per verse).
+Full lists: [audit-issues.md](audit-issues.md) (every finding in the teachings), [audit-threads.md](audit-threads.md) (every thread that was rewritten) and [audit-verses.md](audit-verses.md) (sources per verse).
 
 ## Sources
 
@@ -47,6 +47,12 @@ Commentaries and the holy-bhagavad-gita.org text are paraphrased in a sentence o
 - **Hook:** one question per verse that the verse itself answers.
 - **Scripture references:** 362 references on 240 verses, 92 of them to Upanishads, as cited in Swami Mukundananda's commentary. Where he cites “the Ramayan” without a number, the quotation is from Tulsīdās's Rāmcaritmānas and is labelled so. His 13 citations of the Bible and the Tao Te Ching were left out.
 - **Sources** shown on every verse in the reader.
+
+## Later passes (same month)
+
+- **Background, all 701 verses rewritten.** The background used to be a scene summary shared by a group of verses. Each verse now has its own: who is speaking, what was just said or doubted, and why this verse is spoken. Where Śrīdhara's opening line or Śaṅkara's lead-in gives that reason, it is used and he is named. This replaces the earlier, lighter check of the background field.
+- **Thread, all 701 verses checked** against the verse, its neighbours and every verse number cited: 497 passed, 204 were rewritten (wrong or overstated link, a summary instead of a link, a repeat of the background, or unexplained Sanskrit on the card). Before and after for each: [audit-threads.md](audit-threads.md).
+- **Limits of these passes.** The reviewers read the commentators' openings in excerpts of about 400 characters, mostly Śrīdhara's Sanskrit, and their readings were not compared with a published translation. Threads were checked only against the translations of the verses they cite.
 
 ## Sanskrit corrections
 
