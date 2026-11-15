@@ -54,7 +54,8 @@ async function remind(force) {
     body: d.msg.body, icon: '/icon-192.png', badge: '/icon-192.png', tag: 'gita-reading', renotify: true, lang: 'en',
     data: { kind: d.msg.kind },
   });
-  if (!force) await writeState(self.GitaRemind.recordSent(s, d.msg, now));
+  // Read again before writing: only `sent` is this worker's to change, and the page may have saved meanwhile.
+  if (!force) { const fresh = (await readState()) || s; await writeState(self.GitaRemind.recordSent(fresh, d.msg, now)); }
 }
 self.addEventListener('periodicsync', e => { if (e.tag === 'gita-remind') e.waitUntil(remind(false)); });
 // The settings form asks for a sample of what would be sent ("show me one now").

@@ -51,6 +51,11 @@ whether to be reminded. Everything is worked out on the device and nothing is se
 - After three days away the reminder turns sad and carries a line from the Gita itself, cited by verse; it changes
   again after a week and after two. Each is said once, then the reminders go back to what the next shloka holds.
 - iPhone gets the plan and the record but no reminder settings, since there are no reminders to set there.
+- **What the reader entered survives refreshes and updates.** The plan, place, saved shlokas, streak and chapter
+  record live in localStorage, with a second copy inside the `gita-state` cache, which a new service-worker version
+  does not clear. If the browser empties one of the two, the other restores it on the next opening. A plan saved by
+  an older version is repaired field by field, never replaced by defaults. Keep it that way: add fields, do not
+  rename or reuse keys (`gita-plan`, `gita-pos`, `gita-marks`, `gita-days`, `gita-chlog`).
 - Rules: at most one a day; never before the chosen time or after 22:00; none once the day's reading is done or the
   app was open in the last three hours; unanswered reminders thin out (daily, every second day, every fourth) and
   stop after ten until the reader returns. The last twelve sent are listed on the plan page.
