@@ -112,8 +112,7 @@ section.s{height:100vh;height:100dvh;scroll-snap-align:start;scroll-snap-stop:al
 .xnote{font-size:.92rem;color:var(--mut);line-height:1.8}
 .xnote.bh{font-style:italic;color:var(--ink);opacity:.82;border-left:2px solid var(--acc);padding-left:.9rem}
 /* additions stay inside the house style: type, hairlines, the two label sizes. No boxes, no fills. */
-.hook{margin:1.7rem 0 0 auto;max-width:88%;text-align:right;font-size:.86rem;line-height:1.65;color:var(--mut);transition:color 1.2s ease}
-.hook+.ess{margin-top:.45rem}
+.thread{margin:1.1rem 0 0 auto;max-width:88%;text-align:right;font-size:.84rem;line-height:1.65;color:var(--mut);transition:color 1.2s ease}
 .xhook{font-size:1.06rem;line-height:1.75;font-style:italic;opacity:.9}
 .xtabs{display:flex;gap:1.8rem;margin-top:2rem;border-bottom:1px solid rgba(128,128,128,.25);border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}
 .xtabs button{padding:.95rem 0;margin-bottom:-1px;border:0;border-bottom:1px solid transparent;background:none;color:var(--mut);font:inherit;font-size:.78rem;cursor:pointer;transition:color .25s ease,border-color .25s ease}
