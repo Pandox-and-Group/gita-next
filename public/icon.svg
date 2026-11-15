@@ -1,20 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <!-- गीता reader icon: a peacock feather (Krishna's emblem) over the word गीता, in the reader's own manner: warm
-       paper, a soft glow, ink and one accent, fine line work. Everything sits inside the central 80% circle, so the
-       same drawing works as a maskable icon. The PNGs are rendered from this file with the reader's own font
+       paper, a soft glow, ink and one accent. Everything sits inside the central 80% circle, so the same drawing
+       works as a maskable icon. The PNGs are rendered from this file with the reader's own font
        (scripts/render-icons.cjs; README, "Icon"). -->
   <defs><radialGradient id="glow" cx="62%" cy="74%" r="62%">
     <stop offset="0" stop-color="#de9646" stop-opacity=".42"/><stop offset=".5" stop-color="#de9646" stop-opacity=".12"/><stop offset="1" stop-color="#de9646" stop-opacity="0"/>
   </radialGradient></defs>
   <rect width="512" height="512" fill="#f4efe4"/>
   <rect width="512" height="512" fill="url(#glow)"/>
-  <g transform="translate(0 -10) rotate(12 256 220)" fill="none" stroke-linecap="round">
-    <path d="M256 130 L256 318 C258 336 254 350 246 366" stroke="#b06a2c" stroke-width="4.4"/>
-    <path d="M256 314.0 Q221.2 302.0 199.8 255.6 M256 314.0 Q290.8 302.0 312.2 255.6 M256 304.5 Q217.7 292.5 194.3 245.2 M256 304.5 Q294.3 292.5 317.7 245.2 M256 295.0 Q214.8 283.0 189.6 234.7 M256 295.0 Q297.2 283.0 322.4 234.7 M256 285.5 Q212.4 273.5 185.7 224.2 M256 285.5 Q299.6 273.5 326.3 224.2 M256 276.0 Q210.5 264.0 182.7 213.8 M256 276.0 Q301.5 264.0 329.3 213.8 M256 266.5 Q209.2 254.5 180.6 203.3 M256 266.5 Q302.8 254.5 331.4 203.3 M256 257.0 Q208.5 245.0 179.4 192.9 M256 257.0 Q303.5 245.0 332.6 192.9 M256 247.5 Q208.4 235.5 179.2 182.4 M256 247.5 Q303.6 235.5 332.8 182.4 M256 238.0 Q208.9 226.0 180.0 172.0 M256 238.0 Q303.1 226.0 332.0 172.0 M256 228.5 Q210.0 216.5 181.8 161.6 M256 228.5 Q302.0 216.5 330.2 161.6 M256 219.0 Q211.8 207.0 184.6 151.1 M256 219.0 Q300.2 207.0 327.4 151.1 M256 209.5 Q214.2 197.5 188.6 140.7 M256 209.5 Q297.8 197.5 323.4 140.7 M256 200.0 Q217.3 188.0 193.6 130.2 M256 200.0 Q294.7 188.0 318.4 130.2 M256 190.5 Q221.2 178.5 199.8 119.8 M256 190.5 Q290.8 178.5 312.2 119.8 M256 181.0 Q225.8 169.0 207.3 109.3 M256 181.0 Q286.2 169.0 304.7 109.3 M256 171.5 Q231.2 159.5 216.1 98.8 M256 171.5 Q280.8 159.5 295.9 98.8 M256 162.0 Q237.7 150.0 226.5 88.4 M256 162.0 Q274.3 150.0 285.5 88.4 M256 152.5 Q245.9 140.5 239.7 78.0 M256 152.5 Q266.1 140.5 272.3 78.0" stroke="#b06a2c" stroke-width="2.3" opacity=".7"/>
-    <ellipse cx="256" cy="206" rx="57" ry="77" fill="#f4efe4" stroke="#b06a2c" stroke-width="3.8"/>
-    <ellipse cx="256" cy="211" rx="43" ry="59" fill="#b06a2c" fill-opacity=".2" stroke="#b06a2c" stroke-width="2.2" stroke-opacity=".6"/>
-    <path d="M256 172 C282 172 293 196 288 218 C284 236 270 247 256 232 C242 247 228 236 224 218 C219 196 230 172 256 172Z" fill="#b06a2c"/>
-    <ellipse cx="256" cy="198" rx="9" ry="12" fill="#2a2723" fill-opacity=".55"/>
+  <g transform="translate(264 224) rotate(13) scale(.8) translate(-256 -240)" fill="none" stroke-linecap="round">
+    <path d="M256 224.4 Q235.7 210.8 230.6 79.5 M256 224.4 Q276.3 210.8 281.4 79.5 M256 228.8 Q225.6 215.5 218.0 83.7 M256 228.8 Q286.4 215.5 294.0 83.7 M256 237.7 Q208.2 225.0 196.3 95.4 M256 237.7 Q303.8 225.0 315.7 95.4 M256 242.1 Q200.8 229.8 187.0 102.7 M256 242.1 Q311.2 229.8 325.0 102.7 M256 250.9 Q188.4 239.3 171.5 119.5 M256 250.9 Q323.6 239.3 340.5 119.5 M256 255.3 Q183.5 244.1 165.4 128.7 M256 255.3 Q328.5 244.1 346.6 128.7 M256 264.1 Q176.4 253.6 156.5 148.1 M256 264.1 Q335.6 253.6 355.5 148.1 M256 268.6 Q174.1 258.3 153.7 158.1 M256 268.6 Q337.9 258.3 358.3 158.1 M256 277.4 Q172.1 267.9 151.1 178.0 M256 277.4 Q339.9 267.9 360.9 178.0 M256 281.8 Q172.3 272.6 151.4 187.7 M256 281.8 Q339.7 272.6 360.6 187.7 M256 290.6 Q174.9 282.1 154.7 206.2 M256 290.6 Q337.1 282.1 357.3 206.2 M256 295.0 Q177.3 286.9 157.6 214.9 M256 295.0 Q334.7 286.9 354.4 214.9 M256 303.9 Q183.7 296.4 165.6 230.6 M256 303.9 Q328.3 296.4 346.4 230.6 M256 308.3 Q187.7 301.2 170.6 237.5 M256 308.3 Q324.3 301.2 341.4 237.5 M256 317.1 Q196.8 310.7 182.0 249.3 M256 317.1 Q315.2 310.7 330.0 249.3 M256 321.5 Q201.9 315.4 188.3 254.0 M256 321.5 Q310.1 315.4 323.7 254.0 M256 330.3 Q212.6 325.0 201.7 261.3 M256 330.3 Q299.4 325.0 310.3 261.3 M256 334.8 Q218.1 329.7 208.6 263.8 M256 334.8 Q293.9 329.7 303.4 263.8 M256 343.6 Q229.1 339.2 222.3 266.5 M256 343.6 Q282.9 339.2 289.7 266.5 M256 348.0 Q234.4 344.0 229.0 266.8 M256 348.0 Q277.6 344.0 283.0 266.8" stroke="#b06a2c" stroke-width="2" opacity=".55"/>
+    <path d="M256 220.0 Q247.4 206.0 245.2 76.7 M256 220.0 Q264.6 206.0 266.8 76.7 M256 233.2 Q216.5 220.3 206.6 89.0 M256 233.2 Q295.5 220.3 305.4 89.0 M256 246.5 Q194.2 234.6 178.7 110.8 M256 246.5 Q317.8 234.6 333.3 110.8 M256 259.7 Q179.5 248.8 160.4 138.3 M256 259.7 Q332.5 248.8 351.6 138.3 M256 273.0 Q172.7 263.1 151.9 168.1 M256 273.0 Q339.3 263.1 360.1 168.1 M256 286.2 Q173.3 277.4 152.6 197.2 M256 286.2 Q338.7 277.4 359.4 197.2 M256 299.4 Q180.2 291.7 161.3 223.0 M256 299.4 Q331.8 291.7 350.7 223.0 M256 312.7 Q192.1 305.9 176.1 243.7 M256 312.7 Q319.9 305.9 335.9 243.7 M256 325.9 Q207.1 320.2 194.9 258.1 M256 325.9 Q304.9 320.2 317.1 258.1 M256 339.2 Q223.6 334.5 215.5 265.5 M256 339.2 Q288.4 334.5 296.5 265.5" stroke="#b06a2c" stroke-width="2.7" opacity=".85"/>
+    <path d="M256 250 L256 352 C257 366 254 378 247 390" stroke="#b06a2c" stroke-width="5.6"/>
+    <ellipse cx="256" cy="204" rx="55" ry="72" fill="#f4efe4" stroke="#b06a2c" stroke-width="3"/>
+    <ellipse cx="256" cy="207" rx="45" ry="60" fill="#e0b272"/>
+    <ellipse cx="256" cy="211" rx="34" ry="46" fill="#b06a2c"/>
+    <path d="M256 172 C282 172 293 196 288 218 C284 236 270 247 256 232 C242 247 228 236 224 218 C219 196 230 172 256 172Z" transform="translate(256 214) scale(.64) translate(-256 -208)" fill="#2a2723"/>
+    <ellipse cx="256" cy="205" rx="7" ry="9" fill="#e0b272" opacity=".9"/>
   </g>
-  <text x="256" y="438" text-anchor="middle" font-family="'Tiro Devanagari Sanskrit', 'Noto Serif Devanagari', serif" font-size="88" fill="#2a2723">गीता</text>
+  <text x="256" y="412" text-anchor="middle" font-family="'Tiro Devanagari Sanskrit', 'Noto Serif Devanagari', serif" font-size="92" fill="#2a2723">गीता</text>
+  <!-- the word's headline carried on to each side as a hairline, as on a title page -->
+  <g stroke="#b06a2c" stroke-width="2" stroke-linecap="round" fill="#b06a2c">
+    <path d="M122 353 H164 M348 353 H390"/><circle cx="116" cy="353" r="3.4" stroke="none"/><circle cx="396" cy="353" r="3.4" stroke="none"/>
+  </g>
 </svg>
