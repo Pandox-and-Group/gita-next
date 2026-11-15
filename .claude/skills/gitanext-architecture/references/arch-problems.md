@@ -4,6 +4,8 @@ Combined review 2026-07-09 at HEAD 77ee8db; top claims spot-checked by the orche
 against public/sw.js and lib/engine.js. Scores: severity(1-5) × effort(1-5). Sized to a
 small hobby PWA.
 
+**Status 2026-11-15:** ranks 1, 2 and 3 are fixed (network-first pages and a retried chapter download in commit a0be9cf; the page's own scripts stored at install and a one-time reload for missing script files in f6d0636). The rest stand as written.
+
 | Rank | Problem | Sev | Effort | Failure scenario | Evidence / verdict |
 |---|---|---|---|---|---|
 | 1 | **Static SW cache version + cache-first `/`** — deploys don't reach returning visitors | 4 | 2 | User visits Jan 1; ch2 updated Jan 2; user sees old verses AND old app shell indefinitely (`/` is precached and served cache-first) | sw.js:1,14–22 · UPGRADED from sev 3 on spot-check: `/` itself is cache-first, so even hashed Next assets don't save the shell |

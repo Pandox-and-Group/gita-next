@@ -8,6 +8,21 @@ description: Architecture map and ranked problems for gita-next (Bhagavad Gita P
 verified-as-of: 77ee8db 2026-07-09 · written-for: claude-fable-5 · validated-on: claude-fable-5
 Reviewer findings spot-checked by orchestrator (sw.js and engine.js read directly); no separate adversary agent (repo size didn't warrant one).
 
+## Status on 2026-11-15 (read this first; it overrides the July map below where they differ)
+
+- **Deploy:** no longer Netlify. Every push to `main` is built into a container image by CI and deployed to
+  gita.rpandox.com on the Pandox server. `STATIC_EXPORT=1` makes the build a static export served by nginx.
+  Runbook: `docs/DEPLOY.md`; server files: `deploy/`.
+- **Service worker:** pages are network-first, data and scripts cache-first; a failed chapter download is retried;
+  install also stores the page's own scripts. Problems 1 to 3 in `references/arch-problems.md` are fixed. A page that
+  outlives a deploy reloads itself once when a script file is gone (`app/layout.jsx`).
+- **Data:** chapters are no longer copied into localStorage. Every verse now carries hook, views, refs, a
+  word-by-word list with grammar, checked editions and notes (schema in `README.md`). The data is about 4 MB, so the
+  3 MB precache target below no longer holds. `scripts/check-data.mjs` gates the build.
+- **Reader:** the teaching overlay has two tabs; scrolling past its end opens the next verse; an install bar shows
+  from the second visit.
+- **Content audit:** what was verified against which sources, and what was not: `docs/AUDIT.md`.
+
 ## System map
 
 - `app/page.jsx` → `app/reader.jsx` (single client component, `booted` ref guard) → `lib/engine.js` (~650 LOC vanilla JS: palettes, windowed feed, expand overlay, index modal, keyboard nav, position tracking).

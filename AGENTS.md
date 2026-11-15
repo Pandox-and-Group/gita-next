@@ -7,3 +7,11 @@
 4. Persistence only via the engine's `store` wrapper.
 Subagents: paste .claude/skills/gitanext-project-lessons/references/delegation-digest.md verbatim into every delegation.
 <!-- distill:end -->
+
+## Since November 2026
+
+- A push to `main` deploys to https://gita.rpandox.com (CI builds the image, the server pulls it). Read
+  `docs/DEPLOY.md` before touching `deploy/`, `Dockerfile`, `nginx.conf` or the workflow.
+- The verse data was audited against outside sources; `docs/AUDIT.md` says what is verified and what is not. Do not
+  add an attribution ("Shankara says…", "the tradition holds…") without a source in hand.
+- The repository is public: no server addresses, keys or personal details in commits.
