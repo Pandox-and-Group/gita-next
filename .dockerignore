@@ -1,0 +1,13 @@
+.git
+.github
+.claude
+.next
+out
+node_modules
+docs
+README.md
+netlify.toml
+Dockerfile
+.dockerignore
+*.log
+.DS_Store

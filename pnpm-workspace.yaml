@@ -1,0 +1,4 @@
+# next lists sharp as an optional dependency for image resizing. The reader uses no next/image,
+# so its install script is skipped on purpose (pnpm otherwise stops the install to ask).
+allowBuilds:
+  sharp: false
