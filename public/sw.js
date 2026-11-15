@@ -7,7 +7,14 @@ const CORE = ['/', '/manifest.webmanifest', '/icon.svg',
   '/fonts/tiro-devanagari-sanskrit-latin-400-normal.woff2',
   '/fonts/tiro-devanagari-sanskrit-latin-ext-400-normal.woff2'];
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(V).then(async c => {
+    await c.addAll(CORE);
+    // also store the page's own scripts and styles, so the stored page never points at files that are not stored
+    const page = await c.match('/');
+    const html = page ? await page.text() : '';
+    const assets = [...new Set(html.match(/\/_next\/static\/[^"'\\ )<]+/g) || [])];
+    await Promise.all(assets.map(u => c.add(u).catch(() => {})));
+  }).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V).map(k => caches.delete(k)))).then(() => self.clients.claim()));
