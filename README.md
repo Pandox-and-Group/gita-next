@@ -60,6 +60,14 @@ whether to be reminded. Everything is worked out on the device and nothing is se
   app was open in the last three hours; unanswered reminders thin out (daily, every second day, every fourth) and
   stop after ten until the reader returns. The last twelve sent are listed on the plan page.
 
+## Icon
+
+A peacock feather over the word गीता. `public/icon.svg` is the drawing and `public/badge.svg` the one-colour shape
+Android shows beside a notification. The PNGs the app actually uses (`icon-48`, `icon-192`, `icon-512`,
+`apple-touch-icon`, `badge-96`) are rendered from them by `scripts/render-icons.cjs`, which loads the reader's own
+font so गीता looks the same on every device. The drawing stays inside the central 80% circle, so one image serves
+as the maskable icon too.
+
 ## Structure
 
 - `lib/engine.js` — the reader engine (palettes, abstract chapter forms,

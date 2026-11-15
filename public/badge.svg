@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Notification badge: Android shows only its shape, in one colour. -->
+  <g transform="translate(0 40) rotate(12 256 220)" fill="#fff">
+    <path d="M256 300 C258 340 250 380 232 424" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+    <path fill-rule="evenodd" d="M256 66 C306 78 338 132 334 196 C330 252 300 296 256 314 C212 296 182 252 178 196 C174 132 206 78 256 66Z M256 172 C282 172 293 196 288 218 C284 236 270 247 256 232 C242 247 228 236 224 218 C219 196 230 172 256 172Z"/>
+  </g>
+</svg>

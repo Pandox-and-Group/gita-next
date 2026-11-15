@@ -4,7 +4,7 @@ const V = 'gita-v6';
 // cache so a new version does not erase it.
 const STATE = 'gita-state';
 importScripts('/remind.js');
-const CORE = ['/', '/manifest.webmanifest', '/icon.svg', '/remind.js',
+const CORE = ['/', '/manifest.webmanifest', '/icon-192.png', '/remind.js',
   '/data/index.json',
   ...Array.from({length:18},(_,i)=>`/data/chapter-${String(i+1).padStart(2,'0')}.json`),
   '/fonts/tiro-devanagari-sanskrit-devanagari-400-normal.woff2',
@@ -51,7 +51,7 @@ async function remind(force) {
   const d = force ? { send: true, msg: self.GitaRemind.pick(s, now) } : self.GitaRemind.decide(s, now);
   if (!d.send || !d.msg) return;
   await self.registration.showNotification(d.msg.title, {
-    body: d.msg.body, icon: '/icon-192.png', badge: '/icon-192.png', tag: 'gita-reading', renotify: true, lang: 'en',
+    body: d.msg.body, icon: '/icon-192.png', badge: '/badge-96.png', tag: 'gita-reading', renotify: true, lang: 'en',
     data: { kind: d.msg.kind },
   });
   // Read again before writing: only `sent` is this worker's to change, and the page may have saved meanwhile.

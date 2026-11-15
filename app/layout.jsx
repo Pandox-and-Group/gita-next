@@ -4,7 +4,7 @@ export const metadata = {
   title: 'गीता — a sacred book you scroll through',
   description: 'The Bhagavad Gita, one shloka at a time.',
   manifest: '/manifest.webmanifest',
-  icons: { icon: [{ url: '/icon.svg', type: 'image/svg+xml' }, { url: '/icon-192.png', sizes: '192x192', type: 'image/png' }], apple: '/apple-touch-icon.png' },
+  icons: { icon: [{ url: '/icon-48.png', sizes: '48x48', type: 'image/png' }, { url: '/icon-192.png', sizes: '192x192', type: 'image/png' }], apple: '/apple-touch-icon.png' },
   appleWebApp: { capable: true, statusBarStyle: 'black-translucent', title: 'गीता' },
 };
 export const viewport = {
