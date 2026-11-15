@@ -2,7 +2,7 @@
 
 All 701 verses and the 18 chapter summaries were checked against outside sources, corrected, and extended.
 This file says what was compared with what, what changed, and what is still unverified.
-Full lists: [audit-issues.md](audit-issues.md) (every finding in the teachings), [audit-threads.md](audit-threads.md) (every thread that was rewritten) and [audit-verses.md](audit-verses.md) (sources per verse).
+Full lists: [audit-issues.md](audit-issues.md) (every finding in the teachings), [audit-threads.md](audit-threads.md) and [audit-reflections.md](audit-reflections.md) (every thread and reflection that was rewritten) and [audit-verses.md](audit-verses.md) (sources per verse).
 
 ## Sources
 
@@ -52,6 +52,7 @@ Commentaries and the holy-bhagavad-gita.org text are paraphrased in a sentence o
 
 - **Background, all 701 verses rewritten.** The background used to be a scene summary shared by a group of verses. Each verse now has its own: who is speaking, what was just said or doubted, and why this verse is spoken. Where Śrīdhara's opening line or Śaṅkara's lead-in gives that reason, it is used and he is named. This replaces the earlier, lighter check of the background field.
 - **Thread, all 701 verses checked** against the verse, its neighbours and every verse number cited: 497 passed, 204 were rewritten (wrong or overstated link, a summary instead of a link, a repeat of the background, or unexplained Sanskrit on the card). Before and after for each: [audit-threads.md](audit-threads.md).
+- **Take it inward, all 701 verses checked** against the verse: 578 passed, 123 were rewritten (reversed or stretched the verse, gave nothing to do, repeated a neighbour, promised a result, used unexplained Sanskrit, or could read as licence to harm). Before and after for each: [audit-reflections.md](audit-reflections.md). Reviewers judged against the translation and the essence line; borderline cases were left as they were.
 - **Limits of these passes.** The reviewers read the commentators' openings in excerpts of about 400 characters, mostly Śrīdhara's Sanskrit, and their readings were not compared with a published translation. Threads were checked only against the translations of the verses they cite.
 
 ## Sanskrit corrections
