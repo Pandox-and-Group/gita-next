@@ -15,34 +15,122 @@
   {
    "chapter": 16,
    "verse": 1,
-   "speaker": null,
-   "devanagari": "श्रीभगवानुवाच ।\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्॥",
+   "speaker": "श्रीभगवानुवाच",
+   "devanagari": "अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्॥",
    "transliteration": "abhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ\ndānaṃ damaśca yajñaśca svādhyāyastapa ārjavam",
    "essence": "The Blessed Lord says: fearlessness, purity of being, steadfastness in knowledge and yoga, charity, restraint, sacrifice, study, austerity, uprightness —",
    "translation": "Fearlessness, purity of heart, steadfastness in knowledge and Yoga, almsgiving, control of the senses, sacrifice, study of scriptures, austerity and straightforwardness.",
    "anvaya": [
     {
-     "word": "अभयं सत्त्वसंशुद्धिः",
-     "meaning": "fearlessness, purity of being"
+     "word": "अभयम्",
+     "meaning": "fearlessness",
+     "base": "अभय · fearlessness",
+     "form": "noun, neuter, nominative singular (subject)",
+     "parts": "अ (not) + भय (fear): absence of fear",
+     "iast": "abhayam"
+    },
+    {
+     "word": "सत्त्वसंशुद्धिः",
+     "meaning": "purity of mind",
+     "base": "सत्त्वसंशुद्धि · thorough purity of mind",
+     "form": "noun, feminine, nominative singular (subject)",
+     "parts": "सत्त्व (mind, inner being) + संशुद्धि (thorough cleansing): purity of the inner being",
+     "iast": "sattvasaṃśuddhiḥ"
     },
     {
      "word": "ज्ञानयोगव्यवस्थितिः",
-     "meaning": "steadfastness in knowledge and yoga"
+     "meaning": "steadfastness in knowledge and yoga",
+     "base": "ज्ञानयोगव्यवस्थिति · steadiness in knowledge and yoga",
+     "form": "noun, feminine, nominative singular (subject)",
+     "parts": "ज्ञान (knowledge) + योग (yoga, concentration) + व्यवस्थिति (steadfastness): steadfastness in knowledge and in yoga",
+     "iast": "jñānayogavyavasthitiḥ"
     },
     {
-     "word": "दानं दमः च यज्ञः च",
-     "meaning": "charity, and restraint, and sacrifice"
+     "word": "दानम्",
+     "meaning": "charity, giving",
+     "base": "दान · gift, giving",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "dānam"
     },
     {
-     "word": "स्वाध्यायः तपः आर्जवम्",
-     "meaning": "study, austerity, straightforwardness"
+     "word": "दमः",
+     "meaning": "control of the senses",
+     "base": "दम · restraint, self-control",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "damaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "यज्ञः",
+     "meaning": "sacrifice, worship",
+     "base": "यज्ञ · sacrifice, worship",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "yajñaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "स्वाध्यायः",
+     "meaning": "study of scripture",
+     "base": "स्वाध्याय · recitation, study of scripture",
+     "form": "noun, masculine, nominative singular (subject)",
+     "parts": "स्व (one's own) + अध्याय (study, recitation): one's own study of the Veda",
+     "iast": "svādhyāyaḥ"
+    },
+    {
+     "word": "तपः",
+     "meaning": "austerity",
+     "base": "तपस् · heat, austerity",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "tapaḥ"
+    },
+    {
+     "word": "आर्जवम्",
+     "meaning": "straightforwardness",
+     "base": "आर्जव · uprightness (from ऋजु, straight)",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "ārjavam"
     }
    ],
-   "explanation": "The inventory of the divine endowment begins, and its first word is the foundation of all the rest: abhayam, fearlessness. Not bravado — the deep unafraidness of one who has nothing to protect because nothing essential can be lost. From that root grow purity, steadiness, generosity, discipline: the whole list is what a heart does when fear stops governing it. Abhayam sattva-samshuddhih — the divine inventory opens with fearlessness, and the commentaries insist on the order: every subsequent virtue is what a heart does once fear stops governing it. Jnaneshwar glosses abhaya as the absence of the primal flinch — the settled knowledge that nothing essential can be taken. Twenty-six qualities follow; the tradition reads them as one quality, fearlessness, conjugated through a life.",
+   "explanation": "The inventory of the divine endowment begins, and its first word is abhayam, fearlessness. Not bravado — the deep unafraidness of one who has nothing to protect because nothing essential can be lost. Beside it stand sattva-saṃśuddhiḥ, purity of mind, which Śaṅkara glosses as honesty in all dealings, and steadiness in knowledge and yoga: learning the truth from scripture and teacher, then making it one's own experience. Śaṅkara calls these three the principal sattvic marks. From that root grow generosity, restraint, sacrifice, study, austerity and uprightness — the list reads like what a heart does once fear stops governing it.",
    "connection": "Opens the chapter's ledger of two natures — the daivi sampad listed first (16.1–3).",
-   "schools_note": null,
    "reflection": "Begin at the list's beginning today: practice one hour of abhayam — acting with nothing to protect.",
-   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine."
+   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine.",
+   "checked": "GV",
+   "hook": "What qualities open the list of a godly nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Purity of mind means honesty: no fraud, trickery or falsehood in dealings. Jñāna is knowledge learnt from scripture and teacher; yoga makes it one's own experience through concentration. These first three are the chief sattvic marks."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Fear is the pain of foreseeing loss of what one wants or contact with what one dreads; fearlessness is its absence. Sacrifice and Vedic study are done as worship of the Lord, the Vedas being read as all about Him."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The chapter opens to sort who is fit for the knowledge just taught: the divine endowment is the qualification of the one entitled to it, the demonic marks the one who is not."
+    },
+    {
+     "lens": "practice",
+     "text": "Developing sattva is the first rung of the spiritual ladder and the foundation of yoga; the divine qualities must be cultivated and the demonic abandoned."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "These virtues of a saintly nature are to be cultivated as spiritual practice; fearlessness, for example, comes from detachment and surrender to God, and purity of mind from attachment to him."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -54,27 +142,119 @@
    "translation": "Harmlessness, truth, absence of anger, renunciation, peacefulness, absence of crookedness, compassion towards beings, non-covetousness, gentleness, modesty, absence of fickleness.",
    "anvaya": [
     {
-     "word": "अहिंसा सत्यम् अक्रोधः",
-     "meaning": "non-injury, truth, non-anger"
+     "word": "अहिंसा",
+     "meaning": "non-injury",
+     "base": "अहिंसा · non-harming",
+     "form": "noun, feminine, nominative singular (subject)",
+     "parts": "अ (not) + हिंसा (harming): not harming",
+     "iast": "ahiṃsā"
     },
     {
-     "word": "त्यागः शान्तिः अपैशुनम्",
-     "meaning": "renunciation, peace, non-slander"
+     "word": "सत्यम्",
+     "meaning": "truthfulness",
+     "base": "सत्य · truth",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "satyam"
     },
     {
-     "word": "दया भूतेषु अलोलुप्त्वं",
-     "meaning": "compassion toward beings, non-covetousness"
+     "word": "अक्रोधः",
+     "meaning": "freedom from anger",
+     "base": "अक्रोध · absence of anger",
+     "form": "noun, masculine, nominative singular (subject)",
+     "parts": "अ (not) + क्रोध (anger)",
+     "iast": "akrodhaḥ"
     },
     {
-     "word": "मार्दवं ह्रीः अचापलम्",
-     "meaning": "gentleness, modesty, non-fickleness"
+     "word": "त्यागः",
+     "meaning": "renunciation",
+     "base": "त्याग · giving up, renunciation",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "tyāgaḥ"
+    },
+    {
+     "word": "शान्तिः",
+     "meaning": "tranquillity",
+     "base": "शान्ति · peace, calm",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "śāntiḥ"
+    },
+    {
+     "word": "अपैशुनम्",
+     "meaning": "not slandering others",
+     "base": "अपैशुन · absence of backbiting",
+     "form": "noun, neuter, nominative singular (subject)",
+     "parts": "अ (not) + पैशुन (slander, backbiting)",
+     "iast": "apaiśunam"
+    },
+    {
+     "word": "दया",
+     "meaning": "compassion",
+     "base": "दया · compassion, kindness",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "dayā"
+    },
+    {
+     "word": "भूतेषु",
+     "meaning": "toward living beings",
+     "base": "भूत · being, creature",
+     "form": "noun, neuter, locative plural (toward, among)",
+     "iast": "bhūteṣu"
+    },
+    {
+     "word": "अलोलुप्त्वम्",
+     "meaning": "freedom from greed",
+     "base": "अलोलुप्त्व · non-covetousness",
+     "form": "noun, neuter, nominative singular (subject)",
+     "parts": "अ (not) + लोलुप्त्व (greediness); an archaic shortened form of अलोलुपत्व",
+     "iast": "aloluptvam"
+    },
+    {
+     "word": "मार्दवम्",
+     "meaning": "gentleness",
+     "base": "मार्दव · softness (from मृदु, soft)",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "mārdavam"
+    },
+    {
+     "word": "ह्रीः",
+     "meaning": "modesty, sense of shame",
+     "base": "ह्री · modesty, shame",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "hrīḥ"
+    },
+    {
+     "word": "अचापलम्",
+     "meaning": "absence of fickleness",
+     "base": "अचापल · steadiness",
+     "form": "noun, neuter, nominative singular (subject)",
+     "parts": "अ (not) + चापल (restlessness, fickleness)",
+     "iast": "acāpalam"
     }
    ],
    "explanation": "The list's middle section reads like a description of how it feels to be near such a person: no cutting words behind backs (apaiśunam), tenderness toward creatures (dayā bhūteṣu), mārdavam — softness — and hrī, the capacity to blush, conscience worn on the skin. The divine endowment is mostly composed of harms not done and gentleness actively present.",
    "connection": "The daivi inventory continues — virtues of relation, the social face of fearlessness.",
-   "schools_note": null,
    "reflection": "Choose three from the middle of the list today: no slander, tenderness to creatures, the capacity to blush.",
-   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine."
+   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine.",
+   "checked": "SGV",
+   "hook": "What further virtues belong to one born with a divine nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Tyāga here is renunciation in the sense of monastic giving-up, since charity was already listed; śānti is control of the mind; acāpalam is not using speech, hands and feet needlessly."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Truth is speaking what one knows for certain and what is good for others; compassion is being unable to bear another's suffering."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Takes tyāga as generosity and akrodha as no agitation of mind even when struck; notes that aloluptvam is an archaic form with a vowel dropped."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Non-violence, truthfulness and freedom from anger continue the list of saintly qualities; each, like truthfulness drawing us toward God, the Absolute Truth, helps carry the aspirant to the goal."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -86,27 +266,116 @@
    "translation": "Vigour, forgiveness, fortitude, purity, absence of hatred, absence of pride these belong to the one born for a divine state, O Arjuna.",
    "anvaya": [
     {
-     "word": "तेजः क्षमा धृतिः शौचम्",
-     "meaning": "vigor, forgiveness, fortitude, purity"
+     "word": "तेजः",
+     "meaning": "vigour",
+     "base": "तेजस् · fire, radiance, vigour",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "tejaḥ"
     },
     {
-     "word": "अद्रोहः नातिमानिता",
-     "meaning": "absence of malice, absence of excessive pride"
+     "word": "क्षमा",
+     "meaning": "forgiveness",
+     "base": "क्षमा · patience, forgiveness",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "kṣamā"
     },
     {
-     "word": "भवन्ति सम्पदं दैवीम्",
-     "meaning": "these belong to the endowment divine"
+     "word": "धृतिः",
+     "meaning": "fortitude",
+     "base": "धृति · firmness, fortitude",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "dhṛtiḥ"
     },
     {
-     "word": "अभिजातस्य भारत",
-     "meaning": "of one born to it, O Bharata"
+     "word": "शौचम्",
+     "meaning": "purity",
+     "base": "शौच · cleanness (from शुचि, pure)",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "śaucam"
+    },
+    {
+     "word": "अद्रोहः",
+     "meaning": "freedom from malice",
+     "base": "अद्रोह · absence of malice",
+     "form": "noun, masculine, nominative singular (subject)",
+     "parts": "अ (not) + द्रोह (malice, injury)",
+     "iast": "adrohaḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "अतिमानिता",
+     "meaning": "excessive pride",
+     "base": "अतिमानिता · haughtiness",
+     "form": "noun, feminine, nominative singular (subject)",
+     "parts": "अति (excessive) + मानिता (self-esteem): thinking oneself too worthy of honour",
+     "iast": "atimānitā"
+    },
+    {
+     "word": "भवन्ति",
+     "meaning": "are, belong",
+     "base": "√भू · to be, become",
+     "form": "verb, present, 3rd person plural",
+     "iast": "bhavanti"
+    },
+    {
+     "word": "सम्पदम्",
+     "meaning": "endowment",
+     "base": "सम्पद् · wealth, endowment",
+     "form": "noun, feminine, accusative singular (toward)",
+     "iast": "sampadam"
+    },
+    {
+     "word": "दैवीम्",
+     "meaning": "divine",
+     "base": "दैव · divine",
+     "form": "adjective, feminine, accusative singular (agrees with सम्पदम्)",
+     "iast": "daivīm"
+    },
+    {
+     "word": "अभिजातस्य",
+     "meaning": "of one born to",
+     "base": "अभि + √जन् · to be born toward",
+     "form": "past participle, masculine, genitive singular (of one)",
+     "iast": "abhijātasya"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bhārata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
     }
    ],
-   "explanation": "Twenty-six qualities close with a balanced pair: tejas, fire — the divine nature is not meek — held beside kṣamā, the forgiveness that keeps fire from becoming cruelty. Abhijātasya, 'of one born to it': temperament deals the opening hand. But the Gita's whole arc insists the hand can be replayed — these are listed precisely so they can be cultivated.",
+   "explanation": "The list's final verse opens with a balanced pair: tejas, fire — the divine nature is not meek — held beside kṣamā, the forgiveness that keeps fire from becoming cruelty. Abhijātasya, 'of one born to it': temperament deals the opening hand. But the Gita's whole arc insists the hand can be replayed — these are listed precisely so they can be cultivated.",
    "connection": "Completes the divine portrait; 16.4 will need only one verse for its opposite.",
-   "schools_note": null,
    "reflection": "Hold fire and forgiveness together once today — tejas with kshama, strength that refuses cruelty.",
-   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine."
+   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine.",
+   "checked": "SGV",
+   "hook": "Which last qualities complete the portrait of a divine nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Tejas is vigour, not a glowing complexion. Kṣamā is no inner disturbance when wronged, distinct from akrodha, the calming of anger once roused. 'Born to the divine' means destined for a noble future."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Tejas is the strength that cannot be overpowered by the wicked. The divine destiny is obedience to the Lord's commands, found in those born with a leaning toward it who seek to fulfil it."
+    },
+    {
+     "lens": "practice",
+     "text": "Dhṛti is a sattvic state that lifts body and senses when they sink in exhaustion, so the seeker never loses heart under trial."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The list of twenty-six divine qualities closes with vigour, forgiveness, fortitude and humility, all of which the aspirant should consciously cultivate."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -118,27 +387,129 @@
    "translation": "Hypocrisy, arrogance and self-conceit, anger and also harshness and ignorance, belong to one who is born for a demoniacal state, O Partha (Arjuna).",
    "anvaya": [
     {
-     "word": "दम्भः दर्पः अभिमानः च",
-     "meaning": "hypocrisy, arrogance, and conceit"
+     "word": "दम्भः",
+     "meaning": "hypocrisy, religious show",
+     "base": "दम्भ · deceit, ostentation",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "dambhaḥ"
     },
     {
-     "word": "क्रोधः पारुष्यम् एव च",
-     "meaning": "anger, and harshness"
+     "word": "दर्पः",
+     "meaning": "arrogance",
+     "base": "दर्प · pride, insolence",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "darpaḥ"
     },
     {
-     "word": "अज्ञानं च अभिजातस्य",
-     "meaning": "and ignorance — of one born"
+     "word": "अभिमानः",
+     "meaning": "conceit",
+     "base": "अभिमान · self-conceit",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "abhimānaḥ"
     },
     {
-     "word": "पार्थ सम्पदम् आसुरीम्",
-     "meaning": "O Partha, to the endowment demonic"
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "क्रोधः",
+     "meaning": "anger",
+     "base": "क्रोध · anger",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "krodhaḥ"
+    },
+    {
+     "word": "पारुष्यम्",
+     "meaning": "harshness",
+     "base": "पारुष्य · harshness (from परुष, rough)",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "pāruṣyam"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "indeed, also",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अज्ञानम्",
+     "meaning": "ignorance",
+     "base": "अज्ञान · ignorance",
+     "form": "noun, neuter, nominative singular (subject)",
+     "parts": "अ (not) + ज्ञान (knowledge)",
+     "iast": "ajñānam"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अभिजातस्य",
+     "meaning": "of one born to",
+     "base": "अभि + √जन् · to be born toward",
+     "form": "past participle, masculine, genitive singular (of one)",
+     "iast": "abhijātasya"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O Pārtha",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "सम्पदम्",
+     "meaning": "endowment",
+     "base": "सम्पद् · wealth, endowment",
+     "form": "noun, feminine, accusative singular (toward)",
+     "iast": "sampadam"
+    },
+    {
+     "word": "आसुरीम्",
+     "meaning": "demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, feminine, accusative singular (agrees with सम्पदम्)",
+     "iast": "āsurīm"
     }
    ],
-   "explanation": "Against twenty-six virtues, six vices — the asymmetry is the comment: darkness is structurally simpler than light. The six chain naturally: dambha, the performance of virtue not possessed; darpa and abhimāna, the swollen self; krodha when the world disagrees; pāruṣya, the voice gone hard; and beneath all five, ajñāna — not knowing what one is. Note what is absent: no mention of horns or hells. The demonic is a psychology, available anywhere.",
+   "explanation": "Against twenty-six virtues, six vices — the asymmetry is the comment: darkness is structurally simpler than light. The six chain naturally: dambha, the performance of virtue not possessed; darpa and abhimāna, the swollen self; krodha when the world disagrees; pāruṣya, the voice gone hard; and beneath all five, ajñāna — not knowing what should and should not be done. Note what is absent: no mention of horns or hells. The demonic is a psychology, available anywhere.",
    "connection": "The counter-ledger, brutally brief — and 16.5 immediately reassures the listener.",
-   "schools_note": null,
    "reflection": "Run the six-point check honestly: where does performance, swagger, or hardness of voice live in me?",
-   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine."
+   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine.",
+   "checked": "SV",
+   "hook": "What traits mark a person of demonic nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Dambha is religious ostentation. Pāruṣya is cutting speech, such as mockingly calling a blind man 'lotus-eyed'. Ajñāna is a false idea of what ought and ought not to be done."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Dambha is practising dharma to win a name for righteousness; rudeness is causing grief to good people. Asuras are those who rebel against the Lord's commands."
+    },
+    {
+     "lens": "bhakti",
+     "text": "'Demonic' stands for both the asura and the rākṣasa natures together; these six arise in one born toward that endowment."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The demonic show outward piety without inner substance, are proud of wealth and position, angry when desires are blocked, harsh to others, and mistake wrong for right."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -150,27 +521,125 @@
    "translation": "The divine nature is deemed conducive to liberation, and the demoniacal to bondage. Grieve not, O Arjuna, thou art born with divine endowments.",
    "anvaya": [
     {
-     "word": "दैवी सम्पत् विमोक्षाय",
-     "meaning": "the divine endowment is for liberation"
+     "word": "दैवी",
+     "meaning": "divine",
+     "base": "दैव · divine",
+     "form": "adjective, feminine, nominative singular (agrees with सम्पत्)",
+     "iast": "daivī"
     },
     {
-     "word": "निबन्धाय आसुरी मता",
-     "meaning": "the demonic, for bondage — so it is held"
+     "word": "सम्पत्",
+     "meaning": "endowment",
+     "base": "सम्पद् · wealth, endowment",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "sampat"
     },
     {
-     "word": "मा शुचः सम्पदं दैवीम्",
-     "meaning": "grieve not — to the endowment divine"
+     "word": "विमोक्षाय",
+     "meaning": "for liberation",
+     "base": "विमोक्ष · release, liberation",
+     "form": "noun, masculine, dative singular (for)",
+     "iast": "vimokṣāya"
     },
     {
-     "word": "अभिजातः असि पाण्डव",
-     "meaning": "you are born, O Pandava"
+     "word": "निबन्धाय",
+     "meaning": "for bondage",
+     "base": "निबन्ध · binding, bondage",
+     "form": "noun, masculine, dative singular (for)",
+     "iast": "nibandhāya"
+    },
+    {
+     "word": "आसुरी",
+     "meaning": "the demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, feminine, nominative singular",
+     "iast": "āsurī"
+    },
+    {
+     "word": "मता",
+     "meaning": "is considered",
+     "base": "√मन् · to think",
+     "form": "past participle, feminine, nominative singular (is held)",
+     "iast": "matā"
+    },
+    {
+     "word": "मा",
+     "meaning": "do not",
+     "base": "do not (prohibition)",
+     "form": "indeclinable",
+     "iast": "mā"
+    },
+    {
+     "word": "शुचः",
+     "meaning": "grieve",
+     "base": "√शुच् · to grieve",
+     "form": "verb, aorist used with मा, 2nd person singular (a prohibition)",
+     "iast": "śucaḥ"
+    },
+    {
+     "word": "सम्पदम्",
+     "meaning": "endowment",
+     "base": "सम्पद् · wealth, endowment",
+     "form": "noun, feminine, accusative singular (toward)",
+     "iast": "sampadam"
+    },
+    {
+     "word": "दैवीम्",
+     "meaning": "divine",
+     "base": "दैव · divine",
+     "form": "adjective, feminine, accusative singular",
+     "iast": "daivīm"
+    },
+    {
+     "word": "अभिजातः",
+     "meaning": "born to",
+     "base": "अभि + √जन् · to be born toward",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "abhijātaḥ"
+    },
+    {
+     "word": "असि",
+     "meaning": "you are",
+     "base": "√अस् · to be",
+     "form": "verb, present, 2nd person singular",
+     "iast": "asi"
+    },
+    {
+     "word": "पाण्डव",
+     "meaning": "O son of Pāṇḍu",
+     "base": "पाण्डव · son of Pāṇḍu",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pāṇḍava"
     }
    ],
    "explanation": "The stakes named — freedom or bondage — and then the teaching pauses for tenderness: mā śucaḥ, do not grieve. Krishna has watched Arjuna silently auditing himself against both lists, and answers the unspoken dread directly: *you are of the divine*. A teacher who diagnoses the demonic in the world while reassuring the anxious student in front of him — the chapter's severity is framed, start to finish, by this kindness.",
    "connection": "The pastoral hinge: Arjuna cleared by name before the dark portrait deepens.",
-   "schools_note": null,
    "reflection": "Hear the reassurance addressed to you as well: grieve not — the divine endowment is your birth side.",
-   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine."
+   "background": "Without a question asked, Krishna inventories two inheritances contending in every heart. First the divine endowment, twenty-six qualities beginning with fearlessness and purity of being — charity, restraint, sacrifice, study, austerity, uprightness, harmlessness, truth, freedom from anger, tranquility, compassion toward beings — born for liberation. Then the demonic: ostentation, arrogance, conceit, anger, harshness, ignorance. Grieve not, he adds — you are born to the divine.",
+   "checked": "SGV",
+   "hook": "Where do the divine and demonic natures each lead?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The Lord sees Arjuna silently asking 'Am I of the divine or the demonic nature?' and answers before he speaks: you are born to an illustrious future."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The divine is submission to the Lord's commands and leads to reaching Him. Arjuna is divine because he is Pāṇḍu's son, Pāṇḍu being foremost among the righteous."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The list prepares for 18.63, 'reflect fully, then act': scripture and teacher give knowledge, but the power to examine critically belongs to the pupil, and Kṛṣṇa sees it in Arjuna."
+    },
+    {
+     "lens": "bhakti",
+     "text": "One with the divine endowment is qualified for the knowledge of truth just taught; the demonic remains forever in saṃsāra. Arjuna's anxious doubt about his own fitness is what Kṛṣṇa calms."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Demonic traits keep one bound to rebirth while divine virtues free one; even a single fault can wreck spiritual progress, so alongside devotion we must work on our character, perhaps with a diary."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -182,27 +651,136 @@
    "translation": "There are two types of beings in this world, the divine and the demoniacal; the divine has been described at length; hear from Me, O Arjuna, of the demoniacal.",
    "anvaya": [
     {
-     "word": "द्वौ भूतसर्गौ लोके अस्मिन्",
-     "meaning": "two creations of beings in this world"
+     "word": "द्वौ",
+     "meaning": "two",
+     "base": "द्वि · two",
+     "form": "numeral, masculine, nominative dual",
+     "iast": "dvau"
     },
     {
-     "word": "दैवः आसुरः एव च",
-     "meaning": "the divine, and the demonic"
+     "word": "भूतसर्गौ",
+     "meaning": "creations of beings",
+     "base": "भूतसर्ग · creation of beings",
+     "form": "noun, masculine, nominative dual (subject)",
+     "parts": "भूत (beings) + सर्ग (creation): kinds of created beings",
+     "iast": "bhūtasargau"
     },
     {
-     "word": "दैवः विस्तरशः प्रोक्तः",
-     "meaning": "the divine has been told at length"
+     "word": "लोके",
+     "meaning": "in the world",
+     "base": "लोक · world",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "loke"
     },
     {
-     "word": "आसुरं पार्थ मे शृणु",
-     "meaning": "the demonic, O Partha, hear from me"
+     "word": "अस्मिन्",
+     "meaning": "in this",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, locative singular (in this)",
+     "iast": "asmin"
+    },
+    {
+     "word": "दैवः",
+     "meaning": "the divine",
+     "base": "दैव · divine",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "daivaḥ"
+    },
+    {
+     "word": "आसुरः",
+     "meaning": "the demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "āsuraḥ"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "दैवः",
+     "meaning": "the divine",
+     "base": "दैव · divine",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "daivaḥ"
+    },
+    {
+     "word": "विस्तरशः",
+     "meaning": "at length",
+     "base": "in detail, at length",
+     "form": "indeclinable",
+     "iast": "vistaraśaḥ"
+    },
+    {
+     "word": "प्रोक्तः",
+     "meaning": "has been described",
+     "base": "प्र + √वच् · to declare",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "proktaḥ"
+    },
+    {
+     "word": "आसुरम्",
+     "meaning": "the demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, masculine, accusative singular (object)",
+     "iast": "āsuram"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O Pārtha",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "मे",
+     "meaning": "from me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, short genitive singular (here: from me)",
+     "iast": "me"
+    },
+    {
+     "word": "शृणु",
+     "meaning": "hear",
+     "base": "√श्रु · to hear",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "śṛṇu"
     }
    ],
-   "explanation": "The transition, with its quiet arithmetic: the divine took three verses and sixteen chapters of teaching; the demonic will now receive a full anatomy — because what must be guarded against must be understood. What follows (16.7–20) is scripture's most unflinching psychological portrait: not of monsters, but of a worldview, drawn from the inside.",
+   "explanation": "The transition, with its quiet arithmetic: the divine took three verses and fifteen chapters of teaching; the demonic will now receive a full anatomy — because what must be guarded against must be understood. What follows (16.7–20) is scripture's most unflinching psychological portrait: not of monsters, but of a worldview, drawn from the inside.",
    "connection": "Announces the long descent: the asuric mind examined from its premises to its end.",
-   "schools_note": null,
    "reflection": "Study the dark portrait today as a mirror-check, not a verdict on others.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "GV",
+   "hook": "How many kinds of beings are there in this world, by nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The 'two creations' are people themselves, born with divine or demonic natures, as in the Upaniṣad's two classes of Prajāpati's sons. The demonic is detailed so it may be seen and avoided."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Beings are divided at birth by the force of past karma into those who carry out the Lord's commands and those who defy them; the divine conduct of karma, jñāna and bhakti yoga has already been taught."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Says 'two' by counting the asura and rākṣasa natures as one, so this does not contradict the three natures of chapter 9."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Natures are carried from past lives; humans hold both divine and demonic traits, and in this age both live in the same heart, so Krishna describes the lower nature to help us avoid it."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -214,27 +792,156 @@
    "translation": "The demoniacal know not what to do and what to refrain from; neither purity, nor right conduct nor truth is found in them.",
    "anvaya": [
     {
-     "word": "प्रवृत्तिं च निवृत्तिं च",
-     "meaning": "engagement and restraint"
+     "word": "प्रवृत्तिम्",
+     "meaning": "right action, what to do",
+     "base": "प्रवृत्ति · engaging, activity",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "pravṛttim"
     },
     {
-     "word": "जनाः न विदुः आसुराः",
-     "meaning": "the asuric people know not"
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "न शौचं न अपि च आचारः",
-     "meaning": "neither purity, nor even conduct"
+     "word": "निवृत्तिम्",
+     "meaning": "refraining, what to avoid",
+     "base": "निवृत्ति · turning back, abstaining",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "nivṛttim"
     },
     {
-     "word": "न सत्यं तेषु विद्यते",
-     "meaning": "nor truth is found in them"
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "जनाः",
+     "meaning": "people",
+     "base": "जन · person",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "janāḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "विदुः",
+     "meaning": "know",
+     "base": "√विद् · to know",
+     "form": "verb, perfect with present sense, 3rd person plural",
+     "iast": "viduḥ"
+    },
+    {
+     "word": "आसुराः",
+     "meaning": "demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, masculine, nominative plural",
+     "iast": "āsurāḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "शौचम्",
+     "meaning": "purity",
+     "base": "शौच · cleanness, purity",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "śaucam"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "अपि",
+     "meaning": "even",
+     "base": "also, even",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "आचारः",
+     "meaning": "good conduct",
+     "base": "आचार · conduct, custom",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "ācāraḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "सत्यम्",
+     "meaning": "truth",
+     "base": "सत्य · truth",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "satyam"
+    },
+    {
+     "word": "तेषु",
+     "meaning": "in them",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, locative plural (in them)",
+     "iast": "teṣu"
+    },
+    {
+     "word": "विद्यते",
+     "meaning": "is found",
+     "base": "√विद् · to exist, be found",
+     "form": "verb, present, middle, 3rd person singular",
+     "iast": "vidyate"
     }
    ],
    "explanation": "The diagnosis begins at the compass: pravṛtti and nivṛtti — when to act, when to refrain — the basic moral directionality every tradition teaches, simply missing. Not defied; *unknown*. And the third absence is the deepest: na satyam — truth not present in them, first as honesty, finally as any felt contact with the real. The portrait will now show what a life builds on that vacancy.",
    "connection": "The asuric anatomy opens at its root: no inner north, no anchoring truth.",
-   "schools_note": null,
    "reflection": "Verify your compass first thing today: do I actually know, right now, when to act and when to refrain?",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "What do people of demonic nature fail to understand?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Pravṛtti is what should be done as a means to human ends; nivṛtti is the evil one should turn from. Lacking both, the demonic are deceitful and given to lies."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "They do not know Vedic dharma, the path to prosperity and to release. Purity is fitness for rites, and conduct means practices like twilight prayer, without which one stays unholy."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Takes pravṛtti and nivṛtti cosmically: the demonic know neither where the universe arises from nor into what it dissolves."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Lacking faith in scripture, the demonic cannot tell right from wrong; modern relativism that denies absolute truth shows how this leads to ethical chaos."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -246,27 +953,109 @@
    "translation": "They say, \"This universe is without truth, without (moral) basis, without a God, brought about by mutual union, with lust for its cause; what else?\"",
    "anvaya": [
     {
-     "word": "असत्यम् अप्रतिष्ठं ते",
-     "meaning": "'without truth, without basis' — they"
+     "word": "असत्यम्",
+     "meaning": "without truth",
+     "base": "असत्य · untrue, unreal",
+     "form": "adjective, neuter, accusative singular (describes the world)",
+     "parts": "अ (not) + सत्य (truth)",
+     "iast": "asatyam"
     },
     {
-     "word": "जगत् आहुः अनीश्वरम्",
-     "meaning": "say the world is, 'without a Lord'"
+     "word": "अप्रतिष्ठम्",
+     "meaning": "without foundation",
+     "base": "अप्रतिष्ठ · baseless",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "अ (without) + प्रतिष्ठा (foundation): having no foundation",
+     "iast": "apratiṣṭham"
     },
     {
-     "word": "अपरस्परसम्भूतं",
-     "meaning": "arisen from mutual union"
+     "word": "ते",
+     "meaning": "they",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "te"
     },
     {
-     "word": "किम् अन्यत् कामहैतुकम्",
-     "meaning": "caused by desire — what else?"
+     "word": "जगत्",
+     "meaning": "the world",
+     "base": "जगत् · world, what moves",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "jagat"
+    },
+    {
+     "word": "आहुः",
+     "meaning": "say",
+     "base": "√अह् · to say",
+     "form": "verb, perfect with present sense, 3rd person plural",
+     "iast": "āhuḥ"
+    },
+    {
+     "word": "अनीश्वरम्",
+     "meaning": "without a Lord",
+     "base": "अनीश्वर · godless",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "अन् (without) + ईश्वर (Lord, ruler)",
+     "iast": "anīśvaram"
+    },
+    {
+     "word": "अपरस्परसम्भूतम्",
+     "meaning": "born of mutual union",
+     "base": "अपरस्परसम्भूत · born one from another",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "अपर (one) + पर (other) + सम्भूत (born): arisen from the union of male and female",
+     "iast": "aparasparasambhūtam"
+    },
+    {
+     "word": "किम्",
+     "meaning": "what",
+     "base": "किम् · what",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "kim"
+    },
+    {
+     "word": "अन्यत्",
+     "meaning": "else",
+     "base": "अन्य · other",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "anyat"
+    },
+    {
+     "word": "कामहैतुकम्",
+     "meaning": "caused by desire",
+     "base": "कामहैतुक · having desire as cause",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "काम (desire, lust) + हैतुक (having as cause): with lust as its cause",
+     "iast": "kāmahaitukam"
     }
    ],
    "explanation": "The asuric creed, stated fairly before it is judged: no truth beneath appearances, no moral foundation, no Lord; the cosmos a chain of couplings driven by appetite — kim anyat, *what else could there be?* The shrug at the end is the signature. The Gita's objection is not to inquiry but to where this premise leads when lived: the next verses trace a worldview becoming a wake of destruction.",
    "connection": "The philosophical seed (16.8) whose human harvest 16.9–20 will follow step by step.",
-   "schools_note": "The asuric creed — 'without truth, without basis, without God, born of desire' — was identified by classical commentators with the Lokayata (Charvaka) materialists, and by some with hedonist readings of any school. Modern readers note the Gita refutes it not by argument here but by biography: 16.9-20 simply runs the worldview forward to its lived conclusion. The method is the message: test premises by the lives they build.",
    "reflection": "Notice where 'what else could there be?' has crept into your worldview — and reopen one window.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "How do the demonic describe the world and its origin?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Unreal' because the speakers, false themselves, see the world as false; 'baseless' because it rests on no dharma and adharma; 'godless' because no ruler apportions results. Lust is its only cause — the materialist view."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "They deny that the world has Brahman, the True, for its self and its support, and deny that the Lord whose will is always true controls it."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Kim anyat: for them there is nothing beyond what is seen."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Asatya means there is no valid authority such as the Veda and Purāṇas for the world: they reject scripture, so they see the world's variety as simply natural, with no dharma behind it and no Lord making it."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Denying God lets the demonic escape moral restraint, so they explain the world as an accident without basis and treat lust, a distorted reflection of divine love, as life's purpose."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -278,27 +1067,104 @@
    "translation": "Holding this view, these ruined souls of small intellect and fierce deeds, come forth as the enemies of the world for its destruction.",
    "anvaya": [
     {
-     "word": "एतां दृष्टिम् अवष्टभ्य",
-     "meaning": "clinging to this view"
+     "word": "एताम्",
+     "meaning": "this",
+     "base": "एतद् · this",
+     "form": "pronoun, feminine, accusative singular (agrees with दृष्टिम्)",
+     "iast": "etām"
     },
     {
-     "word": "नष्टात्मानः अल्पबुद्धयः",
-     "meaning": "lost selves, of small understanding"
+     "word": "दृष्टिम्",
+     "meaning": "view",
+     "base": "दृष्टि · sight, view, doctrine",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "dṛṣṭim"
     },
     {
-     "word": "प्रभवन्ति उग्रकर्माणः",
-     "meaning": "they rise up, of fierce deeds"
+     "word": "अवष्टभ्य",
+     "meaning": "holding fast to",
+     "base": "अव + √स्तम्भ् · to prop up, hold firm",
+     "form": "gerund (having held fast)",
+     "iast": "avaṣṭabhya"
     },
     {
-     "word": "क्षयाय जगतः अहिताः",
-     "meaning": "for the ruin of the world, its enemies"
+     "word": "नष्टात्मानः",
+     "meaning": "lost souls",
+     "base": "नष्टात्मन् · one whose self is ruined",
+     "form": "noun, masculine, nominative plural (subject)",
+     "parts": "नष्ट (lost, ruined) + आत्मन् (self): those whose selves are ruined",
+     "iast": "naṣṭātmānaḥ"
+    },
+    {
+     "word": "अल्पबुद्धयः",
+     "meaning": "of small intellect",
+     "base": "अल्पबुद्धि · of little understanding",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "अल्प (small) + बुद्धि (intellect): those whose understanding is small",
+     "iast": "alpabuddhayaḥ"
+    },
+    {
+     "word": "प्रभवन्ति",
+     "meaning": "arise, come forth",
+     "base": "प्र + √भू · to arise, prevail",
+     "form": "verb, present, 3rd person plural",
+     "iast": "prabhavanti"
+    },
+    {
+     "word": "उग्रकर्माणः",
+     "meaning": "of cruel deeds",
+     "base": "उग्रकर्मन् · doer of fierce deeds",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "उग्र (fierce, cruel) + कर्मन् (deed): those whose deeds are cruel",
+     "iast": "ugrakarmāṇaḥ"
+    },
+    {
+     "word": "क्षयाय",
+     "meaning": "for the destruction",
+     "base": "क्षय · ruin, destruction",
+     "form": "noun, masculine, dative singular (for)",
+     "iast": "kṣayāya"
+    },
+    {
+     "word": "जगतः",
+     "meaning": "of the world",
+     "base": "जगत् · world",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "jagataḥ"
+    },
+    {
+     "word": "अहिताः",
+     "meaning": "enemies",
+     "base": "अहित · hostile, harmful",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "अ (not) + हित (friendly, beneficial)",
+     "iast": "ahitāḥ"
     }
    ],
    "explanation": "The chain from creed to deed: avaṣṭabhya — *clinging* to the view, leaning whole weight on it. If nothing is sacred and desire is the only engine, then ugra-karmāṇaḥ, ruthless action, becomes simply rational. Naṣṭātmānaḥ, the lost selves: the verse's pity inside its alarm — the world's destroyers are first of all people who have misplaced themselves.",
    "connection": "16.8's philosophy goes operational: ideas, the Gita insists, have body counts.",
-   "schools_note": null,
    "reflection": "Trace one idea you hold to its lived consequences today — philosophies have body counts.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "What happens when people of ruinous views gain strength?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Naṣṭātmānaḥ are those fallen from the disciplines that lead to the next world; their intellect is small because it is wholly taken up with material things."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Their selves are 'lost' because they do not grasp that the self, the knower, is different from the body, which is a known object like a jar."
+    },
+    {
+     "lens": "bhakti",
+     "text": "'This view' is the Lokāyata (materialist) doctrine; holding it, their minds stained and fixed only on visible gains, they come into being as enemies for the world's ruin."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Rejecting the soul's eternity and karma, like the materialist Charvak, the demonic justify cruelty, and when they hold power, as tyrants have, they bring ruin to the world."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -310,27 +1176,101 @@
    "translation": "Filled with insatiable desires, full of hypocrisy, pride and arrogance, holding evil ideas through delusion, they work with impure resolves.",
    "anvaya": [
     {
-     "word": "कामम् आश्रित्य दुष्पूरं",
-     "meaning": "resorting to desire impossible-to-fill"
+     "word": "कामम्",
+     "meaning": "desire",
+     "base": "काम · desire, lust",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "kāmam"
+    },
+    {
+     "word": "आश्रित्य",
+     "meaning": "taking refuge in",
+     "base": "आ + √श्रि · to resort to",
+     "form": "gerund (having resorted to)",
+     "iast": "āśritya"
+    },
+    {
+     "word": "दुष्पूरम्",
+     "meaning": "insatiable",
+     "base": "दुष्पूर · hard to fill",
+     "form": "adjective, masculine, accusative singular (agrees with कामम्)",
+     "parts": "दुस् (hard) + पूर (filling): impossible to fill",
+     "iast": "duṣpūram"
     },
     {
      "word": "दम्भमानमदान्विताः",
-     "meaning": "joined with hypocrisy, pride, intoxication"
+     "meaning": "full of hypocrisy, pride, arrogance",
+     "base": "दम्भमानमदान्वित · filled with hypocrisy, pride and intoxication",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "दम्भ (hypocrisy) + मान (pride) + मद (intoxication) + अन्वित (joined with): those filled with these",
+     "iast": "dambhamānamadānvitāḥ"
     },
     {
-     "word": "मोहात् गृहीत्वा असद्ग्राहान्",
-     "meaning": "through delusion grasping false notions"
+     "word": "मोहात्",
+     "meaning": "out of delusion",
+     "base": "मोह · delusion",
+     "form": "noun, masculine, ablative singular (from, because of)",
+     "iast": "mohāt"
     },
     {
-     "word": "प्रवर्तन्ते अशुचिव्रताः",
-     "meaning": "they proceed, of impure vows"
+     "word": "गृहीत्वा",
+     "meaning": "having seized",
+     "base": "√ग्रह् · to seize, take",
+     "form": "gerund (having taken)",
+     "iast": "gṛhītvā"
+    },
+    {
+     "word": "असद्ग्राहान्",
+     "meaning": "false notions",
+     "base": "असद्ग्राह · wrong fixation",
+     "form": "noun, masculine, accusative plural (object)",
+     "parts": "असत् (false, evil) + ग्राह (grasp, fixed idea): evil fixed ideas",
+     "iast": "asadgrāhān"
+    },
+    {
+     "word": "प्रवर्तन्ते",
+     "meaning": "they act",
+     "base": "प्र + √वृत् · to proceed, engage",
+     "form": "verb, present, middle, 3rd person plural",
+     "iast": "pravartante"
+    },
+    {
+     "word": "अशुचिव्रताः",
+     "meaning": "with impure vows",
+     "base": "अशुचिव्रत · one of impure resolve",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "अशुचि (impure) + व्रत (vow, resolve): those whose vows are impure",
+     "iast": "aśucivratāḥ"
     }
    ],
    "explanation": "The engine room: kāmam duṣpūram — desire that *cannot* be filled, a vessel with no bottom, taken as one's refuge (āśritya, the same word elsewhere used for taking refuge in God). The substitution is the whole tragedy: appetite installed in the throne meant for the eternal. Around it gather hypocrisy, pride, and mada, intoxication — drunk on self.",
    "connection": "Names the asuric center of gravity: bottomless craving enthroned as refuge.",
-   "schools_note": null,
    "reflection": "Find the bottomless vessel you keep refilling — and stop pouring for one day.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "What drives the actions of those with a demonic nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Given to insatiable passion and full of vanity, pride and arrogance, the demoniac adopt evil intentions out of delusion, meaning non-discrimination, and act in the world with impure resolves."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Their desires are for objects that cannot be had, and through ignorance they think such desires can be met only with wealth taken unlawfully; their vows are ones the Śāstras forbid."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Their false fixations are schemes like 'by this mantra I will propitiate that deity and win great treasures'; they worship petty powers, and their impure vows centre on wine and meat."
+    },
+    {
+     "lens": "practice",
+     "text": "Dambha is pretending to righteousness, māna claiming honour one does not deserve, mada heaping greatness on oneself that one lacks; desire, like fire, grows the more it is fed."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Indulging insatiable desire makes their hearts impure and hypocritical, and pride convinces them no one is wiser, so they act against scripture and truth."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -342,27 +1282,100 @@
    "translation": "Giving themselves over to immeasurable cares ending only with death, regarding gratification of lust as their highest aim, and feeling sure that that is all.",
    "anvaya": [
     {
-     "word": "चिन्ताम् अपरिमेयां च",
-     "meaning": "and cares immeasurable"
+     "word": "चिन्ताम्",
+     "meaning": "anxiety, cares",
+     "base": "चिन्ता · thought, worry",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "cintām"
     },
     {
-     "word": "प्रलयान्ताम् उपाश्रिताः",
-     "meaning": "ending (only) at death, embracing"
+     "word": "अपरिमेयाम्",
+     "meaning": "immeasurable",
+     "base": "अपरिमेय · beyond measure",
+     "form": "adjective, feminine, accusative singular",
+     "parts": "अ (not) + परिमेय (measurable)",
+     "iast": "aparimeyām"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "प्रलयान्ताम्",
+     "meaning": "ending only at death",
+     "base": "प्रलयान्त · ending with dissolution",
+     "form": "adjective, feminine, accusative singular",
+     "parts": "प्रलय (death, dissolution) + अन्त (end): whose end is death",
+     "iast": "pralayāntām"
+    },
+    {
+     "word": "उपाश्रिताः",
+     "meaning": "clinging to, beset by",
+     "base": "उप + आ + √श्रि · to rest on",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "upāśritāḥ"
     },
     {
      "word": "कामोपभोगपरमाः",
-     "meaning": "holding desire's enjoyment supreme"
+     "meaning": "holding enjoyment as highest",
+     "base": "कामोपभोगपरम · devoted to enjoyment above all",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "काम (desired things) + उपभोग (enjoyment) + परम (highest): for whom enjoying desires is the highest goal",
+     "iast": "kāmopabhogaparamāḥ"
     },
     {
-     "word": "एतावत् इति निश्चिताः",
-     "meaning": "'this much (is all)' — so convinced"
+     "word": "एतावत्",
+     "meaning": "this much (is all)",
+     "base": "एतावत् · so much, this much",
+     "form": "indeclinable",
+     "iast": "etāvat"
+    },
+    {
+     "word": "इति",
+     "meaning": "thus",
+     "base": "thus (closes a thought or quotation)",
+     "form": "indeclinable",
+     "iast": "iti"
+    },
+    {
+     "word": "निश्चिताः",
+     "meaning": "convinced",
+     "base": "निस् + √चि · to ascertain",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "niścitāḥ"
     }
    ],
    "explanation": "The inner weather of the creed: cintām aparimeyām, anxiety without measure, scheduled to end pralayāntām — only at death. The logic is airtight: if enjoyment is everything and time is short, then worry is the only rational state. Etāvad iti niścitāḥ — 'this much is all there is,' the certainty that closes every window. The portrait's cruelest detail: they are not enjoying it.",
    "connection": "The cost accounting begins: the pleasure-creed billed in lifelong, terminal anxiety.",
-   "schools_note": null,
    "reflection": "Measure the creed by its weather today: where enjoyment is everything, anxiety is the climate.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "GV",
+   "hook": "What do worldly people believe life is for, until death?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Kāma means the things desired, like sound and touch; they are convinced that enjoying these is the whole human goal, and are weighed down by cares too vast to estimate."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Sure to die today or tomorrow, they burden themselves with cares about things they could not obtain even by the time of death."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Reads pralayāntām as dissolution: their anxiety never ceases, because arising and dissolving never end."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Construes this verse with 'they strive to amass wealth' in the next, and links it to the Bārhaspatya (materialist) maxim that desire is the only human aim."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Chasing worldly gains brings endless anxiety from getting, keeping and losing; if the same concern went into loving God, one would cross beyond death, but the demonic see sense pleasure as the highest joy."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -374,27 +1387,90 @@
    "translation": "Bound by a hundred ties of hope, given over to lust and anger, they strive to obtain by unlawful means hoards to wealth for sensual enjoyments.",
    "anvaya": [
     {
-     "word": "आशापाशशतैः बद्धाः",
-     "meaning": "bound by a hundred nooses of hope"
+     "word": "आशापाशशतैः",
+     "meaning": "by hundreds of nooses of hope",
+     "base": "आशापाशशत · hundreds of snares of hope",
+     "form": "noun, neuter, instrumental plural (by)",
+     "parts": "आशा (hope) + पाश (noose) + शत (hundred): by hundreds of nooses that are hopes",
+     "iast": "āśāpāśaśataiḥ"
+    },
+    {
+     "word": "बद्धाः",
+     "meaning": "bound",
+     "base": "√बन्ध् · to bind",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "baddhāḥ"
     },
     {
      "word": "कामक्रोधपरायणाः",
-     "meaning": "devoted to desire and anger"
+     "meaning": "given over to desire and anger",
+     "base": "कामक्रोधपरायण · devoted to desire and anger",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "काम (desire) + क्रोध (anger) + परायण (final refuge): those whose refuge is desire and anger",
+     "iast": "kāmakrodhaparāyaṇāḥ"
     },
     {
-     "word": "ईहन्ते कामभोगार्थम्",
-     "meaning": "they strive, for desire's enjoyment"
+     "word": "ईहन्ते",
+     "meaning": "they strive for",
+     "base": "√ईह् · to strive, desire",
+     "form": "verb, present, middle, 3rd person plural",
+     "iast": "īhante"
     },
     {
-     "word": "अन्यायेन अर्थसञ्चयान्",
-     "meaning": "by injustice, heaps of wealth"
+     "word": "कामभोगार्थम्",
+     "meaning": "for enjoying their desires",
+     "base": "कामभोगार्थ · for the sake of enjoyment",
+     "form": "indeclinable (adverb: for the sake of)",
+     "parts": "काम (desire) + भोग (enjoyment) + अर्थ (purpose): for the purpose of enjoying desires",
+     "iast": "kāmabhogārtham"
+    },
+    {
+     "word": "अन्यायेन",
+     "meaning": "by unjust means",
+     "base": "अन्याय · injustice",
+     "form": "noun, masculine, instrumental singular (by means of)",
+     "parts": "अ (not) + न्याय (right method)",
+     "iast": "anyāyena"
+    },
+    {
+     "word": "अर्थसञ्चयान्",
+     "meaning": "hoards of wealth",
+     "base": "अर्थसञ्चय · accumulation of wealth",
+     "form": "noun, masculine, accusative plural (object)",
+     "parts": "अर्थ (wealth) + सञ्चय (heap): heaps of wealth",
+     "iast": "arthasañcayān"
     }
    ],
    "explanation": "Āśā-pāśa-śataiḥ: hope itself as a hundred nooses — the asuric life is tied not by despair but by *expectation*, each anticipated pleasure another cord. Desire and its bodyguard anger (the old pair from 3.37) run the operation; anyāyena, by whatever bends, the wealth piles up. The verse paints acquisition as a form of bondage wearing the costume of success.",
    "connection": "The behavioral output: craving plus deadline equals accumulation without scruple.",
-   "schools_note": null,
    "reflection": "Count your nooses of hope tonight — the expectations binding tomorrow before it arrives. Cut one.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "What drives people to gather wealth by any means, fair or foul?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 7.14.8",
+     "note": "One may keep only the wealth needed for one's upkeep; hoarding more makes one a thief before God, deserving punishment, as those who gather wealth wrongly do."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The hopes themselves are the nooses, dragging them this way and that. They gather wealth by theft and the like, only for enjoyment and never for righteous acts."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Since gratification is their highest goal, anger arises the moment it is thwarted; that is why desire and anger are named together."
+    },
+    {
+     "lens": "practice",
+     "text": "Hope binds a person to the wheel of saṃsāra like a rope; however much they own, their cravings multiply daily."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Money is the means of enjoyment, so desire-driven people chase it even unlawfully. They are punished twice: the wealth is taken at death, and the sins of earning it bring karmic consequences."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -403,30 +1479,149 @@
    "devanagari": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।\nइदमस्तीदमपि मे भविष्यति पुनर्धनम्॥",
    "transliteration": "idamadya mayā labdhamimaṃ prāpsye manoratham\nidamastīdamapi me bhaviṣyati punardhanam",
    "essence": "'This I have gained today; this longing I shall fulfill. This is mine — and this wealth too shall be mine.",
-   "translation": "\"This has been gained by me today; this desire of mine I shall fuffil; this is mine and this wealth also shall be mine in future.\"",
+   "translation": "\"This has been gained by me today; this desire of mine I shall fulfil; this is mine and this wealth also shall be mine in future.\"",
    "anvaya": [
     {
-     "word": "इदम् अद्य मया लब्धम्",
-     "meaning": "'this, today, has been gained by me"
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "idam"
     },
     {
-     "word": "इमं प्राप्स्ये मनोरथम्",
-     "meaning": "this wish I shall obtain"
+     "word": "अद्य",
+     "meaning": "today",
+     "base": "today",
+     "form": "indeclinable",
+     "iast": "adya"
     },
     {
-     "word": "इदम् अस्ति इदम् अपि मे",
-     "meaning": "this is (mine); this also shall be"
+     "word": "मया",
+     "meaning": "by me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, instrumental singular (by me)",
+     "iast": "mayā"
     },
     {
-     "word": "भविष्यति पुनः धनम्",
-     "meaning": "mine again — wealth'"
+     "word": "लब्धम्",
+     "meaning": "has been gained",
+     "base": "√लभ् · to obtain",
+     "form": "past participle, neuter, nominative singular",
+     "iast": "labdham"
+    },
+    {
+     "word": "इमम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, accusative singular (agrees with मनोरथम्)",
+     "iast": "imam"
+    },
+    {
+     "word": "प्राप्स्ये",
+     "meaning": "I shall obtain",
+     "base": "प्र + √आप् · to obtain",
+     "form": "verb, future, middle, 1st person singular",
+     "iast": "prāpsye"
+    },
+    {
+     "word": "मनोरथम्",
+     "meaning": "desire, wish",
+     "base": "मनोरथ · wish (the mind's chariot)",
+     "form": "noun, masculine, accusative singular (object)",
+     "parts": "मनस् (mind) + रथ (chariot): what the mind rides toward, a wish",
+     "iast": "manoratham"
+    },
+    {
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "idam"
+    },
+    {
+     "word": "अस्ति",
+     "meaning": "is (mine)",
+     "base": "√अस् · to be",
+     "form": "verb, present, 3rd person singular",
+     "iast": "asti"
+    },
+    {
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "idam"
+    },
+    {
+     "word": "अपि",
+     "meaning": "also",
+     "base": "also",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me, mine",
+     "base": "अस्मद् · I",
+     "form": "pronoun, short genitive singular (my, to me)",
+     "iast": "me"
+    },
+    {
+     "word": "भविष्यति",
+     "meaning": "will be",
+     "base": "√भू · to be, become",
+     "form": "verb, future, 3rd person singular",
+     "iast": "bhaviṣyati"
+    },
+    {
+     "word": "पुनः",
+     "meaning": "again",
+     "base": "again, further",
+     "form": "indeclinable",
+     "iast": "punaḥ"
+    },
+    {
+     "word": "धनम्",
+     "meaning": "wealth",
+     "base": "धन · wealth",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "dhanam"
     }
    ],
-   "explanation": "The teaching changes register: for three verses (16.13–15) Krishna stops describing and starts *quoting* — the asuric inner monologue performed verbatim. Listen to the pronouns: idam, mayā, me, me — this, by me, mine, mine. A grammar with one person in it. The eerie power of the passage is its familiarity; everyone has caught this voice running in their own head at 2 a.m.",
+   "explanation": "The teaching changes register: for three verses (16.13–15) Krishna stops describing and starts *quoting* — the asuric inner monologue performed verbatim. Listen to the words: idam, mayā, idam, me — this, by me, this, mine. A grammar with one person in it. The eerie power of the passage is its familiarity; everyone has caught this voice running in their own head at 2 a.m.",
    "connection": "The soliloquy begins: the demonic rendered not as other, but as a voice the reader recognizes.",
-   "schools_note": null,
    "reflection": "Catch the monologue running — this is mine, this too shall be mine — and simply hear its grammar.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SV",
+   "hook": "How does a greedy mind keep count of what it has and wants?",
+   "refs": [
+    {
+     "source": "Tao Te Ching, Chapter 6",
+     "note": "Be the valley, not the mountain: a call to lowliness that stands against the boastful self-image these verses describe."
+    },
+    {
+     "source": "Luke 14:10-11",
+     "note": "Whoever exalts himself will be humbled and whoever humbles himself exalted, the reverse of the proud person's claims."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The monologue of plans: this is in hand, and next year that wealth too will come, and 'I shall be rich and famous'."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The key is 'by myself': land, sons and wealth gained solely by my own ability, with no help from any higher power or good fortune."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Calls these lines their 'mental kingdom', castles built in the mind; read with the next verses, they end in 16.16's fall into hell."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The demoniac assume a right to every pleasure and pursue it by any means, even through rituals. Their ego, fed by owning, hides a constant sense of not enough, and the cure is humility."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -438,27 +1633,148 @@
    "translation": "\"That enemy has been slain by me; and others also I shall slay. I am the lord. I enjoy. I am perfect, powerful and happy.\"",
    "anvaya": [
     {
-     "word": "असौ मया हतः शत्रुः",
-     "meaning": "'that enemy has been slain by me"
+     "word": "असौ",
+     "meaning": "that",
+     "base": "अदस् · that (yonder)",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "asau"
     },
     {
-     "word": "हनिष्ये च अपरान् अपि",
-     "meaning": "and I shall slay others too"
+     "word": "मया",
+     "meaning": "by me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, instrumental singular (by me)",
+     "iast": "mayā"
     },
     {
-     "word": "ईश्वरः अहम् अहं भोगी",
-     "meaning": "I am the lord; I am the enjoyer"
+     "word": "हतः",
+     "meaning": "slain",
+     "base": "√हन् · to strike, kill",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "hataḥ"
     },
     {
-     "word": "सिद्धः अहं बलवान् सुखी",
-     "meaning": "I am accomplished, strong, happy'"
+     "word": "शत्रुः",
+     "meaning": "enemy",
+     "base": "शत्रु · enemy",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "śatruḥ"
+    },
+    {
+     "word": "हनिष्ये",
+     "meaning": "I shall slay",
+     "base": "√हन् · to strike, kill",
+     "form": "verb, future, middle, 1st person singular",
+     "iast": "haniṣye"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अपरान्",
+     "meaning": "others",
+     "base": "अपर · other",
+     "form": "pronoun-adjective, masculine, accusative plural (object)",
+     "iast": "aparān"
+    },
+    {
+     "word": "अपि",
+     "meaning": "also",
+     "base": "also",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "ईश्वरः",
+     "meaning": "the lord",
+     "base": "ईश्वर · lord, ruler",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "īśvaraḥ"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I (am)",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (I)",
+     "iast": "aham"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I (am)",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (I)",
+     "iast": "aham"
+    },
+    {
+     "word": "भोगी",
+     "meaning": "the enjoyer",
+     "base": "भोगिन् · enjoyer",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "bhogī"
+    },
+    {
+     "word": "सिद्धः",
+     "meaning": "accomplished",
+     "base": "√सिध् · to succeed",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "siddhaḥ"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I (am)",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (I)",
+     "iast": "aham"
+    },
+    {
+     "word": "बलवान्",
+     "meaning": "mighty",
+     "base": "बलवत् · strong",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "balavān"
+    },
+    {
+     "word": "सुखी",
+     "meaning": "happy",
+     "base": "सुखिन् · happy",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "sukhī"
     }
    ],
-   "explanation": "The monologue crescendos into theology: īśvaro 'ham — *I am the Lord* — the exact title this Gita reserves for the one speaking it now claimed by the deluded self. Every 'aham' is a small coronation: enjoyer, perfected, powerful, sukhī — happy, asserted rather than felt, the way one insists on what is slipping. The asura, finally, is not one who denies God but one who applies for the position.",
+   "explanation": "The monologue crescendos into theology: īśvaro 'ham — *I am the Lord* — the title the Gita gives to the one now speaking, claimed by the deluded self. Every 'aham' is a small coronation: enjoyer, perfected, powerful, sukhī — happy, asserted rather than felt, the way one insists on what is slipping. The asura who called the world godless (16.8) ends by applying for the position.",
    "connection": "The soliloquy's core: self-deification — the precise inversion of 15.18's Purushottama.",
-   "schools_note": null,
    "reflection": "When 'I am the lord' whispers in any costume today, smile and return the crown.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "How does a proud person boast after defeating an enemy?",
+   "refs": [
+    {
+     "source": "Tao Te Ching, Chapter 6",
+     "note": "Be the valley, not the mountain: a call to lowliness that stands against the boastful self-image these verses describe."
+    },
+    {
+     "source": "Luke 14:10-11",
+     "note": "Whoever exalts himself will be humbled and whoever humbles himself exalted, the reverse of the proud person's claims."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Siddha means fulfilled in every way, blessed with sons and grandsons; the boast runs on: none is equal to me, others are only a burden on the earth."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Every claim is 'by myself': I am independent and ruler of others, successful and happy through my own powers. Destiny is dismissed as a fancy of weak minds."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Respecting only power, the demoniac harm others to clear their way and see themselves as lords and enjoyers. This ego is the great untruth of life, which every tradition urges us to dismantle."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -470,27 +1786,133 @@
    "translation": "\"I am rich and born in a noble family. Who else is equal to me? I shall perform sacrifices. I shall give (charity). I shall rejoice,\" thus deluded by ignorance.",
    "anvaya": [
     {
-     "word": "आढ्यः अभिजनवान् अस्मि",
-     "meaning": "'I am rich, of high birth"
+     "word": "आढ्यः",
+     "meaning": "wealthy",
+     "base": "आढ्य · rich",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "āḍhyaḥ"
     },
     {
-     "word": "कः अन्यः अस्ति सदृशः मया",
-     "meaning": "who else is there like me?"
+     "word": "अभिजनवान्",
+     "meaning": "high-born",
+     "base": "अभिजनवत् · of noble family",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अभिजन (lineage) + -वत् (having): having a noble lineage",
+     "iast": "abhijanavān"
     },
     {
-     "word": "यक्ष्ये दास्यामि मोदिष्ये",
-     "meaning": "I shall sacrifice, I shall give, I shall rejoice'"
+     "word": "अस्मि",
+     "meaning": "I am",
+     "base": "√अस् · to be",
+     "form": "verb, present, 1st person singular",
+     "iast": "asmi"
     },
     {
-     "word": "इति अज्ञानविमोहिताः",
-     "meaning": "thus deluded by ignorance"
+     "word": "कः",
+     "meaning": "who",
+     "base": "किम् · who, what",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "kaḥ"
+    },
+    {
+     "word": "अन्यः",
+     "meaning": "else",
+     "base": "अन्य · other",
+     "form": "pronoun-adjective, masculine, nominative singular",
+     "iast": "anyaḥ"
+    },
+    {
+     "word": "अस्ति",
+     "meaning": "is",
+     "base": "√अस् · to be",
+     "form": "verb, present, 3rd person singular",
+     "iast": "asti"
+    },
+    {
+     "word": "सदृशः",
+     "meaning": "equal",
+     "base": "सदृश · like, similar",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "sadṛśaḥ"
+    },
+    {
+     "word": "मया",
+     "meaning": "to me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, instrumental singular (compared with me)",
+     "iast": "mayā"
+    },
+    {
+     "word": "यक्ष्ये",
+     "meaning": "I shall sacrifice",
+     "base": "√यज् · to sacrifice, worship",
+     "form": "verb, future, middle, 1st person singular",
+     "iast": "yakṣye"
+    },
+    {
+     "word": "दास्यामि",
+     "meaning": "I shall give",
+     "base": "√दा · to give",
+     "form": "verb, future, 1st person singular",
+     "iast": "dāsyāmi"
+    },
+    {
+     "word": "मोदिष्ये",
+     "meaning": "I shall rejoice",
+     "base": "√मुद् · to rejoice",
+     "form": "verb, future, middle, 1st person singular",
+     "iast": "modiṣye"
+    },
+    {
+     "word": "इति",
+     "meaning": "thus",
+     "base": "thus (closes the quotation)",
+     "form": "indeclinable",
+     "iast": "iti"
+    },
+    {
+     "word": "अज्ञानविमोहिताः",
+     "meaning": "deluded by ignorance",
+     "base": "अज्ञानविमोहित · bewildered by ignorance",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "अज्ञान (ignorance) + विमोहित (deluded): deluded by ignorance",
+     "iast": "ajñānavimohitāḥ"
     }
    ],
    "explanation": "Even religion enters the inventory: yakṣye dāsyāmi — I *shall* sacrifice, I *shall* donate — piety scheduled as another acquisition, worship as self-decoration. Ko 'nyo 'sti sadṛśo mayā: 'who is like me?' — the question that, asked of God, is awe, and asked of oneself, is the whole disease. The quotation closes on its diagnosis: ajñāna-vimohitāḥ, all of it spoken inside a fog.",
    "connection": "The soliloquy ends with piety itself annexed by ego — and 16.16 shows where the fog leads.",
-   "schools_note": null,
    "reflection": "Watch piety serve the ego once today — the announced donation, the displayed virtue — first in yourself.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "What makes the arrogant believe no one is equal to them?",
+   "refs": [
+    {
+     "source": "Tao Te Ching, Chapter 6",
+     "note": "Be the valley, not the mountain: a call to lowliness that stands against the boastful self-image these verses describe."
+    },
+    {
+     "source": "Luke 14:10-11",
+     "note": "Whoever exalts himself will be humbled and whoever humbles himself exalted, the reverse of the proud person's claims."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Abhijanavān: seven generations of Vedic learning in the family. Even their sacrifice aims to outdo others, and their giving goes to actors and entertainers."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The ignorance is believing they can sacrifice, give and prosper by their own ability, without the grace of God."
+    },
+    {
+     "lens": "bhakti",
+     "text": "They sacrifice to win more prestige than other initiated sacrificers and give to those who praise them; ignorance has set them in a false fixation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Pride in birth and riches leads such people to feel they need not bow to God. Saints teach the opposite: grace flows, like water, to those who are low and unassuming."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -503,26 +1925,99 @@
    "anvaya": [
     {
      "word": "अनेकचित्तविभ्रान्ताः",
-     "meaning": "bewildered by many imaginings"
+     "meaning": "bewildered by many fancies",
+     "base": "अनेकचित्तविभ्रान्त · confused by many thoughts",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "अनेक (many) + चित्त (thought) + विभ्रान्त (bewildered): bewildered by many schemes",
+     "iast": "anekacittavibhrāntāḥ"
     },
     {
      "word": "मोहजालसमावृताः",
-     "meaning": "enveloped in a net of delusion"
+     "meaning": "wrapped in delusion's net",
+     "base": "मोहजालसमावृत · enveloped in a net of delusion",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "मोह (delusion) + जाल (net) + समावृत (covered): wrapped in the net of delusion",
+     "iast": "mohajālasamāvṛtāḥ"
     },
     {
-     "word": "प्रसक्ताः कामभोगेषु",
-     "meaning": "attached to the enjoyments of desire"
+     "word": "प्रसक्ताः",
+     "meaning": "addicted",
+     "base": "प्र + √सञ्ज् · to cling to",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "prasaktāḥ"
     },
     {
-     "word": "पतन्ति नरके अशुचौ",
-     "meaning": "they fall into an impure hell"
+     "word": "कामभोगेषु",
+     "meaning": "to sensual enjoyments",
+     "base": "कामभोग · enjoyment of desires",
+     "form": "noun, masculine, locative plural (in, to)",
+     "parts": "काम (desire) + भोग (enjoyment)",
+     "iast": "kāmabhogeṣu"
+    },
+    {
+     "word": "पतन्ति",
+     "meaning": "they fall",
+     "base": "√पत् · to fall",
+     "form": "verb, present, 3rd person plural",
+     "iast": "patanti"
+    },
+    {
+     "word": "नरके",
+     "meaning": "into hell",
+     "base": "नरक · hell",
+     "form": "noun, masculine, locative singular (into)",
+     "iast": "narake"
+    },
+    {
+     "word": "अशुचौ",
+     "meaning": "foul",
+     "base": "अशुचि · impure, foul",
+     "form": "adjective, masculine, locative singular (agrees with नरके)",
+     "iast": "aśucau"
     }
    ],
    "explanation": "The trajectory completes: aneka-citta-vibhrāntāḥ, a mind scattered across its own schemes; moha-jāla, delusion as a *net* — each strand thin, the weave inescapable. The fall into naraka needs no external judge; a life built on 16.13–15's monologue is already constructing its own descent, the way a spiral stair needs no one to push.",
    "connection": "The soliloquy's gravity: the net was self-woven, the fall self-propelled.",
-   "schools_note": null,
    "reflection": "Find one strand of the self-woven net today — a scheme, a fantasy — and decline to add another.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "Where do restless, desire-bound thoughts finally lead a person?",
+   "refs": [
+    {
+     "source": "Rāmāyaṇa",
+     "note": "Action rules this world; whatever people do, they taste its fruit, so no one escapes the result of their deeds."
+    },
+    {
+     "source": "Garuḍa Purāṇa",
+     "note": "The sattvic rise, the rajasic stay in the middle, and the tamasic sink, matching the fall into hell this verse describes."
+    },
+    {
+     "source": "Numbers 32.23",
+     "note": "Your sin will find you out: the consequences of wrongdoing return to the doer."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Moha is lack of discrimination; it is a net because it covers. Through the sins so gathered they fall into foul hells such as Vaitaraṇī."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Refusing to admit that past karma and the Lord play any part in their success, they are bewildered by plan after plan and die in the midst of their enjoyments."
+    },
+    {
+     "lens": "shaiva",
+     "text": "They are scattered because they hold no conviction; the 'foul' place is both hell and the endless round of birth and death."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Their minds run in many directions after many wishes; the net is like a fisherman's, holding them as fish are held."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Ruled by the ego, people are possessed by repetitive negative thoughts such as complaint and grievance. Results come by God's law of karma, so those who cultivate demoniac qualities descend to lower states."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -534,27 +2029,96 @@
    "translation": "Self-conceited, stubborn, filled with the pride and intoxication of wealth, they perform sacrifices in name out of ostentation, contrary to scriptural ordinances.",
    "anvaya": [
     {
-     "word": "आत्मसम्भाविताः स्तब्धाः",
-     "meaning": "self-glorifying, rigid"
+     "word": "आत्मसम्भाविताः",
+     "meaning": "self-esteemed",
+     "base": "आत्मसम्भावित · honoured by oneself",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "आत्मन् (oneself) + सम्भावित (esteemed): esteemed only by themselves",
+     "iast": "ātmasambhāvitāḥ"
+    },
+    {
+     "word": "स्तब्धाः",
+     "meaning": "stubborn, unbending",
+     "base": "√स्तम्भ् · to stiffen",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "stabdhāḥ"
     },
     {
      "word": "धनमानमदान्विताः",
-     "meaning": "filled with wealth's pride and intoxication"
+     "meaning": "drunk with pride of wealth",
+     "base": "धनमानमदान्वित · filled with wealth's pride and intoxication",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "धन (wealth) + मान (pride) + मद (intoxication) + अन्वित (joined with): filled with the pride and intoxication of wealth",
+     "iast": "dhanamānamadānvitāḥ"
     },
     {
-     "word": "यजन्ते नामयज्ञैः ते",
-     "meaning": "they sacrifice with name-only sacrifices"
+     "word": "यजन्ते",
+     "meaning": "they sacrifice",
+     "base": "√यज् · to sacrifice, worship",
+     "form": "verb, present, middle, 3rd person plural",
+     "iast": "yajante"
     },
     {
-     "word": "दम्भेन अविधिपूर्वकम्",
-     "meaning": "with hypocrisy, contrary to rule"
+     "word": "नामयज्ञैः",
+     "meaning": "with sacrifices in name only",
+     "base": "नामयज्ञ · nominal sacrifice",
+     "form": "noun, masculine, instrumental plural (with, by means of)",
+     "parts": "नामन् (name) + यज्ञ (sacrifice): a sacrifice only in name, or for a name",
+     "iast": "nāmayajñaiḥ"
+    },
+    {
+     "word": "ते",
+     "meaning": "they",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "te"
+    },
+    {
+     "word": "दम्भेन",
+     "meaning": "with hypocrisy",
+     "base": "दम्भ · ostentation, deceit",
+     "form": "noun, masculine, instrumental singular (with)",
+     "iast": "dambhena"
+    },
+    {
+     "word": "अविधिपूर्वकम्",
+     "meaning": "disregarding the rules",
+     "base": "अविधिपूर्वक · not according to rule",
+     "form": "indeclinable (adverb)",
+     "parts": "अ (not) + विधि (rule) + पूर्वक (according to): not done by the prescribed rule",
+     "iast": "avidhipūrvakam"
     }
    ],
    "explanation": "The religious performance examined: nāma-yajñaiḥ — sacrifices in name only, ritual as theater, the donation announced, the temple wing named after the donor. Ātma-sambhāvitāḥ: honored by themselves — having appointed themselves their own audience and judge, applause is guaranteed. Worship without surrender is the asuric creed's most refined costume.",
    "connection": "Returns to 16.15's 'I shall sacrifice' and shows the performance up close.",
-   "schools_note": null,
    "reflection": "Do one good thing today with no audience at all — not even the inner one applauding.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "Why does a lavish ritual done for show earn no merit?",
+   "refs": [
+    {
+     "source": "Mahābhārata",
+     "note": "Advertising a good deed lessens its merit, while keeping it secret multiplies it, which is why showy sacrifice is empty."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Self-esteemed means thinking themselves virtuous when holy men do not; the sacrifices lack the subsidiary rites and proper procedure."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Nāma-yajña is sacrifice done for fame, to be known as a great sacrificer; regarding themselves as already perfect, they do nothing real."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Offers a second reading: sacrifices done only to earn a title such as 'Dīkṣita' or 'Somayājī'. They are offered with hypocrisy instead of faith."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The demoniac also sacrifice, but to look pious and advertise themselves, ignoring scriptural rules. Such rituals done for display are dismissed as incorrectly performed."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -566,59 +2130,238 @@
    "translation": "Given over to egoism, power, haughtiness, lust and anger, these malicious people hate Me in their own bodies and in those of others.",
    "anvaya": [
     {
-     "word": "अहङ्कारं बलं दर्पं",
-     "meaning": "ego, force, arrogance"
+     "word": "अहंकारम्",
+     "meaning": "egoism",
+     "base": "अहंकार · the I-maker, ego",
+     "form": "noun, masculine, accusative singular (object)",
+     "parts": "अहम् (I) + कार (making): the sense of 'I am the doer'",
+     "iast": "ahaṃkāram"
     },
     {
-     "word": "कामं क्रोधं च संश्रिताः",
-     "meaning": "desire and anger — relying on these"
+     "word": "बलम्",
+     "meaning": "force",
+     "base": "बल · strength, force",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "balam"
     },
     {
-     "word": "माम् आत्मपरदेहेषु",
-     "meaning": "me, in their own and others' bodies"
+     "word": "दर्पम्",
+     "meaning": "arrogance",
+     "base": "दर्प · pride, insolence",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "darpam"
     },
     {
-     "word": "प्रद्विषन्तः अभ्यसूयकाः",
-     "meaning": "hating — the malicious ones"
+     "word": "कामम्",
+     "meaning": "desire",
+     "base": "काम · desire, lust",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "kāmam"
+    },
+    {
+     "word": "क्रोधम्",
+     "meaning": "anger",
+     "base": "क्रोध · anger",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "krodham"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and (joins words)",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "संश्रिताः",
+     "meaning": "clinging to",
+     "base": "सम् + √श्रि · to resort to",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "saṃśritāḥ"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "आत्मपरदेहेषु",
+     "meaning": "in their own and others' bodies",
+     "base": "आत्मपरदेह · one's own and others' bodies",
+     "form": "noun, masculine, locative plural (in)",
+     "parts": "आत्मन् (oneself) + पर (others) + देह (body): in their own bodies and those of others",
+     "iast": "ātmaparadeheṣu"
+    },
+    {
+     "word": "प्रद्विषन्तः",
+     "meaning": "hating",
+     "base": "प्र + √द्विष् · to hate intensely",
+     "form": "present participle, masculine, nominative plural (hating)",
+     "iast": "pradviṣantaḥ"
+    },
+    {
+     "word": "अभ्यसूयकाः",
+     "meaning": "malicious, envious",
+     "base": "अभ्यसूयक · one who finds fault with the good",
+     "form": "adjective, masculine, nominative plural",
+     "iast": "abhyasūyakāḥ"
     }
    ],
    "explanation": "The portrait's theological depth-charge: mām ātma-para-deheṣu pradviṣantaḥ — they hate *me*, dwelling in their own bodies and in everyone else's. Every cruelty to another and every violence to oneself is, by chapter 15's indwelling doctrine, aimed at the same resident. No one has ever harmed a creature without the blow landing on God.",
    "connection": "Connects the asuric life to 15.15's indweller: all hatred has, finally, one address.",
-   "schools_note": null,
    "reflection": "Remember the address of every cruelty today: the same resident, in your body and in theirs.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SGV",
+   "hook": "Whom do the envious really hate when they hate others?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Hating Me means transgressing My commands; I dwell in their bodies and others' as witness of intellect and action. Abhyasūyakāḥ: they cannot bear the virtues of those on the right path."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Ego says 'I can do everything without anyone's help'. Unable to tolerate the Supreme Person within them and others, they invent arguments against His existence."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Because the Lord dwells everywhere, in hating other people they hate Him alone, and acting against their own self they bring about their own fall."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Continues the faithless sacrifice of 16.17: torturing the body in rites without faith, and killing animals against the rule, harm the conscious Lord who dwells in those bodies; that is the 'hatred'."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Such people find fault in all, envy others' success and rage when opposed. In doing so they disrespect the Supreme Soul who dwells in their own hearts and in everyone else's."
+    }
+   ]
   },
   {
    "chapter": 16,
    "verse": 19,
    "speaker": null,
-   "devanagari": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् ।\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु॥",
-   "transliteration": "tānahaṃ dviṣataḥ krurānsaṃsāreṣu narādhamān\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu",
+   "devanagari": "तानहं द्विषतः क्रूरान्संसारेषु नराधमान् ।\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु॥",
+   "transliteration": "tānahaṃ dviṣataḥ krūrānsaṃsāreṣu narādhamān\nkṣipāmyajasramaśubhānāsurīṣveva yoniṣu",
    "essence": "These cruel haters, worst of men — I hurl them again and again into demonic wombs alone, in the cycles of birth and death.",
    "translation": "Those cruel haters, worst among men in the world, I hurl those evil-doers into the wombs of demons only.",
    "anvaya": [
     {
-     "word": "तान् अहं द्विषतः क्रूरान्",
-     "meaning": "them — the hating, the cruel"
+     "word": "तान्",
+     "meaning": "them",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, accusative plural (object)",
+     "iast": "tān"
     },
     {
-     "word": "संसारेषु नराधमान्",
-     "meaning": "in the rounds of samsara, lowest of men"
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (I)",
+     "iast": "aham"
     },
     {
-     "word": "क्षिपामि अजस्रम् अशुभान्",
-     "meaning": "I hurl perpetually, the inauspicious"
+     "word": "द्विषतः",
+     "meaning": "the haters",
+     "base": "द्विषत् · hating (from √द्विष्)",
+     "form": "present participle, masculine, accusative plural (object)",
+     "iast": "dviṣataḥ"
     },
     {
-     "word": "आसुरीषु एव योनिषु",
-     "meaning": "into demonic wombs alone"
+     "word": "क्रूरान्",
+     "meaning": "cruel",
+     "base": "क्रूर · cruel",
+     "form": "adjective, masculine, accusative plural",
+     "iast": "krūrān"
+    },
+    {
+     "word": "संसारेषु",
+     "meaning": "in the cycles of rebirth",
+     "base": "संसार · wandering through births",
+     "form": "noun, masculine, locative plural (in)",
+     "iast": "saṃsāreṣu"
+    },
+    {
+     "word": "नराधमान्",
+     "meaning": "worst of men",
+     "base": "नराधम · lowest of men",
+     "form": "noun, masculine, accusative plural (object)",
+     "parts": "नर (man) + अधम (lowest): the lowest among men",
+     "iast": "narādhamān"
+    },
+    {
+     "word": "क्षिपामि",
+     "meaning": "I hurl",
+     "base": "√क्षिप् · to throw",
+     "form": "verb, present, 1st person singular",
+     "iast": "kṣipāmi"
+    },
+    {
+     "word": "अजस्रम्",
+     "meaning": "again and again, ceaselessly",
+     "base": "constantly, for ever",
+     "form": "indeclinable",
+     "iast": "ajasram"
+    },
+    {
+     "word": "अशुभान्",
+     "meaning": "inauspicious, evil",
+     "base": "अशुभ · inauspicious",
+     "form": "adjective, masculine, accusative plural",
+     "parts": "अ (not) + शुभ (auspicious)",
+     "iast": "aśubhān"
+    },
+    {
+     "word": "आसुरीषु",
+     "meaning": "demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, feminine, locative plural (agrees with योनिषु)",
+     "iast": "āsurīṣu"
+    },
+    {
+     "word": "एव",
+     "meaning": "only",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "योनिषु",
+     "meaning": "into wombs, births",
+     "base": "योनि · womb, birth, species",
+     "form": "noun, feminine, locative plural (into)",
+     "iast": "yoniṣu"
     }
    ],
    "explanation": "The hardest verse in the chapter, and tradition reads its verb with care: kṣipāmi, 'I hurl,' is the Lord speaking as the law of consequence itself — the same impartiality of 9.29 ('I am alike to all') seen from its stern face. Like gravitates to like: a consciousness drenched in cruelty is drawn to births where cruelty is the native climate. No caprice, no vendetta — trajectory, owned by the one who upholds all trajectories.",
    "connection": "Consequence personified: 14.18's downward pull, spoken in the first person.",
-   "schools_note": "'I hurl them into asuric wombs' — the verse that raises the question of damnation, and the tradition's answer is unanimous on one point: the Gita teaches no eternal hell. Shankara reads the hurling as karma's own machinery in the Lord's voice; Ramanuja as just consequence preserving the soul's freedom to turn; all cite 16.20's 'mam aprapya' — *not yet* attaining Me — as the open clause. Descent is long; the door is never welded.",
    "reflection": "Read consequence as climate today, not vendetta: like settles toward like — so choose your like.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "SG",
+   "hook": "What becomes of the cruel and hateful in their next births?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Because of their own unrighteousness the Lord casts them, for ever, into demonic species such as tigers and lions, full of evil deeds."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The hurling means joining them to cruel minds that drive them to actions leading to accursed births, births that turn them away from any friendliness toward the Lord."
+    },
+    {
+     "lens": "bhakti",
+     "text": "They never fall away from their demonic nature; 'I hurl' means 'I give their sinful acts exactly such a fruit'."
+    },
+    {
+     "lens": "practice",
+     "text": "'For ever' means only until they purify their hearts; there is no such thing as eternal damnation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God, not the soul, decides the next birth according to one's nature and karma. Those with demoniac minds are placed in families and species that suit and express that nature."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -630,27 +2373,132 @@
    "translation": "Entering into demoniacal wombs and deluded, birth after birth, not attaining Me, they thus fall, O Arjuna, into a condition still lower than that.",
    "anvaya": [
     {
-     "word": "आसुरीं योनिम् आपन्नाः",
-     "meaning": "attaining a demonic womb"
+     "word": "आसुरीम्",
+     "meaning": "demonic",
+     "base": "आसुर · demonic",
+     "form": "adjective, feminine, accusative singular (agrees with योनिम्)",
+     "iast": "āsurīm"
     },
     {
-     "word": "मूढाः जन्मनि जन्मनि",
-     "meaning": "deluded, birth after birth"
+     "word": "योनिम्",
+     "meaning": "womb, birth",
+     "base": "योनि · womb, birth, species",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "yonim"
     },
     {
-     "word": "माम् अप्राप्य एव कौन्तेय",
-     "meaning": "not attaining me at all, O Kaunteya"
+     "word": "आपन्नाः",
+     "meaning": "having entered",
+     "base": "आ + √पद् · to fall into, reach",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "āpannāḥ"
     },
     {
-     "word": "ततः यान्ति अधमां गतिम्",
-     "meaning": "thence they go to the lowest state"
+     "word": "मूढाः",
+     "meaning": "the deluded",
+     "base": "√मुह् · to be bewildered",
+     "form": "past participle, masculine, nominative plural (as noun: the deluded)",
+     "iast": "mūḍhāḥ"
+    },
+    {
+     "word": "जन्मनि",
+     "meaning": "in birth",
+     "base": "जन्मन् · birth",
+     "form": "noun, neuter, locative singular (in)",
+     "iast": "janmani"
+    },
+    {
+     "word": "जन्मनि",
+     "meaning": "after birth",
+     "base": "जन्मन् · birth",
+     "form": "noun, neuter, locative singular (repeated: birth after birth)",
+     "iast": "janmani"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "अप्राप्य",
+     "meaning": "without reaching",
+     "base": "अ + प्र + √आप् · to reach",
+     "form": "negative gerund (without having reached)",
+     "iast": "aprāpya"
+    },
+    {
+     "word": "एव",
+     "meaning": "ever, at all",
+     "base": "only, indeed (emphasis)",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "कौन्तेय",
+     "meaning": "O son of Kuntī",
+     "base": "कौन्तेय · son of Kuntī",
+     "form": "vocative (calling Arjuna)",
+     "iast": "kaunteya"
+    },
+    {
+     "word": "ततः",
+     "meaning": "than that, thence",
+     "base": "from that, then",
+     "form": "indeclinable",
+     "iast": "tataḥ"
+    },
+    {
+     "word": "यान्ति",
+     "meaning": "they go",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person plural",
+     "iast": "yānti"
+    },
+    {
+     "word": "अधमाम्",
+     "meaning": "lowest",
+     "base": "अधम · lowest, vilest",
+     "form": "adjective, feminine, accusative singular (agrees with गतिम्)",
+     "iast": "adhamām"
+    },
+    {
+     "word": "गतिम्",
+     "meaning": "state, goal",
+     "base": "गति · going, course, goal",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "gatim"
     }
    ],
-   "explanation": "The descent's full arc — and its hidden hinge: mām aprāpya *eva*, 'not yet reaching me.' Commentators across schools fasten on that word: the door is unclosed; the descent is long, not eternal. The Gita knows no everlasting damnation — only trajectories, and trajectories can be turned. Even from the lowest rung, the ladder of 12.8–11 still reaches.",
+   "explanation": "The descent's full arc, and its hardest word: mām aprāpya eva, 'never reaching me.' Śaṅkara and Śrīdhara read the eva as emphatic: there is no question of reaching the Lord here; what these lives fail to reach is even the path that leads to him, so each birth sinks lower than the last (tataḥ adhamām). Sivananda softens 16.19's 'for ever' to 'until the heart is purified.' And the chapter does not stop at the bottom: the next two verses name the three doors, and the way out through them.",
    "connection": "Bottom of the descent — with the exit deliberately left unbarred, as 16.21–22 confirms.",
-   "schools_note": null,
    "reflection": "Hold the unbarred door for someone written off — including the written-off corner of yourself.",
-   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me."
+   "background": "The asuric portrait is drawn at full length, unflinching: they know neither action nor renunciation, neither purity nor truth; they hold the world baseless, godless, born of lust; with insatiable desires, bound by a hundred nooses of hope, given to hypocritical sacrifice and self-glorification — 'this I have gained, this too shall be mine; I am the lord, the enjoyer' — hating Me in their own and others' bodies, they fall, birth after birth, into ever lower wombs, not attaining Me.",
+   "checked": "GV",
+   "hook": "What is the final end of those who never turn toward God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Since reaching the Lord is out of the question for them, 'not reaching Me' means not reaching even the virtuous path He enjoins; they sink into states still lower."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Never coming to know that Vāsudeva, Lord and ruler of all, truly exists, they take births ever more hostile to Him and go further and further down."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Hating others is hating Vāsudeva, who dwells everywhere; hostile to their own Self, they act for their own fall."
+    },
+    {
+     "lens": "practice",
+     "text": "The way out is to destroy these tendencies by cultivating the divine qualities and by regular meditation; only then comes liberation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Birth after birth in degraded settings only deepens a demoniac nature. Failing to reach God, such souls sink even to lowly creatures, receptacles for the evil-minded."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -662,27 +2510,129 @@
    "translation": "Triple is the gate of this hell, destructive of the self lust, anger and greed; therefore one should abandon these three.",
    "anvaya": [
     {
-     "word": "त्रिविधं नरकस्य इदं",
-     "meaning": "threefold is this, of hell"
+     "word": "त्रिविधम्",
+     "meaning": "threefold",
+     "base": "त्रिविध · of three kinds",
+     "form": "adjective, neuter, nominative singular (agrees with द्वारम्)",
+     "parts": "त्रि (three) + विधा (kind): of three kinds",
+     "iast": "trividham"
     },
     {
-     "word": "द्वारं नाशनम् आत्मनः",
-     "meaning": "the gate, destructive of the self"
+     "word": "नरकस्य",
+     "meaning": "of hell",
+     "base": "नरक · hell",
+     "form": "noun, masculine, genitive singular (of)",
+     "iast": "narakasya"
     },
     {
-     "word": "कामः क्रोधः तथा लोभः",
-     "meaning": "desire, anger, and greed"
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "idam"
     },
     {
-     "word": "तस्मात् एतत् त्रयं त्यजेत्",
-     "meaning": "therefore let one abandon this triad"
+     "word": "द्वारम्",
+     "meaning": "gate",
+     "base": "द्वार · door, gate",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "dvāram"
+    },
+    {
+     "word": "नाशनम्",
+     "meaning": "destructive",
+     "base": "नाशन · destroying (from √नश्)",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "nāśanam"
+    },
+    {
+     "word": "आत्मनः",
+     "meaning": "of the self",
+     "base": "आत्मन् · self",
+     "form": "noun, masculine, genitive singular (of)",
+     "iast": "ātmanaḥ"
+    },
+    {
+     "word": "कामः",
+     "meaning": "desire",
+     "base": "काम · desire, lust",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "kāmaḥ"
+    },
+    {
+     "word": "क्रोधः",
+     "meaning": "anger",
+     "base": "क्रोध · anger",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "krodhaḥ"
+    },
+    {
+     "word": "तथा",
+     "meaning": "and also",
+     "base": "so, likewise",
+     "form": "indeclinable",
+     "iast": "tathā"
+    },
+    {
+     "word": "लोभः",
+     "meaning": "greed",
+     "base": "लोभ · greed",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "lobhaḥ"
+    },
+    {
+     "word": "तस्मात्",
+     "meaning": "therefore",
+     "base": "therefore (from तद्, 'from that')",
+     "form": "indeclinable",
+     "iast": "tasmāt"
+    },
+    {
+     "word": "एतत्",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, accusative singular (agrees with त्रयम्)",
+     "iast": "etat"
+    },
+    {
+     "word": "त्रयम्",
+     "meaning": "three",
+     "base": "त्रय · triad, group of three",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "trayam"
+    },
+    {
+     "word": "त्यजेत्",
+     "meaning": "one should abandon",
+     "base": "√त्यज् · to give up",
+     "form": "verb, optative, 3rd person singular (one should)",
+     "iast": "tyajet"
     }
    ],
-   "explanation": "After fourteen verses of portrait, the practical distillation: hell has exactly three doors — kāma, krodha, lobha — and they open from the inside. The entire demonic catastrophe, traced back, passes through one of these hinges. The instruction is correspondingly finite: tyajet, drop these three, and the whole edifice of 16.7–20 loses its foundation. Diagnosis becomes doorkeeping. Tri-vidham narakasya dvaram — threefold is hell's gate: desire, anger, greed — the verse every Indian schoolchild once memorized as moral arithmetic. The commentaries stress the architecture: hell here has doors, not walls — entry is by passage, not by sentence, and the doors open from the inside. Tasmad etat trayam tyajet: the entire demonic catastrophe of the chapter, traced back, passes through three hinges a person can guard.",
+   "explanation": "After fourteen verses of portrait, the practical distillation: tri-vidhaṃ narakasya dvāram — hell has three doors, kāma, krodha, lobha: desire, anger, greed. Śaṅkara notes that merely entering them ruins the self, leaving it unfit for any human goal. The whole demonic catastrophe of 16.7–20, traced back, passes through one of these three hinges, and they open from the inside. The instruction is correspondingly finite: tasmād etat trayaṃ tyajet, drop these three, and the whole edifice loses its foundation. Diagnosis becomes doorkeeping.",
    "connection": "The chapter's actionable core: the vast darkness reduced to three guarded doors.",
-   "schools_note": null,
    "reflection": "Guard the three doors today by name: one craving declined, one anger cooled, one grasping opened.",
-   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here."
+   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here.",
+   "checked": "SGV",
+   "hook": "Which three passions open the door to self-destruction?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "By merely entering this door the self is ruined: it becomes unfit for any human goal. The verse is a praise of renouncing these three."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Dvāra means the path, the cause: these three are the cause of that dreadful hell, so they must be wholly given up."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Of all the demonic faults described, these three are the root of every fault, which is why they alone are singled out to be abandoned completely."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Lust, anger and greed are the roots of every demoniac vice, with anger and greed both growing out of lust. One who wants welfare should dread them and keep them out of one's personality."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -694,27 +2644,122 @@
    "translation": "A man who is liberated from these three gates to darkness, O Arjuna, practises what is good for him and thus goes to the Supreme Goal.",
    "anvaya": [
     {
-     "word": "एतैः विमुक्तः कौन्तेय",
-     "meaning": "released from these, O Kaunteya"
+     "word": "एतैः",
+     "meaning": "from these",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, instrumental plural (from, with विमुक्तः)",
+     "iast": "etaiḥ"
     },
     {
-     "word": "तमोद्वारैः त्रिभिः नरः",
-     "meaning": "the three gates of darkness, a person"
+     "word": "विमुक्तः",
+     "meaning": "freed",
+     "base": "वि + √मुच् · to release",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "vimuktaḥ"
     },
     {
-     "word": "आचरति आत्मनः श्रेयः",
-     "meaning": "practices the good of the self"
+     "word": "कौन्तेय",
+     "meaning": "O son of Kuntī",
+     "base": "कौन्तेय · son of Kuntī",
+     "form": "vocative (calling Arjuna)",
+     "iast": "kaunteya"
     },
     {
-     "word": "ततः याति परां गतिम्",
-     "meaning": "thence goes to the supreme goal"
+     "word": "तमोद्वारैः",
+     "meaning": "gates of darkness",
+     "base": "तमोद्वार · gate to darkness",
+     "form": "noun, neuter, instrumental plural (from)",
+     "parts": "तमस् (darkness) + द्वार (gate): gates leading to darkness",
+     "iast": "tamodvāraiḥ"
+    },
+    {
+     "word": "त्रिभिः",
+     "meaning": "three",
+     "base": "त्रि · three",
+     "form": "numeral, neuter, instrumental plural",
+     "iast": "tribhiḥ"
+    },
+    {
+     "word": "नरः",
+     "meaning": "a person",
+     "base": "नर · man, person",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "naraḥ"
+    },
+    {
+     "word": "आचरति",
+     "meaning": "practises",
+     "base": "आ + √चर् · to practise, do",
+     "form": "verb, present, 3rd person singular",
+     "iast": "ācarati"
+    },
+    {
+     "word": "आत्मनः",
+     "meaning": "for oneself",
+     "base": "आत्मन् · self",
+     "form": "noun, masculine, genitive singular (of, for the self)",
+     "iast": "ātmanaḥ"
+    },
+    {
+     "word": "श्रेयः",
+     "meaning": "what is good",
+     "base": "श्रेयस् · the better, the good",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "śreyaḥ"
+    },
+    {
+     "word": "ततः",
+     "meaning": "thereby",
+     "base": "from that, then",
+     "form": "indeclinable",
+     "iast": "tataḥ"
+    },
+    {
+     "word": "याति",
+     "meaning": "goes, reaches",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "yāti"
+    },
+    {
+     "word": "पराम्",
+     "meaning": "supreme",
+     "base": "पर · highest, supreme",
+     "form": "adjective, feminine, accusative singular (agrees with गतिम्)",
+     "iast": "parām"
+    },
+    {
+     "word": "गतिम्",
+     "meaning": "state, goal",
+     "base": "गति · going, course, goal",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "gatim"
     }
    ],
    "explanation": "The positive corollary, with a quiet insight tucked inside: ācaraty ātmanaḥ śreyaḥ — only *after* release from the three does one even begin practicing one's own true good. Desire, anger and greed do not merely cause suffering; they impersonate the self's interests so well that genuine self-care is impossible while they govern. Freedom from them is where real life starts.",
    "connection": "Mirror of 16.21: the three doors closed, the road of the whole Gita reopens.",
-   "schools_note": null,
    "reflection": "Notice what genuine self-care becomes possible the hour the three doormen are off duty.",
-   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here."
+   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here.",
+   "checked": "SGV",
+   "hook": "What opens up once desire, anger and greed are left behind?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Blocked by these three, one could not strive before; once they are gone one strives for the good and gains Liberation, and happiness here as well. Scripture is the means to both."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The three cause false knowledge about the Lord; freed of them, one comes to know Him, turns toward Him, and reaches the supreme goal, which is the Lord Himself."
+    },
+    {
+     "lens": "bhakti",
+     "text": "'Practising one's good' means practising the means to it, such as austerity and yoga; from that comes liberation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "While these three remain, one chases pleasure that is sweet now and bitter later. Freed of them, the intellect chooses the good that is hard at first but sweet in the end, and moves toward the supreme goal."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -726,27 +2771,130 @@
    "translation": "He who, having cast aside the ordinances of the scriptures, acts under the impulse of desire, attains not perfection, nor happiness nor the Supreme Goal.",
    "anvaya": [
     {
-     "word": "यः शास्त्रविधिम् उत्सृज्य",
-     "meaning": "who, casting aside the scripture's rule"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular",
+     "iast": "yaḥ"
     },
     {
-     "word": "वर्तते कामकारतः",
-     "meaning": "acts from the impulse of desire"
+     "word": "शास्त्रविधिम्",
+     "meaning": "scriptural injunction",
+     "base": "शास्त्रविधि · rule of scripture",
+     "form": "noun, masculine, accusative singular (object)",
+     "parts": "शास्त्र (scripture) + विधि (injunction): the rule laid down by scripture",
+     "iast": "śāstravidhim"
     },
     {
-     "word": "न सः सिद्धिम् अवाप्नोति",
-     "meaning": "that one attains not perfection"
+     "word": "उत्सृज्य",
+     "meaning": "casting aside",
+     "base": "उद् + √सृज् · to let go, discard",
+     "form": "gerund (having cast aside)",
+     "iast": "utsṛjya"
     },
     {
-     "word": "न सुखं न परां गतिम्",
-     "meaning": "nor happiness, nor the supreme goal"
+     "word": "वर्तते",
+     "meaning": "acts, lives",
+     "base": "√वृत् · to turn, exist, act",
+     "form": "verb, present, middle, 3rd person singular",
+     "iast": "vartate"
+    },
+    {
+     "word": "कामकारतः",
+     "meaning": "by the impulse of desire",
+     "base": "कामकार · acting as one pleases",
+     "form": "indeclinable (adverb: from, by way of)",
+     "parts": "काम (desire) + कार (doing): doing as desire dictates",
+     "iast": "kāmakārataḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (he)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "सिद्धिम्",
+     "meaning": "perfection",
+     "base": "सिद्धि · accomplishment, perfection",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "siddhim"
+    },
+    {
+     "word": "अवाप्नोति",
+     "meaning": "attains",
+     "base": "अव + √आप् · to obtain",
+     "form": "verb, present, 3rd person singular",
+     "iast": "avāpnoti"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "सुखम्",
+     "meaning": "happiness",
+     "base": "सुख · happiness",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "sukham"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "पराम्",
+     "meaning": "supreme",
+     "base": "पर · highest, supreme",
+     "form": "adjective, feminine, accusative singular (agrees with गतिम्)",
+     "iast": "parām"
+    },
+    {
+     "word": "गतिम्",
+     "meaning": "state, goal",
+     "base": "गति · going, course, goal",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "gatim"
     }
    ],
-   "explanation": "The closing argument: why śāstra at all? Because kāma-kārataḥ — 'desire-driven' — is the only alternative compass, and the chapter has just spent twenty verses showing where it navigates. Scripture here is not arbitrary command but accumulated sight: the recorded vision of those who saw the road's whole length. Discarding the map, one steers by appetite — and appetite, 16.10 said, has no destination at all.",
+   "explanation": "The closing argument: why śāstra at all? Because kāma-kārataḥ — 'desire-driven' — is the only alternative compass, and the chapter has just spent fourteen verses showing where it navigates. Scripture here is not arbitrary command but a measure outside oneself; for Rāmānuja it is the Lord's own injunction, the Veda. Discarding the map, one steers by appetite — and appetite, 16.10 said, can never be filled: no perfection, no happiness, no supreme goal.",
    "connection": "Grounds the chapter's ethics: without a measure beyond desire, 16.13's monologue becomes the only voice.",
-   "schools_note": null,
    "reflection": "Ask of one impulse today: is this guided by anything beyond appetite? If not, consult the map.",
-   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here."
+   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here.",
+   "checked": "SGV",
+   "hook": "What do you lose by ignoring scripture and following every impulse?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Śāstra is the source of knowing duty and non-duty, as injunction and prohibition. Siddhi is fitness for Liberation; sukha is happiness even in this world."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Śāstra means the Vedas, the Lord's own injunction; abandoning it, one gains no attainment hereafter and not the slightest happiness here."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Giving up desire and the rest is impossible without doing one's own dharma; siddhi here is knowledge of truth and sukha is inner calm."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Scriptures are guide maps, telling what to do and what not to do. Those who reverse them and follow their whims gain neither true knowledge, nor real happiness, nor liberation."
+    }
+   ]
   },
   {
    "chapter": 16,
@@ -758,27 +2906,119 @@
    "translation": "Therefore, let the scripture be thy authority in determining what ought to be done and what ought not to be done. Having known what is said in the ordinance of the scriptures, thou shouldst act here in this world.",
    "anvaya": [
     {
-     "word": "तस्मात् शास्त्रं प्रमाणं ते",
-     "meaning": "therefore, scripture is your measure"
+     "word": "तस्मात्",
+     "meaning": "therefore",
+     "base": "therefore (from तद्, 'from that')",
+     "form": "indeclinable",
+     "iast": "tasmāt"
+    },
+    {
+     "word": "शास्त्रम्",
+     "meaning": "scripture",
+     "base": "शास्त्र · teaching, scripture",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "śāstram"
+    },
+    {
+     "word": "प्रमाणम्",
+     "meaning": "authority, measure",
+     "base": "प्रमाण · measure, means of valid knowledge",
+     "form": "noun, neuter, nominative singular (what scripture is)",
+     "iast": "pramāṇam"
+    },
+    {
+     "word": "ते",
+     "meaning": "your, for you",
+     "base": "युष्मद् · you",
+     "form": "pronoun, short genitive singular (your)",
+     "iast": "te"
     },
     {
      "word": "कार्याकार्यव्यवस्थितौ",
-     "meaning": "in settling the to-be-done and not-to-be-done"
+     "meaning": "in deciding right and wrong action",
+     "base": "कार्याकार्यव्यवस्थिति · settling what to do and not do",
+     "form": "noun, feminine, locative singular (in, regarding)",
+     "parts": "कार्य (to be done) + अकार्य (not to be done) + व्यवस्थिति (determination): in determining what should and should not be done",
+     "iast": "kāryākāryavyavasthitau"
     },
     {
-     "word": "ज्ञात्वा शास्त्रविधानोक्तं",
-     "meaning": "knowing what scripture's ordinance declares"
+     "word": "ज्ञात्वा",
+     "meaning": "having known",
+     "base": "√ज्ञा · to know",
+     "form": "gerund (having known)",
+     "iast": "jñātvā"
     },
     {
-     "word": "कर्म कर्तुम् इह अर्हसि",
-     "meaning": "you should perform action here"
+     "word": "शास्त्रविधानोक्तम्",
+     "meaning": "declared by scriptural rule",
+     "base": "शास्त्रविधानोक्त · stated in scripture's rules",
+     "form": "adjective, neuter, accusative singular (agrees with कर्म)",
+     "parts": "शास्त्र (scripture) + विधान (rule) + उक्त (stated): what is stated by the rule of scripture",
+     "iast": "śāstravidhānoktam"
+    },
+    {
+     "word": "कर्म",
+     "meaning": "action, duty",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "karma"
+    },
+    {
+     "word": "कर्तुम्",
+     "meaning": "to perform",
+     "base": "√कृ · to do",
+     "form": "infinitive (to do)",
+     "iast": "kartum"
+    },
+    {
+     "word": "इह",
+     "meaning": "here, in this world",
+     "base": "here",
+     "form": "indeclinable",
+     "iast": "iha"
+    },
+    {
+     "word": "अर्हसि",
+     "meaning": "you should",
+     "base": "√अर्ह् · to be fit, ought",
+     "form": "verb, present, 2nd person singular (you ought)",
+     "iast": "arhasi"
     }
    ],
-   "explanation": "The chapter ends not in fear but in orientation: pramāṇam, a *measure* — desire measures everything by appetite; the asura by self; the seeker needs a standard outside both. Jñātvā... kartum arhasi: know, *then* act — scripture as informed compass, not blind cage; the Gita itself will soon (18.63) tell Arjuna to deliberate and choose freely. Between the two ledgers of this chapter, a measuring-line is placed in the listener's hand. Tasmach chhastram pramanam te — therefore let scripture be your measure: the chapter's closing compass, and the commentaries are careful with its force. Pramana means an instrument of valid knowing, not a cage: the verse installs a standard outside appetite, because the alternative compass (kama-karatah, desire-driven) has just been shown navigating to ruin. Jnatva... kartum arhasi — know, then act: informed conduct, not blind compliance; the Gita itself will end by saying 'deliberate, then do as you choose.'",
+   "explanation": "The chapter ends not in fear but in orientation: tasmāc chāstraṃ pramāṇaṃ te — let scripture be your measure. Pramāṇa is a means of valid knowing: desire measures everything by appetite, the asura by self, and the seeker needs a standard outside both, because kāma-kārataḥ has just been shown navigating to ruin. The commentators read the line firmly: for Rāmānuja the śāstra is the only authority, and Abhinavagupta warns against settling right and wrong by one's own reasoning. Jñātvā… kartum arhasi: know, then act. The Gita itself will end (18.63) by telling Arjuna to reflect fully and then do as he chooses.",
    "connection": "Closes the two-natures teaching with a compass — and opens ch17's question: what of those who act in faith beyond the rules?",
-   "schools_note": null,
    "reflection": "Keep a measure outside your moods today — let something steadier than desire settle one decision.",
-   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here."
+   "background": "The chapter closes with diagnosis and compass: threefold is the gate of this hell, destructive of the self — desire, anger, greed; therefore abandon these three. The one released from these three gates of darkness practices what is good and reaches the supreme goal. So let scripture be your measure in what is to be done and not done — knowing the scriptural rule, perform your work here.",
+   "checked": "SGV",
+   "hook": "How can you know what you should and should not do?",
+   "refs": [
+    {
+     "source": "Manu Smṛti 12.97",
+     "note": "Every spiritual principle, past, present or future, must be established on the basis of the Vedas, which is why scripture is the measure of action."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Pramāṇa is the means of knowing what to do and avoid, as precepts 'do this', 'do not do that'. 'Here' marks the sphere in which one is entitled to act."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Śāstra, the Vedas supplemented by Dharma-śāstras, Itihāsas and Purāṇas, is the only authority; its enjoined acts are means of reaching and pleasing the Supreme Person."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Whoever rejects the injunctions and decides by his own intellect what to do falls; so do not settle right and wrong by your own reasoning."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Act according to your own entitlement, because purity of mind, right knowledge and liberation all have scripture for their root."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Following the heart is not enough, since the heart can mislead. The Vedic scriptures are the final authority on right action, so one should understand them and act by them."
+    }
+   ]
   }
  ]
 }

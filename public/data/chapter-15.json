@@ -15,34 +15,145 @@
   {
    "chapter": 15,
    "verse": 1,
-   "speaker": null,
-   "devanagari": "श्रीभगवानुवाच ।\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्॥",
+   "speaker": "श्रीभगवानुवाच",
+   "devanagari": "ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्॥",
    "transliteration": "ūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam\nchandāṃsi yasya parṇāni yastaṃ veda sa vedavit",
    "essence": "The Blessed Lord says: they speak of the imperishable ashvattha tree, its roots above, its branches below, whose leaves are the Vedic hymns. One who knows it is a knower of the Veda.",
    "translation": "They (the wise) speak of the indestructible peepul tree having its root above and branches below, whose leaves are the metres or hymns: he who knows it is a knower of the Vedas.",
    "anvaya": [
     {
-     "word": "ऊर्ध्वमूलम् अधःशाखम्",
-     "meaning": "with roots above, branches below"
+     "word": "ऊर्ध्वमूलम्",
+     "meaning": "having its root above",
+     "base": "ऊर्ध्वमूल · root-above",
+     "form": "compound adjective, masculine, accusative singular (object)",
+     "parts": "ऊर्ध्व (above) + मूल (root): that whose root is above",
+     "iast": "ūrdhvamūlam"
     },
     {
-     "word": "अश्वत्थं प्राहुः अव्ययम्",
-     "meaning": "the ashvattha, they call imperishable"
+     "word": "अधःशाखम्",
+     "meaning": "having its branches below",
+     "base": "अधःशाख · branch-below",
+     "form": "compound adjective, masculine, accusative singular (object)",
+     "parts": "अधस् (below) + शाखा (branch): that whose branches are below",
+     "iast": "adhaḥśākham"
     },
     {
-     "word": "छन्दांसि यस्य पर्णानि",
-     "meaning": "whose leaves are the Vedic hymns"
+     "word": "अश्वत्थम्",
+     "meaning": "the sacred fig tree",
+     "base": "अश्वत्थ · peepul, sacred fig",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "aśvattham"
     },
     {
-     "word": "यः तं वेद सः वेदवित्",
-     "meaning": "who knows it — that one is a Veda-knower"
+     "word": "प्राहुः",
+     "meaning": "they speak of",
+     "base": "√अह् with प्र · to say, declare",
+     "form": "verb, perfect form with present sense, 3rd person plural",
+     "iast": "prāhuḥ"
+    },
+    {
+     "word": "अव्ययम्",
+     "meaning": "imperishable",
+     "base": "अव्यय · undecaying, imperishable",
+     "form": "adjective, masculine, accusative singular (object)",
+     "iast": "avyayam"
+    },
+    {
+     "word": "छन्दांसि",
+     "meaning": "the Vedic hymns",
+     "base": "छन्दस् · metre, Vedic hymn",
+     "form": "noun, neuter, nominative plural (subject)",
+     "iast": "chandāṃsi"
+    },
+    {
+     "word": "यस्य",
+     "meaning": "whose, of which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, genitive singular (of which)",
+     "iast": "yasya"
+    },
+    {
+     "word": "पर्णानि",
+     "meaning": "leaves",
+     "base": "पर्ण · leaf",
+     "form": "noun, neuter, nominative plural (subject)",
+     "iast": "parṇāni"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "तम्",
+     "meaning": "it, that tree",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, accusative singular (object)",
+     "iast": "tam"
+    },
+    {
+     "word": "वेद",
+     "meaning": "knows",
+     "base": "√विद् · to know",
+     "form": "verb, perfect form with present sense, 3rd person singular",
+     "iast": "veda"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "वेदवित्",
+     "meaning": "a knower of the Veda",
+     "base": "वेदविद् · Veda-knower",
+     "form": "compound noun, masculine, nominative singular (subject)",
+     "parts": "वेद (Veda) + विद् (knower): one who knows the Veda",
+     "iast": "vedavit"
     }
    ],
-   "explanation": "The chapter opens with the strangest tree in scripture: an ashvattha — the sacred fig — growing upside down, rooted in the Above, branching downward into the world. The cosmos as inverted tree: nourishment flows from a root we cannot see, and what looks like the ground of things is actually the foliage. The leaves are the Vedas themselves — even revelation is part of the canopy, not the root. Urdhva-mulam adhah-shakham — the inverted ashvattha, roots above, branches below: the image the Katha Upanishad (6.1) holds and the Gita unfolds. The commentaries read the botany closely: nourishment descends from an unseen root; the visible world is canopy, not ground. Chandamsi yasya parnani — the Vedas as leaves: even scripture photosynthesizes for the tree; it is not the root. Yas tam veda sa veda-vit: to know the tree's true orientation is to know what the Vedas are for.",
+   "explanation": "The chapter opens with the strangest tree in scripture: an ashvattha, the sacred fig, growing upside down — rooted in the Above, branching downward into the world. Urdhva-mulam adhah-shakham is the image the Katha Upanishad (6.1) holds and the Gita unfolds. Nourishment flows from a root we cannot see, and what looks like the ground of things is actually the foliage. Chandamsi yasya parnani: the leaves are the Vedas themselves — even revelation belongs to the canopy, feeding the tree rather than being its root. Yas tam veda sa veda-vit: to know the tree's true orientation is to know what the Vedas are for.",
    "connection": "Opens the chapter's master-image (15.1–4): existence as a tree to be understood, then felled.",
-   "schools_note": null,
    "reflection": "Picture the inverted tree once today: nourishment descending from a root above — and locate your sap.",
-   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person."
+   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person.",
+   "checked": "SGV",
+   "hook": "What does the upside-down tree with roots above stand for?",
+   "refs": [
+    {
+     "source": "Kaṭha Upaniṣad 2.3.1",
+     "note": "Describes the same eternal aśvattha tree with roots above and branches below."
+    },
+    {
+     "source": "Taittirīya Āraṇyaka 1.11.5",
+     "note": "Those who know the tree with upward roots do not believe death can end them."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The 'upward' root is Brahman with its unmanifest power of Māyā. Aśvattha is glossed as 'not lasting till tomorrow': a world perishing every moment, yet called imperishable because its flow has no beginning."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The root above is Brahmā the creator, seated above the worlds. The Vedas are the leaves because rites done for worldly desires make the tree flourish, yet the Vedas also teach how to fell it."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The root above is Puruṣottama, higher than perishable and imperishable. The chapter teaches knowledge seasoned with dispassion, because neither single-minded devotion nor knowledge is possible for one who is not detached."
+    },
+    {
+     "lens": "practice",
+     "text": "The tree is only a metaphor; it is called eternal because nothing but the axe of knowledge can cut it, and it is the Lord's grace that removes the veil of ignorance."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The ever-changing world is a tree rooted in God, its leaves the Vedic rituals that keep souls cycling between heaven and earth; the true knower of the Vedas understands how to cut it down."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -54,59 +165,315 @@
    "translation": "Below and above spread its branches, nourished by the Gunas; sense-objects are its buds; and below, in the world of men, stretch forth the roots, originating action.",
    "anvaya": [
     {
-     "word": "अधः च ऊर्ध्वं प्रसृताः",
-     "meaning": "below and above, spread out"
+     "word": "अधः",
+     "meaning": "below, downward",
+     "base": "below, downward",
+     "form": "indeclinable",
+     "iast": "adhaḥ"
     },
     {
-     "word": "तस्य शाखाः गुणप्रवृद्धाः",
-     "meaning": "its branches, nourished by the gunas"
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "ऊर्ध्वम्",
+     "meaning": "above, upward",
+     "base": "ऊर्ध्व · upward, high",
+     "form": "adverb (neuter accusative used as indeclinable)",
+     "iast": "ūrdhvam"
+    },
+    {
+     "word": "प्रसृताः",
+     "meaning": "spread out",
+     "base": "√सृ with प्र · to flow forth, extend",
+     "form": "past participle, feminine, nominative plural (agrees with branches)",
+     "iast": "prasṛtāḥ"
+    },
+    {
+     "word": "तस्य",
+     "meaning": "its",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, genitive singular (of it)",
+     "iast": "tasya"
+    },
+    {
+     "word": "शाखाः",
+     "meaning": "branches",
+     "base": "शाखा · branch",
+     "form": "noun, feminine, nominative plural (subject)",
+     "iast": "śākhāḥ"
+    },
+    {
+     "word": "गुणप्रवृद्धाः",
+     "meaning": "nourished by the gunas",
+     "base": "गुणप्रवृद्ध · guna-grown",
+     "form": "compound adjective, feminine, nominative plural",
+     "parts": "गुण (quality of nature) + प्रवृद्ध (grown strong): grown strong by the gunas",
+     "iast": "guṇapravṛddhāḥ"
     },
     {
      "word": "विषयप्रवालाः",
-     "meaning": "with sense-objects as buds"
+     "meaning": "with sense-objects as shoots",
+     "base": "विषयप्रवाल · object-shooted",
+     "form": "compound adjective, feminine, nominative plural",
+     "parts": "विषय (sense-object) + प्रवाल (young shoot): whose shoots are sense-objects",
+     "iast": "viṣayapravālāḥ"
     },
     {
-     "word": "कर्मानुबन्धीनि मनुष्यलोके",
-     "meaning": "binding-by-karma, in the world of men"
+     "word": "अधः",
+     "meaning": "below, downward",
+     "base": "below, downward",
+     "form": "indeclinable",
+     "iast": "adhaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "मूलानि",
+     "meaning": "roots",
+     "base": "मूल · root",
+     "form": "noun, neuter, nominative plural (subject)",
+     "iast": "mūlāni"
+    },
+    {
+     "word": "अनुसन्ततानि",
+     "meaning": "stretched out continuously",
+     "base": "√तन् with अनु + सम् · to stretch, extend",
+     "form": "past participle, neuter, nominative plural",
+     "iast": "anusantatāni"
+    },
+    {
+     "word": "कर्मानुबन्धीनि",
+     "meaning": "binding through action",
+     "base": "कर्मानुबन्धिन् · action-binding",
+     "form": "compound adjective, neuter, nominative plural",
+     "parts": "कर्म (action) + अनुबन्धिन् (binding, followed by): which bind one to action, with action following",
+     "iast": "karmānubandhīni"
+    },
+    {
+     "word": "मनुष्यलोके",
+     "meaning": "in the human world",
+     "base": "मनुष्यलोक · world of humans",
+     "form": "compound noun, masculine, locative singular (in/on)",
+     "parts": "मनुष्य (human) + लोक (world): the world of humans",
+     "iast": "manuṣyaloke"
     }
    ],
    "explanation": "The botany of bondage: branches fattened by the three gunas of chapter 14, tipped with viṣaya-pravālāḥ — sense-objects as tender new shoots, each enticement a fresh bud. And a second root-system: aerial roots, like the banyan's, dropping back down into human life and re-anchoring there as karma. The tree propagates through our actions; every grasping deed is a root striking soil.",
    "connection": "Maps ch14's gunas onto the tree: how the world-growth feeds, buds, and re-roots itself in us.",
-   "schools_note": null,
    "reflection": "Spot one fresh bud of enticement today — a viṣaya-shoot — and watch it without watering it.",
-   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person."
+   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person.",
+   "checked": "SGV",
+   "hook": "What feeds the branches and roots of the world-tree?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The secondary roots are latent impressions of attraction and repulsion born of past action. They spread above all in the human world, because only humans are qualified for rites and duties."
+    },
+    {
+     "lens": "shaiva",
+     "text": "As a tree's leaves show its girth, fruit and taste, the Vedic hymns point to Brahman; the roots spreading below are good and bad actions."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Wrongdoers spread downward into animal births and the virtuous upward into divine ones. The one main root is the Lord; these lesser roots are desires for particular enjoyments, which bind through action."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The three qualities water the tree; sense objects are its buds, sprouting desires like a banyan's aerial roots, and acting on them makes the tree spread and entangles the soul further."
+    }
+   ]
   },
   {
    "chapter": 15,
    "verse": 3,
    "speaker": null,
-   "devanagari": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा ।\nअश्वत्थमेनं सुविरूढमूलं\nअसङ्गशस्त्रेण दृढेन छित्त्वा॥",
-   "transliteration": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā\naśvatthamenaṃ suvirūḍhamūlaṃ asaṅgaśastreṇa dṛḍhena chittvā",
+   "devanagari": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा ।\nअश्वत्थमेनं सुविरूढमूल-\nमसङ्गशस्त्रेण दृढेन छित्त्वा॥",
+   "transliteration": "na rūpamasyeha tathopalabhyate nānto na cādirna ca sampratiṣṭhā\naśvatthamenaṃ suvirūḍhamūlamasaṅgaśastreṇa dṛḍhena chittvā",
    "essence": "Its form is not perceived here as such — not its end, nor its beginning, nor its foundation. Having cut this firm-rooted ashvattha with the strong axe of non-attachment —",
    "translation": "Its form is not perceived here as such, neither its end nor its origin, nor its foundation nor resting place: having cut asunder this firmly rooted peepul tree with the strong axe of non-attachment.",
    "anvaya": [
     {
-     "word": "न रूपम् अस्य इह तथा उपलभ्यते",
-     "meaning": "its form is not thus perceived here"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
     },
     {
-     "word": "न अन्तः न च आदिः न च सम्प्रतिष्ठा",
-     "meaning": "no end, no beginning, no foundation"
+     "word": "रूपम्",
+     "meaning": "form",
+     "base": "रूप · form, shape",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "rūpam"
     },
     {
-     "word": "अश्वत्थम् एनं सुविरूढमूलम्",
-     "meaning": "this ashvattha, with well-grown roots"
+     "word": "अस्य",
+     "meaning": "its",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, genitive singular (of it)",
+     "iast": "asya"
     },
     {
-     "word": "असङ्गशस्त्रेण दृढेन छित्त्वा",
-     "meaning": "having cut with the firm axe of non-attachment"
+     "word": "इह",
+     "meaning": "here, in this world",
+     "base": "here",
+     "form": "indeclinable",
+     "iast": "iha"
+    },
+    {
+     "word": "तथा",
+     "meaning": "as such, in that way",
+     "base": "so, thus",
+     "form": "indeclinable",
+     "iast": "tathā"
+    },
+    {
+     "word": "उपलभ्यते",
+     "meaning": "is perceived",
+     "base": "√लभ् with उप · to obtain, perceive",
+     "form": "verb, passive, present, 3rd person singular",
+     "iast": "upalabhyate"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "अन्तः",
+     "meaning": "end",
+     "base": "अन्त · end, limit",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "antaḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "आदिः",
+     "meaning": "beginning",
+     "base": "आदि · beginning",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "ādiḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "सम्प्रतिष्ठा",
+     "meaning": "foundation, continuance",
+     "base": "सम्प्रतिष्ठा · firm standing, basis",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "sampratiṣṭhā"
+    },
+    {
+     "word": "अश्वत्थम्",
+     "meaning": "the sacred fig tree",
+     "base": "अश्वत्थ · peepul, sacred fig",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "aśvattham"
+    },
+    {
+     "word": "एनम्",
+     "meaning": "this",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative singular (object)",
+     "iast": "enam"
+    },
+    {
+     "word": "सुविरूढमूलम्",
+     "meaning": "firmly rooted",
+     "base": "सुविरूढमूल · well-rooted",
+     "form": "compound adjective, masculine, accusative singular (object)",
+     "parts": "सु (well) + विरूढ (grown) + मूल (root): whose roots have grown deep",
+     "iast": "suvirūḍhamūlam"
+    },
+    {
+     "word": "असङ्गशस्त्रेण",
+     "meaning": "with the axe of non-attachment",
+     "base": "असङ्गशस्त्र · non-attachment weapon",
+     "form": "compound noun, neuter, instrumental singular (by means of)",
+     "parts": "असङ्ग (non-attachment) + शस्त्र (weapon, blade): the weapon that is non-attachment",
+     "iast": "asaṅgaśastreṇa"
+    },
+    {
+     "word": "दृढेन",
+     "meaning": "strong",
+     "base": "दृढ · firm, strong",
+     "form": "adjective, neuter, instrumental singular (by means of)",
+     "iast": "dṛḍhena"
+    },
+    {
+     "word": "छित्त्वा",
+     "meaning": "having cut down",
+     "base": "√छिद् · to cut",
+     "form": "gerund (having done)",
+     "iast": "chittvā"
     }
    ],
    "explanation": "Standing inside the canopy, no one can see the whole tree — no edge, no origin, no trunk to point to; we are leaves trying to survey the forest. So the instruction is not to map it but to fell it: asaṅga-śastreṇa, with the axe of non-attachment, dṛḍhena, swung firm. The one tree in scripture that is sacred *and* must be cut down — because what it grows is entanglement.",
    "connection": "The image turns from contemplation to action: the unsurveyable tree meets the axe of 15.3–4.",
-   "schools_note": null,
    "reflection": "Stop trying to map the whole forest today; sharpen the axe of non-attachment on one branch instead.",
-   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person."
+   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person.",
+   "checked": "SG",
+   "hook": "With what can the tree of worldly existence be cut down?",
+   "refs": [
+    {
+     "source": "Chaitanya Charitāmṛta, Madhya Līlā 20.117-118",
+     "note": "The soul, forgetful of God, is lifted to heaven and dropped to hell by material energy, showing the endless tossing within this tree."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Its form is not grasped because, like a dream or a mirage, it is gone as soon as it is seen. The sword of detachment is hardened by resolve toward the Self and sharpened by repeated discrimination."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "People in saṃsāra perceive only 'I am a man, son of so-and-so'. They miss that attachment to the guṇas is the tree's beginning and that ignorance, taking the body for the self, is its support."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Asaṅga means giving up 'I' and 'mine'; the strong weapon is right inquiry, which cuts the tree away from oneself."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Souls lured by sense objects and rituals are tossed up and down through births; the tree can be felled only with the axe of detachment, which grows from knowing oneself as an eternal soul."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -118,59 +485,298 @@
    "translation": "Then That goal should be sought for, whither having gone none returns again. I seek refuge in that Primeval Purusha Whence streamed forth the ancient activity or energy.",
    "anvaya": [
     {
-     "word": "ततः पदं तत् परिमार्गितव्यं",
-     "meaning": "then that goal is to be sought out"
+     "word": "ततः",
+     "meaning": "then",
+     "base": "then, thereafter",
+     "form": "indeclinable",
+     "iast": "tataḥ"
     },
     {
-     "word": "यस्मिन् गताः न निवर्तन्ति भूयः",
-     "meaning": "gone to which, they return no more"
+     "word": "पदम्",
+     "meaning": "the goal, the state",
+     "base": "पद · step, place, state",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "padam"
     },
     {
-     "word": "तम् एव च आद्यं पुरुषं प्रपद्ये",
-     "meaning": "'in that very primal Purusha I take refuge'"
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "tat"
     },
     {
-     "word": "यतः प्रवृत्तिः प्रसृता पुराणी",
-     "meaning": "from whom the ancient activity streamed forth"
+     "word": "परिमार्गितव्यम्",
+     "meaning": "must be sought",
+     "base": "√मार्ग् with परि · to search out",
+     "form": "gerundive (must be done), neuter, nominative singular",
+     "iast": "parimārgitavyam"
+    },
+    {
+     "word": "यस्मिन्",
+     "meaning": "where, into which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, locative singular (in/into)",
+     "iast": "yasmin"
+    },
+    {
+     "word": "गताः",
+     "meaning": "having gone",
+     "base": "√गम् · to go",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "gatāḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "निवर्तन्ति",
+     "meaning": "return",
+     "base": "√वृत् with नि · to turn back",
+     "form": "verb, present, 3rd person plural",
+     "iast": "nivartanti"
+    },
+    {
+     "word": "भूयः",
+     "meaning": "again",
+     "base": "again, once more",
+     "form": "indeclinable",
+     "iast": "bhūyaḥ"
+    },
+    {
+     "word": "तम्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, accusative singular (object)",
+     "iast": "tam"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "आद्यम्",
+     "meaning": "primal, first",
+     "base": "आद्य · first, original",
+     "form": "adjective, masculine, accusative singular (object)",
+     "iast": "ādyam"
+    },
+    {
+     "word": "पुरुषम्",
+     "meaning": "Person",
+     "base": "पुरुष · person, spirit",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "puruṣam"
+    },
+    {
+     "word": "प्रपद्ये",
+     "meaning": "I take refuge",
+     "base": "√पद् with प्र · to go to, take refuge",
+     "form": "verb, present, middle voice, 1st person singular",
+     "iast": "prapadye"
+    },
+    {
+     "word": "यतः",
+     "meaning": "from whom",
+     "base": "from which, whence",
+     "form": "indeclinable",
+     "iast": "yataḥ"
+    },
+    {
+     "word": "प्रवृत्तिः",
+     "meaning": "the stream of activity",
+     "base": "प्रवृत्ति · going forth, activity",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "pravṛttiḥ"
+    },
+    {
+     "word": "प्रसृता",
+     "meaning": "has streamed forth",
+     "base": "√सृ with प्र · to flow forth",
+     "form": "past participle, feminine, nominative singular",
+     "iast": "prasṛtā"
+    },
+    {
+     "word": "पुराणी",
+     "meaning": "ancient",
+     "base": "पुराण · ancient",
+     "form": "adjective, feminine, nominative singular",
+     "iast": "purāṇī"
     }
    ],
    "explanation": "After the felling, the seeking — and the verse hands the seeker the exact words: tam eva cādyaṁ puruṣaṁ prapadye, *I take refuge in the primal Person*. A mantra of surrender embedded mid-teaching, present tense, first person, ready to say. The destination is defined by its one-way door: yasmin gatā na nivartanti, no return — the same promise as 8.21, now reached by axe and refuge together.",
    "connection": "Completes the tree-teaching: cut the growth, then trace the sap back to the root and surrender there.",
-   "schools_note": null,
    "reflection": "Say the planted mantra once, slowly: I take refuge in that primal Purusha — and mean the present tense.",
-   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person."
+   "background": "Krishna opens with the tradition's strangest tree: the eternal ashvattha with roots above and branches below, whose leaves are the Vedic hymns — its form not perceivable here, no end, no beginning, no resting place. Cut this firm-rooted tree with the strong axe of non-attachment, he commands, and seek that goal from which none return, surrendering to the primal Person.",
+   "checked": "GV",
+   "hook": "Once the tree is cut, what should one seek and take refuge in?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The state to be sought is Viṣṇu's. The seeking itself takes the form of refuge, 'I take refuge in that primeval Person', from whom the world-tree came forth like a magician's illusion."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Reads prapadye as an instruction: one should take refuge in the Primal Person alone, because the ancient flow of attachment to the guṇas streamed from Him and only He can end it."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The search for the root-state is carried out by single-minded devotion: one seeks it by saying, 'I go for refuge to that primal Person from whom this ancient flow spread.'"
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "After cutting the tree with detachment, one must seek and surrender to God, its root, the source from whom all creation flows, reaching whom there is no return."
+    }
+   ]
   },
   {
    "chapter": 15,
    "verse": 5,
    "speaker": null,
    "devanagari": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः ।\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्-\nगच्छन्त्यमूढाः पदमव्ययं तत्॥",
-   "transliteration": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñaira- gacchantyamūḍhāḥ padamavyayaṃ tat",
+   "transliteration": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ\ndvandvairvimuktāḥ sukhaduḥkhasaṃjñairgacchantyamūḍhāḥ padamavyayaṃ tat",
    "essence": "Free of pride and delusion, the fault of attachment conquered, ever dwelling in the Self, desires fully turned away, released from the pairs called pleasure and pain — the undeluded reach that imperishable goal.",
    "translation": "Free from pride and delusion, victorious over the evil of attachment, dwelling constantly in the Self, their desires having completely turned away, freed from the pairs of opposites known as pleasure and pain, the undeluded reach the eternal goal.",
    "anvaya": [
     {
-     "word": "निर्मानमोहाः जितसङ्गदोषाः",
-     "meaning": "without pride-delusion, attachment's fault conquered"
+     "word": "निर्मानमोहाः",
+     "meaning": "free of pride and delusion",
+     "base": "निर्मानमोह · pride-and-delusion-free",
+     "form": "compound adjective, masculine, nominative plural (subject)",
+     "parts": "निर् (without) + मान (pride) + मोह (delusion): those from whom pride and delusion have gone",
+     "iast": "nirmānamohāḥ"
     },
     {
-     "word": "अध्यात्मनित्याः विनिवृत्तकामाः",
-     "meaning": "constant in the Self, desires turned away"
+     "word": "जितसङ्गदोषाः",
+     "meaning": "who have conquered attachment's fault",
+     "base": "जितसङ्गदोष · attachment-fault-conquering",
+     "form": "compound adjective, masculine, nominative plural",
+     "parts": "जित (conquered) + सङ्ग (attachment) + दोष (fault): those by whom the fault of attachment is conquered",
+     "iast": "jitasaṅgadoṣāḥ"
     },
     {
-     "word": "द्वन्द्वैः विमुक्ताः सुखदुःखसंज्ञैः",
-     "meaning": "freed from the pairs named pleasure-pain"
+     "word": "अध्यात्मनित्याः",
+     "meaning": "ever dwelling in the Self",
+     "base": "अध्यात्मनित्य · Self-constant",
+     "form": "compound adjective, masculine, nominative plural",
+     "parts": "अध्यात्म (the inner Self) + नित्य (constant): those constantly given to the Self",
+     "iast": "adhyātmanityāḥ"
     },
     {
-     "word": "गच्छन्ति अमूढाः पदम् अव्ययं तत्",
-     "meaning": "the undeluded go to that imperishable goal"
+     "word": "विनिवृत्तकामाः",
+     "meaning": "whose desires have ceased",
+     "base": "विनिवृत्तकाम · desire-ceased",
+     "form": "compound adjective, masculine, nominative plural",
+     "parts": "विनिवृत्त (fully turned away) + काम (desire): those whose desires have turned away",
+     "iast": "vinivṛttakāmāḥ"
+    },
+    {
+     "word": "द्वन्द्वैः",
+     "meaning": "from the pairs of opposites",
+     "base": "द्वन्द्व · pair, pair of opposites",
+     "form": "noun, neuter, instrumental plural (by/from)",
+     "iast": "dvandvaiḥ"
+    },
+    {
+     "word": "विमुक्ताः",
+     "meaning": "freed",
+     "base": "√मुच् with वि · to release",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "vimuktāḥ"
+    },
+    {
+     "word": "सुखदुःखसंज्ञैः",
+     "meaning": "known as pleasure and pain",
+     "base": "सुखदुःखसंज्ञ · named pleasure-and-pain",
+     "form": "compound adjective, neuter, instrumental plural (agrees with the pairs)",
+     "parts": "सुख (pleasure) + दुःख (pain) + संज्ञा (name): which are called pleasure and pain",
+     "iast": "sukhaduḥkhasaṃjñaiḥ"
+    },
+    {
+     "word": "गच्छन्ति",
+     "meaning": "reach",
+     "base": "√गम् · to go",
+     "form": "verb, present, 3rd person plural",
+     "iast": "gacchanti"
+    },
+    {
+     "word": "अमूढाः",
+     "meaning": "the undeluded",
+     "base": "अमूढ · undeluded",
+     "form": "adjective used as noun, masculine, nominative plural (subject)",
+     "parts": "अ (not) + मूढ (deluded): those not deluded",
+     "iast": "amūḍhāḥ"
+    },
+    {
+     "word": "पदम्",
+     "meaning": "goal, state",
+     "base": "पद · step, place, state",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "padam"
+    },
+    {
+     "word": "अव्ययम्",
+     "meaning": "imperishable",
+     "base": "अव्यय · undecaying, imperishable",
+     "form": "adjective, neuter, accusative singular (object)",
+     "iast": "avyayam"
+    },
+    {
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "tat"
     }
    ],
-   "explanation": "The traveler's profile for the road of 15.4 — five released burdens in a single breath: pride, delusion, clinging, craving, and the seesaw of the pairs. Each item is something *put down*, not acquired; the journey to the imperishable is packed entirely by unpacking. Amūḍhāḥ, the undeluded: the only positive credential is clear sight.",
-   "connection": "Lists the equipment for 15.4's seeking — all of it subtraction.",
-   "schools_note": null,
+   "explanation": "The traveler's profile for the road of 15.4, in a single breath. Most of the list is something put down: pride and delusion, the fault of clinging, craving, the seesaw of the pairs called pleasure and pain. One item is held instead: adhyātma-nityāḥ, ever dwelling in the Self. The journey to the imperishable is packed mostly by unpacking, and what remains is steady attention to the Self. Amūḍhāḥ, the undeluded, names the result: clear sight.",
+   "connection": "Lists the equipment for 15.4's seeking — almost all of it subtraction, plus constancy in the Self.",
    "reflection": "Pack for the journey by unpacking today: set down pride, delusion, clinging — travel light.",
-   "background": "The travelers and the destination are described in two breaths: free of pride and delusion, attachment conquered, desires stilled, released from the pairs of pleasure and pain, the undeluded reach the imperishable goal — which neither sun nor moon nor fire illumines; having gone there, none return; that is My supreme abode."
+   "background": "The travelers and the destination are described in two breaths: free of pride and delusion, attachment conquered, desires stilled, released from the pairs of pleasure and pain, the undeluded reach the imperishable goal — which neither sun nor moon nor fire illumines; having gone there, none return; that is My supreme abode.",
+   "checked": "SGV",
+   "hook": "Who reaches the eternal state from which there is no return?",
+   "refs": [
+    {
+     "source": "Puruṣa Sūkta, mantra 3",
+     "note": "The material world is one part of creation, while three parts are God's eternal abode beyond birth and death."
+    },
+    {
+     "source": "Padma Purāṇa",
+     "note": "All moving and unmoving beings are servants of Lord Nārāyaṇa, the controller of the world."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "In jita-saṅga-doṣa, association itself is the fault. Vinivṛtta-kāmāḥ are those whose desires have gone without trace: the self-controlled, the monks."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Free of pride and delusion means no longer mistaking the body for the self. For those who take refuge in the Lord, every step until perfection becomes easy by His grace."
+    },
+    {
+     "lens": "practice",
+     "text": "Saṅga is the notion 'I am the doer', and likes and dislikes are its faults; one who stays even before pleasant and unpleasant objects has conquered it."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Surrender begins by dropping the pride of being the enjoyer and growing a desire to serve God; souls purified this way enter his eternal realm and remain there forever."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -182,27 +788,153 @@
    "translation": "Neither doth the sun illumine there nor the moon, nor the fire; having gone thither they return not; that is My supreme abode.",
    "anvaya": [
     {
-     "word": "न तत् भासयते सूर्यः",
-     "meaning": "that, the sun does not illumine"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
     },
     {
-     "word": "न शशाङ्कः न पावकः",
-     "meaning": "nor the moon, nor fire"
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "tat"
     },
     {
-     "word": "यत् गत्वा न निवर्तन्ते",
-     "meaning": "going whither, they return not"
+     "word": "भासयते",
+     "meaning": "illumines",
+     "base": "√भास् · to shine",
+     "form": "verb, causative (makes shine), present, 3rd person singular",
+     "iast": "bhāsayate"
     },
     {
-     "word": "तत् धाम परमं मम",
-     "meaning": "that is my supreme abode"
+     "word": "सूर्यः",
+     "meaning": "the sun",
+     "base": "सूर्य · sun",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "sūryaḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "शशाङ्कः",
+     "meaning": "the moon",
+     "base": "शशाङ्क · moon",
+     "form": "compound noun, masculine, nominative singular (subject)",
+     "parts": "शश (hare) + अङ्क (mark): the one marked with a hare",
+     "iast": "śaśāṅkaḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "पावकः",
+     "meaning": "fire",
+     "base": "पावक · purifier, fire",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "pāvakaḥ"
+    },
+    {
+     "word": "यत्",
+     "meaning": "which, to which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, accusative singular (object of going)",
+     "iast": "yat"
+    },
+    {
+     "word": "गत्वा",
+     "meaning": "having gone",
+     "base": "√गम् · to go",
+     "form": "gerund (having done)",
+     "iast": "gatvā"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "निवर्तन्ते",
+     "meaning": "they return",
+     "base": "√वृत् with नि · to turn back",
+     "form": "verb, present, middle voice, 3rd person plural",
+     "iast": "nivartante"
+    },
+    {
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, nominative singular (subject)",
+     "iast": "tat"
+    },
+    {
+     "word": "धाम",
+     "meaning": "abode",
+     "base": "धामन् · dwelling, abode, light",
+     "form": "noun, neuter, nominative singular",
+     "iast": "dhāma"
+    },
+    {
+     "word": "परमम्",
+     "meaning": "supreme",
+     "base": "परम · highest, supreme",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "paramam"
+    },
+    {
+     "word": "मम",
+     "meaning": "my",
+     "base": "अस्मद् · I",
+     "form": "pronoun, genitive singular (my)",
+     "iast": "mama"
     }
    ],
-   "explanation": "The destination described by what it does not need: sun, moon, fire — the three lamps of the manifest world — all unemployed there, because it is the light they borrow from. The Upanishads' great verse (Katha, Mundaka) quoted into the Gita: na tatra sūryo bhāti. Where light itself is at home, nothing needs lighting; and from home, no one commutes back.",
+   "explanation": "The destination described by what it does not need: sun, moon, fire — the three lamps of the manifest world — all unemployed there, because it is the light they borrow from. Here the Gita echoes the Upanishads' great verse (Katha, Mundaka), na tatra sūryo bhāti. Where light itself is at home, nothing needs lighting; and from home, no one commutes back.",
    "connection": "Names the journey's end — mama dhāma, *my* abode — and quietly personalizes the Upanishadic absolute.",
-   "schools_note": null,
    "reflection": "Spend a minute on the light that lamps cannot reach — sun, moon, fire all unemployed there.",
-   "background": "The travelers and the destination are described in two breaths: free of pride and delusion, attachment conquered, desires stilled, released from the pairs of pleasure and pain, the undeluded reach the imperishable goal — which neither sun nor moon nor fire illumines; having gone there, none return; that is My supreme abode."
+   "background": "The travelers and the destination are described in two breaths: free of pride and delusion, attachment conquered, desires stilled, released from the pairs of pleasure and pain, the undeluded reach the imperishable goal — which neither sun nor moon nor fire illumines; having gone there, none return; that is My supreme abode.",
+   "checked": "SGV",
+   "hook": "What is Krishna's abode like, which no sun or moon lights?",
+   "refs": [
+    {
+     "source": "Brahma Saṃhitā 43",
+     "note": "Golok, Krishna's own abode, lies in the spiritual sky along with the abodes of other divine forms."
+    },
+    {
+     "source": "Brahma Saṃhitā 37",
+     "note": "Govinda dwells in Golok with Rādhā and his eternal associates, enlivened by blissful spiritual energy."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'That' points to the Abode, which is itself light: the state of Viṣṇu that sun, moon and fire cannot illumine, though they illumine everything else."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The supreme light here is the self's own knowledge, which reveals even the sun; outer lights only remove the darkness between senses and objects. This self is the Lord's glory, and so 'Mine'."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Sun, moon and fire are bound by time, are objects of knowledge and serve the senses. That is the knower itself, beyond space and time, which moves the senses and transcends them."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God's abode is self-luminous, made of his spiritual energy and free of defects; souls who reach it live there eternally and share in his divine pastimes."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -214,59 +946,246 @@
    "translation": "An eternal portion of Myself having become a living soul in the world of life, draws to (itself) the (five) senses with the mind for the sixth, abiding in Nature.",
    "anvaya": [
     {
-     "word": "मम एव अंशः जीवलोके",
-     "meaning": "a fragment of my very self, in the world of life"
+     "word": "मम",
+     "meaning": "of me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, genitive singular (my, of me)",
+     "iast": "mama"
     },
     {
-     "word": "जीवभूतः सनातनः",
-     "meaning": "become the jiva, eternal"
+     "word": "एव",
+     "meaning": "very, indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
     },
     {
-     "word": "मनःषष्ठानि इन्द्रियाणि",
-     "meaning": "the senses, with mind as sixth"
+     "word": "अंशः",
+     "meaning": "a portion",
+     "base": "अंश · part, portion",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "aṃśaḥ"
     },
     {
-     "word": "प्रकृतिस्थानि कर्षति",
-     "meaning": "resting in prakriti, it draws"
+     "word": "जीवलोके",
+     "meaning": "in the world of living beings",
+     "base": "जीवलोक · world of the living",
+     "form": "compound noun, masculine, locative singular (in/on)",
+     "parts": "जीव (living being) + लोक (world): the world of living beings",
+     "iast": "jīvaloke"
+    },
+    {
+     "word": "जीवभूतः",
+     "meaning": "having become the individual soul",
+     "base": "जीवभूत · become a soul",
+     "form": "compound adjective, masculine, nominative singular",
+     "parts": "जीव (living soul) + भूत (become): that which has become the soul",
+     "iast": "jīvabhūtaḥ"
+    },
+    {
+     "word": "सनातनः",
+     "meaning": "eternal",
+     "base": "सनातन · eternal, ancient",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "sanātanaḥ"
+    },
+    {
+     "word": "मनःषष्ठानि",
+     "meaning": "with the mind as sixth",
+     "base": "मनःषष्ठ · mind-sixth",
+     "form": "compound adjective, neuter, accusative plural (object)",
+     "parts": "मनस् (mind) + षष्ठ (sixth): those of which the mind is the sixth",
+     "iast": "manaḥṣaṣṭhāni"
+    },
+    {
+     "word": "इन्द्रियाणि",
+     "meaning": "the senses",
+     "base": "इन्द्रिय · sense organ",
+     "form": "noun, neuter, accusative plural (object)",
+     "iast": "indriyāṇi"
+    },
+    {
+     "word": "प्रकृतिस्थानि",
+     "meaning": "abiding in nature",
+     "base": "प्रकृतिस्थ · nature-abiding",
+     "form": "compound adjective, neuter, accusative plural (object)",
+     "parts": "प्रकृति (nature, matter) + स्थ (standing in): which rest in prakriti",
+     "iast": "prakṛtisthāni"
+    },
+    {
+     "word": "कर्षति",
+     "meaning": "draws to itself",
+     "base": "√कृष् · to draw, pull",
+     "form": "verb, present, 3rd person singular",
+     "iast": "karṣati"
     }
    ],
-   "explanation": "The verse that names what you are: mamaivāṁśaḥ — a fragment, a portion, of *me*; and sanātanaḥ — eternally so, not a temporary splinter awaiting reabsorption into anonymity. Then the embodiment mechanism in one verb: karṣati, the soul *draws* — pulls mind and senses around itself like a magnet gathering filings, and a person assembles. Every individual life is divinity, fractionally present, dressing itself in instruments. Mamaivamsho jiva-loke — a fragment of My very self, eternal, become the living soul: the verse every school reads as its own birth certificate of the jiva. Sanatanah is the word the debates turn on — the fragment is eternal as fragment (Madhva, Ramanuja: real, everlasting individuality) or eternal in essence while the fragmentation is appearance (Shankara: space in jars). Manah-shashthani indriyani karshati: whichever metaphysics, the daily fact stands — the divine portion in you is what gathers a mind and five senses each morning and calls the bundle a person.",
+   "explanation": "The verse that names what you are: mamaivāṁśaḥ — a fragment, a portion, of *me*, become the living soul in the world of life. Sanātanaḥ, eternal, is the word the debates turn on: Ramanuja takes the portion as real and everlasting; Shankara takes the partition as appearance, like space enclosed in a jar. Then the embodiment mechanism in one verb: karṣati, the soul *draws* — pulls mind and the five senses around itself like a magnet gathering filings, and a person assembles. Whichever metaphysics, the daily fact stands: the divine portion in you is what gathers a mind and senses and calls the bundle a person.",
    "connection": "The chapter's anthropology: after the cosmic tree, the soul itself — divine in substance, derivative in scale.",
-   "schools_note": "The amsha doctrine divides the schools at their root. Advaita reads 'fragment' as figurative — the one Self appearing partitioned, as space in jars. Ramanuja takes it literally and structurally: the soul is a real, eternal mode of God, distinct yet inseparable. Madhva sharpens further: an eternal reflection, never identical. All agree on the wonder: the jiva's pedigree is divine.",
    "reflection": "Carry your pedigree through one hard hour: an eternal fragment of His very self — that is the traveler.",
-   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not."
+   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not.",
+   "checked": "SGV",
+   "hook": "What are living beings, in their relation to Krishna?",
+   "refs": [
+    {
+     "source": "Kaṭha Upaniṣad 2.1.1",
+     "note": "The senses were made to turn outward toward the world, which is why bound souls struggle with them."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The 'part' is like the sun reflected in water or space enclosed in a pot: imagined as a part through an adjunct of ignorance, it merges back when the adjunct is removed, which is why there is no return."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Though an everlasting part of the Lord, the self becomes bound by beginningless karma, contracted in power and knowledge, and gathers the mind and senses that belong to bodies made of Prakṛti."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Answers a doubt: if all merge in the Lord in deep sleep and dissolution, who transmigrates? The portion veiled by ignorance draws the senses, latent in prakṛti, back out for enjoyment."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Souls are separated parts of God, distinct from his direct forms; those bound in the world since eternity struggle with the mind and five senses."
+    }
+   ]
   },
   {
    "chapter": 15,
    "verse": 8,
    "speaker": null,
    "devanagari": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्॥",
-   "transliteration": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ\ngṛhitvaitāni saṃyāti vāyurgandhānivāśayāt",
+   "transliteration": "śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ\ngṛhītvaitāni saṃyāti vāyurgandhānivāśayāt",
    "essence": "When the lord of the body takes on a body, and when he leaves it, he departs taking these along — as the wind carries scents from their dwelling-places.",
    "translation": "When the Lord (as the individual soul) obtains a body and when He leaves it, He takes these and goes (with them) as the wind takes the scents from their seats (flowers, etc.).",
    "anvaya": [
     {
-     "word": "शरीरं यत् अवाप्नोति",
-     "meaning": "whatever body he obtains"
+     "word": "शरीरम्",
+     "meaning": "a body",
+     "base": "शरीर · body",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "śarīram"
     },
     {
-     "word": "यत् च अपि उत्क्रामति ईश्वरः",
-     "meaning": "and from whichever the lord departs"
+     "word": "यत्",
+     "meaning": "when",
+     "base": "यद् · which; here 'when'",
+     "form": "relative pronoun, neuter, used as indeclinable (when)",
+     "iast": "yat"
     },
     {
-     "word": "गृहीत्वा एतानि संयाति",
-     "meaning": "taking these, he goes forth"
+     "word": "अवाप्नोति",
+     "meaning": "obtains",
+     "base": "√आप् with अव · to obtain",
+     "form": "verb, present, 3rd person singular",
+     "iast": "avāpnoti"
     },
     {
-     "word": "वायुः गन्धान् इव आशयात्",
-     "meaning": "as the wind, scents from their seat"
+     "word": "यत्",
+     "meaning": "when",
+     "base": "यद् · which; here 'when'",
+     "form": "relative pronoun, neuter, used as indeclinable (when)",
+     "iast": "yat"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अपि",
+     "meaning": "also",
+     "base": "also, even",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "उत्क्रामति",
+     "meaning": "departs",
+     "base": "√क्रम् with उत् · to step out, leave",
+     "form": "verb, present, 3rd person singular",
+     "iast": "utkrāmati"
+    },
+    {
+     "word": "ईश्वरः",
+     "meaning": "the lord of the body",
+     "base": "ईश्वर · lord, master",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "īśvaraḥ"
+    },
+    {
+     "word": "गृहीत्वा",
+     "meaning": "taking",
+     "base": "√ग्रह् · to seize, take",
+     "form": "gerund (having done)",
+     "iast": "gṛhītvā"
+    },
+    {
+     "word": "एतानि",
+     "meaning": "these (mind and senses)",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, accusative plural (object)",
+     "iast": "etāni"
+    },
+    {
+     "word": "संयाति",
+     "meaning": "goes on",
+     "base": "√या with सम् · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "saṃyāti"
+    },
+    {
+     "word": "वायुः",
+     "meaning": "the wind",
+     "base": "वायु · wind, air",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "vāyuḥ"
+    },
+    {
+     "word": "गन्धान्",
+     "meaning": "scents",
+     "base": "गन्ध · smell, scent",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "gandhān"
+    },
+    {
+     "word": "इव",
+     "meaning": "as, like",
+     "base": "like, as",
+     "form": "indeclinable",
+     "iast": "iva"
+    },
+    {
+     "word": "आशयात्",
+     "meaning": "from their seats",
+     "base": "आशय · resting-place, receptacle",
+     "form": "noun, masculine, ablative singular (from)",
+     "iast": "āśayāt"
     }
    ],
    "explanation": "Transmigration in a single fragrance: vāyur gandhān ivāśayāt — as wind lifts perfume from a flower bed and carries it elsewhere, the soul lifts mind and senses from the dying body and moves on. The scent is invisible, weightless, yet unmistakably *that garden's*. What travels between lives is just so: no luggage, only the subtle signature of all one has been.",
    "connection": "Shows 15.7's gathered instruments in transit — the mechanics of rebirth, rendered as perfume.",
-   "schools_note": null,
    "reflection": "Notice what subtle scent you would carry from this chapter of life — the wind takes only fragrance.",
-   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not."
+   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not.",
+   "checked": "SGV",
+   "hook": "What does the soul carry with it when it leaves a body?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Takes the second quarter first: when the soul leaves a body it draws out the organs, then carries them wholly into the next body, as wind carries scents away from flowers."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The self takes the senses along with the subtle elements, as the wind lifts subtle particles of scent from garlands, sandal and musk and moves elsewhere."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "As the breeze carries fragrance, the soul at death carries its subtle body, mind and senses with their impressions into the next body, which may explain why people born blind still dream."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -278,27 +1197,134 @@
    "translation": "Presiding over the ear, the eye, touch, taste and smell, as well as the mind, it enjoys the objects of the senses.",
    "anvaya": [
     {
-     "word": "श्रोत्रं चक्षुः स्पर्शनं च",
-     "meaning": "hearing, sight, and touch"
+     "word": "श्रोत्रम्",
+     "meaning": "the ear, hearing",
+     "base": "श्रोत्र · ear, hearing",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "śrotram"
     },
     {
-     "word": "रसनं घ्राणम् एव च",
-     "meaning": "taste, and smell"
+     "word": "चक्षुः",
+     "meaning": "the eye",
+     "base": "चक्षुस् · eye, sight",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "cakṣuḥ"
     },
     {
-     "word": "अधिष्ठाय मनः च अयं",
-     "meaning": "presiding over (these) and the mind, this one"
+     "word": "स्पर्शनम्",
+     "meaning": "touch",
+     "base": "स्पर्शन · sense of touch, skin",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "sparśanam"
     },
     {
-     "word": "विषयान् उपसेवते",
-     "meaning": "enjoys the sense-objects"
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "रसनम्",
+     "meaning": "taste",
+     "base": "रसन · tongue, taste",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "rasanam"
+    },
+    {
+     "word": "घ्राणम्",
+     "meaning": "smell",
+     "base": "घ्राण · nose, smell",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "ghrāṇam"
+    },
+    {
+     "word": "एव",
+     "meaning": "also, too",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अधिष्ठाय",
+     "meaning": "presiding over",
+     "base": "√स्था with अधि · to stand over, govern",
+     "form": "gerund (having done)",
+     "iast": "adhiṣṭhāya"
+    },
+    {
+     "word": "मनः",
+     "meaning": "the mind",
+     "base": "मनस् · mind",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "manaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अयम्",
+     "meaning": "this one (the soul)",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "ayam"
+    },
+    {
+     "word": "विषयान्",
+     "meaning": "the sense-objects",
+     "base": "विषय · object of the senses",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "viṣayān"
+    },
+    {
+     "word": "उपसेवते",
+     "meaning": "enjoys, experiences",
+     "base": "√सेव् with उप · to frequent, enjoy",
+     "form": "verb, present, middle voice, 3rd person singular",
+     "iast": "upasevate"
     }
    ],
    "explanation": "The fragment settles into its new instrument and the concert begins: adhiṣṭhāya, presiding — the soul as the one audience for whom five senses and a mind perform the world. Every flavor, every birdsong, every touch is staged for this hidden enjoyer. The verse holds no rebuke; it simply identifies who is actually tasting your tea.",
    "connection": "The soul installed and operating — which makes 15.10's blindness to it all the stranger.",
-   "schools_note": null,
    "reflection": "Identify the real taster of your tea once today: the hidden enjoyer presiding over the senses.",
-   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not."
+   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not.",
+   "checked": "SGV",
+   "hook": "Through what does the self enjoy the world of the senses?",
+   "refs": [
+    {
+     "source": "Rāmāyaṇa",
+     "note": "Tulsidas prays that Rām be as constantly dear to him as a woman is to the lustful and money to the greedy."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Seated in the body, the embodied one enjoys sound and the other objects by presiding over ear, eye, skin, tongue and nose, and the mind as the sixth, each together with its organ."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Presiding over the senses, the lord of the body drives each organ toward its own object, sound and the rest, and so enjoys them."
+    },
+    {
+     "lens": "practice",
+     "text": "The soul uses the mind together with each sense in turn to experience sound, touch, form, taste and smell; this is the subtle body at work within the gross body."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The soul tastes the world through mind and senses, but being divine it is never satisfied by material pleasure; turning those same senses toward God, as Tulsidas did, ends the search."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -310,27 +1336,116 @@
    "translation": "The deluded do not see Him Who departs, stays and enjoys; but they who possess the eye of knowledge behold Him.",
    "anvaya": [
     {
-     "word": "उत्क्रामन्तं स्थितं वा अपि",
-     "meaning": "departing, or even staying"
+     "word": "उत्क्रामन्तम्",
+     "meaning": "departing",
+     "base": "√क्रम् with उत् · to step out, leave",
+     "form": "present participle, masculine, accusative singular (object)",
+     "iast": "utkrāmantam"
     },
     {
-     "word": "भुञ्जानं वा गुणान्वितम्",
-     "meaning": "or experiencing, joined with the gunas"
+     "word": "स्थितम्",
+     "meaning": "staying",
+     "base": "√स्था · to stand, stay",
+     "form": "past participle, masculine, accusative singular (object)",
+     "iast": "sthitam"
     },
     {
-     "word": "विमूढाः न अनुपश्यन्ति",
-     "meaning": "the deluded do not perceive (him)"
+     "word": "वा",
+     "meaning": "or",
+     "base": "or",
+     "form": "indeclinable",
+     "iast": "vā"
     },
     {
-     "word": "पश्यन्ति ज्ञानचक्षुषः",
-     "meaning": "those with the eye of knowledge see"
+     "word": "अपि",
+     "meaning": "even",
+     "base": "also, even",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "भुञ्जानम्",
+     "meaning": "experiencing, enjoying",
+     "base": "√भुज् · to enjoy, eat",
+     "form": "present participle (middle), masculine, accusative singular (object)",
+     "iast": "bhuñjānam"
+    },
+    {
+     "word": "वा",
+     "meaning": "or",
+     "base": "or",
+     "form": "indeclinable",
+     "iast": "vā"
+    },
+    {
+     "word": "गुणान्वितम्",
+     "meaning": "joined with the gunas",
+     "base": "गुणान्वित · guna-joined",
+     "form": "compound adjective, masculine, accusative singular (object)",
+     "parts": "गुण (quality of nature) + अन्वित (accompanied by): accompanied by the gunas",
+     "iast": "guṇānvitam"
+    },
+    {
+     "word": "विमूढाः",
+     "meaning": "the deluded",
+     "base": "√मुह् with वि · to be confused",
+     "form": "past participle used as noun, masculine, nominative plural (subject)",
+     "iast": "vimūḍhāḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "अनुपश्यन्ति",
+     "meaning": "perceive",
+     "base": "√दृश् (पश्य) with अनु · to see, perceive",
+     "form": "verb, present, 3rd person plural",
+     "iast": "anupaśyanti"
+    },
+    {
+     "word": "पश्यन्ति",
+     "meaning": "see",
+     "base": "√दृश् (पश्य) · to see",
+     "form": "verb, present, 3rd person plural",
+     "iast": "paśyanti"
+    },
+    {
+     "word": "ज्ञानचक्षुषः",
+     "meaning": "those with the eye of knowledge",
+     "base": "ज्ञानचक्षुस् · knowledge-eyed",
+     "form": "compound adjective, masculine, nominative plural (subject)",
+     "parts": "ज्ञान (knowledge) + चक्षुस् (eye): those whose eye is knowledge",
+     "iast": "jñānacakṣuṣaḥ"
     }
    ],
    "explanation": "The strangest blindness: the soul is the nearest fact there is — it is doing the looking — and precisely so, the deluded never notice it, in life, in experience, even at the bedside of death. Like the eye that sees everything but itself. The remedy is named from 13.35: jñāna-cakṣus, the knowledge-eye, which turns perception around to catch the perceiver.",
    "connection": "The visibility problem: the divine fragment of 15.7 hides in plain sight as the seer itself.",
-   "schools_note": null,
    "reflection": "Turn perception around once today and try to catch the perceiver — the nearest hide in plain sight.",
-   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not."
+   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not.",
+   "checked": "SGV",
+   "hook": "Why do most people fail to see the self in the body?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Though the self is most within reach, those whose hearts are dragged by enjoyments do not see it, and the Lord laments this. The eye of knowledge is scripture supported by reasoning."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The deluded take the body for the self. Those with the eye of knowledge see the self as distinct from the body in every state: departing, staying, enjoying."
+    },
+    {
+     "lens": "practice",
+     "text": "The senses turn outward, so people see the world and not the Self within; as Yama told Naciketas, the wise turn their gaze inward."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The soul is spiritual and cannot be detected by material instruments, so the deluded take the body for the self; only the eye of knowledge sees that the soul gives the body life."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -342,27 +1457,130 @@
    "translation": "The Yogins striving (for perfection) behold Him dwelling in the Self; but, the unrefined and unintelligent, even though striving, see Him not.",
    "anvaya": [
     {
-     "word": "यतन्तः योगिनः च एनं",
-     "meaning": "and striving yogis — him"
+     "word": "यतन्तः",
+     "meaning": "striving",
+     "base": "√यत् · to strive",
+     "form": "present participle, masculine, nominative plural",
+     "iast": "yatantaḥ"
     },
     {
-     "word": "पश्यन्ति आत्मनि अवस्थितम्",
-     "meaning": "behold, established in the self"
+     "word": "योगिनः",
+     "meaning": "the yogis",
+     "base": "योगिन् · yogi, practitioner",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "yoginaḥ"
     },
     {
-     "word": "यतन्तः अपि अकृतात्मानः",
-     "meaning": "though striving, those of unmade self"
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "न एनं पश्यन्ति अचेतसः",
-     "meaning": "do not see him — the unmindful"
+     "word": "एनम्",
+     "meaning": "him, this self",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative singular (object)",
+     "iast": "enam"
+    },
+    {
+     "word": "पश्यन्ति",
+     "meaning": "see",
+     "base": "√दृश् (पश्य) · to see",
+     "form": "verb, present, 3rd person plural",
+     "iast": "paśyanti"
+    },
+    {
+     "word": "आत्मनि",
+     "meaning": "in themselves",
+     "base": "आत्मन् · self",
+     "form": "noun, masculine, locative singular (in/on)",
+     "iast": "ātmani"
+    },
+    {
+     "word": "अवस्थितम्",
+     "meaning": "established",
+     "base": "√स्था with अव · to stay, be settled",
+     "form": "past participle, masculine, accusative singular (object)",
+     "iast": "avasthitam"
+    },
+    {
+     "word": "यतन्तः",
+     "meaning": "striving",
+     "base": "√यत् · to strive",
+     "form": "present participle, masculine, nominative plural",
+     "iast": "yatantaḥ"
+    },
+    {
+     "word": "अपि",
+     "meaning": "even though",
+     "base": "also, even",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "अकृतात्मानः",
+     "meaning": "those of unrefined self",
+     "base": "अकृतात्मन् · unprepared self",
+     "form": "compound adjective, masculine, nominative plural (subject)",
+     "parts": "अ (not) + कृत (made, refined) + आत्मन् (self): those whose self is not made ready",
+     "iast": "akṛtātmānaḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "एनम्",
+     "meaning": "him, this self",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative singular (object)",
+     "iast": "enam"
+    },
+    {
+     "word": "पश्यन्ति",
+     "meaning": "see",
+     "base": "√दृश् (पश्य) · to see",
+     "form": "verb, present, 3rd person plural",
+     "iast": "paśyanti"
+    },
+    {
+     "word": "अचेतसः",
+     "meaning": "the undiscerning",
+     "base": "अचेतस् · senseless, undiscerning",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "अ (without) + चेतस् (mind, discernment): those lacking discernment",
+     "iast": "acetasaḥ"
     }
    ],
    "explanation": "A precision about effort: yatanto 'pi — *even striving*, some see nothing. The variable is akṛtātmānaḥ, the un-made self: effort poured into an unprepared instrument is rain on stone. The twenty marks of 13.8–12 were the making; vision is what a made self does naturally. Practice without purification gathers technique and misses the point.",
    "connection": "Qualifies 15.10's knowledge-eye: it must be grown in a refined self, not merely exercised.",
-   "schools_note": null,
    "reflection": "Pair your striving with refining today — effort lands only in a made self; polish the instrument.",
-   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not."
+   "background": "Krishna turns to the traveler itself: an eternal fragment of My very self, become the living soul, draws to itself mind and the five senses; taking a body and leaving it, the lord of the body carries these along as wind carries fragrance from their seats. The deluded do not perceive him departing or dwelling; those with the eye of knowledge see — the striving yogis behold him in themselves; the unrefined, though striving, see him not.",
+   "checked": "SGV",
+   "hook": "Why do some who strive see the self while others never do?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The diligent yogis see the Self in their own intellect and realize 'I am This'. The unpurified, proud and restless do not see it, even when they strive with scripture and other means of knowledge."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The striving are karma-yogis who have practised self-surrender to the Lord and so purified their minds; those who do not take refuge in Him cannot see the self as distinct from the body."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Effort by one whose passion has not decayed bears no fruit, like seed sown out of season: water and soil alone do not make a harvest."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Effort must go in the right direction: judging the divine by material senses and intellect is the well-frog's mistake, while a heart purified by humility and faith naturally perceives the soul."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -374,27 +1592,142 @@
    "translation": "That light which residing in the sun illumines the whole world, that which is in the moon and in the fire know that light to be Mine.",
    "anvaya": [
     {
-     "word": "यत् आदित्यगतं तेजः",
-     "meaning": "the splendor residing in the sun"
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, nominative singular (subject)",
+     "iast": "yat"
     },
     {
-     "word": "जगत् भासयते अखिलम्",
-     "meaning": "which illumines the world entire"
+     "word": "आदित्यगतम्",
+     "meaning": "residing in the sun",
+     "base": "आदित्यगत · sun-situated",
+     "form": "compound adjective, neuter, nominative singular",
+     "parts": "आदित्य (sun) + गत (gone into, present in): that which is in the sun",
+     "iast": "ādityagatam"
     },
     {
-     "word": "यत् चन्द्रमसि यत् च अग्नौ",
-     "meaning": "that in the moon, and that in fire"
+     "word": "तेजः",
+     "meaning": "radiance",
+     "base": "तेजस् · brilliance, splendour",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "tejaḥ"
     },
     {
-     "word": "तत् तेजः विद्धि मामकम्",
-     "meaning": "that splendor — know as mine"
+     "word": "जगत्",
+     "meaning": "the world",
+     "base": "जगत् · world, the moving",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "jagat"
+    },
+    {
+     "word": "भासयते",
+     "meaning": "illumines",
+     "base": "√भास् · to shine",
+     "form": "verb, causative (makes shine), present, 3rd person singular",
+     "iast": "bhāsayate"
+    },
+    {
+     "word": "अखिलम्",
+     "meaning": "entire",
+     "base": "अखिल · whole, entire",
+     "form": "adjective, neuter, accusative singular (object)",
+     "iast": "akhilam"
+    },
+    {
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, nominative singular (subject)",
+     "iast": "yat"
+    },
+    {
+     "word": "चन्द्रमसि",
+     "meaning": "in the moon",
+     "base": "चन्द्रमस् · moon",
+     "form": "noun, masculine, locative singular (in/on)",
+     "iast": "candramasi"
+    },
+    {
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, nominative singular (subject)",
+     "iast": "yat"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अग्नौ",
+     "meaning": "in fire",
+     "base": "अग्नि · fire",
+     "form": "noun, masculine, locative singular (in/on)",
+     "iast": "agnau"
+    },
+    {
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "tat"
+    },
+    {
+     "word": "तेजः",
+     "meaning": "radiance",
+     "base": "तेजस् · brilliance, splendour",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "tejaḥ"
+    },
+    {
+     "word": "विद्धि",
+     "meaning": "know",
+     "base": "√विद् · to know",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "viddhi"
+    },
+    {
+     "word": "मामकम्",
+     "meaning": "as mine",
+     "base": "मामक · my, belonging to me",
+     "form": "adjective, neuter, accusative singular (object)",
+     "iast": "māmakam"
     }
    ],
    "explanation": "The chapter turns outward: the three great lights that 15.6 said cannot reach his abode are now claimed as his projections — every lumen in the visible universe drawn from one account. The teaching method is immersive: for the next four verses, wherever Arjuna's senses land — light, earth, food, memory — they will be told whose presence they are touching.",
    "connection": "Begins the immanence-litany (15.12–15): the Purushottama located in daylight, soil, digestion, and thought.",
-   "schools_note": null,
    "reflection": "Read every lumen today off one account: sun, moon, fire — splendor on loan from a single source.",
-   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta."
+   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta.",
+   "checked": "SGV",
+   "hook": "Whose light shines in the sun, the moon and fire?",
+   "refs": [
+    {
+     "source": "Kena Upaniṣad",
+     "note": "Its story of the gods humbled before a mysterious being shows that all their power, like the sun's light, comes from God."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Tejas can be the light of consciousness. It is named in sun, moon and fire because sattva abounds there, just as a face appears clearly only in a clean mirror."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The power of illumining is granted to the sun and the other lights by the Lord, whom each of them has worshipped."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Verses 12–14 teach that the power of the elements, together and singly, to sustain the world is the Lord's own power; sunlight both illumines and sustains."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The radiance of sun, moon and fire is God's energy; forgetting this, we grow proud of borrowed powers, as the gods did in the Kena story."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -406,27 +1739,125 @@
    "translation": "Permeating the earth I support all beings by (My) energy; and having become the watery moon I nourish all herbs.",
    "anvaya": [
     {
-     "word": "गाम् आविश्य च भूतानि",
-     "meaning": "and entering the earth, the beings"
+     "word": "गाम्",
+     "meaning": "the earth",
+     "base": "गो · cow; earth",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "gām"
     },
     {
-     "word": "धारयामि अहम् ओजसा",
-     "meaning": "I sustain by my vigor"
+     "word": "आविश्य",
+     "meaning": "entering",
+     "base": "√विश् with आ · to enter",
+     "form": "gerund (having done)",
+     "iast": "āviśya"
     },
     {
-     "word": "पुष्णामि च ओषधीः सर्वाः",
-     "meaning": "and I nourish all the herbs"
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "सोमः भूत्वा रसात्मकः",
-     "meaning": "becoming soma, whose essence is sap"
+     "word": "भूतानि",
+     "meaning": "beings",
+     "base": "भूत · being, creature",
+     "form": "noun, neuter, accusative plural (object)",
+     "iast": "bhūtāni"
+    },
+    {
+     "word": "धारयामि",
+     "meaning": "I sustain",
+     "base": "√धृ · to hold, support",
+     "form": "verb, causative form, present, 1st person singular",
+     "iast": "dhārayāmi"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
+    },
+    {
+     "word": "ओजसा",
+     "meaning": "by my power",
+     "base": "ओजस् · vigour, power",
+     "form": "noun, neuter, instrumental singular (by means of)",
+     "iast": "ojasā"
+    },
+    {
+     "word": "पुष्णामि",
+     "meaning": "I nourish",
+     "base": "√पुष् · to nourish",
+     "form": "verb, present, 1st person singular",
+     "iast": "puṣṇāmi"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "ओषधीः",
+     "meaning": "the plants",
+     "base": "ओषधि · herb, plant",
+     "form": "noun, feminine, accusative plural (object)",
+     "iast": "oṣadhīḥ"
+    },
+    {
+     "word": "सर्वाः",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "adjective, feminine, accusative plural (object)",
+     "iast": "sarvāḥ"
+    },
+    {
+     "word": "सोमः",
+     "meaning": "the moon, soma",
+     "base": "सोम · soma juice; the moon",
+     "form": "noun, masculine, nominative singular",
+     "iast": "somaḥ"
+    },
+    {
+     "word": "भूत्वा",
+     "meaning": "having become",
+     "base": "√भू · to be, become",
+     "form": "gerund (having done)",
+     "iast": "bhūtvā"
+    },
+    {
+     "word": "रसात्मकः",
+     "meaning": "full of sap",
+     "base": "रसात्मक · sap-natured",
+     "form": "compound adjective, masculine, nominative singular",
+     "parts": "रस (sap, juice) + आत्मक (having the nature of): whose nature is sap",
+     "iast": "rasātmakaḥ"
     }
    ],
    "explanation": "From light to ground: the planet's very holding-together is his ojas, and the moon — soma, lord of sap in Vedic physiology — is his nourishing mode, swelling the herbs with juice by night. Agriculture becomes theology: the wheat ripens because someone is in the field, in the moonlight, in the rising water of the stalk.",
    "connection": "The litany descends from sky to soil — and prepares the most intimate claim of all in 15.14.",
-   "schools_note": null,
    "reflection": "Walk on the earth once today aware of what holds it together — and what swells the green things by night.",
-   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta."
+   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta.",
+   "checked": "SGV",
+   "hook": "What sustains the earth's creatures and nourishes its plants?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Ojas is God's power, free of passion, that enters the earth so the heavy earth neither falls nor crumbles. Soma, source of all juices, fills plants like rice and barley with flavour."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Moonlight both illumines and nourishes because earth, water and fire are joined in it with the Lord; hence the moon is named for light in 15.12 and for nourishing sap here."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God's energy makes the earth fit for life, through countless finely tuned conditions, and gives moonlight the nourishing power that sustains all plant life."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -438,27 +1869,108 @@
    "translation": "Having become the fire Vaisvanara, I abide in the body of living beings and, associated with the Prana and the Apana, digest the fourfold food.",
    "anvaya": [
     {
-     "word": "अहं वैश्वानरः भूत्वा",
-     "meaning": "I, becoming the vaishvanara (fire)"
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
     },
     {
-     "word": "प्राणिनां देहम् आश्रितः",
-     "meaning": "dwelling in the body of breathing beings"
+     "word": "वैश्वानरः",
+     "meaning": "the digestive fire",
+     "base": "वैश्वानर · universal fire; fire in the body",
+     "form": "noun, masculine, nominative singular",
+     "iast": "vaiśvānaraḥ"
+    },
+    {
+     "word": "भूत्वा",
+     "meaning": "having become",
+     "base": "√भू · to be, become",
+     "form": "gerund (having done)",
+     "iast": "bhūtvā"
+    },
+    {
+     "word": "प्राणिनाम्",
+     "meaning": "of living beings",
+     "base": "प्राणिन् · breathing creature",
+     "form": "noun, masculine, genitive plural (of)",
+     "iast": "prāṇinām"
+    },
+    {
+     "word": "देहम्",
+     "meaning": "the body",
+     "base": "देह · body",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "deham"
+    },
+    {
+     "word": "आश्रितः",
+     "meaning": "dwelling in",
+     "base": "√श्रि with आ · to resort to, dwell in",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "āśritaḥ"
     },
     {
      "word": "प्राणापानसमायुक्तः",
-     "meaning": "joined with prana and apana"
+     "meaning": "joined with in- and out-breath",
+     "base": "प्राणापानसमायुक्त · joined with prana and apana",
+     "form": "compound adjective, masculine, nominative singular",
+     "parts": "प्राण (upward breath) + अपान (downward breath) + समायुक्त (joined): united with prana and apana",
+     "iast": "prāṇāpānasamāyuktaḥ"
     },
     {
-     "word": "पचामि अन्नं चतुर्विधम्",
-     "meaning": "I digest the fourfold food"
+     "word": "पचामि",
+     "meaning": "I digest",
+     "base": "√पच् · to cook, digest",
+     "form": "verb, present, 1st person singular",
+     "iast": "pacāmi"
+    },
+    {
+     "word": "अन्नम्",
+     "meaning": "food",
+     "base": "अन्न · food",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "annam"
+    },
+    {
+     "word": "चतुर्विधम्",
+     "meaning": "of four kinds",
+     "base": "चतुर्विध · fourfold",
+     "form": "compound adjective, neuter, accusative singular (object)",
+     "parts": "चतुर् (four) + विधा (kind): of four kinds",
+     "iast": "caturvidham"
     }
    ],
    "explanation": "The litany arrives inside the belly: vaiśvānara, the universal fire, here the gastric flame itself, working the bellows of prāṇa and apāna to cook the four foods — chewed, drunk, licked, sucked. The God of the thousand suns of chapter 11, found again as the warmth in your stomach after lunch. Many recite this verse before meals: digestion acknowledged as the nearest daily miracle.",
    "connection": "Immanence at its most domestic: the cosmic fire as the body's own hearth.",
-   "schools_note": null,
    "reflection": "Before one meal today, greet the vaishvanara fire — the cosmic flame doing your digestion.",
-   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta."
+   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta.",
+   "checked": "SGV",
+   "hook": "What power inside the body digests the food you eat?",
+   "refs": [
+    {
+     "source": "Bṛhadāraṇyaka Upaniṣad 5.9.1",
+     "note": "Says God is the fire within a person by which food is digested."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The eater is the fire Vaiśvānara and the eaten is Soma, the food; one who sees all that exists as these two is not touched by impurity in food."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Soma and the digestive fire are the Lord's glories; 'becoming Soma' and 'becoming the fire' identify them with Him by co-ordinate predication, as His own."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Spells out the four foods: chewed with the teeth like cakes, swallowed with the tongue like porridge, licked slowly like molasses, and pressed for juice like sugarcane."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God dwells in all beings as the digestive fire; through this, the earth and plant life, he supports every part of our existence."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -470,27 +1982,193 @@
    "translation": "And I am seated in the hearts of all; from Me are memory and knowledge, as well as their absence. I am verily That which has to be known by all the Vedas; I am indeed the author of the Vedanta and the knower of the Vedas am I.",
    "anvaya": [
     {
-     "word": "सर्वस्य च अहं हृदि सन्निविष्टः",
-     "meaning": "and I am seated in the heart of all"
+     "word": "सर्वस्य",
+     "meaning": "of all",
+     "base": "सर्व · all",
+     "form": "pronominal adjective, masculine, genitive singular (of)",
+     "iast": "sarvasya"
     },
     {
-     "word": "मत्तः स्मृतिः ज्ञानम् अपोहनं च",
-     "meaning": "from me: memory, knowledge, and (their) removal"
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "वेदैः च सर्वैः अहम् एव वेद्यः",
-     "meaning": "by all the Vedas, I alone am to be known"
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
     },
     {
-     "word": "वेदान्तकृत् वेदवित् एव च अहम्",
-     "meaning": "the maker of Vedanta, and the Veda-knower, am I"
+     "word": "हृदि",
+     "meaning": "in the heart",
+     "base": "हृद् · heart",
+     "form": "noun, neuter, locative singular (in/on)",
+     "iast": "hṛdi"
+    },
+    {
+     "word": "सन्निविष्टः",
+     "meaning": "seated",
+     "base": "√विश् with सम् + नि · to enter, settle",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "sanniviṣṭaḥ"
+    },
+    {
+     "word": "मत्तः",
+     "meaning": "from me",
+     "base": "अस्मद् · I",
+     "form": "pronoun with -tas ending, ablative sense (from me)",
+     "iast": "mattaḥ"
+    },
+    {
+     "word": "स्मृतिः",
+     "meaning": "memory",
+     "base": "स्मृति · memory",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "smṛtiḥ"
+    },
+    {
+     "word": "ज्ञानम्",
+     "meaning": "knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "jñānam"
+    },
+    {
+     "word": "अपोहनम्",
+     "meaning": "their loss",
+     "base": "अपोहन · removal, loss (√ऊह् with अप)",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "apohanam"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "वेदैः",
+     "meaning": "by the Vedas",
+     "base": "वेद · Veda",
+     "form": "noun, masculine, instrumental plural (by)",
+     "iast": "vedaiḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "सर्वैः",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "adjective, masculine, instrumental plural (by)",
+     "iast": "sarvaiḥ"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "वेद्यः",
+     "meaning": "to be known",
+     "base": "√विद् · to know",
+     "form": "gerundive (to be done), masculine, nominative singular",
+     "iast": "vedyaḥ"
+    },
+    {
+     "word": "वेदान्तकृत्",
+     "meaning": "maker of the Vedanta",
+     "base": "वेदान्तकृत् · Vedanta-maker",
+     "form": "compound noun, masculine, nominative singular",
+     "parts": "वेद (Veda) + अन्त (end) + कृत् (maker): the one who made the Veda's conclusion",
+     "iast": "vedāntakṛt"
+    },
+    {
+     "word": "वेदवित्",
+     "meaning": "knower of the Veda",
+     "base": "वेदविद् · Veda-knower",
+     "form": "compound noun, masculine, nominative singular",
+     "parts": "वेद (Veda) + विद् (knower): one who knows the Veda",
+     "iast": "vedavit"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
     }
    ],
-   "explanation": "The litany's summit, and one of the Gita's most quoted verses. Seated in every heart, he is the source of smṛti and jñāna — and, startlingly, of apohanam, *forgetting* too: even the veil is his issue, which is why only he can lift it. Then the hermeneutic key: all scripture, read to its end, is about him — he wrote the conclusion (vedānta-kṛt) and knows what every verse was for. Sarvasya chaham hridi sannivishtah — seated in the hearts of all: the verse recited before study across the tradition, since it claims the whole curriculum. Three gifts from one resident — smritir jnanam apohanam cha — memory, knowledge, and forgetting: the commentaries pause at the third; even the veiling is His office, which is why only He can lift it. Vedaish cha sarvair aham eva vedyah: the hermeneutic master key — all scripture, read to the end, is about the one reading it from within.",
+   "explanation": "The litany's summit, and one of the Gita's most quoted verses. Sarvasya chaham hridi sannivishtah: seated in every heart, he is the source of smṛti and jñāna, memory and knowledge — and, startlingly, of apohanam, their loss. The commentaries pause at the third: even the veiling is his office, which is why only he can lift it. Then the hermeneutic master key: vedaish cha sarvair aham eva vedyah — all scripture, read to its end, is about him. He made its conclusion (vedānta-kṛt) and knows what every verse was for (veda-vit): the one reading it from within.",
    "connection": "Closes the litany at its center — the heart — and sets up the final doctrine of the two-plus-one purushas.",
-   "schools_note": null,
    "reflection": "Sit with the heart-resident a moment: source of your memory, your knowledge — and yes, your forgetting.",
-   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta."
+   "background": "The immanence litany of the chapter: the splendor in sun, moon, and fire is Mine; entering the earth I support beings; becoming the moon I nourish the plants; as the fire of life in every body I digest the fourfold food; and seated in every heart I give memory, knowledge, and their taking away — by all the Vedas I alone am to be known, the maker and knower of Vedanta.",
+   "checked": "SV",
+   "hook": "Where do memory, knowledge and forgetting come from?",
+   "refs": [
+    {
+     "source": "Kaṭha Upaniṣad 1.2.15",
+     "note": "All the Vedas point toward God, the goal named in this verse."
+    },
+    {
+     "source": "Bhāgavatam 11.22.28",
+     "note": "Knowledge in living beings arises from God, and by his power it is taken away."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Memory and knowledge come from the Self to those of good deeds, and their loss to those of evil deeds; vedānta-kṛt means the source of the Vedānta teaching tradition."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Apohana is the cessation of knowledge, or else ūha, the reasoning that tests whether a means of knowledge applies; vedānta-kṛt means He brings the Vedas' rites to fruition."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The heart of all is free awareness, the I-consciousness. From it come knowing, which creates anew; differentiating, which limits and makes the bound soul; and remembering, which re-illumines stored impressions."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The Lord is what all the Vedas teach, under the forms of their various deities, and as vedānta-kṛt He is the guru who starts the teaching lineage and gives knowledge."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God gives us memory, knowledge and even forgetting, and he is the author, knower and goal of the Vedas; all ritual and study is worthless unless it leads to loving him."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -502,59 +2180,265 @@
    "translation": "Two Purushas there are in this world, the perishable and the imperishable. All beings are the perishable and the Kutastha the unchanging is called the imperishable.",
    "anvaya": [
     {
-     "word": "द्वौ इमौ पुरुषौ लोके",
-     "meaning": "these two purushas in the world"
+     "word": "द्वौ",
+     "meaning": "two",
+     "base": "द्वि · two",
+     "form": "numeral, masculine, nominative dual (two)",
+     "iast": "dvau"
     },
     {
-     "word": "क्षरः च अक्षरः एव च",
-     "meaning": "the perishable, and the imperishable"
+     "word": "इमौ",
+     "meaning": "these",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, nominative dual",
+     "iast": "imau"
     },
     {
-     "word": "क्षरः सर्वाणि भूतानि",
-     "meaning": "the perishable is all beings"
+     "word": "पुरुषौ",
+     "meaning": "persons",
+     "base": "पुरुष · person, spirit",
+     "form": "noun, masculine, nominative dual (subject)",
+     "iast": "puruṣau"
     },
     {
-     "word": "कूटस्थः अक्षरः उच्यते",
-     "meaning": "the summit-seated (unchanging) is called imperishable"
+     "word": "लोके",
+     "meaning": "in the world",
+     "base": "लोक · world",
+     "form": "noun, masculine, locative singular (in/on)",
+     "iast": "loke"
+    },
+    {
+     "word": "क्षरः",
+     "meaning": "the perishable",
+     "base": "क्षर · perishing (√क्षर् · to flow away)",
+     "form": "adjective used as noun, masculine, nominative singular",
+     "iast": "kṣaraḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अक्षरः",
+     "meaning": "the imperishable",
+     "base": "अक्षर · imperishable",
+     "form": "adjective used as noun, masculine, nominative singular",
+     "parts": "अ (not) + क्षर (perishing): the not-perishing",
+     "iast": "akṣaraḥ"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "क्षरः",
+     "meaning": "the perishable",
+     "base": "क्षर · perishing",
+     "form": "adjective used as noun, masculine, nominative singular (subject)",
+     "iast": "kṣaraḥ"
+    },
+    {
+     "word": "सर्वाणि",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "adjective, neuter, nominative plural",
+     "iast": "sarvāṇi"
+    },
+    {
+     "word": "भूतानि",
+     "meaning": "beings",
+     "base": "भूत · being, creature",
+     "form": "noun, neuter, nominative plural",
+     "iast": "bhūtāni"
+    },
+    {
+     "word": "कूटस्थः",
+     "meaning": "the unchanging one",
+     "base": "कूटस्थ · standing firm",
+     "form": "compound adjective used as noun, masculine, nominative singular (subject)",
+     "parts": "कूट (anvil, peak, heap) + स्थ (standing): one who stands fixed like an anvil or a peak",
+     "iast": "kūṭasthaḥ"
+    },
+    {
+     "word": "अक्षरः",
+     "meaning": "the imperishable",
+     "base": "अक्षर · imperishable",
+     "form": "adjective used as noun, masculine, nominative singular",
+     "iast": "akṣaraḥ"
+    },
+    {
+     "word": "उच्यते",
+     "meaning": "is called",
+     "base": "√वच् · to speak",
+     "form": "verb, passive, present, 3rd person singular",
+     "iast": "ucyate"
     }
    ],
-   "explanation": "The final taxonomy begins: kṣara, the perishable — every form, every body, the whole flowing world of beings; and akṣara, the kūṭastha — the anvil-still, unchanging principle, the witness-self that the flux cannot touch. Field and knower from chapter 13, restated as two 'persons.' The count seems complete: matter and spirit, two. The next verse adds what neither philosophy expected.",
-   "connection": "Restates ch13's pair as kshara and akshara — the setup for 15.17's third term.",
-   "schools_note": "The kshara-akshara pair sets up the chapter's climax, and its reading determines each school's map: Shankara — the perishable as all appearance, the kutastha as the unchanging witness-Self (with maya readings debated); Ramanuja — bound souls (kshara) and freed souls (akshara) as two real classes, the kutastha as the liberated. What none dispute: neither category is the summit; 15.17 was written to exceed them both.",
+   "explanation": "The final taxonomy begins: kṣara, the perishable — every form, every body, the whole flowing world of beings; and akṣara, the kūṭastha — the anvil-still, unchanging one. Who that second 'person' is, the commentators dispute: Śaṅkara takes it as Māyā, the imperishable seed of the world-tree; Rāmānuja as the liberated selves; Śrīdhara as the conscious enjoyer who stays unchanged while bodies perish. Either way the count seems complete: the changing and the unchanging, two. The next verse adds what neither category expected.",
+   "connection": "Names the perishable and the imperishable — the setup for 15.17's third term.",
    "reflection": "Sort one hour of your world into kshara and akshara — the flowing and the unmoved watching it flow.",
-   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled."
+   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled.",
+   "checked": "SGV",
+   "hook": "What are the two kinds of beings Krishna names in this world?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The kūṭastha is Māyā, the Lord's power and the seed of all that perishes. Both are 'persons' only figuratively, as limiting adjuncts of the supreme Person."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Kṣara is all selves bound with matter, from Brahmā to a blade of grass; akṣara is the liberated self, free of matter, named in the singular as a class, not as one soul."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The undiscerning call only bodies 'person'; the kūṭastha is the conscious enjoyer who stays unchanged, like a mountain, while bodies perish."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Embodied souls in the material world are perishable, bound to repeated birth and death, while liberated souls in God's abode have immortal bodies and are imperishable."
+    }
+   ]
   },
   {
    "chapter": 15,
    "verse": 17,
    "speaker": null,
-   "devanagari": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः ।\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः॥",
-   "transliteration": "uttamaḥ puruṣastvanyaḥ paramātmetyudhāhṛtaḥ\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ",
+   "devanagari": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः॥",
+   "transliteration": "uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ\nyo lokatrayamāviśya bibhartyavyaya īśvaraḥ",
    "essence": "But the highest Purusha is yet another, called the supreme Self — the imperishable Lord who, entering the three worlds, sustains them.",
    "translation": "But distinct is the Supreme Purusha called the highest Self, the indestructible Lord Who, pervading the three worlds, sustains them.",
    "anvaya": [
     {
-     "word": "उत्तमः पुरुषः तु अन्यः",
-     "meaning": "but the highest Purusha is another"
+     "word": "उत्तमः",
+     "meaning": "highest",
+     "base": "उत्तम · highest, best",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "uttamaḥ"
     },
     {
-     "word": "परमात्मा इति उदाहृतः",
-     "meaning": "declared as 'the supreme Self'"
+     "word": "पुरुषः",
+     "meaning": "Person",
+     "base": "पुरुष · person, spirit",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "puruṣaḥ"
     },
     {
-     "word": "यः लोकत्रयम् आविश्य",
-     "meaning": "who, entering the triple world"
+     "word": "तु",
+     "meaning": "but",
+     "base": "but",
+     "form": "indeclinable",
+     "iast": "tu"
     },
     {
-     "word": "बिभर्ति अव्ययः ईश्वरः",
-     "meaning": "sustains it — the imperishable Lord"
+     "word": "अन्यः",
+     "meaning": "another, different",
+     "base": "अन्य · other",
+     "form": "pronominal adjective, masculine, nominative singular",
+     "iast": "anyaḥ"
+    },
+    {
+     "word": "परमात्मा",
+     "meaning": "the Supreme Self",
+     "base": "परमात्मन् · supreme self",
+     "form": "compound noun, masculine, nominative singular",
+     "parts": "परम (supreme) + आत्मन् (self): the highest Self",
+     "iast": "paramātmā"
+    },
+    {
+     "word": "इति",
+     "meaning": "thus (as a name)",
+     "base": "thus; marks a name or quotation",
+     "form": "indeclinable",
+     "iast": "iti"
+    },
+    {
+     "word": "उदाहृतः",
+     "meaning": "is called",
+     "base": "√हृ with उत् + आ · to declare, cite",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "udāhṛtaḥ"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "लोकत्रयम्",
+     "meaning": "the three worlds",
+     "base": "लोकत्रय · triad of worlds",
+     "form": "compound noun, neuter, accusative singular (object)",
+     "parts": "लोक (world) + त्रय (triad): the set of three worlds",
+     "iast": "lokatrayam"
+    },
+    {
+     "word": "आविश्य",
+     "meaning": "entering, pervading",
+     "base": "√विश् with आ · to enter",
+     "form": "gerund (having done)",
+     "iast": "āviśya"
+    },
+    {
+     "word": "बिभर्ति",
+     "meaning": "sustains",
+     "base": "√भृ · to bear, support",
+     "form": "verb, present, 3rd person singular",
+     "iast": "bibharti"
+    },
+    {
+     "word": "अव्ययः",
+     "meaning": "imperishable",
+     "base": "अव्यय · undecaying, imperishable",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "avyayaḥ"
+    },
+    {
+     "word": "ईश्वरः",
+     "meaning": "the Lord",
+     "base": "ईश्वर · lord, ruler",
+     "form": "noun, masculine, nominative singular",
+     "iast": "īśvaraḥ"
     }
    ],
    "explanation": "The third term: uttamaḥ puruṣas tv anyaḥ — *another*, beyond both the changing world and the changeless witness. Not the flux, not the stillness watching the flux, but the Lord who enters and carries both: āviśya bibharti, pervading and bearing. The two-story universe of Sankhya gains its missing resident — the owner of the whole house.",
    "connection": "The doctrinal peak of the chapter: above matter and above spirit-as-witness stands the sustaining Lord.",
-   "schools_note": null,
    "reflection": "Then remember the third: not the flux, not the witness, but the Lord who enters and carries both.",
-   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled."
+   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled.",
+   "checked": "SG",
+   "hook": "Who stands beyond both the perishable and the imperishable?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The supreme Person is untouched by both adjuncts, the mutable and the immutable; eternal, pure, conscious and free, He upholds the three worlds merely by being present."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The three worlds are non-conscient matter, selves bound to matter, and liberated selves. The Lord enters all three as their Self and supports them, so He is a category distinct from all three."
+    },
+    {
+     "lens": "bhakti",
+     "text": "As Self He differs from inert matter, the perishable; as supreme He differs from the conscious enjoyer, the imperishable; unchanging, He rules and sustains the three worlds."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The Supreme Soul is distinct from the individual soul, which refutes non-dualism; he accompanies each soul through every birth, recording its karmas and granting their results."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -566,27 +2450,146 @@
    "translation": "As I transcend the perishable and am even higher than the imperishable, I am declared to be the highest Purusha in the world and in the Vedas.",
    "anvaya": [
     {
-     "word": "यस्मात् क्षरम् अतीतः अहं",
-     "meaning": "since I transcend the perishable"
+     "word": "यस्मात्",
+     "meaning": "because, since",
+     "base": "यद् · which; here 'because'",
+     "form": "relative pronoun, ablative singular, used as a conjunction (because)",
+     "iast": "yasmāt"
     },
     {
-     "word": "अक्षरात् अपि च उत्तमः",
-     "meaning": "and am higher even than the imperishable"
+     "word": "क्षरम्",
+     "meaning": "the perishable",
+     "base": "क्षर · perishing",
+     "form": "adjective used as noun, masculine, accusative singular (object)",
+     "iast": "kṣaram"
     },
     {
-     "word": "अतः अस्मि लोके वेदे च",
-     "meaning": "therefore I am, in the world and in the Veda"
+     "word": "अतीतः",
+     "meaning": "beyond",
+     "base": "√इ with अति · to go beyond",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "atītaḥ"
     },
     {
-     "word": "प्रथितः पुरुषोत्तमः",
-     "meaning": "celebrated as Purushottama"
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
+    },
+    {
+     "word": "अक्षरात्",
+     "meaning": "than the imperishable",
+     "base": "अक्षर · imperishable",
+     "form": "adjective used as noun, masculine, ablative singular (than)",
+     "iast": "akṣarāt"
+    },
+    {
+     "word": "अपि",
+     "meaning": "even",
+     "base": "also, even",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "उत्तमः",
+     "meaning": "higher, highest",
+     "base": "उत्तम · highest, best",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "uttamaḥ"
+    },
+    {
+     "word": "अतः",
+     "meaning": "therefore",
+     "base": "hence, therefore",
+     "form": "indeclinable",
+     "iast": "ataḥ"
+    },
+    {
+     "word": "अस्मि",
+     "meaning": "I am",
+     "base": "√अस् · to be",
+     "form": "verb, present, 1st person singular",
+     "iast": "asmi"
+    },
+    {
+     "word": "लोके",
+     "meaning": "in the world",
+     "base": "लोक · world",
+     "form": "noun, masculine, locative singular (in/on)",
+     "iast": "loke"
+    },
+    {
+     "word": "वेदे",
+     "meaning": "in the Veda",
+     "base": "वेद · Veda",
+     "form": "noun, masculine, locative singular (in/on)",
+     "iast": "vede"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "प्रथितः",
+     "meaning": "celebrated",
+     "base": "√प्रथ् · to spread, become famous",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "prathitaḥ"
+    },
+    {
+     "word": "पुरुषोत्तमः",
+     "meaning": "the Supreme Person",
+     "base": "पुरुषोत्तम · highest person",
+     "form": "compound noun, masculine, nominative singular",
+     "parts": "पुरुष (person) + उत्तम (highest): the highest among persons",
+     "iast": "puruṣottamaḥ"
     }
    ],
-   "explanation": "The self-identification the chapter is named for: the speaker is the third purusha. Atītaḥ... uttamaḥ — past the perishing world, and *above even the imperishable* witness-absolute. The charioteer holding the reins is declaring himself beyond both everything that changes and everything that doesn't. Etymology becomes theology: puruṣa-uttama, the uttermost Person, and the title was already waiting in the Veda.",
+   "explanation": "The self-identification the chapter is named for: the speaker is the third purusha. Atītaḥ... uttamaḥ — past the perishing world, and *higher even than the imperishable*. The charioteer holding the reins is declaring himself beyond both everything that changes and everything that doesn't. Etymology becomes theology: puruṣa-uttama, the uttermost Person, a title already celebrated in the world and in the Veda.",
    "connection": "Krishna steps into 15.17's vacancy by name — the verse that crowns the Gita's theology of the personal God.",
-   "schools_note": "The hinge of Vedantic debate. Advaita reads akshara here as the unmanifest (maya/avyakta), preserving the nondual Self as ultimate. Ramanuja reads akshara as the liberated soul-principle itself — making the personal Lord categorically supreme over both matter and souls. The Gaudiya school treats this verse as the Gita's final word on God's personhood.",
    "reflection": "Address the Purushottama once by full title today — higher than the perishable, above the imperishable.",
-   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled."
+   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled.",
+   "checked": "SGV",
+   "hook": "Why is Krishna called the Supreme Person in the Vedas?",
+   "refs": [
+    {
+     "source": "Gopāla Tāpanī Upaniṣad",
+     "note": "Declares Krishna the Supreme Lord and Supreme Being, to be meditated on, worshipped and served."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The perishable is the tree of Māyā and the imperishable is its seed; the Lord is beyond both. Devotees know Him so, and poets use the name Puruṣottama."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'Loka' here means Smṛti, since it leads to the Veda's meaning; so the title Supreme Person is found in both Smṛti and Śruti, as in Chāndogya 8.12.3."
+    },
+    {
+     "lens": "shaiva",
+     "text": "One who takes the body for the Self sees the soul as perishing; rightly realized, the I-consciousness is the one pervading all, beyond the insentient elements and without duality."
+    },
+    {
+     "lens": "bhakti",
+     "text": "He is beyond the inert because He is eternally free, and higher than the conscious selves because He is their controller."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "By speaking of himself as \"I\", Krishna shows that he himself is the Supreme Person beyond both perishable and imperishable; other divine forms are manifestations of the same God."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -598,27 +2601,128 @@
    "translation": "He who, undeluded, knows Me thus as the highest Purusha, he, knowing all, worships Me with his whole being (heart), O Arjuna.",
    "anvaya": [
     {
-     "word": "यः माम् एवम् असम्मूढः",
-     "meaning": "who me, thus, undeluded"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
     },
     {
-     "word": "जानाति पुरुषोत्तमम्",
-     "meaning": "knows as the Purushottama"
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
     },
     {
-     "word": "सः सर्ववित् भजति मां",
-     "meaning": "that one, all-knowing, worships me"
+     "word": "एवम्",
+     "meaning": "thus",
+     "base": "thus, in this way",
+     "form": "indeclinable",
+     "iast": "evam"
     },
     {
-     "word": "सर्वभावेन भारत",
-     "meaning": "with (his) whole being, O Bharata"
+     "word": "असम्मूढः",
+     "meaning": "undeluded",
+     "base": "असम्मूढ · not confused",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अ (not) + सम्मूढ (confused): free from delusion",
+     "iast": "asammūḍhaḥ"
+    },
+    {
+     "word": "जानाति",
+     "meaning": "knows",
+     "base": "√ज्ञा · to know",
+     "form": "verb, present, 3rd person singular",
+     "iast": "jānāti"
+    },
+    {
+     "word": "पुरुषोत्तमम्",
+     "meaning": "as the Supreme Person",
+     "base": "पुरुषोत्तम · highest person",
+     "form": "compound noun, masculine, accusative singular (object)",
+     "parts": "पुरुष (person) + उत्तम (highest): the highest among persons",
+     "iast": "puruṣottamam"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "सर्ववित्",
+     "meaning": "knower of all",
+     "base": "सर्वविद् · all-knowing",
+     "form": "compound adjective, masculine, nominative singular",
+     "parts": "सर्व (all) + विद् (knower): one who knows everything",
+     "iast": "sarvavit"
+    },
+    {
+     "word": "भजति",
+     "meaning": "worships",
+     "base": "√भज् · to share in, worship",
+     "form": "verb, present, 3rd person singular",
+     "iast": "bhajati"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "सर्वभावेन",
+     "meaning": "with his whole being",
+     "base": "सर्वभाव · whole being",
+     "form": "compound noun, masculine, instrumental singular (with)",
+     "parts": "सर्व (all) + भाव (being, feeling): with every part of one's being",
+     "iast": "sarvabhāvena"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bharata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
     }
    ],
    "explanation": "The response right knowledge produces: sarva-vit, such a one knows *everything that matters* — because the root of all has been found — and the knowing immediately overflows as bhajati, worship, sarva-bhāvena, with every fiber, every mood, the whole of one's being. In this chapter's logic, complete theology and complete love are the same event seen from two sides.",
    "connection": "The fruit of 15.18: when the Supreme Person is truly known, whole-being devotion is not commanded but inevitable.",
-   "schools_note": null,
    "reflection": "Let right knowing overflow correctly today: worship with the whole being, sarva-bhavena, in one act.",
-   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled."
+   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled.",
+   "checked": "SGV",
+   "hook": "What does someone who truly knows the Supreme Person do?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 1.2.11",
+     "note": "The one Absolute Truth is known in three ways: as Brahman, Paramātmā and Bhagavān."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Knowing the Lord as his own Self, he becomes all-knowing through identity with all, and worships with his mind fixed on the Lord as the Self of all."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Sarva-bhāvena means by every prescribed mode of worship; all the love the Lord feels toward every kind of worshipper is roused in Him, in one, toward this knower."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Whatever he perceives he experiences as the Lord's own form, so every action and thought becomes praise and worship without effort."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Reads the order as cause and result: being certain, he worships the Lord in every way, and through that worship becomes all-knowing."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God is realized as formless Brahman, as the Supreme Soul within, and as the personal Bhagavān; knowing and worshipping him as Bhagavān is the most complete knowledge."
+    }
+   ]
   },
   {
    "chapter": 15,
@@ -630,27 +2734,134 @@
    "translation": "Thus, this most secret science has been taught by Me, O sinless one; on knowing this, a man becomes wise, and all his duties are accomplished, O Arjuna.",
    "anvaya": [
     {
-     "word": "इति गुह्यतमं शास्त्रम्",
-     "meaning": "thus, the most secret teaching"
+     "word": "इति",
+     "meaning": "thus",
+     "base": "thus; marks a conclusion",
+     "form": "indeclinable",
+     "iast": "iti"
     },
     {
-     "word": "इदम् उक्तं मया अनघ",
-     "meaning": "this has been spoken by me, O sinless one"
+     "word": "गुह्यतमम्",
+     "meaning": "most secret",
+     "base": "गुह्य · secret",
+     "form": "adjective, superlative (most), neuter, nominative singular",
+     "iast": "guhyatamam"
     },
     {
-     "word": "एतत् बुद्ध्वा बुद्धिमान् स्यात्",
-     "meaning": "awakening to this, one would become wise"
+     "word": "शास्त्रम्",
+     "meaning": "teaching",
+     "base": "शास्त्र · teaching, scripture",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "śāstram"
     },
     {
-     "word": "कृतकृत्यः च भारत",
-     "meaning": "and one-whose-task-is-accomplished, O Bharata"
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "idam"
+    },
+    {
+     "word": "उक्तम्",
+     "meaning": "has been taught",
+     "base": "√वच् · to speak",
+     "form": "past participle, neuter, nominative singular",
+     "iast": "uktam"
+    },
+    {
+     "word": "मया",
+     "meaning": "by me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, instrumental singular (by me)",
+     "iast": "mayā"
+    },
+    {
+     "word": "अनघ",
+     "meaning": "O sinless one",
+     "base": "अनघ · sinless",
+     "form": "vocative (calling Arjuna)",
+     "parts": "अ (without) + अघ (sin): one without sin",
+     "iast": "anagha"
+    },
+    {
+     "word": "एतत्",
+     "meaning": "this",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "etat"
+    },
+    {
+     "word": "बुद्ध्वा",
+     "meaning": "having understood",
+     "base": "√बुध् · to awaken, understand",
+     "form": "gerund (having done)",
+     "iast": "buddhvā"
+    },
+    {
+     "word": "बुद्धिमान्",
+     "meaning": "wise",
+     "base": "बुद्धिमत् · possessing understanding",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "buddhimān"
+    },
+    {
+     "word": "स्यात्",
+     "meaning": "would become",
+     "base": "√अस् · to be",
+     "form": "verb, optative (would, should), 3rd person singular",
+     "iast": "syāt"
+    },
+    {
+     "word": "कृतकृत्यः",
+     "meaning": "one whose work is done",
+     "base": "कृतकृत्य · task-fulfilled",
+     "form": "compound adjective, masculine, nominative singular",
+     "parts": "कृत (done) + कृत्य (what must be done): one who has done all there is to do",
+     "iast": "kṛtakṛtyaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bharata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
     }
    ],
-   "explanation": "The colophon of the shortest dense chapter: guhyatamam śāstram, the *most* secret of teachings — the inverted tree, the fragment-soul, the indwelling fire, the three purushas, all in twenty verses. And the reward is a word every weary person understands: kṛta-kṛtyaḥ — the one whose to-do list is finished forever, who has done the thing all other doings were circling. The search itself retires.",
+   "explanation": "The colophon of a chapter only twenty verses long: guhyatamam śāstram, the *most* secret of teachings — the inverted tree, the fragment-soul, the indwelling fire, the three purushas, all in twenty verses. And the reward is a word every weary person understands: kṛta-kṛtyaḥ — the one whose to-do list is finished forever, who has done the thing all other doings were circling. The search itself retires.",
    "connection": "Seals the chapter as a complete scripture-in-miniature — before ch16 turns to those who refuse it.",
-   "schools_note": null,
-   "reflection": "Read this chapter's twenty verses sometime as one breath — the shortest complete scripture you own.",
-   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled."
+   "reflection": "Read this chapter's twenty verses sometime as one breath — a complete scripture in miniature.",
+   "background": "The summit of the chapter and one of the Gita's peaks: two Persons in the world, the perishable (all beings) and the imperishable (the unchanging) — but there is another, the Highest, called Paramatma, the imperishable Lord who enters and sustains the three worlds. Because I transcend the perishable and exceed even the imperishable, I am celebrated as Purushottama. Who knows Me thus, undeluded, worships Me with his whole being — and with this most secret teaching declared, one becomes wise and fulfilled.",
+   "checked": "SGV",
+   "hook": "What does understanding this teaching do for a person?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Śāstra' names this chapter, in praise: it holds in brief the meaning of the whole Gita and the purport of the Vedas, and knowing it, all duties are fulfilled."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Knowing the teaching of the Supreme Person fulfils all that must be cultivated and done to reach Him, everything except the direct vision of the Lord itself."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Most secret because it teaches the oneness of all. Iti marks the end of the teaching; chapter 16 adds nothing new and only confirms Arjuna's fitness."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Takes 'this most secret śāstra' as the whole scripture, not merely the twenty-verse chapter; whoever understands it becomes fulfilled, and Arjuna all the more."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Krishna sums up the chapter as the essence of the hidden Vedic knowledge, from the nature of the world to the Supreme Person, and promises that those who take it up will reach God-realization."
+    }
+   ]
   }
  ]
 }

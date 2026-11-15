@@ -15,34 +15,139 @@
   {
    "chapter": 14,
    "verse": 1,
-   "speaker": null,
-   "devanagari": "श्रीभगवानुवाच ।\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् ।\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः॥",
+   "speaker": "श्रीभगवानुवाच",
+   "devanagari": "परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् ।\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः॥",
    "transliteration": "paraṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ",
    "essence": "The Blessed Lord says: again I shall declare the supreme knowledge, best of all knowledges, knowing which all the sages have gone from here to the highest perfection.",
    "translation": "I will again declare (to thee) that supreme knowledge, the best of all knowledge, having known which all the sages have gone to the supreme perfection after this life.",
    "anvaya": [
     {
-     "word": "परं भूयः प्रवक्ष्यामि",
-     "meaning": "the supreme, again, I shall declare"
+     "word": "परम्",
+     "meaning": "supreme",
+     "base": "पर · supreme, highest",
+     "form": "adjective, neuter, accusative singular (agrees with ज्ञानम्)",
+     "iast": "param"
     },
     {
-     "word": "ज्ञानानां ज्ञानम् उत्तमम्",
-     "meaning": "of knowledges, the knowledge highest"
+     "word": "भूयः",
+     "meaning": "again",
+     "base": "again, once more",
+     "form": "indeclinable",
+     "iast": "bhūyaḥ"
     },
     {
-     "word": "यत् ज्ञात्वा मुनयः सर्वे",
-     "meaning": "knowing which, the sages, all"
+     "word": "प्रवक्ष्यामि",
+     "meaning": "I shall declare",
+     "base": "प्र + √वच् · to speak forth",
+     "form": "verb, future, 1st person singular",
+     "iast": "pravakṣyāmi"
     },
     {
-     "word": "परां सिद्धिम् इतः गताः",
-     "meaning": "to the supreme perfection, from here, have gone"
+     "word": "ज्ञानानाम्",
+     "meaning": "of all knowledges",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, genitive plural (of)",
+     "iast": "jñānānām"
+    },
+    {
+     "word": "ज्ञानम्",
+     "meaning": "the knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "jñānam"
+    },
+    {
+     "word": "उत्तमम्",
+     "meaning": "the best",
+     "base": "उत्तम · highest, best",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "uttamam"
+    },
+    {
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, accusative singular (object)",
+     "iast": "yat"
+    },
+    {
+     "word": "ज्ञात्वा",
+     "meaning": "having known",
+     "base": "√ज्ञा · to know",
+     "form": "gerund (having done)",
+     "iast": "jñātvā"
+    },
+    {
+     "word": "मुनयः",
+     "meaning": "the sages",
+     "base": "मुनि · sage, contemplative",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "munayaḥ"
+    },
+    {
+     "word": "सर्वे",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "pronominal adjective, masculine, nominative plural",
+     "iast": "sarve"
+    },
+    {
+     "word": "पराम्",
+     "meaning": "highest",
+     "base": "पर · supreme, highest",
+     "form": "adjective, feminine, accusative singular",
+     "iast": "parām"
+    },
+    {
+     "word": "सिद्धिम्",
+     "meaning": "to perfection",
+     "base": "सिद्धि · perfection, accomplishment",
+     "form": "noun, feminine, accusative singular (goal of motion)",
+     "iast": "siddhim"
+    },
+    {
+     "word": "इतः",
+     "meaning": "from here (this life)",
+     "base": "from here, hence",
+     "form": "indeclinable",
+     "iast": "itaḥ"
+    },
+    {
+     "word": "गताः",
+     "meaning": "have gone",
+     "base": "√गम् · to go",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "gatāḥ"
     }
    ],
    "explanation": "Unprompted — no question from Arjuna this time — Krishna volunteers another summit: jñānānāṁ jñānam uttamam, the best of all knowings. Its credential is historical: every sage who ever left this place for perfection traveled by it. The subject will turn out to be the three strands every mind is woven from.",
    "connection": "Opens the guna-analysis: ch13 mapped field and knower; ch14 maps the field's three threads.",
-   "schools_note": null,
    "reflection": "Receive the unprompted teaching today — wisdom that arrives before you knew to ask for it.",
-   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father."
+   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father.",
+   "checked": "SGV",
+   "hook": "What knowledge did the sages know that carried them to perfection?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "\"Of all knowledges\" means knowledge of things like sacrifice, which cannot free anyone; this knowledge alone leads to liberation, so it is praised as supreme and best to wake the listener's interest."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Takes this as another kind of knowledge, distinct from the earlier teaching on Prakṛti and the self; by it meditating sages reached the pure form of the self beyond saṃsāra."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The same knowledge as before, now unfolded in detail so each strand can be examined on its own; \"by knowing which\" vouches for its tested reliability."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Opens a chapter meant to deny that spirit and nature act on their own: their union, and the variety of saṃsāra it produces, happens by the Lord's will, not as godless Sāṅkhya holds."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Having shown that all life is soul joined with matter under God's direction, Krishna now opens a detailed teaching on the three qualities of nature, which, once realized, lifts one to the highest perfection."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -54,27 +159,128 @@
    "translation": "They who, having taken refuge in this knowledge, have attained to unity with Me, are neither born at the time of creation nor are they disturbed at the time of dissolution.",
    "anvaya": [
     {
-     "word": "इदं ज्ञानम् उपाश्रित्य",
-     "meaning": "taking refuge in this knowledge"
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, accusative singular",
+     "iast": "idam"
     },
     {
-     "word": "मम साधर्म्यम् आगताः",
-     "meaning": "having come to likeness with my nature"
+     "word": "ज्ञानम्",
+     "meaning": "knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "jñānam"
     },
     {
-     "word": "सर्गे अपि न उपजायन्ते",
-     "meaning": "even at a creation, they are not born"
+     "word": "उपाश्रित्य",
+     "meaning": "having taken refuge in",
+     "base": "उप + आ + √श्रि · to resort to",
+     "form": "gerund (having done)",
+     "iast": "upāśritya"
     },
     {
-     "word": "प्रलये न व्यथन्ति च",
-     "meaning": "nor at the dissolution do they tremble"
+     "word": "मम",
+     "meaning": "my",
+     "base": "अस्मद् · I",
+     "form": "pronoun, genitive singular (my)",
+     "iast": "mama"
+    },
+    {
+     "word": "साधर्म्यम्",
+     "meaning": "sameness of nature",
+     "base": "साधर्म्य · sharing the same nature",
+     "form": "noun, neuter, accusative singular (goal reached)",
+     "iast": "sādharmyam"
+    },
+    {
+     "word": "आगताः",
+     "meaning": "having attained",
+     "base": "आ + √गम् · to come to",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "āgatāḥ"
+    },
+    {
+     "word": "सर्गे",
+     "meaning": "at creation",
+     "base": "सर्ग · creation, emission of a world",
+     "form": "noun, masculine, locative singular (at the time of)",
+     "iast": "sarge"
+    },
+    {
+     "word": "अपि",
+     "meaning": "even",
+     "base": "even, also",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "उपजायन्ते",
+     "meaning": "are born",
+     "base": "उप + √जन् · to be born",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "upajāyante"
+    },
+    {
+     "word": "प्रलये",
+     "meaning": "at dissolution",
+     "base": "प्रलय · dissolution of the world",
+     "form": "noun, masculine, locative singular (at the time of)",
+     "iast": "pralaye"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "व्यथन्ति",
+     "meaning": "do they suffer",
+     "base": "√व्यथ् · to tremble, suffer",
+     "form": "verb, present, 3rd person plural (irregular active form)",
+     "iast": "vyathanti"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
     }
    ],
-   "explanation": "The stakes, stated cosmically: mama sādharmyam — likeness to his very nature, the strongest union-language outside chapter 11. Such knowers stand outside the universe's own heartbeat: when worlds are exhaled they are not re-embodied; when worlds are inhaled they do not flinch. Guna-knowledge, fully ripened, exempts one from the cosmic calendar itself.",
+   "explanation": "The stakes, stated cosmically: mama sādharmyam — coming to share his very nature, read by some as identity, by others as likeness. Such knowers stand outside the universe's own heartbeat: when worlds are exhaled they are not re-embodied; when worlds are inhaled they do not flinch. Guna-knowledge, fully ripened, exempts one from the cosmic calendar itself.",
    "connection": "Prices the knowledge of 14.1: beyond rebirth, beyond even the rebirth of universes.",
-   "schools_note": null,
    "reflection": "Aim high enough tonight: a knowing that stands calm even while worlds are exhaled and inhaled.",
-   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father."
+   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father.",
+   "checked": "SGV",
+   "hook": "Can knowledge free you from being born again at each new creation?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Sādharmya means identity with the Lord's real nature, not similarity of attributes, since the Gita admits no difference between the knower of the field and God; the promised result is praise of the knowledge."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The knowers come to partake of the Lord's nature and attain his status: they are not drawn into the process of creation and escape the distress of dissolution."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Notes that vyathanti is an irregular, Vedic-style active form, and that similar irregular endings elsewhere in the Gita are to be explained the same way."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Those who live this knowledge escape rebirth and the dormant state at cosmic dissolution; freed from material energy, the soul comes under God's divine energy and takes on his godlike nature."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -86,27 +292,132 @@
    "translation": "My womb is the great Brahma; in that I place the germ; thence, O Arjuna, is the birth of all beings.",
    "anvaya": [
     {
-     "word": "मम योनिः महत् ब्रह्म",
-     "meaning": "my womb is the great Brahman (prakriti)"
+     "word": "मम",
+     "meaning": "my",
+     "base": "अस्मद् · I",
+     "form": "pronoun, genitive singular (my)",
+     "iast": "mama"
     },
     {
-     "word": "तस्मिन् गर्भं दधामि अहम्",
-     "meaning": "in that I place the embryo"
+     "word": "योनिः",
+     "meaning": "womb",
+     "base": "योनि · womb, source",
+     "form": "noun, feminine, nominative singular",
+     "iast": "yoniḥ"
     },
     {
-     "word": "सम्भवः सर्वभूतानां",
-     "meaning": "the origination of all beings"
+     "word": "महत्",
+     "meaning": "great",
+     "base": "महत् · great",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "mahat"
     },
     {
-     "word": "ततः भवति भारत",
-     "meaning": "from that comes, O Bharata"
+     "word": "ब्रह्म",
+     "meaning": "Brahman (here: prakriti)",
+     "base": "ब्रह्मन् · the vast; here primal nature",
+     "form": "noun, neuter, nominative singular",
+     "iast": "brahma"
+    },
+    {
+     "word": "तस्मिन्",
+     "meaning": "in that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, locative singular (in)",
+     "iast": "tasmin"
+    },
+    {
+     "word": "गर्भम्",
+     "meaning": "the seed, embryo",
+     "base": "गर्भ · womb-content, embryo, seed",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "garbham"
+    },
+    {
+     "word": "दधामि",
+     "meaning": "place",
+     "base": "√धा · to place, put",
+     "form": "verb, present, 1st person singular",
+     "iast": "dadhāmi"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
+    },
+    {
+     "word": "सम्भवः",
+     "meaning": "birth, origin",
+     "base": "सम्भव · coming into being",
+     "form": "noun, masculine, nominative singular",
+     "iast": "sambhavaḥ"
+    },
+    {
+     "word": "सर्वभूतानाम्",
+     "meaning": "of all beings",
+     "base": "सर्वभूत · all beings",
+     "form": "noun compound, neuter, genitive plural (of)",
+     "parts": "सर्व (all) + भूत (being): \"all beings\"",
+     "iast": "sarvabhūtānām"
+    },
+    {
+     "word": "ततः",
+     "meaning": "from that",
+     "base": "from that, thence",
+     "form": "indeclinable",
+     "iast": "tataḥ"
+    },
+    {
+     "word": "भवति",
+     "meaning": "comes about",
+     "base": "√भू · to be, become",
+     "form": "verb, present, 3rd person singular",
+     "iast": "bhavati"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bharata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
     }
    ],
    "explanation": "Creation as conception: mahad brahma — vast nature herself — as womb, and Krishna as the one who plants the garbha, the seed of consciousness. The metaphor honors both parents: matter is not dead stuff awaiting a command but the great mother; spirit is not a distant architect but the intimate father. Every being is their child.",
    "connection": "The cosmology behind 13.27's field-knower union: the marriage now imaged as parenthood.",
-   "schools_note": "'Mama yonir mahad brahma' — My womb is the great Brahman: here 'brahma' startles by meaning prakriti, and the commentators all pause to say so. Shankara: maya as the Lord's generative power; Ramanuja: the great element of matter, His mode; the Gaudiyas: the brahmajyoti or material totality receiving the seed of souls. The shared image is the point — creation as conception, both parents divine.",
    "reflection": "Honor both your parents in everything today: matter the great womb, spirit the seed.",
-   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father."
+   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father.",
+   "checked": "SGV",
+   "hook": "How does Krishna describe the birth of all living beings?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 3.26.19",
+     "note": "The Lord places souls in the womb of material nature, which then shapes bodies for them according to their karmas, as this verse describes."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The womb is the Lord's own māyā, prakṛti of three guṇas, called 'great' as greater than its effects and 'brahma' as sustaining them; placing the seed means joining the field with its knower, beginning with Hiraṇyagarbha's birth."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'Great brahman' is non-conscient prakṛti, so named as cause of Mahat and the rest; the seed is his higher prakṛti, the mass of conscious selves, which he lays in it by his will."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The mighty Brahman is the Lord's own expansive energy; holding that energy of Self-consciousness, he moves the tiny souls through birth and death as an act of favour."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Prakṛti and the souls cause beings only under the Lord, never on their own: at creation he rejoins the soul that lay merged in him, still carrying ignorance, desire and karma, with the field it will experience."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Material nature is like a womb into which God places the souls turned away from him; nature then creates bodies for them according to their past karmas."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -118,27 +429,126 @@
    "translation": "Whatever forms are produced, O Arjuna, in any womb whatsoever, the great Brahma is their womb and I am the seed-giving father.",
    "anvaya": [
     {
-     "word": "सर्वयोनिषु कौन्तेय",
-     "meaning": "in all wombs, O Kaunteya"
+     "word": "सर्वयोनिषु",
+     "meaning": "in all wombs",
+     "base": "सर्वयोनि · all wombs, every species",
+     "form": "noun compound, feminine, locative plural (in)",
+     "parts": "सर्व (all) + योनि (womb): \"all wombs\"",
+     "iast": "sarvayoniṣu"
     },
     {
-     "word": "मूर्तयः सम्भवन्ति याः",
-     "meaning": "whatever forms come to be"
+     "word": "कौन्तेय",
+     "meaning": "O son of Kunti",
+     "base": "कौन्तेय · son of Kunti",
+     "form": "vocative (calling Arjuna)",
+     "iast": "kaunteya"
     },
     {
-     "word": "तासां ब्रह्म महत् योनिः",
-     "meaning": "of them the great Brahman is the womb"
+     "word": "मूर्तयः",
+     "meaning": "forms, bodies",
+     "base": "मूर्ति · embodied form",
+     "form": "noun, feminine, nominative plural (subject)",
+     "iast": "mūrtayaḥ"
     },
     {
-     "word": "अहं बीजप्रदः पिता",
-     "meaning": "I am the seed-giving father"
+     "word": "सम्भवन्ति",
+     "meaning": "come into being",
+     "base": "सम् + √भू · to arise",
+     "form": "verb, present, 3rd person plural",
+     "iast": "sambhavanti"
+    },
+    {
+     "word": "याः",
+     "meaning": "whatever, which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, feminine, nominative plural",
+     "iast": "yāḥ"
+    },
+    {
+     "word": "तासाम्",
+     "meaning": "of them",
+     "base": "तद् · that",
+     "form": "pronoun, feminine, genitive plural (of)",
+     "iast": "tāsām"
+    },
+    {
+     "word": "ब्रह्म",
+     "meaning": "Brahman (primal nature)",
+     "base": "ब्रह्मन् · the vast; here primal nature",
+     "form": "noun, neuter, nominative singular",
+     "iast": "brahma"
+    },
+    {
+     "word": "महत्",
+     "meaning": "great",
+     "base": "महत् · great",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "mahat"
+    },
+    {
+     "word": "योनिः",
+     "meaning": "womb",
+     "base": "योनि · womb, source",
+     "form": "noun, feminine, nominative singular",
+     "iast": "yoniḥ"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
+    },
+    {
+     "word": "बीजप्रदः",
+     "meaning": "seed-giving",
+     "base": "बीजप्रद · giver of seed",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "बीज (seed) + प्रद (giver): \"one who gives the seed\"",
+     "iast": "bījapradaḥ"
+    },
+    {
+     "word": "पिता",
+     "meaning": "father",
+     "base": "पितृ · father",
+     "form": "noun, masculine, nominative singular",
+     "iast": "pitā"
     }
    ],
    "explanation": "The claim universalized: sarva-yoniṣu, *all* wombs — moth, mongoose, monarch, god. One mother, one father, behind every birth in every species; the family of beings is literal, not poetic. For Arjuna, facing 'enemies', the genealogy is pointed: everyone on that field has the same two parents he does.",
    "connection": "Extends 14.3 to every species — the metaphysical ground of universal kinship.",
-   "schools_note": null,
    "reflection": "Greet one creature of another species today as family — same mother, same father, truly.",
-   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father."
+   "background": "Krishna volunteers a further depth: I shall declare again the supreme knowledge by which sages have gone from here to perfection — and frames all becoming as a cosmic conception: the great Brahman is My womb, in it I place the seed; from that comes the birth of all beings, whatever the womb, and I am the seed-giving father.",
+   "checked": "SGV",
+   "hook": "Who is the father of every form of life, in every womb?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 3.26.19",
+     "note": "Describes the Supreme Lord impregnating material nature with souls, matching the image of God as seed-giving father."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Great Brahman' is glossed as the great sustainer that exists as all the various forms; it is the womb of every body born from gods, manes, humans or beasts, and God is the father who deposits the seed."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "In every womb, of gods, Gandharvas, humans or animals, prakṛti holding the selves he has placed in it is the cause; he is the sowing father who places each self according to its karma."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The Lord's expansive energy is present in every womb as the Mother who brings forth the whole world-process; he himself is the Father, the bearer of that energy, beyond description."
+    },
+    {
+     "lens": "bhakti",
+     "text": "This is not only how beings arose at the start of creation: births in every species, moving and unmoving, always come about this way, from prakṛti as mother and the Lord as father."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God is the father who casts the souls into nature, the mother; only those who have turned away from him are sent into the material world."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -147,30 +557,112 @@
    "devanagari": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः ।\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम्॥",
    "transliteration": "sattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ\nnibadhnanti mahābāho dehe dehinamavyayam",
    "essence": "Sattva, rajas, tamas — these gunas, born of prakriti, bind the imperishable embodied one in the body, Mahabaho.",
-   "translation": "Purity, passion and inertia these alities, O Arjuna, born of Nature, bind fast in the body, the embodied, the indestructible.",
+   "translation": "Purity, passion and inertia these qualities, O Arjuna, born of Nature, bind fast in the body, the embodied, the indestructible.",
    "anvaya": [
     {
-     "word": "सत्त्वं रजः तमः इति",
-     "meaning": "sattva, rajas, tamas — thus"
+     "word": "सत्त्वम्",
+     "meaning": "sattva (clarity)",
+     "base": "सत्त्व · being, purity, the bright strand",
+     "form": "noun, neuter, nominative singular",
+     "iast": "sattvam"
     },
     {
-     "word": "गुणाः प्रकृतिसम्भवाः",
-     "meaning": "the gunas, born of prakriti"
+     "word": "रजः",
+     "meaning": "rajas (passion)",
+     "base": "रजस् · passion, the active strand",
+     "form": "noun, neuter, nominative singular",
+     "iast": "rajaḥ"
     },
     {
-     "word": "निबध्नन्ति महाबाहो",
-     "meaning": "bind, O mighty-armed"
+     "word": "तमः",
+     "meaning": "tamas (inertia)",
+     "base": "तमस् · darkness, the heavy strand",
+     "form": "noun, neuter, nominative singular",
+     "iast": "tamaḥ"
     },
     {
-     "word": "देहे देहिनम् अव्ययम्",
-     "meaning": "in the body, the embodied one, imperishable"
+     "word": "इति",
+     "meaning": "thus (closing the list)",
+     "base": "thus; marks a list or quotation",
+     "form": "indeclinable",
+     "iast": "iti"
+    },
+    {
+     "word": "गुणाः",
+     "meaning": "the strands, qualities",
+     "base": "गुण · strand, quality",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "guṇāḥ"
+    },
+    {
+     "word": "प्रकृतिसम्भवाः",
+     "meaning": "born of nature",
+     "base": "प्रकृतिसम्भव · arising from prakriti",
+     "form": "adjective compound, masculine, nominative plural",
+     "parts": "प्रकृति (nature) + सम्भव (origin): \"whose origin is prakriti\"",
+     "iast": "prakṛtisambhavāḥ"
+    },
+    {
+     "word": "निबध्नन्ति",
+     "meaning": "bind fast",
+     "base": "नि + √बन्ध् · to bind down",
+     "form": "verb, present, 3rd person plural",
+     "iast": "nibadhnanti"
+    },
+    {
+     "word": "महाबाहो",
+     "meaning": "O mighty-armed",
+     "base": "महाबाहु · mighty-armed",
+     "form": "vocative (calling Arjuna)",
+     "parts": "महा (great) + बाहु (arm): \"one whose arms are mighty\"",
+     "iast": "mahābāho"
+    },
+    {
+     "word": "देहे",
+     "meaning": "in the body",
+     "base": "देह · body",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "dehe"
+    },
+    {
+     "word": "देहिनम्",
+     "meaning": "the embodied one",
+     "base": "देहिन् · one who has a body, the soul",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "dehinam"
+    },
+    {
+     "word": "अव्ययम्",
+     "meaning": "imperishable",
+     "base": "अव्यय · imperishable, changeless",
+     "form": "adjective, masculine, accusative singular",
+     "iast": "avyayam"
     }
    ],
-   "explanation": "The chapter's three protagonists enter: luminous sattva, restless rajas, heavy tamas — guna literally meaning 'strand' or 'rope.' The paradox is stated whole: they bind the avyayam, the *unbindable*. How does rope hold what cannot be held? By persuasion, the next verses show — each strand binds with a different bait.",
+   "explanation": "The chapter's three protagonists enter: luminous sattva, restless rajas, heavy tamas — guna literally meaning 'strand' or 'rope.' The paradox is stated whole: they bind the avyayam, the *changeless*, the imperishable. How does rope hold what can never be touched? Only 'as it were', by persuasion, the next verses show — each strand binds with a different bait.",
    "connection": "Names the three ropes; 14.6–8 will examine each knot.",
-   "schools_note": null,
    "reflection": "Learn your three ropes by name today: sattva, rajas, tamas — you cannot loosen what you cannot name.",
-   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge."
+   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge.",
+   "checked": "SGV",
+   "hook": "What ties the deathless self down to the body?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Guṇa is a technical term, not a quality inhering in a substance; being forms of ignorance, the strands bind the changeless Self only 'as it were', which answers how the untainted one of 13.31 can be bound."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The guṇas are known only through effects like brightness and show only in prakṛti's evolutes; the self is not tied to them by nature but is bound while it dwells in a body."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The Mother binds the embodied soul with her three strands for the sake of his enjoyment, a binding that lasts until his emancipation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The soul is divine but, identifying with a body made of nature, it is coloured by whichever of the three qualities dominates, like a print taking the hue of the ink used most."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -182,27 +674,104 @@
    "translation": "Of these, Sattva, which from its stainlessness is luminous and healthy, binds by attachment to happiness and by attachment to knowledge, O sinless one.",
    "anvaya": [
     {
-     "word": "तत्र सत्त्वं निर्मलत्वात्",
-     "meaning": "of these, sattva, because stainless"
+     "word": "तत्र",
+     "meaning": "among these",
+     "base": "there; among them",
+     "form": "indeclinable",
+     "iast": "tatra"
     },
     {
-     "word": "प्रकाशकम् अनामयम्",
-     "meaning": "illuminating, free of disease"
+     "word": "सत्त्वम्",
+     "meaning": "sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "sattvam"
     },
     {
-     "word": "सुखसङ्गेन बध्नाति",
-     "meaning": "binds by attachment to happiness"
+     "word": "निर्मलत्वात्",
+     "meaning": "because of its stainlessness",
+     "base": "निर्मलत्व · stainlessness, purity",
+     "form": "noun, neuter, ablative singular (because of)",
+     "iast": "nirmalatvāt"
     },
     {
-     "word": "ज्ञानसङ्गेन च अनघ",
-     "meaning": "and by attachment to knowledge, O sinless one"
+     "word": "प्रकाशकम्",
+     "meaning": "illuminating",
+     "base": "प्रकाशक · that which lights up",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "prakāśakam"
+    },
+    {
+     "word": "अनामयम्",
+     "meaning": "free from affliction, healthy",
+     "base": "अनामय · free from disease",
+     "form": "adjective compound, neuter, nominative singular",
+     "parts": "अन् (not) + आमय (disease): \"having no disease\"",
+     "iast": "anāmayam"
+    },
+    {
+     "word": "सुखसङ्गेन",
+     "meaning": "by attachment to happiness",
+     "base": "सुखसङ्ग · attachment to happiness",
+     "form": "noun compound, masculine, instrumental singular (by means of)",
+     "parts": "सुख (happiness) + सङ्ग (attachment): \"attachment to happiness\"",
+     "iast": "sukhasaṅgena"
+    },
+    {
+     "word": "बध्नाति",
+     "meaning": "binds",
+     "base": "√बन्ध् · to bind",
+     "form": "verb, present, 3rd person singular",
+     "iast": "badhnāti"
+    },
+    {
+     "word": "ज्ञानसङ्गेन",
+     "meaning": "by attachment to knowledge",
+     "base": "ज्ञानसङ्ग · attachment to knowledge",
+     "form": "noun compound, masculine, instrumental singular (by means of)",
+     "parts": "ज्ञान (knowledge) + सङ्ग (attachment): \"attachment to knowledge\"",
+     "iast": "jñānasaṅgena"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अनघ",
+     "meaning": "O sinless one",
+     "base": "अनघ · sinless",
+     "form": "vocative (calling Arjuna)",
+     "parts": "अन् (not) + अघ (sin): \"one without sin\"",
+     "iast": "anagha"
     }
    ],
    "explanation": "The subtlest trap first: sattva, everything one would want — clear, bright, healthy — and still a rope. Its baits are the finest available: sukha-saṅga, the clinging to feeling good, and jñāna-saṅga, the clinging to *being the one who knows*. A golden chain is the teaching's classic gloss: beautiful, comfortable, and still a chain.",
    "connection": "The first knot examined — and the chapter's hardest lesson: even the best quality binds.",
-   "schools_note": null,
    "reflection": "Inspect even your virtues tonight: where has feeling-good, or being-the-one-who-knows, become a chain?",
-   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge."
+   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge.",
+   "checked": "SGV",
+   "hook": "How can even goodness and happiness keep you bound?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The thought 'I am happy' joins an object's quality to the subject, which is nescience; the knowledge meant here belongs to the inner organ, not the Self, otherwise there could be no bondage through it."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Sattva produces knowledge and happiness and then attachment to them; that attachment drives secular and Vedic efforts to secure them, and so births in bodies suited to those fruits."
+    },
+    {
+     "lens": "practice",
+     "text": "A golden fetter: the sattvic person compares himself with others, grows proud of his learning and comfort, and thinks 'I am happy, I am wise'."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Goodness brings calm, health and knowledge, yet attachment to it still binds; like a robber who frees you but cannot leave the forest, it shows the way out but must itself be transcended."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -214,27 +783,102 @@
    "translation": "Know thou Rajas to be of the nature of passion, the source of thirst (for sensual enjoyment) and attachment; it binds fast, O Arjuna, the embodied one by attachment to action.",
    "anvaya": [
     {
-     "word": "रजः रागात्मकं विद्धि",
-     "meaning": "know rajas as having the nature of raga (passion)"
+     "word": "रजः",
+     "meaning": "rajas",
+     "base": "रजस् · the active strand, passion",
+     "form": "noun, neuter, accusative singular (object of 'know')",
+     "iast": "rajaḥ"
+    },
+    {
+     "word": "रागात्मकम्",
+     "meaning": "of the nature of passion",
+     "base": "रागात्मक · having passion as its nature",
+     "form": "adjective compound, neuter, accusative singular",
+     "parts": "राग (passion, colouring) + आत्मक (having the nature of): \"whose nature is passion\"",
+     "iast": "rāgātmakam"
+    },
+    {
+     "word": "विद्धि",
+     "meaning": "know",
+     "base": "√विद् · to know",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "viddhi"
     },
     {
      "word": "तृष्णासङ्गसमुद्भवम्",
-     "meaning": "the source of craving and clinging"
+     "meaning": "source of craving and clinging",
+     "base": "तृष्णासङ्गसमुद्भव · source of thirst and attachment",
+     "form": "adjective compound, neuter, accusative singular",
+     "parts": "तृष्णा (thirst) + सङ्ग (attachment) + समुद्भव (origin): \"from which thirst and attachment arise\" (also read: arising from them)",
+     "iast": "tṛṣṇāsaṅgasamudbhavam"
     },
     {
-     "word": "तत् निबध्नाति कौन्तेय",
-     "meaning": "that binds, O Kaunteya"
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, nominative singular (subject)",
+     "iast": "tat"
     },
     {
-     "word": "कर्मसङ्गेन देहिनम्",
-     "meaning": "by attachment to action, the embodied one"
+     "word": "निबध्नाति",
+     "meaning": "binds fast",
+     "base": "नि + √बन्ध् · to bind down",
+     "form": "verb, present, 3rd person singular",
+     "iast": "nibadhnāti"
+    },
+    {
+     "word": "कौन्तेय",
+     "meaning": "O son of Kunti",
+     "base": "कौन्तेय · son of Kunti",
+     "form": "vocative (calling Arjuna)",
+     "iast": "kaunteya"
+    },
+    {
+     "word": "कर्मसङ्गेन",
+     "meaning": "by attachment to action",
+     "base": "कर्मसङ्ग · attachment to action",
+     "form": "noun compound, masculine, instrumental singular (by means of)",
+     "parts": "कर्म (action) + सङ्ग (attachment): \"attachment to action\"",
+     "iast": "karmasaṅgena"
+    },
+    {
+     "word": "देहिनम्",
+     "meaning": "the embodied one",
+     "base": "देहिन् · one who has a body",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "dehinam"
     }
    ],
    "explanation": "The middle strand: rajas, pure momentum — tṛṣṇā, the thirst that drinking only sharpens, and saṅga, the grip. Its rope is karma-saṅga: addiction not to any particular outcome but to *doing itself*, the itch that makes stillness feel like dying. Most of what the world calls ambition is this strand, holding the leash.",
-   "connection": "The second knot: the restless rope that keeps the wheel of 3.5 spinning.",
-   "schools_note": null,
+   "connection": "The second knot: the restless rope behind 3.5's truth that no one rests a moment without acting.",
    "reflection": "Catch the thirst that drinking sharpens once today — and skip one round of feeding it.",
-   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge."
+   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge.",
+   "checked": "SGV",
+   "hook": "How does passion keep a person tied to endless activity?",
+   "refs": [
+    {
+     "source": "Yoga Sūtras",
+     "note": "Patañjali's system names activity as passion's chief expression, while this verse names attachment and desire."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Rāga comes from 'colouring', like ochre dye; tṛṣṇā is longing for what one lacks, saṅga clinging to what one has; rajas binds through deep involvement in actions for seen and unseen ends."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Takes rāga as desire between man and woman and saṅga as longing for sons and friends; actions begun out of such longing become the cause of new births."
+    },
+    {
+     "lens": "practice",
+     "text": "Desire fed is like petrol poured on fire: the rajasic person is never content, and rajas plants the idea 'I am the doer' in the silent witness."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Passion and desire feed each other, driving restless pursuit of status, wealth and family; offering the fruits of one's work to God breaks the cycle and calms passion."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -246,27 +890,107 @@
    "translation": "But know thou Tamas to be born of ignorance, deluding all embodied beings; it binds fast, O Arjuna, by heedlessness, indolence and sleep.",
    "anvaya": [
     {
-     "word": "तमः तु अज्ञानजं विद्धि",
-     "meaning": "but tamas, know as born of ignorance"
+     "word": "तमः",
+     "meaning": "tamas",
+     "base": "तमस् · darkness, the heavy strand",
+     "form": "noun, neuter, accusative singular (object of 'know')",
+     "iast": "tamaḥ"
     },
     {
-     "word": "मोहनं सर्वदेहिनाम्",
-     "meaning": "the deluder of all embodied beings"
+     "word": "तु",
+     "meaning": "but",
+     "base": "but, on the other hand",
+     "form": "indeclinable",
+     "iast": "tu"
+    },
+    {
+     "word": "अज्ञानजम्",
+     "meaning": "born of ignorance",
+     "base": "अज्ञानज · born of ignorance",
+     "form": "adjective compound, neuter, accusative singular",
+     "parts": "अज्ञान (ignorance) + ज (born): \"born of ignorance\"",
+     "iast": "ajñānajam"
+    },
+    {
+     "word": "विद्धि",
+     "meaning": "know",
+     "base": "√विद् · to know",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "viddhi"
+    },
+    {
+     "word": "मोहनम्",
+     "meaning": "deluding",
+     "base": "मोहन · that which deludes (from √मुह्)",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "mohanam"
+    },
+    {
+     "word": "सर्वदेहिनाम्",
+     "meaning": "of all embodied beings",
+     "base": "सर्वदेहिन् · all embodied beings",
+     "form": "noun compound, masculine, genitive plural (of)",
+     "parts": "सर्व (all) + देहिन् (embodied one): \"all the embodied\"",
+     "iast": "sarvadehinām"
     },
     {
      "word": "प्रमादालस्यनिद्राभिः",
-     "meaning": "with negligence, laziness, sleep"
+     "meaning": "by negligence, laziness and sleep",
+     "base": "प्रमादालस्यनिद्रा · negligence, sloth, sleep",
+     "form": "noun compound, feminine, instrumental plural (by means of)",
+     "parts": "प्रमाद (negligence) + आलस्य (laziness) + निद्रा (sleep): a list joined by 'and'",
+     "iast": "pramādālasyanidrābhiḥ"
     },
     {
-     "word": "तत् निबध्नाति भारत",
-     "meaning": "that binds, O Bharata"
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, nominative singular (subject)",
+     "iast": "tat"
+    },
+    {
+     "word": "निबध्नाति",
+     "meaning": "binds fast",
+     "base": "नि + √बन्ध् · to bind down",
+     "form": "verb, present, 3rd person singular",
+     "iast": "nibadhnāti"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bharata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
     }
    ],
    "explanation": "The heaviest strand: tamas, darkness as a force — not the absence of energy but an active mohanam, a deluding fog. Its three ropes need no bait at all: pramāda, the slow leak of carelessness; ālasya, the body's refusal; nidrā, sleep beyond the body's need. Where rajas binds by motion, tamas binds by weight.",
    "connection": "The third knot completes the set — three ropes, three entirely different grips.",
-   "schools_note": null,
    "reflection": "Name tamas honestly where you find it today: the fog, the heaviness, the not-caring — naming thins it.",
-   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge."
+   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge.",
+   "checked": "SGV",
+   "hook": "What does the quality of darkness do to a person?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Tamas, the third quality, deludes all embodied beings as a cause of indiscrimination; born of ignorance, it binds them through inadvertence, laziness and sleep."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Ajñāna here is knowledge contrary to how things are, and delusion is erroneous knowledge; negligence leads to doing what should not be done, indolence avoids work, and sleep is the senses resting from exhaustion."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Pramāda is wasting the rare human birth, won by long merit and the only means to emancipation; laziness means sloth in doing good."
+    },
+    {
+     "lens": "practice",
+     "text": "Each of the three ropes opposes something: negligence blocks sattva's discrimination, laziness blocks rajas' effort, and sleep is a sinking into ignorance that stops the work of both."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Darkness draws people to sleep, sloth, intoxication and violence, dulls their sense of right and wrong, and makes them forget their spiritual identity and the chance human life offers."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -278,27 +1002,117 @@
    "translation": "Sattva attaches to happiness, Rajas to action, O Arjuna, while Tamas verily shrouding knowledge attaches to heedlessness.",
    "anvaya": [
     {
-     "word": "सत्त्वं सुखे सञ्जयति",
-     "meaning": "sattva attaches (one) to happiness"
+     "word": "सत्त्वम्",
+     "meaning": "sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "sattvam"
     },
     {
-     "word": "रजः कर्मणि भारत",
-     "meaning": "rajas to action, O Bharata"
+     "word": "सुखे",
+     "meaning": "to happiness",
+     "base": "सुख · happiness",
+     "form": "noun, neuter, locative singular (to, in)",
+     "iast": "sukhe"
     },
     {
-     "word": "ज्ञानम् आवृत्य तु तमः",
-     "meaning": "but tamas, having veiled knowledge"
+     "word": "सञ्जयति",
+     "meaning": "attaches",
+     "base": "सम् + √सञ्ज् · to cling (causative: to attach)",
+     "form": "causative verb, present, 3rd person singular",
+     "iast": "sañjayati"
     },
     {
-     "word": "प्रमादे सञ्जयति उत",
-     "meaning": "attaches indeed to negligence"
+     "word": "रजः",
+     "meaning": "rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "rajaḥ"
+    },
+    {
+     "word": "कर्मणि",
+     "meaning": "to action",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, locative singular (to, in)",
+     "iast": "karmaṇi"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bharata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
+    },
+    {
+     "word": "ज्ञानम्",
+     "meaning": "knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "jñānam"
+    },
+    {
+     "word": "आवृत्य",
+     "meaning": "having veiled",
+     "base": "आ + √वृ · to cover",
+     "form": "gerund (having done)",
+     "iast": "āvṛtya"
+    },
+    {
+     "word": "तु",
+     "meaning": "but",
+     "base": "but",
+     "form": "indeclinable",
+     "iast": "tu"
+    },
+    {
+     "word": "तमः",
+     "meaning": "tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "tamaḥ"
+    },
+    {
+     "word": "प्रमादे",
+     "meaning": "to negligence",
+     "base": "प्रमाद · heedlessness, negligence",
+     "form": "noun, masculine, locative singular (to, in)",
+     "iast": "pramāde"
+    },
+    {
+     "word": "सञ्जयति",
+     "meaning": "attaches",
+     "base": "सम् + √सञ्ज् · to cling (causative: to attach)",
+     "form": "causative verb, present, 3rd person singular",
+     "iast": "sañjayati"
+    },
+    {
+     "word": "उत",
+     "meaning": "indeed, also",
+     "base": "indeed, and also",
+     "form": "indeclinable",
+     "iast": "uta"
     }
    ],
    "explanation": "The summary table, one verb three ways: sañjayati, it attaches. Sattva glues you to feeling-good, rajas to doing, tamas — after first pulling the blind down over knowing — to not-caring. Notice the diagnostic gift: identify what you cannot stop reaching for, and you have identified which strand is currently holding the pen.",
    "connection": "Compresses 14.6–8 into a field guide: three attachments, three rulers.",
-   "schools_note": null,
    "reflection": "Run the diagnostic at noon: what can I not stop reaching for right now? That names the ruler.",
-   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge."
+   "background": "The three strands are introduced by name and grip: sattva, rajas, tamas, born of prakriti, binding the imperishable dweller in the body — sattva by attachment to happiness and knowledge, rajas by thirst and attachment to action, tamas by negligence, sloth, and sleep, veiling knowledge.",
+   "checked": "SGV",
+   "hook": "In a word, what does each of the three qualities attach you to?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The knowledge tamas veils is the discrimination that sattva produces; pramāda means failing to do the duty at hand."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Stresses each strand's overriding force: sattva keeps one turned toward happiness even amid causes of grief, and tamas veils even what the great teach; 'uta' adds that it also yokes one to laziness."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Goodness can breed complacency and intellectual pride, passion drives intense work that creates more karma, and darkness clouds judgment until people harm themselves for pleasure."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -310,27 +1124,142 @@
    "translation": "Now Sattva arises (prevails), O Arjuna, having overpowered Rajas and Tamas; nor Rajas, having overpowered Sattva and Tamas; and now Tamas, having overpowered Sattva and Rajas.",
    "anvaya": [
     {
-     "word": "रजः तमः च अभिभूय",
-     "meaning": "overpowering rajas and tamas"
+     "word": "रजः",
+     "meaning": "rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, accusative singular (object of 'overpowering')",
+     "iast": "rajaḥ"
     },
     {
-     "word": "सत्त्वं भवति भारत",
-     "meaning": "sattva comes to be, O Bharata"
+     "word": "तमः",
+     "meaning": "tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "tamaḥ"
     },
     {
-     "word": "रजः सत्त्वं तमः च एव",
-     "meaning": "rajas (overpowering) sattva and tamas"
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "तमः सत्त्वं रजः तथा",
-     "meaning": "tamas, sattva and rajas, likewise"
+     "word": "अभिभूय",
+     "meaning": "having overpowered",
+     "base": "अभि + √भू · to overpower",
+     "form": "gerund (having done)",
+     "iast": "abhibhūya"
+    },
+    {
+     "word": "सत्त्वम्",
+     "meaning": "sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "sattvam"
+    },
+    {
+     "word": "भवति",
+     "meaning": "prevails",
+     "base": "√भू · to be, become",
+     "form": "verb, present, 3rd person singular",
+     "iast": "bhavati"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O Bharata",
+     "base": "भारत · descendant of Bharata",
+     "form": "vocative (calling Arjuna)",
+     "iast": "bhārata"
+    },
+    {
+     "word": "रजः",
+     "meaning": "rajas (prevails)",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "rajaḥ"
+    },
+    {
+     "word": "सत्त्वम्",
+     "meaning": "over sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "sattvam"
+    },
+    {
+     "word": "तमः",
+     "meaning": "and tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "tamaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "just so, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "तमः",
+     "meaning": "tamas (prevails)",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "tamaḥ"
+    },
+    {
+     "word": "सत्त्वम्",
+     "meaning": "over sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "sattvam"
+    },
+    {
+     "word": "रजः",
+     "meaning": "and rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "rajaḥ"
+    },
+    {
+     "word": "तथा",
+     "meaning": "likewise",
+     "base": "so, likewise",
+     "form": "indeclinable",
+     "iast": "tathā"
     }
    ],
    "explanation": "The inner weather report: the three are never absent, only in shifting majority — each rises abhibhūya, by *overpowering* the other two. A single day cycles through all three governments: the clear morning, the driven afternoon, the leaden evening. The self watches a parliament it did not elect form and fall, hour by hour.",
    "connection": "The dynamics: 14.6–9's strands as rivals in perpetual coup — observable in any afternoon.",
-   "schools_note": null,
    "reflection": "Watch one full cycle today — clear morning, driven afternoon, heavy evening — as governments changing.",
-   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas."
+   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas.",
+   "checked": "SGV",
+   "hook": "Why do your moods keep shifting between calm, drive and dullness?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Each quality grows by subduing the other two and then produces its own effects: sattva knowledge and happiness, rajas activity and hankering, tamas the obscuring of knowledge."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "All three are always present in the embodied self; which one rises or is subdued depends on past karma and on the food that nourishes the body."
+    },
+    {
+     "lens": "practice",
+     "text": "Each strand has its turn, like seasons succeeding one another; the means of strengthening sattva are taught later in chapters 17 and 18."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Like three wrestlers taking turns on top, the qualities keep overpowering one another in the mind, depending on surroundings, thoughts and past tendencies, so one's temperament swings among them."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -342,27 +1271,122 @@
    "translation": "When through every gate (sense) in this body, the wisdom-light shines, then it may be known that Sattva is predominant.",
    "anvaya": [
     {
-     "word": "सर्वद्वारेषु देहे अस्मिन्",
-     "meaning": "in all the gates of this body"
+     "word": "सर्वद्वारेषु",
+     "meaning": "in all the gates",
+     "base": "सर्वद्वार · all the doors (senses)",
+     "form": "noun compound, neuter, locative plural (in)",
+     "parts": "सर्व (all) + द्वार (door): \"all the doors\"",
+     "iast": "sarvadvāreṣu"
     },
     {
-     "word": "प्रकाशः उपजायते",
-     "meaning": "light arises"
+     "word": "देहे",
+     "meaning": "in the body",
+     "base": "देह · body",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "dehe"
     },
     {
-     "word": "ज्ञानं यदा तदा विद्यात्",
-     "meaning": "knowledge — when (this is so), then one should know"
+     "word": "अस्मिन्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, locative singular (agrees with देहे)",
+     "iast": "asmin"
     },
     {
-     "word": "विवृद्धं सत्त्वम् इति उत",
-     "meaning": "that sattva has increased indeed"
+     "word": "प्रकाशः",
+     "meaning": "light, illumination",
+     "base": "प्रकाश · light, clarity",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "prakāśaḥ"
+    },
+    {
+     "word": "उपजायते",
+     "meaning": "arises",
+     "base": "उप + √जन् · to arise, be born",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "upajāyate"
+    },
+    {
+     "word": "ज्ञानम्",
+     "meaning": "(that is) knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, nominative singular (in apposition to प्रकाशः)",
+     "iast": "jñānam"
+    },
+    {
+     "word": "यदा",
+     "meaning": "when",
+     "base": "when",
+     "form": "indeclinable",
+     "iast": "yadā"
+    },
+    {
+     "word": "तदा",
+     "meaning": "then",
+     "base": "then",
+     "form": "indeclinable",
+     "iast": "tadā"
+    },
+    {
+     "word": "विद्यात्",
+     "meaning": "one should know",
+     "base": "√विद् · to know",
+     "form": "verb, optative, 3rd person singular (should)",
+     "iast": "vidyāt"
+    },
+    {
+     "word": "विवृद्धम्",
+     "meaning": "has greatly increased",
+     "base": "वि + √वृध् · to grow",
+     "form": "past participle, neuter, accusative singular",
+     "iast": "vivṛddham"
+    },
+    {
+     "word": "सत्त्वम्",
+     "meaning": "sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "sattvam"
+    },
+    {
+     "word": "इति",
+     "meaning": "that (marks what is known)",
+     "base": "thus; marks a quoted thought",
+     "form": "indeclinable",
+     "iast": "iti"
+    },
+    {
+     "word": "उत",
+     "meaning": "indeed, also",
+     "base": "indeed, also",
+     "form": "indeclinable",
+     "iast": "uta"
     }
    ],
    "explanation": "The diagnostics begin — how to read which strand is ruling. Sattva's sign: prakāśa at sarva-dvāreṣu, light at *all* the gates — the nine doors of 5.13 now windows. Perception crisp, words clean, the world arriving in focus. When everything simply seems clearer, that is not the world improving; that is sattva ascendant.",
    "connection": "First entry in the field-manual (14.11–13): sattva announced by clarity at the senses.",
-   "schools_note": null,
    "reflection": "Notice an hour when all the gates are lit — perception crisp, words clean — and thank sattva by name.",
-   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas."
+   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas.",
+   "checked": "SGV",
+   "hook": "How can you tell when goodness is rising in you?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Prakāśa is a function of the inner organ, intelligence, and that is what 'knowledge' means here; the ear and other senses are the Self's doors of perception."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The light is knowledge of sound and the other objects arising at every sense; the word 'uta' hints that sattva's rise is also known by happiness and its other signs."
+    },
+    {
+     "lens": "practice",
+     "text": "Stand as a doorkeeper of the mind and let only sattvic thoughts pass; sattvic food, japa, meditation and holy company increase sattva."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The qualities even shape our attitude to spiritual practice; when goodness rises we feel eager to progress, and practice means holding the mind to devotion whatever quality prevails."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -374,27 +1398,113 @@
    "translation": "Greed, activity, the undertaking of actions, restlessness, longing these arise when Rajas is predominant, O Arjuna.",
    "anvaya": [
     {
-     "word": "लोभः प्रवृत्तिः आरम्भः",
-     "meaning": "greed, busyness, undertaking"
+     "word": "लोभः",
+     "meaning": "greed",
+     "base": "लोभ · greed, covetousness",
+     "form": "noun, masculine, nominative singular",
+     "iast": "lobhaḥ"
     },
     {
-     "word": "कर्मणाम् अशमः स्पृहा",
-     "meaning": "of works; restlessness, craving"
+     "word": "प्रवृत्तिः",
+     "meaning": "activity, busyness",
+     "base": "प्रवृत्ति · activity, setting out",
+     "form": "noun, feminine, nominative singular",
+     "iast": "pravṛttiḥ"
     },
     {
-     "word": "रजसि एतानि जायन्ते",
-     "meaning": "these are born when rajas"
+     "word": "आरम्भः",
+     "meaning": "undertaking",
+     "base": "आरम्भ · beginning, undertaking",
+     "form": "noun, masculine, nominative singular",
+     "iast": "ārambhaḥ"
     },
     {
-     "word": "विवृद्धे भरतर्षभ",
-     "meaning": "has increased, O bull of the Bharatas"
+     "word": "कर्मणाम्",
+     "meaning": "of actions",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, genitive plural (of)",
+     "iast": "karmaṇām"
+    },
+    {
+     "word": "अशमः",
+     "meaning": "restlessness",
+     "base": "अशम · lack of calm",
+     "form": "noun, masculine, nominative singular",
+     "parts": "अ (not) + शम (calm): \"absence of calm\"",
+     "iast": "aśamaḥ"
+    },
+    {
+     "word": "स्पृहा",
+     "meaning": "craving",
+     "base": "स्पृहा · longing, desire",
+     "form": "noun, feminine, nominative singular",
+     "iast": "spṛhā"
+    },
+    {
+     "word": "रजसि",
+     "meaning": "when rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, locative singular (when, with विवृद्धे)",
+     "iast": "rajasi"
+    },
+    {
+     "word": "एतानि",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, nominative plural (subject)",
+     "iast": "etāni"
+    },
+    {
+     "word": "जायन्ते",
+     "meaning": "arise",
+     "base": "√जन् · to be born",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "jāyante"
+    },
+    {
+     "word": "विवृद्धे",
+     "meaning": "has increased",
+     "base": "वि + √वृध् · to grow",
+     "form": "past participle, neuter, locative singular (when ... has increased)",
+     "iast": "vivṛddhe"
+    },
+    {
+     "word": "भरतर्षभ",
+     "meaning": "O best of the Bharatas",
+     "base": "भरतर्षभ · bull among the Bharatas",
+     "form": "vocative (calling Arjuna)",
+     "parts": "भरत (Bharata) + ऋषभ (bull): \"bull, chief of the Bharatas\"",
+     "iast": "bharatarṣabha"
     }
    ],
    "explanation": "Rajas's five tells, each recognizable from the inside: lobha, the more-hunger; pravṛtti, the compulsion to be in motion; ārambha, the launching of project after project; aśama, the inability to sit; spṛhā, the reflexive reaching. A culture can be read with this verse as easily as a mood — and modernity reads rajasic on every line.",
    "connection": "Second entry: rajas announced not by feeling but by the calendar filling itself.",
-   "schools_note": null,
    "reflection": "Read your calendar as a symptom today: greed, launching, restlessness — rajas writes in appointments.",
-   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas."
+   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas.",
+   "checked": "SGV",
+   "hook": "What signs show that passion has taken hold of you?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "When rajas predominates there arise avarice, the desire to take others' possessions; activity in general; undertaking of actions; unrest, shown as joy and attachment; and hankering, desire in general for all things."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Lobha is unwillingness to spend what one has; pravṛtti is activity with no purpose; ārambha is taking up works for their fruits; aśama is the senses never resting."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Aśama is the unceasing round of plans, 'having done this I will do that'; ārambha is the drive to build houses and the like; spṛhā is grabbing at whatever one sees."
+    },
+    {
+     "lens": "practice",
+     "text": "Do not mistake rajasic bustle for karma yoga; motives usually hide personal desire, and the sage sitting still is in truth the most active."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Passion breeds greed and restless striving, even telling us spiritual progress can wait; we should not be dejected by such swings but use the intellect to keep the mind on God."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -406,27 +1516,113 @@
    "translation": "Darkness, inertness, heedlessness and delusion these arise when Tamas is predominant, O Arjuna.",
    "anvaya": [
     {
-     "word": "अप्रकाशः अप्रवृत्तिः च",
-     "meaning": "non-illumination, and non-activity"
+     "word": "अप्रकाशः",
+     "meaning": "darkness, lack of clarity",
+     "base": "अप्रकाश · absence of light",
+     "form": "noun, masculine, nominative singular",
+     "parts": "अ (not) + प्रकाश (light): \"absence of light\"",
+     "iast": "aprakāśaḥ"
     },
     {
-     "word": "प्रमादः मोहः एव च",
-     "meaning": "negligence, and delusion"
+     "word": "अप्रवृत्तिः",
+     "meaning": "inertia",
+     "base": "अप्रवृत्ति · inactivity",
+     "form": "noun, feminine, nominative singular",
+     "parts": "अ (not) + प्रवृत्ति (activity): \"absence of activity\"",
+     "iast": "apravṛttiḥ"
     },
     {
-     "word": "तमसि एतानि जायन्ते",
-     "meaning": "these are born when tamas"
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "विवृद्धे कुरुनन्दन",
-     "meaning": "has increased, O joy of the Kurus"
+     "word": "प्रमादः",
+     "meaning": "negligence",
+     "base": "प्रमाद · heedlessness",
+     "form": "noun, masculine, nominative singular",
+     "iast": "pramādaḥ"
+    },
+    {
+     "word": "मोहः",
+     "meaning": "delusion",
+     "base": "मोह · delusion, confusion",
+     "form": "noun, masculine, nominative singular",
+     "iast": "mohaḥ"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "indeed, surely",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "तमसि",
+     "meaning": "when tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, locative singular (when, with विवृद्धे)",
+     "iast": "tamasi"
+    },
+    {
+     "word": "एतानि",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, nominative plural (subject)",
+     "iast": "etāni"
+    },
+    {
+     "word": "जायन्ते",
+     "meaning": "arise",
+     "base": "√जन् · to be born",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "jāyante"
+    },
+    {
+     "word": "विवृद्धे",
+     "meaning": "has increased",
+     "base": "वि + √वृध् · to grow",
+     "form": "past participle, neuter, locative singular (when ... has increased)",
+     "iast": "vivṛddhe"
+    },
+    {
+     "word": "कुरुनन्दन",
+     "meaning": "O joy of the Kurus",
+     "base": "कुरुनन्दन · delight of the Kuru line",
+     "form": "vocative (calling Arjuna)",
+     "parts": "कुरु (Kuru) + नन्दन (joy, son): \"joy of the Kurus\"",
+     "iast": "kurunandana"
     }
    ],
    "explanation": "Tamas diagnosed by negation: aprakāśa, the lights dimmed; apravṛtti, the engine that will not turn; then pramāda and moha, the slide from not-doing into not-seeing-why-it-matters. The danger is its self-concealment — sattva and rajas can notice themselves; tamas, by definition, has trouble noticing anything.",
    "connection": "Third entry completes the manual — and 14.14–15 asks: which strand will you die in?",
-   "schools_note": null,
    "reflection": "Be alert for the strand that hides itself: when nothing seems to matter, that is tamas, mattering.",
-   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas."
+   "background": "The strands are shown contending for government: now sattva prevails over rajas and tamas, now rajas, now tamas — and the field signs of each ruler are given: light at all the body's gates when sattva reigns; greed, restlessness, and craving under rajas; darkness, inertia, and delusion under tamas.",
+   "checked": "SGV",
+   "hook": "What signs show that dullness and darkness are taking over?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Aprakāśa is complete loss of discrimination; negligence and delusion, a form of stupidity, are its effects."
+    },
+    {
+     "lens": "practice",
+     "text": "Tamas is often mistaken for peace: 'all is prārabdha, all is māyā, why should I work, I am Brahman' is not spirituality but thick tamas."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Under darkness the mind doubts God and sees no point in practice; such fluctuation is natural, and steady practice, like learning to drive, makes rising above it easier."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -438,27 +1634,117 @@
    "translation": "If the embodied one meets with death when Sattva is predominant, then he attains to the spotless worlds of the knowers of the Highest.",
    "anvaya": [
     {
-     "word": "यदा सत्त्वे प्रवृद्धे तु",
-     "meaning": "but when, sattva having increased"
+     "word": "यदा",
+     "meaning": "when",
+     "base": "when",
+     "form": "indeclinable",
+     "iast": "yadā"
     },
     {
-     "word": "प्रलयं याति देहभृत्",
-     "meaning": "the body-bearer goes to dissolution"
+     "word": "सत्त्वे",
+     "meaning": "when sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, locative singular (when, with प्रवृद्धे)",
+     "iast": "sattve"
     },
     {
-     "word": "तदा उत्तमविदां लोकान्",
-     "meaning": "then, to the worlds of the knowers of the highest"
+     "word": "प्रवृद्धे",
+     "meaning": "is predominant",
+     "base": "प्र + √वृध् · to grow strong",
+     "form": "past participle, neuter, locative singular (when ... has grown)",
+     "iast": "pravṛddhe"
     },
     {
-     "word": "अमलान् प्रतिपद्यते",
-     "meaning": "the stainless, one attains"
+     "word": "तु",
+     "meaning": "indeed",
+     "base": "but, indeed",
+     "form": "indeclinable",
+     "iast": "tu"
+    },
+    {
+     "word": "प्रलयम्",
+     "meaning": "to dissolution (death)",
+     "base": "प्रलय · dissolution, death",
+     "form": "noun, masculine, accusative singular (goal of motion)",
+     "iast": "pralayam"
+    },
+    {
+     "word": "याति",
+     "meaning": "goes",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "yāti"
+    },
+    {
+     "word": "देहभृत्",
+     "meaning": "the embodied one",
+     "base": "देहभृत् · body-bearer",
+     "form": "noun compound, masculine, nominative singular (subject)",
+     "parts": "देह (body) + भृत् (bearer): \"one who bears a body\"",
+     "iast": "dehabhṛt"
+    },
+    {
+     "word": "तदा",
+     "meaning": "then",
+     "base": "then",
+     "form": "indeclinable",
+     "iast": "tadā"
+    },
+    {
+     "word": "उत्तमविदाम्",
+     "meaning": "of knowers of the highest",
+     "base": "उत्तमविद् · knower of the highest",
+     "form": "noun compound, masculine, genitive plural (of)",
+     "parts": "उत्तम (highest) + विद् (knower): \"those who know the highest\"",
+     "iast": "uttamavidām"
+    },
+    {
+     "word": "लोकान्",
+     "meaning": "worlds",
+     "base": "लोक · world",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "lokān"
+    },
+    {
+     "word": "अमलान्",
+     "meaning": "stainless",
+     "base": "अमल · without stain",
+     "form": "adjective, masculine, accusative plural",
+     "parts": "अ (not) + मल (stain): \"stainless\"",
+     "iast": "amalān"
+    },
+    {
+     "word": "प्रतिपद्यते",
+     "meaning": "attains",
+     "base": "प्रति + √पद् · to reach, attain",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "pratipadyate"
     }
    ],
    "explanation": "The strands follow past the body: die on a sattva tide, and the momentum carries to amalān lokān, stainless worlds, the company of the wise. Not a judgment passed from outside — just physics: the quality of consciousness at the moment of release is a trajectory, and trajectories continue. Chapter 8's final-thought doctrine, restated in guna terms.",
    "connection": "Begins the death-accounting (14.14–15): the ruling strand as the soul's launch angle.",
-   "schools_note": null,
    "reflection": "Practice dying well by living well today: the tide you cultivate is the tide that carries.",
-   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic."
+   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic.",
+   "checked": "SGV",
+   "hook": "Where does someone go who dies while goodness prevails?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Tu means 'exclusively', when sattva alone prevails; the stainless worlds are those like Brahmā's, belonging to those who know principles such as mahat."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The pure worlds mean birth in families of those who know the self, where one becomes fit for the acts that lead to self-knowledge."
+    },
+    {
+     "lens": "shaiva",
+     "text": "What counts is sattva cultivated through the whole of life, not a chance mood at the last moment, since at death delusion overtakes everyone."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "We get what we deserve: those who cultivated virtue and service are reborn among the pious and learned or in higher realms."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -470,27 +1756,106 @@
    "translation": "Meeting death in Rajas, he is born among those who are attached to action; and dying in Tamas, he is born in the womb of the senseless.",
    "anvaya": [
     {
-     "word": "रजसि प्रलयं गत्वा",
-     "meaning": "having gone to dissolution in rajas"
+     "word": "रजसि",
+     "meaning": "in rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, locative singular (while ... prevails)",
+     "iast": "rajasi"
     },
     {
-     "word": "कर्मसङ्गिषु जायते",
-     "meaning": "one is born among those attached to action"
+     "word": "प्रलयम्",
+     "meaning": "to death",
+     "base": "प्रलय · dissolution, death",
+     "form": "noun, masculine, accusative singular (goal of motion)",
+     "iast": "pralayam"
     },
     {
-     "word": "तथा प्रलीनः तमसि",
-     "meaning": "likewise, dissolved in tamas"
+     "word": "गत्वा",
+     "meaning": "having gone",
+     "base": "√गम् · to go",
+     "form": "gerund (having done)",
+     "iast": "gatvā"
     },
     {
-     "word": "मूढयोनिषु जायते",
-     "meaning": "one is born in deluded wombs"
+     "word": "कर्मसङ्गिषु",
+     "meaning": "among those attached to action",
+     "base": "कर्मसङ्गिन् · one attached to action",
+     "form": "noun compound, masculine, locative plural (among)",
+     "parts": "कर्म (action) + सङ्गिन् (attached one): \"those attached to action\"",
+     "iast": "karmasaṅgiṣu"
+    },
+    {
+     "word": "जायते",
+     "meaning": "is born",
+     "base": "√जन् · to be born",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "jāyate"
+    },
+    {
+     "word": "तथा",
+     "meaning": "likewise",
+     "base": "so, likewise",
+     "form": "indeclinable",
+     "iast": "tathā"
+    },
+    {
+     "word": "प्रलीनः",
+     "meaning": "dying, dissolved",
+     "base": "प्र + √ली · to dissolve, perish",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "pralīnaḥ"
+    },
+    {
+     "word": "तमसि",
+     "meaning": "in tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, locative singular (while ... prevails)",
+     "iast": "tamasi"
+    },
+    {
+     "word": "मूढयोनिषु",
+     "meaning": "in wombs of the deluded",
+     "base": "मूढयोनि · womb of a dull being",
+     "form": "noun compound, feminine, locative plural (in)",
+     "parts": "मूढ (deluded, dull) + योनि (womb): \"wombs of the deluded\"",
+     "iast": "mūḍhayoniṣu"
+    },
+    {
+     "word": "जायते",
+     "meaning": "is born",
+     "base": "√जन् · to be born",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "jāyate"
     }
    ],
    "explanation": "The other two launch angles: a rajasic death lands among karma-saṅgis — the driven, the striving, another lifetime on the wheel of doing; a tamasic one sinks toward mūḍha-yonis, births where delusion is the native air. No tribunal anywhere in the verse: like settles toward like, water finding its level across lifetimes.",
    "connection": "Completes 14.14: three deaths, three gravities — motive enough for the cultivation 14.16–18 maps.",
-   "schools_note": null,
    "reflection": "Let like-settles-toward-like motivate one upgrade today — no tribunal, just trajectory.",
-   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic."
+   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic.",
+   "checked": "SGV",
+   "hook": "What birth follows a death in passion or in darkness?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Dying while rajas predominates, one is born among human beings attached to work; dying while tamas predominates, among stupid species such as animals."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "A rajasic death brings birth among those who act for their own gain, fit for rites that win heaven; a tamasic one brings wombs like those of dogs and pigs, unable to pursue any human end."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Reads the verse as the fruit of a whole life: rajasic living earns a human birth of mixed experience, tamasic living births in hells, animals and trees; he rejects tying it to the last moment alone."
+    },
+    {
+     "lens": "practice",
+     "text": "Records a softer view some hold: the 'deluded womb' may be birth among the dullest humans, not necessarily an animal body."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Human birth is not guaranteed: the greedy are reborn among the worldly busy, and the lazy or violent may even slide back into animal forms."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -502,27 +1867,123 @@
    "translation": "The fruit of good action, they say, is Sattvic and pure, verily the fruit of Rajas is pain, and ignorance is the fruit of Tamas.",
    "anvaya": [
     {
-     "word": "कर्मणः सुकृतस्य आहुः",
-     "meaning": "of action well done, they say"
+     "word": "कर्मणः",
+     "meaning": "of action",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "karmaṇaḥ"
     },
     {
-     "word": "सात्त्विकं निर्मलं फलम्",
-     "meaning": "the fruit is sattvic, stainless"
+     "word": "सुकृतस्य",
+     "meaning": "well done, good",
+     "base": "सुकृत · well done, virtuous",
+     "form": "adjective, neuter, genitive singular",
+     "parts": "सु (well) + कृत (done): \"well done\"",
+     "iast": "sukṛtasya"
     },
     {
-     "word": "रजसः तु फलं दुःखं",
-     "meaning": "but of rajas, the fruit is pain"
+     "word": "आहुः",
+     "meaning": "they say",
+     "base": "√अह् · to say",
+     "form": "verb, perfect with present sense, 3rd person plural",
+     "iast": "āhuḥ"
     },
     {
-     "word": "अज्ञानं तमसः फलम्",
-     "meaning": "ignorance is the fruit of tamas"
+     "word": "सात्त्विकम्",
+     "meaning": "sattvic",
+     "base": "सात्त्विक · of sattva",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "sāttvikam"
+    },
+    {
+     "word": "निर्मलम्",
+     "meaning": "stainless, pure",
+     "base": "निर्मल · without stain",
+     "form": "adjective, neuter, nominative singular",
+     "parts": "निस् (without) + मल (stain): \"stainless\"",
+     "iast": "nirmalam"
+    },
+    {
+     "word": "फलम्",
+     "meaning": "the fruit",
+     "base": "फल · fruit, result",
+     "form": "noun, neuter, nominative singular",
+     "iast": "phalam"
+    },
+    {
+     "word": "रजसः",
+     "meaning": "of rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "rajasaḥ"
+    },
+    {
+     "word": "तु",
+     "meaning": "but",
+     "base": "but",
+     "form": "indeclinable",
+     "iast": "tu"
+    },
+    {
+     "word": "फलम्",
+     "meaning": "the fruit",
+     "base": "फल · fruit, result",
+     "form": "noun, neuter, nominative singular",
+     "iast": "phalam"
+    },
+    {
+     "word": "दुःखम्",
+     "meaning": "pain",
+     "base": "दुःख · pain, sorrow",
+     "form": "noun, neuter, nominative singular",
+     "iast": "duḥkham"
+    },
+    {
+     "word": "अज्ञानम्",
+     "meaning": "ignorance",
+     "base": "अज्ञान · ignorance",
+     "form": "noun, neuter, nominative singular",
+     "iast": "ajñānam"
+    },
+    {
+     "word": "तमसः",
+     "meaning": "of tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "tamasaḥ"
+    },
+    {
+     "word": "फलम्",
+     "meaning": "the fruit",
+     "base": "फल · fruit, result",
+     "form": "noun, neuter, nominative singular",
+     "iast": "phalam"
     }
    ],
    "explanation": "The harvest table: sattvic action ripens clean; rajasic action — whatever it wins — ripens as duḥkha, since craving's victories arrive pre-loaded with the next craving; tamasic action ripens as deeper ajñāna, ignorance compounding like a debt. Each strand pays its workers in its own currency, and the currency is more of itself.",
    "connection": "The fruit-ledger that 14.17 traces back to its psychological roots.",
-   "schools_note": null,
    "reflection": "Check the harvest, not the seed packet, tonight: what did today's actions actually ripen into?",
-   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic."
+   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic.",
+   "checked": "SGV",
+   "hook": "What kind of fruit does each quality's action bear?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Since the topic is action, 'rajas' and 'tamas' here mean rajasic and tamasic acts; each result matches its cause, so rajasic work yields sorrow and unrighteous tamasic work yields ignorance."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The good deed is disinterested work done as worship of the Lord; dying in sattva it brings birth among knowers of the self, where sattva grows further and the self becomes purer."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Holds that verses 16 to 20 are later insertions that only repeat what came before and should be set aside; living beyond the strands is itself emancipation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Pure-minded action in goodness yields uplifting results, action in passion feeds sensual craving and so brings pain, and action in darkness, disregarding scripture, deepens delusion."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -534,27 +1995,122 @@
    "translation": "From Sattva arises knowledge, and greed from Rajas; heedlessness and delusion arise from Tamas, and also ignorance.",
    "anvaya": [
     {
-     "word": "सत्त्वात् सञ्जायते ज्ञानं",
-     "meaning": "from sattva is born knowledge"
+     "word": "सत्त्वात्",
+     "meaning": "from sattva",
+     "base": "सत्त्व · the bright strand",
+     "form": "noun, neuter, ablative singular (from)",
+     "iast": "sattvāt"
     },
     {
-     "word": "रजसः लोभः एव च",
-     "meaning": "and from rajas, greed"
+     "word": "सञ्जायते",
+     "meaning": "arises",
+     "base": "सम् + √जन् · to be born",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "sañjāyate"
     },
     {
-     "word": "प्रमादमोहौ तमसः",
-     "meaning": "negligence and delusion from tamas"
+     "word": "ज्ञानम्",
+     "meaning": "knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "jñānam"
     },
     {
-     "word": "भवतः अज्ञानम् एव च",
-     "meaning": "arise — and ignorance as well"
+     "word": "रजसः",
+     "meaning": "from rajas",
+     "base": "रजस् · the active strand",
+     "form": "noun, neuter, ablative singular (from)",
+     "iast": "rajasaḥ"
+    },
+    {
+     "word": "लोभः",
+     "meaning": "greed",
+     "base": "लोभ · greed",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "lobhaḥ"
+    },
+    {
+     "word": "एव",
+     "meaning": "only, indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "प्रमादमोहौ",
+     "meaning": "negligence and delusion",
+     "base": "प्रमादमोह · negligence and delusion",
+     "form": "noun compound, masculine, nominative dual (the two)",
+     "parts": "प्रमाद (negligence) + मोह (delusion): a pair joined by 'and'",
+     "iast": "pramādamohau"
+    },
+    {
+     "word": "तमसः",
+     "meaning": "from tamas",
+     "base": "तमस् · the heavy strand",
+     "form": "noun, neuter, ablative singular (from)",
+     "iast": "tamasaḥ"
+    },
+    {
+     "word": "भवतः",
+     "meaning": "(both) arise",
+     "base": "√भू · to be, become",
+     "form": "verb, present, 3rd person dual",
+     "iast": "bhavataḥ"
+    },
+    {
+     "word": "अज्ञानम्",
+     "meaning": "ignorance",
+     "base": "अज्ञान · ignorance",
+     "form": "noun, neuter, nominative singular",
+     "iast": "ajñānam"
+    },
+    {
+     "word": "एव",
+     "meaning": "indeed",
+     "base": "indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and also",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
     }
    ],
    "explanation": "The strands as factories, each with one product line: sattva manufactures jñāna, knowing; rajas manufactures lobha, the wanting of more; tamas runs three shifts — negligence, delusion, ignorance. The practical inference is the chapter's quiet gift: to get more knowledge, do not chase knowledge; cultivate the strand that produces it.",
    "connection": "The production chain behind 14.16's fruits — quality of being precedes quality of mind.",
-   "schools_note": null,
    "reflection": "Want more knowledge? Do not chase it today — cultivate the strand that manufactures it.",
-   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic."
+   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic.",
+   "checked": "SGV",
+   "hook": "What does each of the three qualities give rise to in the mind?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "When sattva predominates, knowledge is born; from rajas comes avarice; and from tamas come inadvertence, delusion and also ignorance."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Sattva yields direct knowledge of the self, rajas a craving for heaven and the like; tamas runs a chain, negligence into evil acts, then wrong knowledge, more tamas, and finally no knowledge at all."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Gives this as the reason behind 14.16: because sattva produces knowledge, sattvic action bears bright, happy fruit, and because greed brings sorrow, rajasic action bears pain."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Goodness gives discernment and contentment, passion inflames the senses with ambitious desire, and darkness shrouds a person in inertia that leads to wicked deeds."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -566,27 +2122,108 @@
    "translation": "Those who are seated in Sattva go upwards; the Rajasic dwell in the middle; and the Tamasic, abiding in the function of the lowest Guna, go downwards.",
    "anvaya": [
     {
-     "word": "ऊर्ध्वं गच्छन्ति सत्त्वस्थाः",
-     "meaning": "upward go those established in sattva"
+     "word": "ऊर्ध्वम्",
+     "meaning": "upward",
+     "base": "upward, above",
+     "form": "indeclinable",
+     "iast": "ūrdhvam"
     },
     {
-     "word": "मध्ये तिष्ठन्ति राजसाः",
-     "meaning": "in the middle stand the rajasic"
+     "word": "गच्छन्ति",
+     "meaning": "go",
+     "base": "√गम् · to go",
+     "form": "verb, present, 3rd person plural",
+     "iast": "gacchanti"
+    },
+    {
+     "word": "सत्त्वस्थाः",
+     "meaning": "those established in sattva",
+     "base": "सत्त्वस्थ · abiding in sattva",
+     "form": "adjective compound, masculine, nominative plural",
+     "parts": "सत्त्व (sattva) + स्थ (standing in): \"those who abide in sattva\"",
+     "iast": "sattvasthāḥ"
+    },
+    {
+     "word": "मध्ये",
+     "meaning": "in the middle",
+     "base": "मध्य · middle",
+     "form": "noun, neuter, locative singular (in)",
+     "iast": "madhye"
+    },
+    {
+     "word": "तिष्ठन्ति",
+     "meaning": "remain",
+     "base": "√स्था · to stand, stay",
+     "form": "verb, present, 3rd person plural",
+     "iast": "tiṣṭhanti"
+    },
+    {
+     "word": "राजसाः",
+     "meaning": "the rajasic",
+     "base": "राजस · of rajas",
+     "form": "adjective used as noun, masculine, nominative plural",
+     "iast": "rājasāḥ"
     },
     {
      "word": "जघन्यगुणवृत्तिस्थाः",
-     "meaning": "abiding in the function of the lowest guna"
+     "meaning": "abiding in the lowest strand's ways",
+     "base": "जघन्यगुणवृत्तिस्थ · living by the lowest guna",
+     "form": "adjective compound, masculine, nominative plural",
+     "parts": "जघन्य (lowest) + गुण (strand) + वृत्ति (mode, conduct) + स्थ (abiding): \"those who live in the workings of the lowest strand\"",
+     "iast": "jaghanyaguṇavṛttisthāḥ"
     },
     {
-     "word": "अधः गच्छन्ति तामसाः",
-     "meaning": "downward go the tamasic"
+     "word": "अधः",
+     "meaning": "downward",
+     "base": "below, downward",
+     "form": "indeclinable",
+     "iast": "adhaḥ"
+    },
+    {
+     "word": "गच्छन्ति",
+     "meaning": "go",
+     "base": "√गम् · to go",
+     "form": "verb, present, 3rd person plural",
+     "iast": "gacchanti"
+    },
+    {
+     "word": "तामसाः",
+     "meaning": "the tamasic",
+     "base": "तामस · of tamas",
+     "form": "adjective used as noun, masculine, nominative plural",
+     "iast": "tāmasāḥ"
     }
    ],
    "explanation": "The whole cosmology as a single elevator: ūrdhvam, madhye, adhaḥ — up, level, down. The strands are not moral categories but densities, and beings sort by buoyancy. Yet the verse describes a treadmill even at its top: 'upward' is still *within* the three-strand machine. The next verse opens the door out of the building entirely.",
    "connection": "The vertical map of the guna-world — drawn so 14.19 can point beyond all three floors.",
-   "schools_note": null,
    "reflection": "Locate your floor honestly this evening — rising, level, or sinking — then look for the stairwell out.",
-   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic."
+   "background": "The strands follow the soul to the door of death and past it: dying in sattva, one reaches the pure worlds of the knowers; in rajas, birth among the action-bound; in tamas, the wombs of the deluded. Fruit follows seed — purity, pain, ignorance — and the directions: upward go the sattvic, the rajasic stand midway, downward the tamasic.",
+   "checked": "SV",
+   "hook": "Which way does each quality carry a person: up, middle or down?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 11.25.22",
+     "note": "Those in goodness reach heaven, those in passion return to earth, those in darkness go to lower worlds, and those beyond the qualities reach God."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Upward means birth among gods, middle among humans, down among cattle; all this guna-bound wandering is false knowledge rooted in ignorance, so liberation must come from right knowledge, taught next."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Those in sattva rise toward release from saṃsāra by degrees; the tamasic sink step by step, through animals and insects down to plants, stones and clods of earth."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The upward path is graded, each higher world holding a hundredfold more joy up to Satyaloka; the rajasic are reborn among humans, the tamasic in hells such as Tāmisra."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Like students admitted to colleges by their grades, souls are reborn in realms matching the quality that dominated their lives."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -598,27 +2235,125 @@
    "translation": "When the seer beholds no agent other than the Gunas and knows That which is higher than they, he attains to My Being.",
    "anvaya": [
     {
-     "word": "न अन्यं गुणेभ्यः कर्तारं",
-     "meaning": "no doer other than the gunas"
+     "word": "न",
+     "meaning": "no, not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
     },
     {
-     "word": "यदा द्रष्टा अनुपश्यति",
-     "meaning": "when the seer perceives"
+     "word": "अन्यम्",
+     "meaning": "other",
+     "base": "अन्य · other",
+     "form": "pronominal adjective, masculine, accusative singular",
+     "iast": "anyam"
     },
     {
-     "word": "गुणेभ्यः च परं वेत्ति",
-     "meaning": "and knows what is beyond the gunas"
+     "word": "गुणेभ्यः",
+     "meaning": "than the gunas",
+     "base": "गुण · strand, quality",
+     "form": "noun, masculine, ablative plural (than)",
+     "iast": "guṇebhyaḥ"
     },
     {
-     "word": "मद्भावं सः अधिगच्छति",
-     "meaning": "that one attains my being"
+     "word": "कर्तारम्",
+     "meaning": "doer, agent",
+     "base": "कर्तृ · doer, agent",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "kartāram"
+    },
+    {
+     "word": "यदा",
+     "meaning": "when",
+     "base": "when",
+     "form": "indeclinable",
+     "iast": "yadā"
+    },
+    {
+     "word": "द्रष्टा",
+     "meaning": "the seer, witness",
+     "base": "द्रष्टृ · seer, witness",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "draṣṭā"
+    },
+    {
+     "word": "अनुपश्यति",
+     "meaning": "sees, discerns",
+     "base": "अनु + √दृश् · to perceive",
+     "form": "verb, present, 3rd person singular",
+     "iast": "anupaśyati"
+    },
+    {
+     "word": "गुणेभ्यः",
+     "meaning": "than the gunas",
+     "base": "गुण · strand, quality",
+     "form": "noun, masculine, ablative plural (than)",
+     "iast": "guṇebhyaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "परम्",
+     "meaning": "what is beyond",
+     "base": "पर · higher, beyond",
+     "form": "adjective used as noun, accusative singular (object)",
+     "iast": "param"
+    },
+    {
+     "word": "वेत्ति",
+     "meaning": "knows",
+     "base": "√विद् · to know",
+     "form": "verb, present, 3rd person singular",
+     "iast": "vetti"
+    },
+    {
+     "word": "मद्भावम्",
+     "meaning": "my being",
+     "base": "मद्भाव · my state, my nature",
+     "form": "noun compound, masculine, accusative singular (object)",
+     "parts": "मद् (my) + भाव (being, state): \"my being\"",
+     "iast": "madbhāvam"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "अधिगच्छति",
+     "meaning": "attains",
+     "base": "अधि + √गम् · to reach, attain",
+     "form": "verb, present, 3rd person singular",
+     "iast": "adhigacchati"
     }
    ],
-   "explanation": "The exit, in two recognitions: first, nānyaṁ guṇebhyaḥ kartāram — all doing, every act ever performed, is strand acting on strand; the 'doer' was the gunas wearing a name. Second, the seer knows the param, what stands outside the weave. Draṣṭā, the watcher: the one faculty no strand can perform. Watch the weather long enough as weather, and you discover you are the sky. Nanyam gunebhyah kartaram — when the seer beholds no doer but the strands, and knows what stands beyond them: the commentaries call this the chapter's moksha-verse, the seeing that 3.27 planted and 13.30 watered now bearing final fruit. Mad-bhavam so 'dhigachchhati — and the destination is personal: he attains My being. Even the most analytic liberation in the Gita ends at a Someone.",
+   "explanation": "The exit, in two recognitions. First, nānyaṁ guṇebhyaḥ kartāram: all doing, every act ever performed, is strand acting on strand; the 'doer' was the gunas wearing a name. Second, the seer knows the param, what stands beyond the weave as its witness. Draṣṭā, the watcher, is the one role no strand can play. This is the chapter's moksha-verse, the seeing that 3.27 planted and 13.30 watered, now bearing fruit, and its arrival is named mad-bhāvam, his own being. Watch the weather long enough as weather, and you discover you are the sky.",
    "connection": "The liberating insight: 3.27 and 13.30 fused — and crowned with arrival in his being.",
-   "schools_note": null,
    "reflection": "Say the freeing sentence over one strong mood today: no doer here but the strands — and watch from the sky.",
-   "background": "The chapter's verses of release: when the seer beholds no doer other than the strands and knows what is higher than the strands, he attains My being — transcending the three that birthed the body, freed from birth, death, old age, and pain, he tastes immortality."
+   "background": "The chapter's verses of release: when the seer beholds no doer other than the strands and knows what is higher than the strands, he attains My being — transcending the three that birthed the body, freed from birth, death, old age, and pain, he tastes immortality.",
+   "checked": "SGV",
+   "hook": "What does the seer understand that brings him to Krishna's own nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Once illumined, the witness sees the strands, transformed into body, organs and objects, as the only agents, and knows the witness beyond them as himself; that is attaining the Lord's nature."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "First one must settle in pure sattva through sattvic food and actions offered to the Lord; then, seeing the self as non-agent and pure knowledge, one gains likeness to him, not identity."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The qualities are the doers in the world, but God and everything of his are beyond them; attaching the mind to him through devotion lifts it above the qualities."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -630,27 +2365,102 @@
    "translation": "The embodied one having crossed beyond these three Gunas out of which the body is evolved, is freed from birth, death, decay and pain, and attains to immortality.",
    "anvaya": [
     {
-     "word": "गुणान् एतान् अतीत्य त्रीन्",
-     "meaning": "transcending these three gunas"
+     "word": "गुणान्",
+     "meaning": "the gunas",
+     "base": "गुण · strand, quality",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "guṇān"
     },
     {
-     "word": "देही देहसमुद्भवान्",
-     "meaning": "the embodied one — (the gunas) the source of the body"
+     "word": "एतान्",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative plural",
+     "iast": "etān"
+    },
+    {
+     "word": "अतीत्य",
+     "meaning": "having gone beyond",
+     "base": "अति + √इ · to go beyond",
+     "form": "gerund (having done)",
+     "iast": "atītya"
+    },
+    {
+     "word": "त्रीन्",
+     "meaning": "three",
+     "base": "त्रि · three",
+     "form": "numeral, masculine, accusative plural",
+     "iast": "trīn"
+    },
+    {
+     "word": "देही",
+     "meaning": "the embodied one",
+     "base": "देहिन् · one who has a body",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "dehī"
+    },
+    {
+     "word": "देहसमुद्भवान्",
+     "meaning": "from which the body arises",
+     "base": "देहसमुद्भव · source of the body",
+     "form": "adjective compound, masculine, accusative plural",
+     "parts": "देह (body) + समुद्भव (origin): \"which give rise to the body\"",
+     "iast": "dehasamudbhavān"
     },
     {
      "word": "जन्ममृत्युजरादुःखैः",
-     "meaning": "from birth, death, old age, sorrow"
+     "meaning": "from birth, death, old age, sorrow",
+     "base": "जन्ममृत्युजरादुःख · birth, death, age, pain",
+     "form": "noun compound, neuter, instrumental plural (from, with 'freed')",
+     "parts": "जन्म (birth) + मृत्यु (death) + जरा (old age) + दुःख (sorrow): a list joined by 'and'",
+     "iast": "janmamṛtyujarāduḥkhaiḥ"
     },
     {
-     "word": "विमुक्तः अमृतम् अश्नुते",
-     "meaning": "released, tastes immortality"
+     "word": "विमुक्तः",
+     "meaning": "freed",
+     "base": "वि + √मुच् · to release",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "vimuktaḥ"
+    },
+    {
+     "word": "अमृतम्",
+     "meaning": "immortality",
+     "base": "अमृत · deathlessness, nectar",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "amṛtam"
+    },
+    {
+     "word": "अश्नुते",
+     "meaning": "attains, enjoys",
+     "base": "√अश् · to reach, obtain, enjoy",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "aśnute"
     }
    ],
-   "explanation": "The full prize: the gunas are deha-samudbhavān, the very loom the body is woven on — step past them and the whole production line of embodiment, with its fixed menu of birth-death-age-sorrow, loses its claim. Amṛtam aśnute: one *tastes* deathlessness, the same sensory verb as 13.13 — liberation as flavor, not theory.",
+   "explanation": "The full prize: the gunas are deha-samudbhavān, the very loom the body is woven on — step past them and the whole production line of embodiment, with its fixed menu of birth-death-age-sorrow, loses its claim. Amṛtam aśnute: one reaches and enjoys deathlessness, the same phrase as 13.13 — liberation as something lived, not theory.",
    "connection": "States the stakes of 14.19's seeing — and provokes Arjuna's immediate, practical question.",
-   "schools_note": null,
    "reflection": "Taste the full stakes once: past the three strands lies freedom from the body's whole fixed menu.",
-   "background": "The chapter's verses of release: when the seer beholds no doer other than the strands and knows what is higher than the strands, he attains My being — transcending the three that birthed the body, freed from birth, death, old age, and pain, he tastes immortality."
+   "background": "The chapter's verses of release: when the seer beholds no doer other than the strands and knows what is higher than the strands, he attains My being — transcending the three that birthed the body, freed from birth, death, old age, and pain, he tastes immortality.",
+   "checked": "SGV",
+   "hook": "What is gained by going beyond the three qualities of nature?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The transcending happens even while living: the enlightened one goes beyond the strands that make up māyā and the body's seed, and is free from birth, death and sorrow in this very life."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Crossing the strands means seeing the self as other than them and made of knowledge alone; experiencing that immortal self is what 'likeness to Me' means."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Takes amṛta as the bliss of Brahman, reached once every harm the strands cause has ceased, so the person has done all there is to do."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Even goodness is a chain, though of gold; only by transcending all three qualities does the soul escape birth, disease, old age and death and taste the immortality it longs for."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -659,94 +2469,411 @@
    "devanagari": "कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो ।\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते॥",
    "transliteration": "kairliṅgaistrīnguṇānetānatīto bhavati prabho\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate",
    "essence": "Arjuna asks: by what marks is one known who has gone beyond these three gunas, O Lord? What is such a one's conduct? And how does one pass beyond these three gunas?",
-   "translation": "What are the marks of him who has transcended the three alities, O Lord? What is his conduct and how does he go beyond these three alities?",
+   "translation": "What are the marks of him who has transcended the three qualities, O Lord? What is his conduct and how does he go beyond these three qualities?",
    "anvaya": [
     {
-     "word": "कैः लिङ्गैः त्रीन् गुणान् एतान्",
-     "meaning": "by what marks, these three gunas"
+     "word": "कैः",
+     "meaning": "by what",
+     "base": "किम् · what",
+     "form": "interrogative pronoun, neuter, instrumental plural (by)",
+     "iast": "kaiḥ"
     },
     {
-     "word": "अतीतः भवति प्रभो",
-     "meaning": "having transcended, is one, O Lord"
+     "word": "लिङ्गैः",
+     "meaning": "marks, signs",
+     "base": "लिङ्ग · mark, sign",
+     "form": "noun, neuter, instrumental plural (by)",
+     "iast": "liṅgaiḥ"
     },
     {
-     "word": "किमाचारः कथं च एतान्",
-     "meaning": "of what conduct? and how, these"
+     "word": "त्रीन्",
+     "meaning": "three",
+     "base": "त्रि · three",
+     "form": "numeral, masculine, accusative plural",
+     "iast": "trīn"
     },
     {
-     "word": "त्रीन् गुणान् अतिवर्तते",
-     "meaning": "three gunas does one pass beyond"
+     "word": "गुणान्",
+     "meaning": "the gunas",
+     "base": "गुण · strand, quality",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "guṇān"
+    },
+    {
+     "word": "एतान्",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative plural",
+     "iast": "etān"
+    },
+    {
+     "word": "अतीतः",
+     "meaning": "having gone beyond",
+     "base": "अति + √इ · to go beyond",
+     "form": "past participle, masculine, nominative singular",
+     "iast": "atītaḥ"
+    },
+    {
+     "word": "भवति",
+     "meaning": "is (one)",
+     "base": "√भू · to be, become",
+     "form": "verb, present, 3rd person singular",
+     "iast": "bhavati"
+    },
+    {
+     "word": "प्रभो",
+     "meaning": "O Lord",
+     "base": "प्रभु · lord, master",
+     "form": "vocative (calling Krishna)",
+     "iast": "prabho"
+    },
+    {
+     "word": "किमाचारः",
+     "meaning": "of what conduct",
+     "base": "किमाचार · having what conduct",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "किम् (what) + आचार (conduct): \"one whose conduct is what?\"",
+     "iast": "kimācāraḥ"
+    },
+    {
+     "word": "कथम्",
+     "meaning": "how",
+     "base": "how",
+     "form": "indeclinable",
+     "iast": "katham"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "एतान्",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative plural",
+     "iast": "etān"
+    },
+    {
+     "word": "त्रीन्",
+     "meaning": "three",
+     "base": "त्रि · three",
+     "form": "numeral, masculine, accusative plural",
+     "iast": "trīn"
+    },
+    {
+     "word": "गुणान्",
+     "meaning": "gunas",
+     "base": "गुण · strand, quality",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "guṇān"
+    },
+    {
+     "word": "अतिवर्तते",
+     "meaning": "goes beyond",
+     "base": "अति + √वृत् · to pass beyond",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "ativartate"
     }
    ],
    "explanation": "Arjuna's recurring question — he asked it of the sthita-prajña in 2.54 — returns for the guṇātīta: how would I recognize one? how do they live? how is it done? The repetition is the Gita's pedagogy: every metaphysical summit must be brought down to gait and gesture, or it remains decoration.",
-   "connection": "Echoes 2.54 exactly: the demand for a walking, breathing portrait of 14.20's freed one.",
-   "schools_note": null,
+   "connection": "Echoes 2.54's question: the demand for a walking, breathing portrait of 14.20's freed one.",
    "reflection": "Ask Arjuna's practical question of every ideal you meet: how is it recognized, lived, and reached?",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "checked": "SGV",
+   "hook": "How can you recognise someone who has gone beyond the three qualities?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Arjuna asks two things, the signs of one beyond the strands and the means of going beyond them, and the Lord's reply answers both in turn."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Behind the question is a doubt: anyone with a body lives in some mental state, and every such state belongs to one of the strands, so how can an embodied person transcend them?"
+    },
+    {
+     "lens": "practice",
+     "text": "Calling Krishna 'Prabhu' hints that he alone, like a king relieving his servants, can remove Arjuna's sorrow; the marks of the freed sage are also what seekers should cultivate."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Arjun asks three things: the signs of one beyond the qualities, how such a person behaves, and how one transcends them, which Krishna answers in order."
+    }
+   ]
   },
   {
    "chapter": 14,
    "verse": 22,
-   "speaker": null,
-   "devanagari": "श्रीभगवानुवाच ।\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव ।\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति॥",
+   "speaker": "श्रीभगवानुवाच",
+   "devanagari": "प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव ।\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति॥",
    "transliteration": "prakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati",
    "essence": "The Blessed Lord says: one who does not hate illumination, activity and delusion when they arise, Pandava, nor longs for them when they cease —",
    "translation": "When light, activity and delusion are present, he hates them not, nor does he long for them when they are absent.",
    "anvaya": [
     {
-     "word": "प्रकाशं च प्रवृत्तिं च",
-     "meaning": "illumination, and activity"
+     "word": "प्रकाशम्",
+     "meaning": "illumination (the work of sattva)",
+     "base": "प्रकाश · light, illumination",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "prakāśam"
     },
     {
-     "word": "मोहम् एव च पाण्डव",
-     "meaning": "and delusion, O Pandava"
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable (conjunction)",
+     "iast": "ca"
     },
     {
-     "word": "न द्वेष्टि सम्प्रवृत्तानि",
-     "meaning": "does not hate when they have arisen"
+     "word": "प्रवृत्तिम्",
+     "meaning": "activity (the work of rajas)",
+     "base": "प्रवृत्ति · activity, setting forth",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "pravṛttim"
     },
     {
-     "word": "न निवृत्तानि काङ्क्षति",
-     "meaning": "nor longs for them when ceased"
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable (conjunction)",
+     "iast": "ca"
+    },
+    {
+     "word": "मोहम्",
+     "meaning": "delusion (the work of tamas)",
+     "base": "मोह · delusion, confusion",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "moham"
+    },
+    {
+     "word": "एव",
+     "meaning": "even",
+     "base": "even, indeed",
+     "form": "indeclinable (emphasis)",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable (conjunction)",
+     "iast": "ca"
+    },
+    {
+     "word": "पाण्डव",
+     "meaning": "O son of Pandu",
+     "base": "पाण्डव · son of Pandu",
+     "form": "noun, masculine, vocative singular (calling Arjuna)",
+     "iast": "pāṇḍava"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable (negation)",
+     "iast": "na"
+    },
+    {
+     "word": "द्वेष्टि",
+     "meaning": "hates",
+     "base": "√द्विष् · to hate, dislike",
+     "form": "verb, present, 3rd person singular",
+     "iast": "dveṣṭi"
+    },
+    {
+     "word": "सम्प्रवृत्तानि",
+     "meaning": "when they have fully arisen",
+     "base": "सम्-प्र-√वृत् · to come forth, arise",
+     "form": "past participle, neuter, accusative plural (them, as arisen)",
+     "iast": "sampravṛttāni"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable (negation)",
+     "iast": "na"
+    },
+    {
+     "word": "निवृत्तानि",
+     "meaning": "when they have ceased",
+     "base": "नि-√वृत् · to turn back, cease",
+     "form": "past participle, neuter, accusative plural (them, as ceased)",
+     "iast": "nivṛttāni"
+    },
+    {
+     "word": "काङ्क्षति",
+     "meaning": "longs for",
+     "base": "√काङ्क्ष् · to long for, desire",
+     "form": "verb, present, 3rd person singular",
+     "iast": "kāṅkṣati"
     }
    ],
    "explanation": "The answer's first surprise: the transcender does not hate even *tamas*. Prakāśa, pravṛtti, moha — sattva's light, rajas's drive, tamas's fog — arrive and depart like weather, and the guṇātīta neither resents the storm nor pines for the sun. Fighting a guna is done *with* a guna; only the unresisting watcher stands outside the game.",
    "connection": "Begins the gunatita-portrait (14.22–25): transcendence as the end of the inner argument with one's own states.",
-   "schools_note": null,
    "reflection": "Practice non-hatred of your own states today — even the fog. Fighting a guna is done with a guna.",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "checked": "SGV",
+   "hook": "Does a free person resist or crave light, activity and confusion?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The unenlightened resent their states: 'tamas has deluded me', 'rajas has pulled me from my nature'. This mark is purely inward; dislike and longing are felt by oneself and cannot be seen by others."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The indifference concerns things other than the self. Disliking what hinders self-realisation and longing for what helps it are not ruled out by this verse."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Light, activity and delusion remain in everyone as marks of the body. The yogi neither rejoices in them nor hates them, reflecting that they belong to the body and cannot disturb him."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Arjuna is asking again what 2.54 already answered, wanting more detail, so the reply comes in six verses. This one gives the inward mark; the sentence completes in 14.25 with 'he is called gunatita'."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The illumined are not disturbed by the qualities at work in the world or even in their own minds; they see the mind as separate from themselves and refuse thoughts that harm devotion."
+    }
+   ]
   },
   {
    "chapter": 14,
    "verse": 23,
    "speaker": null,
-   "devanagari": "उदासीनवदासीनो गुणैर्यो न विचाल्यते ।\nगुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते॥",
-   "transliteration": "udāsīnavadāsīno guṇairyo na vicālyate\nguṇā vartanta ityevaṃ yo'vatiṣṭhati neṅgate",
+   "devanagari": "उदासीनवदासीनो गुणैर्यो न विचाल्यते ।\nगुणा वर्तन्त इत्येव योऽवतिष्ठति नेङ्गते॥",
+   "transliteration": "udāsīnavadāsīno guṇairyo na vicālyate\nguṇā vartanta ityeva yo'vatiṣṭhati neṅgate",
    "essence": "Seated as one indifferent, unshaken by the gunas; 'the gunas are operating' — knowing thus, one stands firm and does not waver.",
-   "translation": "He who, seated like one unconcerned, is not moved by the alities, and who, knowing that the alities are active, is self-centred and moves not.",
+   "translation": "He who, seated like one unconcerned, is not moved by the qualities, and who, knowing that the qualities are active, is self-centred and moves not.",
    "anvaya": [
     {
-     "word": "उदासीनवत् आसीनः",
-     "meaning": "seated as if indifferent"
+     "word": "उदासीनवत्",
+     "meaning": "like one indifferent",
+     "base": "उदासीन · one sitting apart, neutral + वत् · like",
+     "form": "indeclinable (adverb of comparison)",
+     "parts": "उदासीन (neutral onlooker) + वत् (like): 'as a neutral would'",
+     "iast": "udāsīnavat"
     },
     {
-     "word": "गुणैः यः न विचाल्यते",
-     "meaning": "who is not shaken by the gunas"
+     "word": "आसीनः",
+     "meaning": "seated",
+     "base": "√आस् · to sit",
+     "form": "present participle, masculine, nominative singular (one sitting)",
+     "iast": "āsīnaḥ"
     },
     {
-     "word": "गुणाः वर्तन्ते इति एवं",
-     "meaning": "'the gunas are operating' — thus"
+     "word": "गुणैः",
+     "meaning": "by the gunas",
+     "base": "गुण · strand, quality of nature",
+     "form": "noun, masculine, instrumental plural (by)",
+     "iast": "guṇaiḥ"
     },
     {
-     "word": "यः अवतिष्ठति न इङ्गते",
-     "meaning": "who stands firm, and does not stir"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable (negation)",
+     "iast": "na"
+    },
+    {
+     "word": "विचाल्यते",
+     "meaning": "is shaken, is moved",
+     "base": "वि-√चल् · to move, waver",
+     "form": "verb, causative passive, present, 3rd person singular (is made to move)",
+     "iast": "vicālyate"
+    },
+    {
+     "word": "गुणाः",
+     "meaning": "the gunas",
+     "base": "गुण · strand, quality of nature",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "guṇāḥ"
+    },
+    {
+     "word": "वर्तन्ते",
+     "meaning": "are acting, are operating",
+     "base": "√वृत् · to turn, be active",
+     "form": "verb, present, middle, 3rd person plural",
+     "iast": "vartante"
+    },
+    {
+     "word": "इति",
+     "meaning": "thus (closing the thought)",
+     "base": "thus (marks a quoted thought)",
+     "form": "indeclinable",
+     "iast": "iti"
+    },
+    {
+     "word": "एव",
+     "meaning": "merely, only",
+     "base": "only, indeed",
+     "form": "indeclinable (emphasis)",
+     "iast": "eva"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "अवतिष्ठति",
+     "meaning": "stays firm",
+     "base": "अव-√स्था · to stand firm, abide",
+     "form": "verb, present, 3rd person singular",
+     "iast": "avatiṣṭhati"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable (negation)",
+     "iast": "na"
+    },
+    {
+     "word": "इङ्गते",
+     "meaning": "stirs, wavers",
+     "base": "√इङ्ग् · to move, stir",
+     "form": "verb, present, middle, 3rd person singular",
+     "iast": "iṅgate"
     }
    ],
    "explanation": "The inner posture, with its mantra included: guṇā vartanta iti — 'strands are turning.' Mood arrives: strands turning. Energy crashes: strands turning. The attribution does all the work, the same move as 3.28, now a settled stance. Udāsīna-vat, *as if* uninvolved: present, perceiving everything, contracted to nothing. Na iṅgate — the windless lamp of 6.19, returned.",
    "connection": "The watcher's stance — 14.19's insight worn as a daily posture.",
-   "schools_note": null,
    "reflection": "Use the mantra at the next mood swing: gunah vartante — strands are turning — and do not stir.",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "text_note": "Variant: ity evaṃ for ity eva.",
+   "checked": "SG",
+   "hook": "How does one beyond the qualities stay steady while they act?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "He is not pulled from the knowledge born of discrimination. He sees the gunas, become body, senses and objects, acting on one another; any outward activity is merely the momentum of actions already cancelled by insight."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "He sits unconcerned because his satisfaction lies in seeing the self as different from the gunas. 'Rests unshaken' means he does not act in line with what the gunas produce."
+    },
+    {
+     "lens": "bhakti",
+     "text": "With this verse the marks others can see begin, answering 'how does he behave?'. Udāsīnavat means seated as a witness, discerning 'the gunas move in their own work; I have no connection with them.'"
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Knowing that only the qualities are acting, such a person stays like a witness, helps the world from their nature, leaves results to God, and distances themselves from the mind's negative thoughts."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -758,27 +2885,81 @@
    "translation": "Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, stone and gold are alike, who is the same to the dear and the unfriendly, who is firm, and to whom censure and praise are as one.",
    "anvaya": [
     {
-     "word": "समदुःखसुखः स्वस्थः",
-     "meaning": "equal in sorrow-joy, abiding in oneself"
+     "word": "समदुःखसुखः",
+     "meaning": "to whom sorrow and joy are alike",
+     "base": "सम · same, equal; दुःख · sorrow; सुख · joy",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "सम (equal) + दुःख (sorrow) + सुख (joy): 'one for whom sorrow and joy are equal'",
+     "iast": "samaduḥkhasukhaḥ"
+    },
+    {
+     "word": "स्वस्थः",
+     "meaning": "established in his own self",
+     "base": "स्व · one's own + स्थ · standing",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "स्व (one's own self) + स्थ (standing in): 'one who stands in himself'",
+     "iast": "svasthaḥ"
     },
     {
      "word": "समलोष्टाश्मकाञ्चनः",
-     "meaning": "equal toward clod, stone, gold"
+     "meaning": "to whom clod, stone, gold are alike",
+     "base": "सम · equal; लोष्ट · clod; अश्मन् · stone; काञ्चन · gold",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "सम (equal) + लोष्ट (clod) + अश्म (stone) + काञ्चन (gold): 'one for whom clod, stone and gold are equal'",
+     "iast": "samaloṣṭāśmakāñcanaḥ"
     },
     {
-     "word": "तुल्यप्रियाप्रियः धीरः",
-     "meaning": "alike toward dear and undear, steady"
+     "word": "तुल्यप्रियाप्रियः",
+     "meaning": "same toward dear and undear",
+     "base": "तुल्य · equal; प्रिय · dear; अप्रिय · not dear",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "तुल्य (equal) + प्रिय (pleasant) + अप्रिय (unpleasant): 'one for whom pleasant and unpleasant are equal'",
+     "iast": "tulyapriyāpriyaḥ"
+    },
+    {
+     "word": "धीरः",
+     "meaning": "steady, wise",
+     "base": "धीर · steadfast, wise",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "dhīraḥ"
     },
     {
      "word": "तुल्यनिन्दात्मसंस्तुतिः",
-     "meaning": "alike in blame and praise of oneself"
+     "meaning": "same in blame and self-praise",
+     "base": "तुल्य · equal; निन्दा · blame; आत्मन् · self; संस्तुति · praise",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "तुल्य (equal) + निन्दा (blame) + आत्म (of oneself) + संस्तुति (praise): 'one for whom blame and praise of himself are equal'",
+     "iast": "tulyanindātmasaṃstutiḥ"
     }
    ],
    "explanation": "The equality-list returns from 6.8 and 12.18, with one word doing new work: sva-sthaḥ — *standing in one's own self*, self-stationed. That is the secret of all the samenesses that surround it: clod and gold weigh the same only to one whose footing depends on neither. The evenness is not effort; it is residence.",
    "connection": "The portrait's center: every 'equal' in the list flows from one address — svastha.",
-   "schools_note": null,
    "reflection": "Stand in yourself once today — svastha — and let clod, stone, and gold briefly weigh the same.",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "checked": "SGV",
+   "hook": "How does such a person regard pleasure, pain, gold and earth?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Svastha' is glossed as established in one's own Self, tranquil; such a wise monk finds sorrow and happiness, earth, iron and gold, the agreeable and disagreeable, and censure and praise of himself all the same."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Love for the self keeps him even amid the births and deaths of relatives. Dhīra means skilled in telling prakṛti from the self, so praise and blame are seen as belonging to body-identification, not to him."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Svastha is the cause of the rest: joy and sorrow are equal to him because he is settled in his own nature. Dear and undear are taken as the causes of joy and sorrow; dhīra means intelligent."
+    },
+    {
+     "lens": "practice",
+     "text": "As day and night mean nothing to a post fixed in the ground, pleasure and pain mean nothing to the sage who dwells in the Self; cowdung and gold, a jewel and a stone, are of equal value to him."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Established in the self, which like God is beyond the qualities, the realized person sees the world's dualities without being moved, regarding stone, earth and gold alike."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -787,30 +2968,93 @@
    "devanagari": "मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः ।\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते॥",
    "transliteration": "mānāpamānayostulyastulyo mitrāripakṣayoḥ\nsarvārambhaparityāgī guṇātītaḥ sa ucyate",
    "essence": "— alike in honor and dishonor, alike toward the sides of friend and foe, renouncing all self-serving undertakings: that one is said to have gone beyond the gunas.",
-   "translation": "Who is the same in honour and dishonour, the same to friend and foe, abandoning all undertakings he is said to have transcended the alities.",
+   "translation": "Who is the same in honour and dishonour, the same to friend and foe, abandoning all undertakings he is said to have transcended the qualities.",
    "anvaya": [
     {
-     "word": "मानापमानयोः तुल्यः",
-     "meaning": "alike in honor and dishonor"
+     "word": "मानापमानयोः",
+     "meaning": "in honour and dishonour",
+     "base": "मान · honour; अपमान · dishonour",
+     "form": "noun compound, masculine, locative dual (in both)",
+     "parts": "मान (honour) + अपमान (dishonour): 'honour and dishonour', a pair",
+     "iast": "mānāpamānayoḥ"
     },
     {
-     "word": "तुल्यः मित्रारिपक्षयोः",
-     "meaning": "alike toward the sides of friend and enemy"
+     "word": "तुल्यः",
+     "meaning": "the same, equal",
+     "base": "तुल्य · equal, alike",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "tulyaḥ"
+    },
+    {
+     "word": "तुल्यः",
+     "meaning": "the same, equal",
+     "base": "तुल्य · equal, alike",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "tulyaḥ"
+    },
+    {
+     "word": "मित्रारिपक्षयोः",
+     "meaning": "toward the sides of friend and foe",
+     "base": "मित्र · friend; अरि · enemy; पक्ष · side, party",
+     "form": "noun compound, masculine, locative dual (toward both)",
+     "parts": "मित्र (friend) + अरि (foe) + पक्ष (side): 'the friend's side and the foe's side'",
+     "iast": "mitrāripakṣayoḥ"
     },
     {
      "word": "सर्वारम्भपरित्यागी",
-     "meaning": "renouncer of all (egoic) undertakings"
+     "meaning": "renouncer of all undertakings",
+     "base": "सर्व · all; आरम्भ · undertaking; परित्यागिन् · one who gives up",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "सर्व (all) + आरम्भ (undertaking) + परित्यागी (abandoner): 'one who gives up all undertakings'",
+     "iast": "sarvārambhaparityāgī"
     },
     {
-     "word": "गुणातीतः सः उच्यते",
-     "meaning": "that one is called gone-beyond-the-gunas"
+     "word": "गुणातीतः",
+     "meaning": "gone beyond the gunas",
+     "base": "गुण · strand + अतीत · gone beyond (अति-√इ)",
+     "form": "adjective compound, masculine, nominative singular",
+     "parts": "गुण (the strands) + अतीत (passed beyond): 'one who has passed beyond the gunas'",
+     "iast": "guṇātītaḥ"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · he, that",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "saḥ"
+    },
+    {
+     "word": "उच्यते",
+     "meaning": "is said, is called",
+     "base": "√वच् · to speak",
+     "form": "verb, passive, present, 3rd person singular (is said)",
+     "iast": "ucyate"
     }
    ],
    "explanation": "The portrait completes on Arjuna's exact wound: tulyo mitrāri-pakṣayoḥ — alike toward the *sides*, the pakṣa, friend's army and foe's. The man paralyzed in chapter 1 by which side held whom is shown a being for whom the sides have lost their pull. Guṇātītaḥ sa ucyate: the title conferred — and 14.26 will reveal the one practice that earns it.",
    "connection": "Seals the portrait with the battlefield word 'paksha' — then the chapter springs its devotional turn.",
-   "schools_note": null,
    "reflection": "Feel the pull of the sides today — friend's and foe's — and practice one minute beyond both.",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "checked": "SV",
+   "hook": "How does the free person treat honour, insult, friend and foe?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The traits from 14.23 to here are disciplines a monk seeking liberation practises with effort; once firmly ingrained they become his own inward marks. 'Undertakings' are acts aimed at seen or unseen results; he keeps only what maintains the body."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Honour and dishonour are feelings born of taking the body for the self. Seeing that body and self differ, he knows friend and foe have no real connection with him, and so gives up the enterprises of embodied life."
+    },
+    {
+     "lens": "shaiva",
+     "text": "For 14.23 to 14.25 the means is one firm conviction: the exertion found in the body and senses is simply their own nature, and I am unconcerned with any fruit."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "No longer identifying with the body's joys and sorrows, such a person meets praise and blame, favour and hostility with the same even vision."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -819,30 +3063,130 @@
    "devanagari": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते ।\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते॥",
    "transliteration": "māṃ ca yo'vyabhicāreṇa bhaktiyogena sevate\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate",
    "essence": "And one who serves me with the unswerving yoga of devotion — that one, passing beyond these gunas, becomes fit for the state of Brahman.",
-   "translation": "And he who serves Me with unswerving devotion, he, crossing beyond the alities, is fit for becoming Brahman.",
+   "translation": "And he who serves Me with unswerving devotion, he, crossing beyond the qualities, is fit for becoming Brahman.",
    "anvaya": [
     {
-     "word": "मां च यः अव्यभिचारेण",
-     "meaning": "and who, me, with unswerving"
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, accusative singular (me, as object)",
+     "iast": "mām"
     },
     {
-     "word": "भक्तियोगेन सेवते",
-     "meaning": "bhakti-yoga serves"
+     "word": "च",
+     "meaning": "and indeed (me alone)",
+     "base": "and; here emphatic",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "सः गुणान् समतीत्य एतान्",
-     "meaning": "that one, fully transcending these gunas"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular",
+     "iast": "yaḥ"
     },
     {
-     "word": "ब्रह्मभूयाय कल्पते",
-     "meaning": "becomes fit for the state of Brahman"
+     "word": "अव्यभिचारेण",
+     "meaning": "with unswerving",
+     "base": "अव्यभिचार · non-straying, constancy",
+     "form": "noun compound used as adjective, masculine, instrumental singular (with)",
+     "parts": "अ (not) + व्यभिचार (straying aside): 'that which never strays'",
+     "iast": "avyabhicāreṇa"
+    },
+    {
+     "word": "भक्तियोगेन",
+     "meaning": "through the yoga of devotion",
+     "base": "भक्ति · devotion; योग · discipline, union",
+     "form": "noun compound, masculine, instrumental singular (through)",
+     "parts": "भक्ति (devotion) + योग (yoga): 'devotion that is itself the yoga'",
+     "iast": "bhaktiyogena"
+    },
+    {
+     "word": "सेवते",
+     "meaning": "serves, worships",
+     "base": "√सेव् · to serve, honour",
+     "form": "verb, present, middle, 3rd person singular",
+     "iast": "sevate"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · he, that",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "saḥ"
+    },
+    {
+     "word": "गुणान्",
+     "meaning": "the gunas",
+     "base": "गुण · strand, quality of nature",
+     "form": "noun, masculine, accusative plural (object)",
+     "iast": "guṇān"
+    },
+    {
+     "word": "समतीत्य",
+     "meaning": "having fully crossed",
+     "base": "सम्-अति-√इ · to pass fully beyond",
+     "form": "gerund (having crossed)",
+     "iast": "samatītya"
+    },
+    {
+     "word": "एतान्",
+     "meaning": "these",
+     "base": "एतद् · this",
+     "form": "pronoun, masculine, accusative plural (these)",
+     "iast": "etān"
+    },
+    {
+     "word": "ब्रह्मभूयाय",
+     "meaning": "for becoming Brahman",
+     "base": "ब्रह्मन् · Brahman + भूय · becoming",
+     "form": "noun compound, neuter, dative singular (for)",
+     "parts": "ब्रह्म (Brahman) + भूय (becoming): 'the becoming of Brahman'",
+     "iast": "brahmabhūyāya"
+    },
+    {
+     "word": "कल्पते",
+     "meaning": "becomes fit, qualifies",
+     "base": "√कॢप् · to be fit, suitable",
+     "form": "verb, present, middle, 3rd person singular",
+     "iast": "kalpate"
     }
    ],
-   "explanation": "Arjuna's third question — *how* does one cross? — answered at last, and the answer is not a technique of watching but a direction of loving: avyabhicāreṇa bhakti-yogena, devotion that does not stray. The logic is exact: every effort to climb out of the gunas is made *of* gunas; only attachment to what is beyond them can draw one beyond them. Love is the single rope let down from outside the weave. Mam cha yo 'vyabhicharena bhakti-yogena sevate — the verse where Arjuna's 'how does one cross?' is finally answered, and the answer reorganizes the chapter: not a technique against the gunas but a love beyond them. Sa gunan samatitya etan — fully transcending. The logic the teachers draw: every effort is made of strands; only attachment to the strand-free can pull one past the weave. Brahma-bhuyaya kalpate: devotion as the chemistry of becoming.",
+   "explanation": "Arjuna's third question, *how* does one cross?, is answered at last, and the answer reorganizes the chapter: not a technique of watching but a direction of loving. Mām ca yo 'vyabhicāreṇa bhakti-yogena sevate: whoever serves me with devotion that does not stray. The logic is exact: every effort to climb out of the gunas is made *of* gunas; only attachment to what is beyond them can draw one beyond them. Love is the single rope let down from outside the weave. Sa guṇān samatītyaitān, fully crossing these strands, brahma-bhūyāya kalpate: such a one becomes fit for the state of Brahman.",
    "connection": "The chapter's resolution: the gunatita is made not by struggle against the strands but by devotion to their Lord.",
-   "schools_note": null,
    "reflection": "Use the one rope from outside the weave today: unswerving devotion — love your way past the strands.",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "checked": "GV",
+   "hook": "What is Krishna's way to rise beyond the three qualities?",
+   "refs": [
+    {
+     "source": "Padma Purāṇa",
+     "note": "When scripture calls God attributeless, it means free of material attributes; his personal form has infinite divine qualities, so devotion to it transcends the modes."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Me' is God, Nārāyaṇa dwelling in the hearts of all, and the server may be a monk or a man of action. Devotion is itself the yoga, and 'becoming Brahman' means liberation."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Reflecting on the difference between prakṛti and self is not enough, since beginningless impressions overturn it. Only one-pointed bhakti to the compassionate Lord crosses the otherwise invincible gunas; 'Brahman' here is the self in its true, immortal nature."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Ca means 'exclusively': whoever chases a fruit and keeps the Lord secondary is excluded. The true devotee, asked why he acts so, answers only with silent tears and thrilled body, purified by devotion that is the Lord's own grace."
+    },
+    {
+     "lens": "practice",
+     "text": "Unswerving devotion is an unbroken flow of one thought of God, like oil poured from one vessel to another, with all thought of sense objects abandoned; this constant remembrance is the sure means of crossing the gunas."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Knowing the self is not enough; only fixing the mind on God's personal form through unwavering devotion makes it free of the qualities, and true transcendental meditation is meditation on him."
+    }
+   ]
   },
   {
    "chapter": 14,
@@ -854,27 +3198,135 @@
    "translation": "For I am the abode of Brahman, the immortal and the immutable, of everlasting Dharma and of absolute bliss.",
    "anvaya": [
     {
-     "word": "ब्रह्मणः हि प्रतिष्ठा अहम्",
-     "meaning": "for of Brahman, I am the foundation"
+     "word": "ब्रह्मणः",
+     "meaning": "of Brahman",
+     "base": "ब्रह्मन् · Brahman, the Absolute",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "brahmaṇaḥ"
     },
     {
-     "word": "अमृतस्य अव्ययस्य च",
-     "meaning": "of the immortal and the imperishable"
+     "word": "हि",
+     "meaning": "for, because",
+     "base": "for, indeed",
+     "form": "indeclinable (gives the reason)",
+     "iast": "hi"
     },
     {
-     "word": "शाश्वतस्य च धर्मस्य",
-     "meaning": "and of the everlasting dharma"
+     "word": "प्रतिष्ठा",
+     "meaning": "the foundation, abode",
+     "base": "प्रतिष्ठा · foundation, support, abode",
+     "form": "noun, feminine, nominative singular",
+     "iast": "pratiṣṭhā"
     },
     {
-     "word": "सुखस्य एकान्तिकस्य च",
-     "meaning": "and of absolute happiness"
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (I)",
+     "iast": "aham"
+    },
+    {
+     "word": "अमृतस्य",
+     "meaning": "of the immortal",
+     "base": "अमृत · immortal, deathless",
+     "form": "adjective, neuter, genitive singular (of)",
+     "iast": "amṛtasya"
+    },
+    {
+     "word": "अव्ययस्य",
+     "meaning": "of the imperishable",
+     "base": "अव्यय · imperishable, unchanging",
+     "form": "adjective, neuter, genitive singular (of)",
+     "iast": "avyayasya"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable (conjunction)",
+     "iast": "ca"
+    },
+    {
+     "word": "शाश्वतस्य",
+     "meaning": "of the eternal",
+     "base": "शाश्वत · eternal, everlasting",
+     "form": "adjective, masculine, genitive singular (of)",
+     "iast": "śāśvatasya"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable (conjunction)",
+     "iast": "ca"
+    },
+    {
+     "word": "धर्मस्य",
+     "meaning": "of dharma",
+     "base": "धर्म · dharma, right order",
+     "form": "noun, masculine, genitive singular (of)",
+     "iast": "dharmasya"
+    },
+    {
+     "word": "सुखस्य",
+     "meaning": "of happiness, bliss",
+     "base": "सुख · happiness, bliss",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "sukhasya"
+    },
+    {
+     "word": "ऐकान्तिकस्य",
+     "meaning": "of the absolute, unfailing",
+     "base": "ऐकान्तिक · absolute, exclusive, certain",
+     "form": "adjective, neuter, genitive singular (of)",
+     "iast": "aikāntikasya"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable (conjunction)",
+     "iast": "ca"
     }
    ],
-   "explanation": "The chapter's last word inverts the expected hierarchy: brahmaṇo hi pratiṣṭhā aham — I am the *ground* on which Brahman stands. The impersonal Absolute, the immortal, dharma itself, final bliss: all listed, and the person speaking placed beneath them as their pedestal. Devotion to him, the verse implies, was never a stepping-stone to something higher — there is nothing higher to step to. Brahmano hi pratishthaham — for I am the foundation of Brahman: the chapter's last line and one of the tradition's great battlegrounds. Shankara reads the speaker as the unconditioned pointing through its own conditioned form; Ramanuja and the Gaudiyas read it flat: the personal Lord as the ground of the impersonal light, amritasya avyayasya cha — of the immortal, the imperishable, the eternal dharma, and absolute bliss. Either way the inversion stuns: Brahman has a pedestal, and it speaks.",
+   "explanation": "The chapter's last line inverts the expected hierarchy: brahmaṇo hi pratiṣṭhāham, for I am the *ground* on which Brahman stands. The immortal, the imperishable, the eternal dharma, absolute bliss: all listed, and the one speaking placed beneath them as their pedestal. The little word hi, 'for', makes this the reason behind 14.26: devotion to him carries one to Brahman because he is its foundation. Commentators part ways over what 'Brahman' and 'I' mean here, from the inmost Self as abode of the supreme Self to the individual self grounded in the Lord to Brahman condensed into form, but on every reading the inversion stuns: Brahman has a pedestal, and it speaks.",
    "connection": "Seals 14.26's claim with the chapter's boldest theology — and hands the personal-God thread to chapter 15.",
-   "schools_note": "A famous battleground. Advaita reads 'pratishtha' as Krishna speaking as the conditioned Brahman pointing to identity with the unconditioned. Ramanuja and the Vaishnava schools read it plainly: the personal Lord is the ground and fullness of the impersonal light — Brahman is his radiance, not his superior.",
    "reflection": "Rest tonight on the foundation beneath even Brahman — the person this whole song is spoken by.",
-   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss."
+   "background": "Arjuna asks the practical question — by what marks is the one beyond the strands known, and how does he cross them? Krishna gives the gunatita portrait: hating nothing that comes, craving nothing that ceases, seated as one unconcerned while the strands turn, equal in clod, stone, and gold — and then the method that overturns the chapter's analytics: unswerving devotion to Me carries one across, for I am the very foundation of Brahman, of immortality, and of absolute bliss.",
+   "checked": "SGV",
+   "hook": "What is the ground on which the imperishable Brahman rests?",
+   "refs": [
+    {
+     "source": "Padma Purāṇa, Pātāla Khaṇḍa 77.60",
+     "note": "The light from the toenails of Krishna's feet is the Brahman that sages and gods meditate on, so Krishna is its basis."
+    },
+    {
+     "source": "Chaitanya Charitāmṛta, Ādi Līlā 2.12",
+     "note": "The effulgence of God's divine body is what the Upaniṣads call Brahman."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The inmost Self is the abode of the supreme Self, so through knowledge it is realised to be that Self. Alternatively, 'Brahman' is the conditioned Brahman, and the speaker, the unconditioned, is its ground."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'Brahman' here is the individual self, immortal and immutable, and 'eternal dharma' means the goal, not conduct. Because the Lord grounds self, prosperity and bliss, refuge in him is the only way past the gunas (as 7.14 says)."
+    },
+    {
+     "lens": "shaiva",
+     "text": "One becomes Brahman by serving the 'I'. Contemplating Brahman as bare, insentient being leads only to a release no different from deep sleep."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Pratiṣṭhā means image: 'I am Brahman condensed', as the sun's disk is light made solid. So one who serves him must come to his state, and 'fit for Brahman' is justified."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The formless Brahman worshipped by the knowers is the radiance of Krishna's personal form, so unwavering devotion to that form is the cure for bondage to the qualities."
+    }
+   ]
   }
  ]
 }

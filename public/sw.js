@@ -1,5 +1,5 @@
 // shortcut: data, fonts and code are cache-first, so bump V whenever public/data changes
-const V = 'gita-v2';
+const V = 'gita-v3';
 const CORE = ['/', '/manifest.webmanifest', '/icon.svg',
   '/data/index.json',
   ...Array.from({length:18},(_,i)=>`/data/chapter-${String(i+1).padStart(2,'0')}.json`),

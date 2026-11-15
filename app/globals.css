@@ -111,6 +111,28 @@ section.s{height:100vh;height:100dvh;scroll-snap-align:start;scroll-snap-stop:al
 .anv td:last-child{color:var(--mut);font-size:.92rem;line-height:1.7}
 .xnote{font-size:.92rem;color:var(--mut);line-height:1.8}
 .xnote.bh{font-style:italic;color:var(--ink);opacity:.82;border-left:2px solid var(--acc);padding-left:.9rem}
+/* additions stay inside the house style: type, hairlines, the two label sizes. No boxes, no fills. */
+.hook{margin:1.7rem 0 0 auto;max-width:88%;text-align:right;font-size:.86rem;line-height:1.65;color:var(--mut);transition:color 1.2s ease}
+.hook+.ess{margin-top:.45rem}
+.xhook{font-size:1.06rem;line-height:1.75;font-style:italic;opacity:.9}
+.xtabs{display:flex;gap:1.8rem;margin-top:2rem;border-bottom:1px solid rgba(128,128,128,.25);border-bottom:1px solid color-mix(in srgb,var(--ink) 12%,transparent)}
+.xtabs button{padding:.95rem 0;margin-bottom:-1px;border:0;border-bottom:1px solid transparent;background:none;color:var(--mut);font:inherit;font-size:.78rem;cursor:pointer;transition:color .25s ease,border-color .25s ease}
+.xtabs button[aria-selected=true]{color:var(--acc);border-bottom-color:var(--acc)}
+.xtabs button:focus-visible{outline:1px solid var(--acc);outline-offset:4px}
+.view{margin-bottom:1.5rem}
+.view:last-child{margin-bottom:0}
+.vlens{margin-bottom:.3rem;font-size:.95rem;line-height:1.7}
+.vlens span{margin-left:.6rem;font-size:.74rem;color:var(--mut)}
+.xref{margin-bottom:1.1rem}
+.xref b{display:block;font-weight:400;font-size:.92rem;line-height:1.7}
+.xsrc{font-size:.8rem;line-height:1.75;color:var(--mut)}
+.xsrc p{margin:0 0 .5rem}
+details.xsec summary{list-style:none;cursor:pointer;margin-bottom:0;padding:.4rem 0}
+details.xsec summary::-webkit-details-marker{display:none}
+details.xsec[open] summary{margin-bottom:.6rem}
+.anv td small{display:block;font-size:.76rem;line-height:1.5;font-style:italic;color:var(--mut)}
+.anv .wm{display:block;color:var(--ink);opacity:.9}
+.anv .wg{display:block;margin-top:.25rem;font-size:.78rem;line-height:1.6}
 .xend{text-align:center;margin-top:3rem;color:var(--acc);font-size:1.1rem;opacity:.8}
 
 /* ---------- index overlay ---------- */

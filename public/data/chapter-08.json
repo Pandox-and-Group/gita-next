@@ -19,30 +19,135 @@
    "devanagari": "किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते॥",
    "transliteration": "kiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate",
    "essence": "Arjuna asks: what is that Brahman? What is the adhyatma? What is karma, Purushottama? What is called adhibhuta, and what adhidaiva?",
-   "translation": "Swami Sivananda did not comment on this sloka",
+   "translation": "What is Brahman? What is Adhyatma? What is action, O best among men? What is Adhibhuta declared to be? And, what is Adhidaiva said to be?",
    "anvaya": [
     {
-     "word": "किं तत् ब्रह्म किम् अध्यात्मं",
-     "meaning": "what is that Brahman, what the adhyatma"
+     "word": "किम्",
+     "meaning": "what",
+     "base": "किम् · what, which",
+     "form": "pronoun, interrogative, neuter nominative singular",
+     "iast": "kim"
     },
     {
-     "word": "किं कर्म पुरुषोत्तम",
-     "meaning": "what is karma, O Purushottama"
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter nominative singular",
+     "iast": "tat"
     },
     {
-     "word": "अधिभूतं च किं प्रोक्तम्",
-     "meaning": "and what is declared the adhibhuta"
+     "word": "ब्रह्म",
+     "meaning": "Brahman, the Absolute",
+     "base": "ब्रह्मन् · the Absolute, Brahman",
+     "form": "noun, neuter, nominative singular",
+     "iast": "brahma"
     },
     {
-     "word": "अधिदैवं किम् उच्यते",
-     "meaning": "what is called the adhidaiva"
+     "word": "किम्",
+     "meaning": "what",
+     "base": "किम् · what, which",
+     "form": "pronoun, interrogative, neuter nominative singular",
+     "iast": "kim"
+    },
+    {
+     "word": "अध्यात्मम्",
+     "meaning": "what concerns the self",
+     "base": "अध्यात्म · relating to the self",
+     "form": "noun, neuter, nominative singular",
+     "parts": "अधि (concerning) + आत्मन् (self): 'that which concerns the self'",
+     "iast": "adhyātmam"
+    },
+    {
+     "word": "किम्",
+     "meaning": "what",
+     "base": "किम् · what, which",
+     "form": "pronoun, interrogative, neuter nominative singular",
+     "iast": "kim"
+    },
+    {
+     "word": "कर्म",
+     "meaning": "action",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, nominative singular",
+     "iast": "karma"
+    },
+    {
+     "word": "पुरुषोत्तम",
+     "meaning": "O highest of persons",
+     "base": "पुरुषोत्तम · the supreme person",
+     "form": "vocative (calling Krishna)",
+     "parts": "पुरुष (person) + उत्तम (highest): 'highest among persons'",
+     "iast": "puruṣottama"
+    },
+    {
+     "word": "अधिभूतम्",
+     "meaning": "what concerns beings",
+     "base": "अधिभूत · relating to beings",
+     "form": "noun, neuter, nominative singular",
+     "parts": "अधि (concerning) + भूत (beings, elements): 'that which concerns beings'",
+     "iast": "adhibhūtam"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "किम्",
+     "meaning": "what",
+     "base": "किम् · what, which",
+     "form": "pronoun, interrogative, neuter nominative singular",
+     "iast": "kim"
+    },
+    {
+     "word": "प्रोक्तम्",
+     "meaning": "is declared",
+     "base": "प्र-√वच् · to declare",
+     "form": "past passive participle, neuter nominative singular (declared)",
+     "iast": "proktam"
+    },
+    {
+     "word": "अधिदैवम्",
+     "meaning": "what concerns the gods",
+     "base": "अधिदैव · relating to the deities",
+     "form": "noun, neuter, nominative singular",
+     "parts": "अधि (concerning) + दैव (the divine, gods): 'that which concerns the gods'",
+     "iast": "adhidaivam"
+    },
+    {
+     "word": "किम्",
+     "meaning": "what",
+     "base": "किम् · what, which",
+     "form": "pronoun, interrogative, neuter nominative singular",
+     "iast": "kim"
+    },
+    {
+     "word": "उच्यते",
+     "meaning": "is called",
+     "base": "√वच् · to speak",
+     "form": "verb, present passive, 3rd person singular (is called)",
+     "iast": "ucyate"
     }
    ],
    "explanation": "Arjuna pounces on the loose threads of 7.29–30 and asks five definitions in two lines — a student's rapid-fire after a teacher's deliberate cliffhanger. The questions look academic; the last one (next verse) will reveal they are anything but.",
    "connection": "Directly picks up the undefined terms Krishna dangled at chapter 7's close.",
-   "schools_note": null,
    "reflection": "Keep Arjuna's habit today: when big words blur — Brahman, karma, adhyatma — stop and ask for definitions.",
-   "background": "Arjuna, hearing the dense final words of chapter seven, asks for definitions — seven rapid questions: what is Brahman, adhyatma, karma, adhibhuta, adhidaiva, adhiyajna — and the one beneath them all: how are You known at the time of death by the self-controlled?"
+   "background": "Arjuna, hearing the dense final words of chapter seven, asks for definitions — seven rapid questions: what is Brahman, adhyatma, karma, adhibhuta, adhidaiva, adhiyajna — and the one beneath them all: how are You known at the time of death by the self-controlled?",
+   "checked": "SGV",
+   "text_note": "The translation of this verse was missing in the source dataset; it is taken from the Sivananda text in the gita/gita dataset.",
+   "hook": "What does Arjuna ask Krishna to explain about God, the self and action?",
+   "views": [
+    {
+     "lens": "bhakti",
+     "text": "Arjuna is asking about the seven terms the Lord dropped at the close of chapter 7 (7.29–30); the eighth chapter exists to make Brahman, karma and the rest plain."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Arjun asks seven questions about terms Krishna himself introduced at the end of chapter seven: six about the terms and one about remembering God at death."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -54,59 +159,234 @@
    "translation": "Who and how is Adhiyajna here in this body, O destroyer of Madhu (Krishna)? And how at the time of death, art Thou to be known by the self-controlled?",
    "anvaya": [
     {
-     "word": "अधियज्ञः कथं कः अत्र",
-     "meaning": "the adhiyajna — how, who, here"
+     "word": "अधियज्ञः",
+     "meaning": "lord of sacrifice",
+     "base": "अधियज्ञ · that which presides over sacrifice",
+     "form": "noun, masculine, nominative singular",
+     "parts": "अधि (over, concerning) + यज्ञ (sacrifice): 'the one over sacrifice'",
+     "iast": "adhiyajñaḥ"
     },
     {
-     "word": "देहे अस्मिन् मधुसूदन",
-     "meaning": "in this body, O Madhusudana"
+     "word": "कथम्",
+     "meaning": "how",
+     "base": "how",
+     "form": "indeclinable",
+     "iast": "katham"
     },
     {
-     "word": "प्रयाणकाले च कथं",
-     "meaning": "and at the time of departure, how"
+     "word": "कः",
+     "meaning": "who",
+     "base": "किम् · who, what",
+     "form": "pronoun, interrogative, masculine nominative singular",
+     "iast": "kaḥ"
     },
     {
-     "word": "ज्ञेयः असि नियतात्मभिः",
-     "meaning": "are you to be known by the self-controlled"
+     "word": "अत्र",
+     "meaning": "here, in this",
+     "base": "here",
+     "form": "indeclinable",
+     "iast": "atra"
+    },
+    {
+     "word": "देहे",
+     "meaning": "in the body",
+     "base": "देह · body",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "dehe"
+    },
+    {
+     "word": "अस्मिन्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine locative singular (in this)",
+     "iast": "asmin"
+    },
+    {
+     "word": "मधुसूदन",
+     "meaning": "O slayer of Madhu",
+     "base": "मधुसूदन · slayer of the demon Madhu",
+     "form": "vocative (calling Krishna)",
+     "parts": "मधु (the demon Madhu) + सूदन (slayer): 'slayer of Madhu'",
+     "iast": "madhusūdana"
+    },
+    {
+     "word": "प्रयाणकाले",
+     "meaning": "at the time of departure",
+     "base": "प्रयाणकाल · time of going forth (death)",
+     "form": "noun, masculine, locative singular (at)",
+     "parts": "प्रयाण (departure) + काल (time): 'time of departure'",
+     "iast": "prayāṇakāle"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "कथम्",
+     "meaning": "how",
+     "base": "how",
+     "form": "indeclinable",
+     "iast": "katham"
+    },
+    {
+     "word": "ज्ञेयः",
+     "meaning": "to be known",
+     "base": "√ज्ञा · to know",
+     "form": "gerundive (to be known), masculine nominative singular",
+     "iast": "jñeyaḥ"
+    },
+    {
+     "word": "असि",
+     "meaning": "you are",
+     "base": "√अस् · to be",
+     "form": "verb, present, 2nd person singular",
+     "iast": "asi"
+    },
+    {
+     "word": "नियतात्मभिः",
+     "meaning": "by the self-controlled",
+     "base": "नियतात्मन् · one whose mind is controlled",
+     "form": "adjective used as noun, masculine, instrumental plural (by)",
+     "parts": "नियत (controlled) + आत्मन् (self, mind): 'those whose minds are controlled'",
+     "iast": "niyatātmabhiḥ"
     }
    ],
    "explanation": "The seventh question is the live one: prayāṇa-kāle — at the hour of going. Beneath the terminology, Arjuna is asking what every mortal eventually asks: how does one hold the highest knowledge at the moment everything is being taken away? The whole chapter is the answer to this last question.",
    "connection": "Completes the seven questions; the final clause sets the chapter's true subject — dying well.",
-   "schools_note": null,
    "reflection": "Ask the practical question under all theology once today: how is He known at the hour it matters most?",
-   "background": "Arjuna, hearing the dense final words of chapter seven, asks for definitions — seven rapid questions: what is Brahman, adhyatma, karma, adhibhuta, adhidaiva, adhiyajna — and the one beneath them all: how are You known at the time of death by the self-controlled?"
+   "background": "Arjuna, hearing the dense final words of chapter seven, asks for definitions — seven rapid questions: what is Brahman, adhyatma, karma, adhibhuta, adhidaiva, adhiyajna — and the one beneath them all: how are You known at the time of death by the self-controlled?",
+   "checked": "SGV",
+   "hook": "How can God be known at the moment of death, Arjuna asks?",
+   "views": [
+    {
+     "lens": "vishishtadvaita",
+     "text": "Sorts the questions by seeker: Brahman, adhyātma and karma concern those seeking release from age and death; adhibhūta and adhidaiva concern seekers of wealth and power; adhiyajña and the dying hour concern all three groups."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Takes adhiyajña as the one in this body who presides over sacrifice, prompts it and gives its fruit; 'sacrifice' stands for all actions, and 'how' asks the manner in which He dwells there."
+    },
+    {
+     "lens": "practice",
+     "text": "Reads the last question practically: at death memory fails and the senses grow cold, so how can even a steady mind know the Lord then? The name Madhusudana appeals to the one who removes difficulties."
+    }
+   ]
   },
   {
    "chapter": 8,
    "verse": 3,
-   "speaker": null,
-   "devanagari": "श्रीभगवानुवाच ।\nअक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः॥",
+   "speaker": "श्रीभगवानुवाच",
+   "devanagari": "अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\nभूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः॥",
    "transliteration": "akṣaraṃ brahma paramaṃ svabhāvo'dhyātmamucyate\nbhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ",
    "essence": "The Imperishable is the supreme Brahman; its presence in each being is the adhyatma; the creative offering that gives rise to beings is called karma.",
    "translation": "Brahman is the Imperishable, the Supreme; Its essential nature is called Self-knowledge; the offering (to the gods) which causes existence and manifestation of beings and which also sustains them is called action.",
    "anvaya": [
     {
-     "word": "अक्षरं ब्रह्म परमं",
-     "meaning": "the Imperishable is the supreme Brahman"
+     "word": "अक्षरम्",
+     "meaning": "the imperishable",
+     "base": "अक्षर · imperishable, that which does not decay",
+     "form": "adjective used as noun, neuter, nominative singular",
+     "parts": "अ (not) + क्षर (perishing): 'that which does not perish'",
+     "iast": "akṣaram"
     },
     {
-     "word": "स्वभावः अध्यात्मम् उच्यते",
-     "meaning": "its own-being (in each) is called the adhyatma"
+     "word": "ब्रह्म",
+     "meaning": "is Brahman",
+     "base": "ब्रह्मन् · the Absolute, Brahman",
+     "form": "noun, neuter, nominative singular",
+     "iast": "brahma"
+    },
+    {
+     "word": "परमम्",
+     "meaning": "supreme",
+     "base": "परम · highest, supreme",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "paramam"
+    },
+    {
+     "word": "स्वभावः",
+     "meaning": "its own being",
+     "base": "स्वभाव · own nature, own being",
+     "form": "noun, masculine, nominative singular",
+     "parts": "स्व (own) + भाव (being): 'one's own being'",
+     "iast": "svabhāvaḥ"
+    },
+    {
+     "word": "अध्यात्मम्",
+     "meaning": "the adhyatma, what concerns the self",
+     "base": "अध्यात्म · relating to the self",
+     "form": "noun, neuter, nominative singular",
+     "parts": "अधि (concerning) + आत्मन् (self): 'that which concerns the self'",
+     "iast": "adhyātmam"
+    },
+    {
+     "word": "उच्यते",
+     "meaning": "is called",
+     "base": "√वच् · to speak",
+     "form": "verb, present passive, 3rd person singular (is called)",
+     "iast": "ucyate"
     },
     {
      "word": "भूतभावोद्भवकरः",
-     "meaning": "that which brings about the arising of beings"
+     "meaning": "which brings beings into existence",
+     "base": "भूतभावोद्भवकर · causing the origin of beings",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "भूत (beings) + भाव (existence) + उद्भव (origin) + कर (making): 'that which brings about the origin of beings' existence'",
+     "iast": "bhūtabhāvodbhavakaraḥ"
     },
     {
-     "word": "विसर्गः कर्मसंज्ञितः",
-     "meaning": "the creative emission is named karma"
+     "word": "विसर्गः",
+     "meaning": "the offering, the sending forth",
+     "base": "वि-√सृज् · to send forth, release",
+     "form": "noun, masculine, nominative singular",
+     "iast": "visargaḥ"
+    },
+    {
+     "word": "कर्मसंज्ञितः",
+     "meaning": "is named karma",
+     "base": "कर्मसंज्ञित · called action",
+     "form": "past participle used as adjective, masculine nominative singular",
+     "parts": "कर्मन् (action) + संज्ञित (named): 'named as action'",
+     "iast": "karmasaṃjñitaḥ"
     }
    ],
    "explanation": "Three answers in one breath, each a doorway: Brahman is the akṣara, what cannot be eroded; adhyātma is that same reality as it lives in *you*, your own deepest nature; and karma, in its widest sense, is visarga — the sacrificial pouring-forth by which existence keeps generating existence. Definitions like compressed scriptures.",
    "connection": "Answers the first three of 8.1's questions with three strokes.",
-   "schools_note": "Arjuna's seven questions get compressed answers, and the schools unpack 'akshara' differently: Shankara — the supreme immutable Brahman; Ramanuja — also the freed soul and the syllable OM by context across the chapter. 'Karma' defined as visarga — the creative offering-forth — is read by all as the Gita re-rooting ritual vocabulary in cosmology: action as the universe's own liturgy.",
    "reflection": "Define your terms this morning: the imperishable in you, your inner nature, and the offering you call work.",
-   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me."
+   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me.",
+   "checked": "SGV",
+   "hook": "What do Brahman, adhyatma and karma mean, according to Krishna?",
+   "refs": [
+    {
+     "source": "Bṛhadāraṇyaka Upaniṣad 3.8.8",
+     "note": "Sages call Brahman the Imperishable, supreme because it has qualities beyond Maya and souls, matching this verse's definition."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Akṣara is the supreme immutable Brahman, not the syllable Om; svabhāva is that same Brahman dwelling in every body as the inner Self; visarga is the oblation to the gods, which through rain gives rise to beings."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Akṣara is the essential self freed from Prakṛti, the goal for seekers of kaivalya; adhyātma is one's material nature clinging to the self, to be given up; karma is the procreative act, from which aspirants abstain."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Svabhāva is Consciousness that never ceases in Brahman; 'karma' is that Consciousness's free creative emission, manifesting itself as both insentient and sentient beings."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Svabhāva is Brahman's own portion becoming the jīva, which dwells in the body as enjoyer; visarga is the giving up of substances to a deity, standing for all actions."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Brahman is the Supreme beyond time, space and causation, untouched by change; adhyatma here means one's own self of body, mind and intellect; karma is action that binds the soul to rebirth."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -118,27 +398,129 @@
    "translation": "Adhibhuta (knowledge of the elements) pertains to My perishable Nature and the Purusha or the Soul is the Adhidaiva; I alone am the Adhiyajna here in this body, O best among the embodied (men).",
    "anvaya": [
     {
-     "word": "अधिभूतं क्षरः भावः",
-     "meaning": "the adhibhuta is the perishable mode"
+     "word": "अधिभूतम्",
+     "meaning": "the adhibhuta, what concerns beings",
+     "base": "अधिभूत · relating to beings",
+     "form": "noun, neuter, nominative singular",
+     "parts": "अधि (concerning) + भूत (beings): 'that which concerns beings'",
+     "iast": "adhibhūtam"
     },
     {
-     "word": "पुरुषः च अधिदैवतम्",
-     "meaning": "and the purusha is the adhidaiva"
+     "word": "क्षरः",
+     "meaning": "perishable",
+     "base": "क्षर · perishing, from √क्षर् · to flow away",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "kṣaraḥ"
     },
     {
-     "word": "अधियज्ञः अहम् एव अत्र",
-     "meaning": "the adhiyajna am I myself, here"
+     "word": "भावः",
+     "meaning": "existence, entity",
+     "base": "भाव · being, state",
+     "form": "noun, masculine, nominative singular",
+     "iast": "bhāvaḥ"
     },
     {
-     "word": "देहे देहभृतां वर",
-     "meaning": "in the body, O best of body-bearers"
+     "word": "पुरुषः",
+     "meaning": "the Person",
+     "base": "पुरुष · person, spirit",
+     "form": "noun, masculine, nominative singular",
+     "iast": "puruṣaḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "अधिदैवतम्",
+     "meaning": "the adhidaiva, what concerns the gods",
+     "base": "अधिदैवत · relating to the deities",
+     "form": "noun, neuter, nominative singular",
+     "parts": "अधि (concerning) + दैवत (deity): 'that which concerns the gods'",
+     "iast": "adhidaivatam"
+    },
+    {
+     "word": "अधियज्ञः",
+     "meaning": "lord of sacrifice",
+     "base": "अधियज्ञ · that which presides over sacrifice",
+     "form": "noun, masculine, nominative singular",
+     "parts": "अधि (over) + यज्ञ (sacrifice): 'the one over sacrifice'",
+     "iast": "adhiyajñaḥ"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular",
+     "iast": "aham"
+    },
+    {
+     "word": "एव",
+     "meaning": "myself, indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "अत्र",
+     "meaning": "here, in this",
+     "base": "here",
+     "form": "indeclinable",
+     "iast": "atra"
+    },
+    {
+     "word": "देहे",
+     "meaning": "in the body",
+     "base": "देह · body",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "dehe"
+    },
+    {
+     "word": "देहभृताम्",
+     "meaning": "of the embodied",
+     "base": "देहभृत् · body-bearer",
+     "form": "noun, masculine, genitive plural (of)",
+     "parts": "देह (body) + भृत् (bearing): 'those who bear a body'",
+     "iast": "dehabhṛtām"
+    },
+    {
+     "word": "वर",
+     "meaning": "O best",
+     "base": "वर · best, choicest",
+     "form": "vocative (calling Arjuna)",
+     "iast": "vara"
     }
    ],
    "explanation": "The remaining answers, ending in the chapter's quiet thunderclap: adhiyajño 'ham evātra dehe — the lord of sacrifice is *I, here, in this body*. The receiving altar of every offering a person ever makes is not in a temple or a heaven; it is resident within the offerer. All the chapter's death-instruction follows from this nearness.",
    "connection": "Completes the definitions and plants the key: the One to be remembered at death already dwells inside.",
-   "schools_note": null,
    "reflection": "See today's world as the perishable basis, and yourself as the witness it plays before.",
-   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me."
+   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me.",
+   "checked": "SGV",
+   "hook": "What are adhibhuta, adhidaiva and adhiyajna, and who dwells in the body?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Puruṣa here is Hiraṇyagarbha, dwelling in the sun and sustaining the senses of all creatures; adhiyajña is Viṣṇu, the deity of sacrifice, said to be 'in the body' because sacrifice is performed with the body."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Indra and the other gods to whom sacrifices are made form the Lord's body; He dwells in them as their Self, so He alone is the real object of all worship."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Puruṣa is the Self in which all deities are established; the same supreme Self is the enjoyer of every sacrifice and the one dwelling in the body, so two questions are settled at once."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The adhiyajña dwells in this body as the inner controller, prompting acts and giving their fruit, yet unattached and distinct from the jīva, as the two birds on one tree show."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The ever-changing universe is adhibhuta; God as the cosmic person ruling the gods is adhidaiva; as the Supreme Soul in every heart who rewards all acts he is adhiyajna, so all sacrifice is for him."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -150,27 +532,144 @@
    "translation": "And whosoever, leaving the body, goes forth remembering Me alone, at the time of death, he attains My Being: there is no doubt about this.",
    "anvaya": [
     {
-     "word": "अन्तकाले च माम् एव",
-     "meaning": "and at the end-time, me alone"
+     "word": "अन्तकाले",
+     "meaning": "at the end, at death",
+     "base": "अन्तकाल · the final time",
+     "form": "noun, masculine, locative singular (at)",
+     "parts": "अन्त (end) + काल (time): 'the time of the end'",
+     "iast": "antakāle"
     },
     {
-     "word": "स्मरन् मुक्त्वा कलेवरम्",
-     "meaning": "remembering, releasing the body"
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
     },
     {
-     "word": "यः प्रयाति सः मद्भावं",
-     "meaning": "who departs, that one to my being"
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
     },
     {
-     "word": "याति न अस्ति अत्र संशयः",
-     "meaning": "goes — there is no doubt herein"
+     "word": "एव",
+     "meaning": "alone, only",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "स्मरन्",
+     "meaning": "remembering",
+     "base": "√स्मृ · to remember",
+     "form": "present participle, masculine nominative singular (while remembering)",
+     "iast": "smaran"
+    },
+    {
+     "word": "मुक्त्वा",
+     "meaning": "having released",
+     "base": "√मुच् · to release, let go",
+     "form": "gerund (having released)",
+     "iast": "muktvā"
+    },
+    {
+     "word": "कलेवरम्",
+     "meaning": "the body",
+     "base": "कलेवर · body",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "kalevaram"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine nominative singular",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "प्रयाति",
+     "meaning": "departs",
+     "base": "प्र-√या · to go forth",
+     "form": "verb, present, 3rd person singular",
+     "iast": "prayāti"
+    },
+    {
+     "word": "सः",
+     "meaning": "he, that one",
+     "base": "तद् · he, that",
+     "form": "pronoun, masculine nominative singular",
+     "iast": "saḥ"
+    },
+    {
+     "word": "मद्भावम्",
+     "meaning": "my state of being",
+     "base": "मद्भाव · my being",
+     "form": "noun, masculine, accusative singular (to)",
+     "parts": "मद् (my) + भाव (being): 'my being, my state'",
+     "iast": "madbhāvam"
+    },
+    {
+     "word": "याति",
+     "meaning": "goes to, attains",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "yāti"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "अस्ति",
+     "meaning": "there is",
+     "base": "√अस् · to be",
+     "form": "verb, present, 3rd person singular",
+     "iast": "asti"
+    },
+    {
+     "word": "अत्र",
+     "meaning": "here, in this",
+     "base": "here",
+     "form": "indeclinable",
+     "iast": "atra"
+    },
+    {
+     "word": "संशयः",
+     "meaning": "doubt",
+     "base": "संशय · doubt",
+     "form": "noun, masculine, nominative singular",
+     "iast": "saṃśayaḥ"
     }
    ],
-   "explanation": "The central promise, flat and unhedged: final remembrance of him delivers the rememberer into his being, nāsty atra saṁśayaḥ. The last act of attention functions as the soul's forwarding address. Everything that follows — the practice, the syllable, the timing — exists to make this remembrance possible when it matters most. Anta-kale cha mam eva — the death-remembrance verse on which whole devotional cultures were built: the name on the lips at the end, the Gita read at the bedside, the practice of japa justified in one line. Commentators add the realism of the next verse immediately: the final thought is not performed at the end but rehearsed across a lifetime — the deathbed merely publishes the habit.",
+   "explanation": "The central promise, flat and unhedged: whoever leaves the body remembering him alone enters his being — nāsty atra saṁśayaḥ, of this there is no doubt. The last act of attention works as the soul's forwarding address. This one line shaped whole devotional practices: the Name on the lips at the end, the Gita read at the bedside, the daily japa. Yet the next verse adds the realism at once: the final thought is not performed at the end but rehearsed across a lifetime — the deathbed merely publishes the habit. Everything that follows in the chapter, the practice, the syllable, the timing, exists to make that remembrance possible when it matters most.",
    "connection": "Answers 8.2's death-question directly; the rest of the chapter is its method and fine print.",
-   "schools_note": null,
    "reflection": "Practice the final thought in advance: end one ordinary day remembering Him, as rehearsal.",
-   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me."
+   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me.",
+   "checked": "SGV",
+   "hook": "What happens to someone who dies remembering God alone?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Me' is the supreme Lord Viṣṇu and 'my state' is that very Reality; the 'no doubt' answers whether such a one attains Him or not."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "In whatever way one meditates on Him, that form one attains, just as the royal sage Bharata became a deer by thinking of a deer at death."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Answers 8.2's last question: remembrance of the inner controller is the means of knowing Him at death, departure by the path of light the passage, and attaining His form the fruit."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "One who dies absorbed in God's names, forms, qualities, pastimes and abode attains him and a godlike nature; consciousness at death decides what comes next."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -182,123 +681,515 @@
    "translation": "Whosoever at the end leaves the body, thinking of any being, to that being only does he go, O son of Kunti (Arjuna), because of his constant thought of that being.",
    "anvaya": [
     {
-     "word": "यं यं वा अपि स्मरन् भावं",
-     "meaning": "whatever state remembering"
+     "word": "यम्",
+     "meaning": "whichever",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine accusative singular",
+     "iast": "yam"
     },
     {
-     "word": "त्यजति अन्ते कलेवरम्",
-     "meaning": "one leaves the body at the end"
+     "word": "यम्",
+     "meaning": "(repeated) whichever at all",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine accusative singular (doubled for 'whatever')",
+     "iast": "yam"
     },
     {
-     "word": "तं तम् एव एति कौन्तेय",
-     "meaning": "that very (state) one reaches, O Kaunteya"
+     "word": "वा",
+     "meaning": "or",
+     "base": "or",
+     "form": "indeclinable",
+     "iast": "vā"
     },
     {
-     "word": "सदा तद्भावभावितः",
-     "meaning": "ever made-of-that-state by absorption"
+     "word": "अपि",
+     "meaning": "even",
+     "base": "even, also",
+     "form": "indeclinable",
+     "iast": "api"
+    },
+    {
+     "word": "स्मरन्",
+     "meaning": "remembering",
+     "base": "√स्मृ · to remember",
+     "form": "present participle, masculine nominative singular (while remembering)",
+     "iast": "smaran"
+    },
+    {
+     "word": "भावम्",
+     "meaning": "state, being",
+     "base": "भाव · being, state",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "bhāvam"
+    },
+    {
+     "word": "त्यजति",
+     "meaning": "gives up",
+     "base": "√त्यज् · to abandon",
+     "form": "verb, present, 3rd person singular",
+     "iast": "tyajati"
+    },
+    {
+     "word": "अन्ते",
+     "meaning": "at the end",
+     "base": "अन्त · end",
+     "form": "noun, masculine, locative singular (at)",
+     "iast": "ante"
+    },
+    {
+     "word": "कलेवरम्",
+     "meaning": "the body",
+     "base": "कलेवर · body",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "kalevaram"
+    },
+    {
+     "word": "तम्",
+     "meaning": "to that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine accusative singular",
+     "iast": "tam"
+    },
+    {
+     "word": "तम्",
+     "meaning": "(repeated) to that very one",
+     "base": "तद् · that",
+     "form": "pronoun, masculine accusative singular (doubled to match यं यं)",
+     "iast": "tam"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, only",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "एति",
+     "meaning": "goes to",
+     "base": "√इ · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "eti"
+    },
+    {
+     "word": "कौन्तेय",
+     "meaning": "O son of Kunti",
+     "base": "कौन्तेय · son of Kuntī",
+     "form": "vocative (calling Arjuna)",
+     "iast": "kaunteya"
+    },
+    {
+     "word": "सदा",
+     "meaning": "always",
+     "base": "always",
+     "form": "indeclinable",
+     "iast": "sadā"
+    },
+    {
+     "word": "तद्भावभावितः",
+     "meaning": "ever steeped in that state",
+     "base": "तद्भावभावित · imbued with the thought of that",
+     "form": "past participle used as adjective, masculine nominative singular",
+     "parts": "तद् (that) + भाव (state, thought) + भावित (imbued, formed): 'one imbued with the thought of that'",
+     "iast": "tadbhāvabhāvitaḥ"
     }
    ],
-   "explanation": "The general law beneath 8.5's special case: the final thought is a vector, and the soul travels along it. But the verse closes its own loophole before anyone games it — sadā tad-bhāva-bhāvitaḥ: the dying thought is not chosen at the deathbed; it is the residue of a lifetime's dwelling. One cannot cram for this examination; the last thought is simply the loudest habit. Yam yam vapi smaran bhavam — whatever state one remembers at the end, to that one goes, sada tad-bhava-bhavitah — being ever steeped in it. The tradition's gloss is the famous one: the mind at death is the average of the mind in life. The doctrine birthed the practice of constant remembrance precisely because it abolished last-minute religion.",
+   "explanation": "The general law beneath 8.5's special case: whatever state one remembers on leaving the body, to that one goes — the final thought is a vector, and the soul travels along it. But the verse closes its own loophole before anyone games it: sadā tad-bhāva-bhāvitaḥ, always steeped in that state. The dying thought is not chosen at the deathbed; it is the residue of a lifetime's dwelling, the loudest habit surfacing at the end. One cannot cram for this examination. That is why the doctrine gave rise to the practice of constant remembrance: it abolished last-minute religion.",
    "connection": "Generalizes 8.5 into law — and explains why the next verse must say 'at all times'.",
-   "schools_note": "The famous 'final-thought' doctrine. The tradition reads it through the story of Bharata (reborn a deer for dying absorbed in one); commentators across schools agree on its practical edge: since death's hour is unschedulable, the only strategy is to make remembrance constant — which 8.7 immediately commands.",
    "reflection": "Mind what you marinate in — whatever state you feed daily is the state that will claim the exit.",
-   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me."
+   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me.",
+   "checked": "SGV",
+   "hook": "What decides where a person goes after leaving the body?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Tad-bhāva-bhāvitaḥ means one in whom that entity is a matter of habitual recollection; since the last thought causes the next body, it must be shaped beforehand."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The final thought arises only about objects already ruminated upon in life, which is why the next verse must command remembrance at all times."
+    },
+    {
+     "lens": "practice",
+     "text": "Like the caterpillar that becomes the wasp it constantly thinks of, one becomes what one dwells on; Jaḍabharata, thinking of his pet deer, was born a deer."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The thought that dominates the mind at death sets the next birth, and it follows lifelong habit, as King Bharat, absorbed in a fawn, became a deer; so God must be remembered at every moment."
+    }
+   ]
   },
   {
    "chapter": 8,
    "verse": 7,
    "speaker": null,
-   "devanagari": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः (orसंशयम्)॥",
+   "devanagari": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः॥",
    "transliteration": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca\nmayyarpitamanobuddhirmāmevaiṣyasyasaṃśayaḥ",
    "essence": "Therefore at all times remember me, and fight. With mind and understanding surrendered to me, you will come to me — beyond doubt.",
-   "translation": "Therefore at all times remember Me only and fight. With mind and intellect fixed (or absorbed) in Me, thou shalt doubtessly come to Me alone.",
+   "translation": "Therefore at all times remember Me only and fight. With mind and intellect fixed (or absorbed) in Me, thou shalt doubtlessly come to Me alone.",
    "anvaya": [
     {
-     "word": "तस्मात् सर्वेषु कालेषु",
-     "meaning": "therefore, at all times"
+     "word": "तस्मात्",
+     "meaning": "therefore",
+     "base": "तद् · that (ablative used as 'therefore')",
+     "form": "indeclinable (ablative form meaning 'therefore')",
+     "iast": "tasmāt"
     },
     {
-     "word": "माम् अनुस्मर युध्य च",
-     "meaning": "remember me — and fight"
+     "word": "सर्वेषु",
+     "meaning": "at all",
+     "base": "सर्व · all",
+     "form": "adjective, masculine, locative plural (at)",
+     "iast": "sarveṣu"
     },
     {
-     "word": "मयि अर्पितमनोबुद्धिः",
-     "meaning": "with mind and buddhi offered into me"
+     "word": "कालेषु",
+     "meaning": "times",
+     "base": "काल · time",
+     "form": "noun, masculine, locative plural (at)",
+     "iast": "kāleṣu"
     },
     {
-     "word": "माम् एव एष्यसि असंशयम्",
-     "meaning": "to me alone you will come, doubtlessly"
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "अनुस्मर",
+     "meaning": "remember",
+     "base": "अनु-√स्मृ · to remember continually",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "anusmara"
+    },
+    {
+     "word": "युध्य",
+     "meaning": "fight",
+     "base": "√युध् · to fight",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "yudhya"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, locative singular (in me)",
+     "iast": "mayi"
+    },
+    {
+     "word": "अर्पितमनोबुद्धिः",
+     "meaning": "with mind and intellect offered",
+     "base": "अर्पितमनोबुद्धि · one whose mind and intellect are offered",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अर्पित (offered) + मनस् (mind) + बुद्धि (intellect): 'one whose mind and intellect are given over'",
+     "iast": "arpitamanobuddhiḥ"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, only",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "एष्यसि",
+     "meaning": "you will come",
+     "base": "√इ · to go",
+     "form": "verb, future, 2nd person singular",
+     "iast": "eṣyasi"
+    },
+    {
+     "word": "असंशयः",
+     "meaning": "without doubt",
+     "base": "असंशय · absence of doubt",
+     "form": "noun, masculine, nominative singular (used as 'there is no doubt')",
+     "parts": "अ (no) + संशय (doubt): 'no doubt'",
+     "iast": "asaṃśayaḥ"
     }
    ],
-   "explanation": "The Gita's whole reconciliation in four words: mām anusmara yudhya ca — remember me, *and fight*. Not remembrance instead of the battle, nor the battle postponing remembrance: both at once, inner gaze fixed while the hands do their fierce duty. The verse is the charter of every contemplative-in-action since. Tasmat sarveshu kaleshu mam anusmara yudhya cha — therefore at all times remember Me, and fight: the Gita's whole method in five words. The commentaries treasure the conjunction: not remember instead of fighting, nor fight then remember — both, simultaneously, the inner thread unbroken through the outer act. Mayy arpita-mano-buddhih: mind and intellect both deposited, hands fully at war.",
+   "explanation": "The Gita's whole reconciliation in four words: mām anusmara yudhya ca — remember me, *and fight*. Not remembrance instead of the battle, nor the battle postponing remembrance: both at once, the inner thread unbroken through the outer act. Mayy arpita-mano-buddhiḥ: mind and intellect deposited in him while the hands do their fierce duty. Because the last thought cannot be manufactured at the end (8.6), it must be kept alive 'at all times', and the work of one's own station is where that keeping happens. The verse is the charter of every contemplative-in-action since.",
    "connection": "Converts 8.6's law into Arjuna's standing orders: constant remembrance, undiminished engagement.",
-   "schools_note": null,
    "reflection": "Carry the full instruction into one task today: remember — and fight. Both, together, all day.",
-   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me."
+   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me.",
+   "text_note": "Variant: asaṃśayam (Gita Supersite / Gita Press) for asaṃśayaḥ (critical edition, used here).",
+   "checked": "G",
+   "hook": "How can you remember God and still do your work in the world?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Thinking of Him while fighting is not a combination of knowledge and action, because when every act, means and result is seen as Brahman, action has no separate reality."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'Fight' means carrying out the duties of one's station day after day, duties that themselves keep one remembering Him until the hour of death."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The Lord, of His own accord, becomes the object of memory at death for one from whose heart He has never departed in any worldly circumstance."
+    },
+    {
+     "lens": "bhakti",
+     "text": "At death one is helpless, so only past impressions bring remembrance; constant remembrance needs a pure mind, and fighting, one's own duty, is what purifies it."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "This line holds the Gita's essence: do your duty with the body while the mind stays attached to God. Work done without selfish attachment creates no karmic bondage, as with Arjun's fighting."
+    }
+   ]
   },
   {
    "chapter": 8,
    "verse": 8,
    "speaker": null,
    "devanagari": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\nपरमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्॥",
-   "transliteration": "orsaṃśayama abhyāsayogayuktena cetasā nānyagāminā\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan",
+   "transliteration": "abhyāsayogayuktena cetasā nānyagāminā\nparamaṃ puruṣaṃ divyaṃ yāti pārthānucintayan",
    "essence": "With a mind harnessed by the yoga of practice, straying to nothing else, meditating — one goes to the supreme divine Purusha, Partha.",
    "translation": "With the mind not moving towards any other thing, made steadfast by the method of habitual meditation, and constantly meditating, one goes to the Supreme Person, the Resplendent, O Arjuna.",
    "anvaya": [
     {
      "word": "अभ्यासयोगयुक्तेन",
-     "meaning": "yoked by the yoga of practice"
+     "meaning": "joined to the yoga of practice",
+     "base": "अभ्यासयोगयुक्त · engaged in disciplined repetition",
+     "form": "adjective, neuter, instrumental singular (by, with)",
+     "parts": "अभ्यास (practice, repetition) + योग (discipline) + युक्त (joined): 'joined to the discipline of practice'",
+     "iast": "abhyāsayogayuktena"
     },
     {
-     "word": "चेतसा न अन्यगामिना",
-     "meaning": "with a mind not going elsewhere"
+     "word": "चेतसा",
+     "meaning": "with the mind",
+     "base": "चेतस् · mind, awareness",
+     "form": "noun, neuter, instrumental singular (with)",
+     "iast": "cetasā"
     },
     {
-     "word": "परमं पुरुषं दिव्यं",
-     "meaning": "to the supreme divine Purusha"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
     },
     {
-     "word": "याति पार्थ अनुचिन्तयन्",
-     "meaning": "one goes, O Partha, continuously meditating"
+     "word": "अन्यगामिना",
+     "meaning": "going elsewhere",
+     "base": "अन्यगामिन् · going to something else",
+     "form": "adjective, neuter, instrumental singular (with)",
+     "parts": "अन्य (other) + गामिन् (going): 'going to another object'",
+     "iast": "anyagāminā"
+    },
+    {
+     "word": "परमम्",
+     "meaning": "supreme",
+     "base": "परम · highest, supreme",
+     "form": "adjective, masculine, accusative singular",
+     "iast": "paramam"
+    },
+    {
+     "word": "पुरुषम्",
+     "meaning": "the Person",
+     "base": "पुरुष · person, spirit",
+     "form": "noun, masculine, accusative singular (object, to)",
+     "iast": "puruṣam"
+    },
+    {
+     "word": "दिव्यम्",
+     "meaning": "divine, shining",
+     "base": "दिव्य · divine, luminous",
+     "form": "adjective, masculine, accusative singular",
+     "iast": "divyam"
+    },
+    {
+     "word": "याति",
+     "meaning": "one goes to",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "yāti"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O son of Pritha",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "अनुचिन्तयन्",
+     "meaning": "meditating continually",
+     "base": "अनु-√चिन्त् · to reflect upon",
+     "form": "present participle, masculine nominative singular (while meditating)",
+     "iast": "anucintayan"
     }
    ],
    "explanation": "How 'at all times' becomes feasible: abhyāsa-yoga, the repetition that wears remembrance into a groove until the mind, left alone, flows there by default — nānya-gāminā, not wandering off. Anucintayan: thinking-along, a current of recollection beneath the day's traffic. Constancy is not strain; it is a trained riverbed.",
    "connection": "Supplies the training method behind 8.7's command, echoing 6.35's abhyasa.",
-   "schools_note": null,
    "reflection": "Give attention one steady channel today; consciousness flows where practice has dug.",
-   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me."
+   "background": "Krishna answers each term in a breath and settles on the question that matters: whoever leaves the body remembering Me alone attains My being, for one becomes what one constantly dwells on — therefore remember Me at all times, and fight, mind and intellect set on Me.",
+   "checked": "SGV",
+   "hook": "How does steady practice of fixing the mind lead to God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Abhyāsa is repeating the same kind of thought about Him, uninterrupted by any contrary idea; 'divine' locates the supreme Person in the effulgent region, the solar orb."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Separates the two words: abhyāsa is keeping the mind often in touch with Him throughout the day without neglecting duties, and yoga is the set meditation done daily."
+    },
+    {
+     "lens": "practice",
+     "text": "Practice means shutting out thoughts of other kinds and keeping one current of thought on God; the most vital factor is regularity."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Abhyasa means making remembrance of God a constant habit throughout the day's work; what shapes our future is where the mind rests, and a mind fixed on the pure God becomes pure."
+    }
+   ]
   },
   {
    "chapter": 8,
    "verse": 9,
    "speaker": null,
-   "devanagari": "कविं पुराणमनुशासितार-\nमणोरणीयंसमनुस्मरेद्यः ।\nसर्वस्य धातारमचिन्त्यरूप-\nमादित्यवर्णं तमसः परस्तात्॥",
-   "transliteration": "kaviṃ purāṇamanuśāsitāraṃ aṇoraṇīyaṃsamanusmaredyaḥ\nsarvasya dhātāramacintyarūpaṃ ādityavarṇaṃ tamasaḥ parastāt",
+   "devanagari": "कविं पुराणमनुशासितार-\nमणोरणीयांसमनुस्मरेद्यः ।\nसर्वस्य धातारमचिन्त्यरूप-\nमादित्यवर्णं तमसः परस्तात्॥",
+   "transliteration": "kaviṃ purāṇamanuśāsitāramaṇoraṇīyāṃsamanusmaredyaḥ\nsarvasya dhātāramacintyarūpamādityavarṇaṃ tamasaḥ parastāt",
    "essence": "The seer, the ancient, the ruler, subtler than the subtle, supporter of all, of inconceivable form, sun-colored beyond the darkness —",
    "translation": "Whosoever meditates on the Omniscient, the Ancient, the Ruler (of the whole world), minuter than an atom, the supporter of all, of inconceivable form, effulgent like the sun and beyond the darkness of ignorance.",
    "anvaya": [
     {
-     "word": "कविं पुराणम् अनुशासितारम्",
-     "meaning": "the seer, the ancient, the ruler"
+     "word": "कविम्",
+     "meaning": "the all-knowing seer",
+     "base": "कवि · seer, poet, sage",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "kavim"
     },
     {
-     "word": "अणोः अणीयांसम् अनुस्मरेत् यः",
-     "meaning": "subtler than the atom — who remembers (him)"
+     "word": "पुराणम्",
+     "meaning": "the ancient",
+     "base": "पुराण · ancient, primeval",
+     "form": "adjective, masculine, accusative singular",
+     "iast": "purāṇam"
     },
     {
-     "word": "सर्वस्य धातारम् अचिन्त्यरूपम्",
-     "meaning": "supporter of all, of unthinkable form"
+     "word": "अनुशासितारम्",
+     "meaning": "the ruler",
+     "base": "अनुशासितृ · ruler, controller (अनु-√शास् · to govern)",
+     "form": "noun, masculine, accusative singular",
+     "iast": "anuśāsitāram"
     },
     {
-     "word": "आदित्यवर्णं तमसः परस्तात्",
-     "meaning": "sun-colored, beyond the darkness"
+     "word": "अणोः",
+     "meaning": "than the atom",
+     "base": "अणु · minute, atom",
+     "form": "noun, masculine, ablative singular (than)",
+     "iast": "aṇoḥ"
+    },
+    {
+     "word": "अणीयांसम्",
+     "meaning": "subtler",
+     "base": "अणीयस् · smaller, subtler",
+     "form": "adjective, comparative, masculine accusative singular",
+     "iast": "aṇīyāṃsam"
+    },
+    {
+     "word": "अनुस्मरेत्",
+     "meaning": "would remember",
+     "base": "अनु-√स्मृ · to remember continually",
+     "form": "optative, 3rd person singular (would, should)",
+     "iast": "anusmaret"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine nominative singular",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "सर्वस्य",
+     "meaning": "of all",
+     "base": "सर्व · all",
+     "form": "pronoun-adjective, genitive singular (of)",
+     "iast": "sarvasya"
+    },
+    {
+     "word": "धातारम्",
+     "meaning": "the supporter",
+     "base": "धातृ · supporter, ordainer (√धा · to place, hold)",
+     "form": "noun, masculine, accusative singular",
+     "iast": "dhātāram"
+    },
+    {
+     "word": "अचिन्त्यरूपम्",
+     "meaning": "of inconceivable form",
+     "base": "अचिन्त्यरूप · of unthinkable form",
+     "form": "adjective, masculine, accusative singular",
+     "parts": "अचिन्त्य (unthinkable) + रूप (form): 'one whose form is beyond thought'",
+     "iast": "acintyarūpam"
+    },
+    {
+     "word": "आदित्यवर्णम्",
+     "meaning": "sun-colored",
+     "base": "आदित्यवर्ण · having the sun's color",
+     "form": "adjective, masculine, accusative singular",
+     "parts": "आदित्य (sun) + वर्ण (color): 'one whose color is the sun's'",
+     "iast": "ādityavarṇam"
+    },
+    {
+     "word": "तमसः",
+     "meaning": "the darkness",
+     "base": "तमस् · darkness",
+     "form": "noun, neuter, ablative singular (from, beyond)",
+     "iast": "tamasaḥ"
+    },
+    {
+     "word": "परस्तात्",
+     "meaning": "beyond",
+     "base": "beyond, on the far side",
+     "form": "indeclinable",
+     "iast": "parastāt"
     }
    ],
-   "explanation": "What, concretely, to remember: eight facets given as handholds for meditation — the poet-seer who conceived all this, older than time, smaller than the smallest, holding everything, shaped beyond imagining, and shining āditya-varṇam, sun-colored, on the far side of all darkness. A portrait built to be gazed at, not merely parsed.",
+   "explanation": "What, concretely, to remember: eight facets given as handholds for meditation — the poet-seer who knows all, older than time, ruler of all, smaller than the smallest, holding everything, shaped beyond imagining, and shining āditya-varṇam, sun-colored, on the far side of all darkness. A portrait built to be gazed at, not merely parsed.",
    "connection": "Begins the deathbed meditation proper (8.9–13): the object described before the technique.",
-   "schools_note": null,
    "reflection": "Meditate once on the Ancient Seer — subtler than subtle, sun-colored beyond darkness — for one minute.",
-   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach."
+   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach.",
+   "checked": "SG",
+   "hook": "What qualities of God may you meditate on?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Dhātṛ is the one who dispenses the fruits of action to each creature; 'sun-colored' means He is manifest as eternal Consciousness, like the sun's light, beyond the darkness of ignorance."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'Subtler than the subtle' means subtler than the individual self, and 'sun-colored, beyond darkness' means He has a divine form peculiar to Himself."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The sun-color does not limit the Absolute; the comparison is drawn only because It too transcends the darkness of ignorance, the false notions of form and the like."
+    },
+    {
+     "lens": "bhakti",
+     "text": "'Darkness' is prakṛti, and the Person stands beyond it; His very nature is self-luminous like the sun, lighting itself and everything else."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Meditation may rest on God's names, forms, pastimes or abode; the verse lists eight attributes, from all-seeing and ancient to sun-bright beyond darkness, and the varied paths are united by devotion."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -307,30 +1198,165 @@
    "devanagari": "प्रयाणकाले मनसाऽचलेन\nभक्त्या युक्तो योगबलेन चैव ।\nभ्रुवोर्मध्ये प्राणमावेश्य सम्यक्\nस तं परं पुरुषमुपैति दिव्यम्॥",
    "transliteration": "prayāṇakāle manasā'calena bhaktyā yukto yogabalena caiva\nbhruvormadhye prāṇamāveśya samyak sa taṃ paraṃ puruṣamupaiti divyam",
    "essence": "At the time of departure, with unmoving mind, with devotion and the strength of yoga, fixing the life-breath between the brows — one reaches that supreme divine Purusha.",
-   "translation": "At the time of death, with unshaken mind, endowed with devotio, by the power of Yoga, fixing the whole life-breath in the middle of the two eyrows, he reaches that resplendent Supreme Person.",
+   "translation": "At the time of death, with unshaken mind, endowed with devotion, by the power of Yoga, fixing the whole life-breath in the middle of the two eyebrows, he reaches that resplendent Supreme Person.",
    "anvaya": [
     {
-     "word": "प्रयाणकाले मनसा अचलेन",
-     "meaning": "at departure-time, with unmoving mind"
+     "word": "प्रयाणकाले",
+     "meaning": "at the time of departure",
+     "base": "प्रयाणकाल · time of going forth (death)",
+     "form": "noun, masculine, locative singular (at)",
+     "parts": "प्रयाण (departure) + काल (time): 'time of departure'",
+     "iast": "prayāṇakāle"
     },
     {
-     "word": "भक्त्या युक्तः योगबलेन च एव",
-     "meaning": "joined with devotion, and with yoga's strength"
+     "word": "मनसा",
+     "meaning": "with a mind",
+     "base": "मनस् · mind",
+     "form": "noun, neuter, instrumental singular (with)",
+     "iast": "manasā"
     },
     {
-     "word": "भ्रुवोः मध्ये प्राणम् आवेश्य सम्यक्",
-     "meaning": "placing the prana rightly between the brows"
+     "word": "अचलेन",
+     "meaning": "unmoving",
+     "base": "अचल · unmoving, steady",
+     "form": "adjective, neuter, instrumental singular (with)",
+     "parts": "अ (not) + चल (moving): 'not moving'",
+     "iast": "acalena"
     },
     {
-     "word": "सः तं परं पुरुषम् उपैति दिव्यम्",
-     "meaning": "he attains that supreme divine Purusha"
+     "word": "भक्त्या",
+     "meaning": "with devotion",
+     "base": "भक्ति · devotion, love",
+     "form": "noun, feminine, instrumental singular (with)",
+     "iast": "bhaktyā"
+    },
+    {
+     "word": "युक्तः",
+     "meaning": "endowed, joined",
+     "base": "√युज् · to join, yoke",
+     "form": "past participle, masculine nominative singular",
+     "iast": "yuktaḥ"
+    },
+    {
+     "word": "योगबलेन",
+     "meaning": "by the strength of yoga",
+     "base": "योगबल · power of yoga",
+     "form": "noun, neuter, instrumental singular (by)",
+     "parts": "योग (yoga) + बल (strength): 'strength of yoga'",
+     "iast": "yogabalena"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "एव",
+     "meaning": "also, indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "भ्रुवोः",
+     "meaning": "of the two brows",
+     "base": "भ्रू · eyebrow",
+     "form": "noun, feminine, genitive dual (of the two)",
+     "iast": "bhruvoḥ"
+    },
+    {
+     "word": "मध्ये",
+     "meaning": "in the middle",
+     "base": "मध्य · middle",
+     "form": "noun, neuter, locative singular (in)",
+     "iast": "madhye"
+    },
+    {
+     "word": "प्राणम्",
+     "meaning": "the life-breath",
+     "base": "प्राण · breath, vital force",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "prāṇam"
+    },
+    {
+     "word": "आवेश्य",
+     "meaning": "having fixed",
+     "base": "आ-√विश् (causative) · to make enter, fix",
+     "form": "gerund (having fixed)",
+     "iast": "āveśya"
+    },
+    {
+     "word": "सम्यक्",
+     "meaning": "fully, rightly",
+     "base": "fully, properly",
+     "form": "indeclinable",
+     "iast": "samyak"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · he, that",
+     "form": "pronoun, masculine nominative singular",
+     "iast": "saḥ"
+    },
+    {
+     "word": "तम्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine accusative singular",
+     "iast": "tam"
+    },
+    {
+     "word": "परम्",
+     "meaning": "supreme",
+     "base": "पर · highest, beyond",
+     "form": "adjective, masculine, accusative singular",
+     "iast": "param"
+    },
+    {
+     "word": "पुरुषम्",
+     "meaning": "Person",
+     "base": "पुरुष · person, spirit",
+     "form": "noun, masculine, accusative singular (object, to)",
+     "iast": "puruṣam"
+    },
+    {
+     "word": "उपैति",
+     "meaning": "reaches",
+     "base": "उप-√इ · to approach, reach",
+     "form": "verb, present, 3rd person singular",
+     "iast": "upaiti"
+    },
+    {
+     "word": "दिव्यम्",
+     "meaning": "divine, shining",
+     "base": "दिव्य · divine, luminous",
+     "form": "adjective, masculine, accusative singular",
+     "iast": "divyam"
     }
    ],
    "explanation": "The technique at the threshold: mind stilled, heart given, and the life-current gathered upward to the brow-center — the body's own exit ritual. Note the trinity required: bhakti supplies the direction, yoga-bala the strength, acala manas the stillness. Dying is treated here as the final āsana, performable with skill.",
    "connection": "Pairs with 8.9: the gaze's object, now the gaze's physical method at the last hour.",
-   "schools_note": null,
    "reflection": "Gather your life-force gently between the brows for a few breaths tonight, with devotion, and rest there.",
-   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach."
+   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach.",
+   "checked": "SGV",
+   "hook": "At death, how does the yogi of devotion and breath control reach God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The mind is first brought under control in the lotus of the heart, then the vital force is raised by the upward nerve and fixed between the brows; bhakti here means deep love."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The steady mind at death is the fruit of a mind purified day after day by yoga joined with bhakti; the meditator then attains His state and a glory like His."
+    },
+    {
+     "lens": "practice",
+     "text": "The yogi concentrates on the lower centres, then the heart, then draws the prāṇa up the suṣumnā to the brow; possible only for one who has given his whole life to yoga."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -342,59 +1368,280 @@
    "translation": "That which is declared Imperishable by those who know the Vedas, that which the self-controlled (ascetics or Sannyasins) and passion-free enter, that desiring which celibacy is practised that goal I will declare to thee in brief.",
    "anvaya": [
     {
-     "word": "यत् अक्षरं वेदविदः वदन्ति",
-     "meaning": "what the Veda-knowers call the Imperishable"
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter accusative singular",
+     "iast": "yat"
     },
     {
-     "word": "विशन्ति यत् यतयः वीतरागाः",
-     "meaning": "which the strivers free of passion enter"
+     "word": "अक्षरम्",
+     "meaning": "the imperishable",
+     "base": "अक्षर · imperishable",
+     "form": "adjective used as noun, neuter, accusative singular",
+     "parts": "अ (not) + क्षर (perishing): 'that which does not perish'",
+     "iast": "akṣaram"
     },
     {
-     "word": "यत् इच्छन्तः ब्रह्मचर्यं चरन्ति",
-     "meaning": "desiring which they practice brahmacharya"
+     "word": "वेदविदः",
+     "meaning": "knowers of the Veda",
+     "base": "वेदविद् · one who knows the Veda",
+     "form": "noun, masculine, nominative plural",
+     "parts": "वेद (Veda) + विद् (knowing): 'those who know the Veda'",
+     "iast": "vedavidaḥ"
     },
     {
-     "word": "तत् ते पदं सङ्ग्रहेण प्रवक्ष्ये",
-     "meaning": "that goal I shall declare to you in summary"
+     "word": "वदन्ति",
+     "meaning": "declare",
+     "base": "√वद् · to speak",
+     "form": "verb, present, 3rd person plural",
+     "iast": "vadanti"
+    },
+    {
+     "word": "विशन्ति",
+     "meaning": "enter",
+     "base": "√विश् · to enter",
+     "form": "verb, present, 3rd person plural",
+     "iast": "viśanti"
+    },
+    {
+     "word": "यत्",
+     "meaning": "into which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter accusative singular",
+     "iast": "yat"
+    },
+    {
+     "word": "यतयः",
+     "meaning": "ascetics, strivers",
+     "base": "यति · ascetic, one who strives",
+     "form": "noun, masculine, nominative plural",
+     "iast": "yatayaḥ"
+    },
+    {
+     "word": "वीतरागाः",
+     "meaning": "free from passion",
+     "base": "वीतराग · passionless",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "वीत (gone) + राग (passion): 'those whose passion is gone'",
+     "iast": "vītarāgāḥ"
+    },
+    {
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter accusative singular",
+     "iast": "yat"
+    },
+    {
+     "word": "इच्छन्तः",
+     "meaning": "desiring",
+     "base": "√इष् · to desire",
+     "form": "present participle, masculine nominative plural (while desiring)",
+     "iast": "icchantaḥ"
+    },
+    {
+     "word": "ब्रह्मचर्यम्",
+     "meaning": "the celibate student life",
+     "base": "ब्रह्मचर्य · continence, life of Vedic study",
+     "form": "noun, neuter, accusative singular (object)",
+     "parts": "ब्रह्मन् (Veda, Brahman) + चर्य (conduct): 'conduct directed to Brahman'",
+     "iast": "brahmacaryam"
+    },
+    {
+     "word": "चरन्ति",
+     "meaning": "practise",
+     "base": "√चर् · to move, practise",
+     "form": "verb, present, 3rd person plural",
+     "iast": "caranti"
+    },
+    {
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter accusative singular",
+     "iast": "tat"
+    },
+    {
+     "word": "ते",
+     "meaning": "to you",
+     "base": "युष्मद् · you",
+     "form": "pronoun, dative singular (to you)",
+     "iast": "te"
+    },
+    {
+     "word": "पदम्",
+     "meaning": "goal, state",
+     "base": "पद · step, place, goal",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "padam"
+    },
+    {
+     "word": "सङ्ग्रहेण",
+     "meaning": "in brief",
+     "base": "सङ्ग्रह · summary, compression",
+     "form": "noun, masculine, instrumental singular (by way of)",
+     "iast": "saṅgraheṇa"
+    },
+    {
+     "word": "प्रवक्ष्ये",
+     "meaning": "I shall declare",
+     "base": "प्र-√वच् · to declare",
+     "form": "verb, future, 1st person singular",
+     "iast": "pravakṣye"
     }
    ],
    "explanation": "Credentials before the secret: the goal about to be taught is the same one the Upanishadic seers named, the same one renunciates spend lifetimes of austerity approaching. Krishna offers it saṅgraheṇa — in summary — to a man with hours, not decades: the battlefield condensation of the forest's longest curriculum.",
    "connection": "Frames 8.12–13 as the distilled essence of the entire ascetic tradition.",
-   "schools_note": null,
    "reflection": "Honor the syllable the renunciates die into — let OM open or close your practice today.",
-   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach."
+   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach.",
+   "checked": "SGV",
+   "hook": "What is the imperishable goal the sages enter, which Krishna will describe briefly?",
+   "refs": [
+    {
+     "source": "Bṛhadāraṇyaka Upaniṣad 3.8.9",
+     "note": "Says the sun and moon stay on course under the command of the Imperishable, the akshara this verse names as the goal."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Prepares the teaching of Om as name and symbol of Brahman, like an image, given to those of lower and middling understanding; meditation on it leads to liberation in course of time."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Pada is what the mind reaches as its goal; what He will tell briefly is His own nature, explained by all of Vedānta and beyond full description."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Saṅgraha is a means by which the end is grasped, so the Lord promises not just the goal but the means for Arjuna's constant practice."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Krishna speaks only briefly of this path because it is hard and not for everyone: union with the formless Imperishable demands strict celibacy and severe austerity, which conserve energy for practice."
+    }
+   ]
   },
   {
    "chapter": 8,
    "verse": 12,
    "speaker": null,
-   "devanagari": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\nमूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम्॥",
-   "transliteration": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca\nmūdhnyā^^rdhāyātmanaḥ prāṇamāsthito yogadhāraṇām",
+   "devanagari": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\nमूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्॥",
+   "transliteration": "sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca\nmūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām",
    "essence": "Closing all the body's gates, confining the mind in the heart, drawing the life-breath into the head, established in yogic concentration —",
    "translation": "Having closed all the gates, confined the mind in the heart and fixed the life-breath in the head, engaged in the practice of concentration.",
    "anvaya": [
     {
-     "word": "सर्वद्वाराणि संयम्य",
-     "meaning": "restraining all the gates"
+     "word": "सर्वद्वाराणि",
+     "meaning": "all the gates",
+     "base": "सर्वद्वार · every gate (of the senses)",
+     "form": "noun, neuter, accusative plural (object)",
+     "parts": "सर्व (all) + द्वार (gate, door): 'all the doors'",
+     "iast": "sarvadvārāṇi"
     },
     {
-     "word": "मनः हृदि निरुध्य च",
-     "meaning": "and confining the mind in the heart"
+     "word": "संयम्य",
+     "meaning": "having restrained",
+     "base": "सम्-√यम् · to restrain",
+     "form": "gerund (having restrained)",
+     "iast": "saṃyamya"
     },
     {
-     "word": "मूर्ध्नि आधाय आत्मनः प्राणम्",
-     "meaning": "placing one's prana in the head"
+     "word": "मनः",
+     "meaning": "the mind",
+     "base": "मनस् · mind",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "manaḥ"
     },
     {
-     "word": "आस्थितः योगधारणाम्",
-     "meaning": "established in yogic concentration"
+     "word": "हृदि",
+     "meaning": "in the heart",
+     "base": "हृद् · heart",
+     "form": "noun, neuter, locative singular (in)",
+     "iast": "hṛdi"
+    },
+    {
+     "word": "निरुध्य",
+     "meaning": "having confined",
+     "base": "नि-√रुध् · to hold back, confine",
+     "form": "gerund (having confined)",
+     "iast": "nirudhya"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "मूर्ध्नि",
+     "meaning": "in the head",
+     "base": "मूर्धन् · head, crown",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "mūrdhni"
+    },
+    {
+     "word": "आधाय",
+     "meaning": "having placed",
+     "base": "आ-√धा · to place, set",
+     "form": "gerund (having placed)",
+     "iast": "ādhāya"
+    },
+    {
+     "word": "आत्मनः",
+     "meaning": "one's own",
+     "base": "आत्मन् · self",
+     "form": "noun, masculine, genitive singular (of oneself)",
+     "iast": "ātmanaḥ"
+    },
+    {
+     "word": "प्राणम्",
+     "meaning": "life-breath",
+     "base": "प्राण · breath, vital force",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "prāṇam"
+    },
+    {
+     "word": "आस्थितः",
+     "meaning": "established in",
+     "base": "आ-√स्था · to stand on, resort to",
+     "form": "past participle, masculine nominative singular",
+     "iast": "āsthitaḥ"
+    },
+    {
+     "word": "योगधारणाम्",
+     "meaning": "yogic concentration",
+     "base": "योगधारणा · the holding of yoga",
+     "form": "noun, feminine, accusative singular (object)",
+     "parts": "योग (yoga) + धारणा (holding, concentration): 'the steady holding of yoga'",
+     "iast": "yogadhāraṇām"
     }
    ],
    "explanation": "The nine-gated city of 5.13 returns for its final scene: gates closed not in defeat but in ceremony, the mind brought home to the heart, the life-force walked up its inner staircase to the crown. The body, which spent a lifetime opening outward, is folded inward once — deliberately, like a letter being sealed.",
    "connection": "The physical liturgy of departure, completing 8.10's brow-center instruction.",
-   "schools_note": null,
    "reflection": "Close the gates briefly today: eyes soft, voice still, heart gathered — the city quieted for its king.",
-   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach."
+   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach.",
+   "checked": "SG",
+   "hook": "How does a yogi shut out the world to meditate at the end?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The gates are the doors of perception; the mind is confined in the heart so it cannot spread out, and with it the vital force is raised up the nerve from the heart to the head."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The gates are the sense organs only; 'restraining the mind in the heart' means freedom from attachment, not a physical seat, and the prāṇa in the head is the Self with its power of will."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Closing the gates means taking in no outer objects through the senses, and confining the mind means no longer recalling them; 'head' is taken as the point between the brows."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The world enters the mind through the senses, so meditation requires guarding the body's gates, holding the mind in the heart, and turning it with devotion toward the imperishable Lord."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -406,27 +1653,142 @@
    "translation": "Uttering the one-syllabled Om the Brahman and remembering Me, he who departs, leaving the body, attains to the Supreme Goal.",
    "anvaya": [
     {
-     "word": "ओम् इति एकाक्षरं ब्रह्म",
-     "meaning": "'Om' — the one-syllabled Brahman"
+     "word": "ओम्",
+     "meaning": "Om",
+     "base": "the sacred syllable Om",
+     "form": "indeclinable",
+     "iast": "om"
     },
     {
-     "word": "व्याहरन् माम् अनुस्मरन्",
-     "meaning": "uttering, remembering me"
+     "word": "इति",
+     "meaning": "thus (marks the word quoted)",
+     "base": "thus",
+     "form": "indeclinable",
+     "iast": "iti"
     },
     {
-     "word": "यः प्रयाति त्यजन् देहं",
-     "meaning": "who departs, leaving the body"
+     "word": "एकाक्षरम्",
+     "meaning": "the one syllable",
+     "base": "एकाक्षर · single syllable",
+     "form": "noun, neuter, accusative singular (object)",
+     "parts": "एक (one) + अक्षर (syllable): 'one syllable'",
+     "iast": "ekākṣaram"
     },
     {
-     "word": "सः याति परमां गतिम्",
-     "meaning": "that one goes to the supreme goal"
+     "word": "ब्रह्म",
+     "meaning": "which is Brahman",
+     "base": "ब्रह्मन् · the Absolute, Brahman",
+     "form": "noun, neuter, accusative singular",
+     "iast": "brahma"
+    },
+    {
+     "word": "व्याहरन्",
+     "meaning": "uttering",
+     "base": "वि-आ-√हृ · to utter",
+     "form": "present participle, masculine nominative singular (while uttering)",
+     "iast": "vyāharan"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "अनुस्मरन्",
+     "meaning": "remembering",
+     "base": "अनु-√स्मृ · to remember continually",
+     "form": "present participle, masculine nominative singular (while remembering)",
+     "iast": "anusmaran"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine nominative singular",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "प्रयाति",
+     "meaning": "departs",
+     "base": "प्र-√या · to go forth",
+     "form": "verb, present, 3rd person singular",
+     "iast": "prayāti"
+    },
+    {
+     "word": "त्यजन्",
+     "meaning": "leaving",
+     "base": "√त्यज् · to abandon",
+     "form": "present participle, masculine nominative singular (while leaving)",
+     "iast": "tyajan"
+    },
+    {
+     "word": "देहम्",
+     "meaning": "the body",
+     "base": "देह · body",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "deham"
+    },
+    {
+     "word": "सः",
+     "meaning": "he",
+     "base": "तद् · he, that",
+     "form": "pronoun, masculine nominative singular",
+     "iast": "saḥ"
+    },
+    {
+     "word": "याति",
+     "meaning": "goes to",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "yāti"
+    },
+    {
+     "word": "परमाम्",
+     "meaning": "the supreme",
+     "base": "परम · highest, supreme",
+     "form": "adjective, feminine, accusative singular",
+     "iast": "paramām"
+    },
+    {
+     "word": "गतिम्",
+     "meaning": "goal",
+     "base": "गति · going, goal",
+     "form": "noun, feminine, accusative singular (to)",
+     "iast": "gatim"
     }
    ],
    "explanation": "The last breath given its word and its thought: Om on the lips — the syllable that is sound's seed and the Veda's whole compressed — and Krishna in the mind. Note the pairing: the impersonal vibration *and* the personal remembrance, together; the Gita declines to choose between them even at the very end.",
    "connection": "Completes the death-yoga of 8.9–12: posture, breath, syllable, and the Name — the full send-off.",
-   "schools_note": null,
    "reflection": "Sound OM once slowly, remembering what it names — and notice the room it makes.",
-   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach."
+   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach.",
+   "checked": "SGV",
+   "hook": "What does chanting Om while remembering God at death bring?",
+   "refs": [
+    {
+     "source": "Bible, John 1:1",
+     "note": "Says in the beginning was the Word, and the Word was God, cited as a parallel to Om as the primal sound of creation."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Leaving the body' qualifies the departure: the soul goes by abandoning the body, not by its own destruction; Om is the name of Brahman, and 'Me' is God whom it signifies."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "This path belongs to the seeker of kaivalya: he reaches the pure self freed from Prakṛti, a state akin to the Lord's own, from which there is no return."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Om is Brahman either as the word that names it or as its symbol, like an image; uttering it while remembering what it names, one goes by the path of light to the highest goal."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Om, the primal sound of creation, stands for God's formless aspect and is the object of meditation in ashtanga yoga; devotees find more sweetness in God's personal names, and Krishna next offers an easier path."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -438,27 +1800,135 @@
    "translation": "I am easily attainable by that ever-steadfast Yogi who constantly and daily remembers Me (for a long time), not thinking of anything else (with a single mind or one-pointed mind), O Partha (Arjuna).",
    "anvaya": [
     {
-     "word": "अनन्यचेताः सततं",
-     "meaning": "with mind on nothing else, constantly"
+     "word": "अनन्यचेताः",
+     "meaning": "with mind on nothing else",
+     "base": "अनन्यचेतस् · one whose mind goes to no other",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अनन्य (no other) + चेतस् (mind): 'one whose mind turns to nothing else'",
+     "iast": "ananyacetāḥ"
     },
     {
-     "word": "यः मां स्मरति नित्यशः",
-     "meaning": "who remembers me, perpetually"
+     "word": "सततम्",
+     "meaning": "constantly",
+     "base": "constantly, without break",
+     "form": "indeclinable",
+     "iast": "satatam"
     },
     {
-     "word": "तस्य अहं सुलभः पार्थ",
-     "meaning": "for that one I am easily attained, O Partha"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine nominative singular",
+     "iast": "yaḥ"
     },
     {
-     "word": "नित्ययुक्तस्य योगिनः",
-     "meaning": "for the ever-yoked yogi"
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "स्मरति",
+     "meaning": "remembers",
+     "base": "√स्मृ · to remember",
+     "form": "verb, present, 3rd person singular",
+     "iast": "smarati"
+    },
+    {
+     "word": "नित्यशः",
+     "meaning": "daily, always",
+     "base": "regularly, always",
+     "form": "indeclinable",
+     "iast": "nityaśaḥ"
+    },
+    {
+     "word": "तस्य",
+     "meaning": "for him",
+     "base": "तद् · he, that",
+     "form": "pronoun, masculine genitive singular (of, for)",
+     "iast": "tasya"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular",
+     "iast": "aham"
+    },
+    {
+     "word": "सुलभः",
+     "meaning": "easily reached",
+     "base": "सुलभ · easy to obtain",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "सु (easily) + लभ (obtained): 'easily attained'",
+     "iast": "sulabhaḥ"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O son of Pritha",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "नित्ययुक्तस्य",
+     "meaning": "ever united",
+     "base": "नित्ययुक्त · constantly yoked",
+     "form": "adjective, masculine, genitive singular (of)",
+     "parts": "नित्य (always) + युक्त (joined): 'always joined'",
+     "iast": "nityayuktasya"
+    },
+    {
+     "word": "योगिनः",
+     "meaning": "of the yogi",
+     "base": "योगिन् · yogi",
+     "form": "noun, masculine, genitive singular (of)",
+     "iast": "yoginaḥ"
     }
    ],
    "explanation": "After the technical rigor of 8.10–13, a verse of pure relief: sulabhaḥ — *easy* to reach. The elaborate death-technique is the hard road for those who need it; for the one whose remembrance never stopped, no technique is required, because nothing was ever put down that must now be picked up. Love makes the examination open-book.",
    "connection": "The merciful counterweight to the death-yoga: constancy of heart outranks virtuosity at the end.",
-   "schools_note": null,
-   "reflection": "Be easy to reach today: think of Him constantly for one hour and test the promise of nearness.",
-   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach."
+   "reflection": "Test the promise of nearness today: hold Him in mind, undivided, for one unbroken hour — a small start on a lifelong constancy.",
+   "background": "The death-meditation is detailed: the Person ancient, subtler than the subtle, sun-colored beyond darkness; the gates of the body closed, the breath drawn to the head, the syllable OM sounded with remembrance — and then the easier promise: for the ever-yoked who think of none else, I am easy to reach.",
+   "checked": "SGV",
+   "hook": "Who finds God easy to reach?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 11.12.15",
+     "note": "Krishna says to take refuge in him alone, the soul of all beings, supporting exclusive devotion as the way to reach him."
+    },
+    {
+     "source": "Rāmāyaṇa",
+     "note": "A devotee says Ram is his only support, strength, hope and faith, an example of the undivided mind the verse asks for."
+    },
+    {
+     "source": "Nārada Bhakti Sūtra 10",
+     "note": "Defines exclusiveness as giving up all other shelters, the condition for God being easy to attain."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Satatam means without any break and nityaśaḥ means for a long time: not six months or a year, but one's whole life."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Such a devotee cannot sustain himself without remembering Him; the Lord Himself removes obstacles and grants the maturity of devotion, since 'whom He chooses, by him He is obtained'."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Doubts the need for any upward flight of the soul: if Śiva is everywhere, the upward flight serves no purpose, and constant remembrance itself is the realisation of His state."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Recalls the earlier point: the concentration at death that wins Him comes only through daily practice, and He is easily reached by that one and no other."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "For the first time Krishna calls himself easy to attain, but only for those whose mind is exclusively on him; love for God mixed with worldly attachment is like washing a cloth and dipping it back in dirt."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -470,27 +1940,111 @@
    "translation": "Having attained Me these great souls do not again take birth (here) which is the place of pain and is non-eternal: they have reached the highest perfection (liberation).",
    "anvaya": [
     {
-     "word": "माम् उपेत्य पुनर्जन्म",
-     "meaning": "having attained me, rebirth"
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
     },
     {
-     "word": "दुःखालयम् अशाश्वतम्",
-     "meaning": "the abode of sorrow, the impermanent"
+     "word": "उपेत्य",
+     "meaning": "having reached",
+     "base": "उप-√इ · to approach, reach",
+     "form": "gerund (having reached)",
+     "iast": "upetya"
     },
     {
-     "word": "न आप्नुवन्ति महात्मानः",
-     "meaning": "they do not obtain — the great souls"
+     "word": "पुनर्जन्म",
+     "meaning": "rebirth",
+     "base": "पुनर्जन्मन् · birth again",
+     "form": "noun, neuter, accusative singular (object)",
+     "parts": "पुनर् (again) + जन्मन् (birth): 'birth again'",
+     "iast": "punarjanma"
     },
     {
-     "word": "संसिद्धिं परमां गताः",
-     "meaning": "having gone to the supreme perfection"
+     "word": "दुःखालयम्",
+     "meaning": "abode of sorrow",
+     "base": "दुःखालय · home of suffering",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "दुःख (sorrow) + आलय (dwelling): 'a dwelling of sorrow'",
+     "iast": "duḥkhālayam"
+    },
+    {
+     "word": "अशाश्वतम्",
+     "meaning": "impermanent",
+     "base": "अशाश्वत · not lasting",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "अ (not) + शाश्वत (lasting): 'not lasting'",
+     "iast": "aśāśvatam"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "आप्नुवन्ति",
+     "meaning": "obtain",
+     "base": "√आप् · to obtain",
+     "form": "verb, present, 3rd person plural",
+     "iast": "āpnuvanti"
+    },
+    {
+     "word": "महात्मानः",
+     "meaning": "the great souls",
+     "base": "महात्मन् · great soul",
+     "form": "noun, masculine, nominative plural",
+     "parts": "महत् (great) + आत्मन् (self): 'great-souled ones'",
+     "iast": "mahātmānaḥ"
+    },
+    {
+     "word": "संसिद्धिम्",
+     "meaning": "perfection",
+     "base": "संसिद्धि · complete accomplishment",
+     "form": "noun, feminine, accusative singular (to)",
+     "iast": "saṃsiddhim"
+    },
+    {
+     "word": "परमाम्",
+     "meaning": "highest",
+     "base": "परम · highest, supreme",
+     "form": "adjective, feminine, accusative singular",
+     "iast": "paramām"
+    },
+    {
+     "word": "गताः",
+     "meaning": "having reached",
+     "base": "√गम् · to go",
+     "form": "past participle, masculine nominative plural (having gone)",
+     "iast": "gatāḥ"
     }
    ],
    "explanation": "The destination's permanence, with the world given its bleakest honest epithets in passing: duḥkhālayam aśāśvatam — a lodging of sorrow, and a temporary one at that. Not a curse upon existence but a traveler's accurate review of the inn. Those who reach him do not check back in.",
    "connection": "States what 8.14's easy arrival secures: the end of the round itself.",
-   "schools_note": null,
    "reflection": "Hold the destination clearly: reached once, the house of sorrow is not re-entered.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "hook": "What happens to those who reach God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The great souls are the monks who have realised His nature; the perfection is liberation, and the birth they escape is both a resort of sorrows and without fixity."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "These great souls know His nature truly and cannot sustain themselves without Him, so they take Him alone as the goal and are freed from rebirth."
+    },
+    {
+     "lens": "practice",
+     "text": "Reads 'having attained Me' as gradual liberation: devotees go by the path of the gods to Brahma's world and are freed with Brahma at the cosmic dissolution."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Life from womb to death is full of suffering, which works like the pain of a burn: a signal to turn from the world. Souls who reach God through exclusive devotion never return to it."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -499,30 +2053,113 @@
    "devanagari": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।\nमामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते॥",
    "transliteration": "ābrahmabhuvanāllokāḥ punarāvartino'rjuna\nmāmupetya tu kaunteya punarjanma na vidyate",
    "essence": "All worlds up to the realm of Brahma are subject to return, Arjuna. But having come to me, Kaunteya, there is no rebirth.",
-   "translation": "(All) the worlds including the world of Brahma are subject to return again, O Arjuna; but he who reaches Me, O son of Kunti, has no rirth.",
+   "translation": "(All) the worlds including the world of Brahma are subject to return again, O Arjuna; but he who reaches Me, O son of Kunti, has no rebirth.",
    "anvaya": [
     {
-     "word": "आब्रह्मभुवनात् लोकाः",
-     "meaning": "up to the world of Brahma, the worlds"
+     "word": "आब्रह्मभुवनात्",
+     "meaning": "up to Brahma's world",
+     "base": "आब्रह्मभुवन · as far as Brahma's realm",
+     "form": "noun, neuter, ablative singular (with आ: up to)",
+     "parts": "आ (up to) + ब्रह्मन् (Brahmā, the creator) + भुवन (world): 'up to and including the world of Brahmā'",
+     "iast": "ābrahmabhuvanāt"
     },
     {
-     "word": "पुनरावर्तिनः अर्जुन",
-     "meaning": "are subject to return, O Arjuna"
+     "word": "लोकाः",
+     "meaning": "the worlds",
+     "base": "लोक · world",
+     "form": "noun, masculine, nominative plural",
+     "iast": "lokāḥ"
     },
     {
-     "word": "माम् उपेत्य तु कौन्तेय",
-     "meaning": "but having reached me, O Kaunteya"
+     "word": "पुनरावर्तिनः",
+     "meaning": "subject to return",
+     "base": "पुनरावर्तिन् · returning again",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "पुनर् (again) + आवर्तिन् (returning): 'coming back again'",
+     "iast": "punarāvartinaḥ"
     },
     {
-     "word": "पुनर्जन्म न विद्यते",
-     "meaning": "rebirth does not exist"
+     "word": "अर्जुन",
+     "meaning": "O Arjuna",
+     "base": "अर्जुन · Arjuna",
+     "form": "vocative (calling Arjuna)",
+     "iast": "arjuna"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I",
+     "form": "pronoun, accusative singular (me)",
+     "iast": "mām"
+    },
+    {
+     "word": "उपेत्य",
+     "meaning": "having reached",
+     "base": "उप-√इ · to approach, reach",
+     "form": "gerund (having reached)",
+     "iast": "upetya"
+    },
+    {
+     "word": "तु",
+     "meaning": "but",
+     "base": "but",
+     "form": "indeclinable",
+     "iast": "tu"
+    },
+    {
+     "word": "कौन्तेय",
+     "meaning": "O son of Kunti",
+     "base": "कौन्तेय · son of Kuntī",
+     "form": "vocative (calling Arjuna)",
+     "iast": "kaunteya"
+    },
+    {
+     "word": "पुनर्जन्म",
+     "meaning": "rebirth",
+     "base": "पुनर्जन्मन् · birth again",
+     "form": "noun, neuter, nominative singular",
+     "parts": "पुनर् (again) + जन्मन् (birth): 'birth again'",
+     "iast": "punarjanma"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "विद्यते",
+     "meaning": "exists",
+     "base": "√विद् · to be found, exist",
+     "form": "verb, present passive, 3rd person singular (is found)",
+     "iast": "vidyate"
     }
    ],
    "explanation": "The cosmic ceiling drawn: even Brahma's own realm — the summit of every ladder austerity can climb — is on the circuit; its residents, however exalted, hold return tickets. One destination alone is exempt. The verse quietly devalues every heaven in advance: anything reachable by merit is rentable, not ownable.",
    "connection": "Extends 8.15 upward through the entire cosmos: all stations revolve except the hub.",
-   "schools_note": null,
    "reflection": "Stop renovating rooms in burning buildings — even the highest worlds return; aim past them today.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "hook": "Is any world, even the highest heaven, free from rebirth?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "All worlds, Brahma's included, come back because they are limited by time, which the next verse goes on to measure."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Rejects the usual reading: ā-brahma means 'until the supreme Brahman is attained'; till then beings circle like a wheel from every world, high or low."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Brahma's world also perishes, so those who reach it without knowledge are reborn; only those who reach it through meditations meant for gradual liberation, and gain knowledge there, are freed along with Brahma."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "All fourteen worlds, up to Brahma's, lie within Maya, so even Indra must die, as the stories of the ant-Indras and Rishi Lomash show; only reaching God ends rebirth."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -535,26 +2172,102 @@
    "anvaya": [
     {
      "word": "सहस्रयुगपर्यन्तम्",
-     "meaning": "extending to a thousand yugas"
+     "meaning": "lasting a thousand ages",
+     "base": "सहस्रयुगपर्यन्त · ending with a thousand yugas",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "सहस्र (thousand) + युग (age) + पर्यन्त (limit): 'having a thousand ages as its limit'",
+     "iast": "sahasrayugaparyantam"
     },
     {
-     "word": "अहः यत् ब्रह्मणः विदुः",
-     "meaning": "what they know as Brahma's day"
+     "word": "अहः",
+     "meaning": "day",
+     "base": "अहन् · day",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "ahaḥ"
     },
     {
-     "word": "रात्रिं युगसहस्रान्तां",
-     "meaning": "and the night ending in a thousand yugas"
+     "word": "यत्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter accusative singular",
+     "iast": "yat"
     },
     {
-     "word": "ते अहोरात्रविदः जनाः",
-     "meaning": "they are the people who know day-and-night"
+     "word": "ब्रह्मणः",
+     "meaning": "of Brahma",
+     "base": "ब्रह्मन् · Brahmā, the creator",
+     "form": "noun, masculine, genitive singular (of)",
+     "iast": "brahmaṇaḥ"
+    },
+    {
+     "word": "विदुः",
+     "meaning": "they know",
+     "base": "√विद् · to know",
+     "form": "verb, perfect with present sense, 3rd person plural",
+     "iast": "viduḥ"
+    },
+    {
+     "word": "रात्रिम्",
+     "meaning": "the night",
+     "base": "रात्रि · night",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "rātrim"
+    },
+    {
+     "word": "युगसहस्रान्ताम्",
+     "meaning": "ending after a thousand ages",
+     "base": "युगसहस्रान्त · ending in a thousand yugas",
+     "form": "adjective, feminine, accusative singular",
+     "parts": "युग (age) + सहस्र (thousand) + अन्त (end): 'whose end comes after a thousand ages'",
+     "iast": "yugasahasrāntām"
+    },
+    {
+     "word": "ते",
+     "meaning": "they",
+     "base": "तद् · they, those",
+     "form": "pronoun, masculine nominative plural",
+     "iast": "te"
+    },
+    {
+     "word": "अहोरात्रविदः",
+     "meaning": "knowers of day and night",
+     "base": "अहोरात्रविद् · one who knows day and night",
+     "form": "noun, masculine, nominative plural",
+     "parts": "अहन् (day) + रात्र (night) + विद् (knowing): 'those who know day and night'",
+     "iast": "ahorātravidaḥ"
+    },
+    {
+     "word": "जनाः",
+     "meaning": "people",
+     "base": "जन · person, people",
+     "form": "noun, masculine, nominative plural",
+     "iast": "janāḥ"
     }
    ],
-   "explanation": "The scale of 8.16's wheel: one working day of the creator spans a thousand cosmic ages, his night the same — and our universes bloom and wither inside his office hours. Whoever has internalized *this* calendar, the verse says drily, actually knows what 'day and night' mean; everyone else is reading a child's clock.",
+   "explanation": "The scale of 8.16's wheel: one working day of the creator spans a thousand cosmic ages, his night the same — our worlds bloom at his dawn and are folded away at his dusk. Whoever has internalized *this* calendar, the verse says drily, actually knows what 'day and night' mean; everyone else is reading a child's clock.",
    "connection": "Begins the cosmological zoom-out (8.17–19) that makes 8.16's 'return' visible at full scale.",
-   "schools_note": null,
    "reflection": "Zoom out once today: your busiest year is a flicker in Brahma's single day. Breathe accordingly.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "hook": "How long are Brahma's day and night?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The knowers of day and night are those who know the measure of time; since the worlds are bounded by such time, they are subject to return."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The three worlds arise every day of Brahma and dissolve every night; the true knowers of day and night know this through yoga, not merely from the course of sun and moon."
+    },
+    {
+     "lens": "practice",
+     "text": "Sets out the reckoning: a mahāyuga of 4,320,000 years, a thousand of them a day of Brahma, an equal night, and a lifetime of a hundred such years; even Brahma's world is transient."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Vedic time is vast: a day of Brahma is a thousand cycles of four ages, about 4.32 billion years, with a night as long. Even Brahma is a soul subject to birth and death."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -563,30 +2276,113 @@
    "devanagari": "अव्यक्ताद् व्यक्तयः सर्वाः प्रभवन्त्यहरागमे ।\nरात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके॥",
    "transliteration": "avyaktād vyaktayaḥ sarvāḥ prabhavantyaharāgame\nrātryāgame pralīyante tatraivāvyaktasaṃjñake",
    "essence": "At the coming of day, all manifest things stream forth from the unmanifest; at the coming of night they dissolve into that same unmanifest.",
-   "translation": "From the Unmanifested all the manifested (worlds) proceed at the coming of the 'day'; at the coming of the 'night' they dissolve verily into ï1thatï1 alone which is called the Unmanifested.",
+   "translation": "From the Unmanifested all the manifested (worlds) proceed at the coming of the 'day'; at the coming of the 'night' they dissolve verily into that alone which is called the Unmanifested.",
    "anvaya": [
     {
-     "word": "अव्यक्तात् व्यक्तयः सर्वाः",
-     "meaning": "from the unmanifest, all manifestations"
+     "word": "अव्यक्तात्",
+     "meaning": "from the unmanifest",
+     "base": "अव्यक्त · unmanifest",
+     "form": "noun, neuter, ablative singular (from)",
+     "parts": "अ (not) + व्यक्त (manifest): 'not manifest'",
+     "iast": "avyaktāt"
     },
     {
-     "word": "प्रभवन्ति अहरागमे",
-     "meaning": "stream forth at the coming of day"
+     "word": "व्यक्तयः",
+     "meaning": "manifest things",
+     "base": "व्यक्ति · manifestation",
+     "form": "noun, feminine, nominative plural",
+     "iast": "vyaktayaḥ"
     },
     {
-     "word": "रात्र्यागमे प्रलीयन्ते",
-     "meaning": "at the coming of night they dissolve"
+     "word": "सर्वाः",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "adjective, feminine, nominative plural",
+     "iast": "sarvāḥ"
     },
     {
-     "word": "तत्र एव अव्यक्तसंज्ञके",
-     "meaning": "into that very one called the unmanifest"
+     "word": "प्रभवन्ति",
+     "meaning": "come forth",
+     "base": "प्र-√भू · to arise, spring forth",
+     "form": "verb, present, 3rd person plural",
+     "iast": "prabhavanti"
+    },
+    {
+     "word": "अहरागमे",
+     "meaning": "at the coming of day",
+     "base": "अहरागम · arrival of day",
+     "form": "noun, masculine, locative singular (at)",
+     "parts": "अहर् (day) + आगम (arrival): 'the coming of day'",
+     "iast": "aharāgame"
+    },
+    {
+     "word": "रात्र्यागमे",
+     "meaning": "at the coming of night",
+     "base": "रात्र्यागम · arrival of night",
+     "form": "noun, masculine, locative singular (at)",
+     "parts": "रात्रि (night) + आगम (arrival): 'the coming of night'",
+     "iast": "rātryāgame"
+    },
+    {
+     "word": "प्रलीयन्ते",
+     "meaning": "they dissolve",
+     "base": "प्र-√ली · to melt away, dissolve",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "pralīyante"
+    },
+    {
+     "word": "तत्र",
+     "meaning": "there, into that",
+     "base": "there",
+     "form": "indeclinable",
+     "iast": "tatra"
+    },
+    {
+     "word": "एव",
+     "meaning": "very, indeed",
+     "base": "only, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "अव्यक्तसंज्ञके",
+     "meaning": "in what is called the unmanifest",
+     "base": "अव्यक्तसंज्ञक · named the unmanifest",
+     "form": "adjective, neuter, locative singular (in)",
+     "parts": "अव्यक्त (unmanifest) + संज्ञक (named): 'that which is named the unmanifest'",
+     "iast": "avyaktasaṃjñake"
     }
    ],
    "explanation": "The cosmic respiration: dawn of Brahma's day and the worlds exhale into form; his dusk, and they are inhaled back into the formless reservoir. Creation and dissolution lose their drama at this magnification — they are breathing, regular as tide, neither a beginning to celebrate nor an end to mourn.",
    "connection": "The rhythm inside 8.17's calendar: manifestation as the universe's inhale and exhale.",
-   "schools_note": null,
    "reflection": "Watch one thing emerge this morning and dissolve this evening — the cosmic tide in miniature.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "hook": "What happens to the manifest world at the start and end of Brahma's day?",
+   "refs": [
+    {
+     "source": "Bhāgavatam",
+     "note": "Shukdev compares Brahma creating and dissolving the worlds to a child building toys by day and pulling them apart at night."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The unmanifest here is the sleep-state of Prajāpati: when Brahma wakes, all moving and unmoving things appear; when he sleeps, they merge back into it."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "What appears and dissolves are the beings of the three worlds with their bodies, senses and objects, and the unmanifest is the condition of Brahma's body at that time."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The unmanifest is the causal form of the effect; manifest beings are so called because they are made manifest from that cause and return into it."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Worlds below a certain level dissolve at the end of each day of Brahma and are recreated at dawn; at the end of his life all matter returns to Maha Vishnu, from whose breath infinite universes come and go."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -598,27 +2394,122 @@
    "translation": "This same multitude of beings, being born again and again, is dissolved, helplessly, O Arjuna (into the Unmanifested) at the coming of the night and comes forth at the coming of the day.",
    "anvaya": [
     {
-     "word": "भूतग्रामः सः एव अयं",
-     "meaning": "this very same host of beings"
+     "word": "भूतग्रामः",
+     "meaning": "the multitude of beings",
+     "base": "भूतग्राम · host of beings",
+     "form": "noun, masculine, nominative singular (subject)",
+     "parts": "भूत (being) + ग्राम (multitude): the multitude made of beings",
+     "iast": "bhūtagrāmaḥ"
     },
     {
-     "word": "भूत्वा भूत्वा प्रलीयते",
-     "meaning": "having come to be, again and again, dissolves"
+     "word": "सः",
+     "meaning": "that same",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "saḥ"
     },
     {
-     "word": "रात्र्यागमे अवशः पार्थ",
-     "meaning": "at night's coming, helpless, O Partha"
+     "word": "एव",
+     "meaning": "very same",
+     "base": "only, just, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
     },
     {
-     "word": "प्रभवति अहरागमे",
-     "meaning": "and comes forth at day's coming"
+     "word": "अयम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "ayam"
+    },
+    {
+     "word": "भूत्वा",
+     "meaning": "having come into being",
+     "base": "√भू · to be, become",
+     "form": "gerund (having become)",
+     "iast": "bhūtvā"
+    },
+    {
+     "word": "भूत्वा",
+     "meaning": "again (repeated: again and again)",
+     "base": "√भू · to be, become",
+     "form": "gerund (having become), repeated for emphasis",
+     "iast": "bhūtvā"
+    },
+    {
+     "word": "प्रलीयते",
+     "meaning": "dissolves",
+     "base": "प्र + √ली · to melt away, dissolve",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "pralīyate"
+    },
+    {
+     "word": "रात्र्यागमे",
+     "meaning": "at the coming of night",
+     "base": "रात्र्यागम · arrival of night",
+     "form": "noun, masculine, locative singular (at/when)",
+     "parts": "रात्रि (night) + आगम (arrival): the arrival of night",
+     "iast": "rātryāgame"
+    },
+    {
+     "word": "अवशः",
+     "meaning": "helpless, without control",
+     "base": "अवश · not in one's own control",
+     "form": "adjective, masculine, nominative singular (describes the multitude)",
+     "parts": "अ (not) + वश (control): having no control",
+     "iast": "avaśaḥ"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O son of Pṛthā (Arjuna)",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "प्रभवति",
+     "meaning": "comes forth",
+     "base": "प्र + √भू · to arise, come forth",
+     "form": "verb, present, 3rd person singular",
+     "iast": "prabhavati"
+    },
+    {
+     "word": "अहरागमे",
+     "meaning": "at the coming of day",
+     "base": "अहरागम · arrival of day",
+     "form": "noun, masculine, locative singular (at/when)",
+     "parts": "अहन् (day) + आगम (arrival): the arrival of day",
+     "iast": "aharāgame"
     }
    ],
    "explanation": "The verse's quiet horror is one word: avaśaḥ — *helplessly*. The same crowd of beings, bhūtvā bhūtvā, becoming and becoming, swept out and swept back with no vote in either direction. This is samsara seen from orbit: not a personal journey but a tide, and everyone unliberated is foam on it. The exit of 8.15 suddenly looks less like doctrine and more like rescue.",
    "connection": "Personalizes 8.18's rhythm: the breathing cosmos, seen from inside, is compulsory recurrence.",
-   "schools_note": null,
-   "reflection": "Be gentle with the helpless recurrences in your life — arising and dissolving is the universe's own habit.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "reflection": "Notice one recurrence that runs you helplessly, rising and setting on its own, and let seeing it breed dispassion, not comfort.",
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The very same multitude of beings, moving and non-moving, from the earlier cycle, not any other, dissolves at nightfall and comes to life again at daybreak, without any independence at all."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The multitude is driven by karma; for every entity except the Lord, origination and dissolution are unavoidable, even Brahmā's world. Only those who attain Him are free of return."
+    },
+    {
+     "lens": "shaiva",
+     "text": "No new souls are released at each dawn: the same selves wake to their activities and, at night, rest solely as the Energy of the Absolute."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The verse shows the unbroken stream of creation and dissolution to rouse dispassion, and to rule out that deeds go unreaped or that one reaps what one never did: the same beings return, bound by karma."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Scripture counts four dissolutions: deep sleep, the end of Brahma's day, the end of his life, and final release from Maya when the soul attains God; only the last ends the cycle."
+    }
+   ],
+   "hook": "Do beings have any choice as they appear and vanish with each cosmic cycle?"
   },
   {
    "chapter": 8,
@@ -630,27 +2521,136 @@
    "translation": "But verily there exists, higher than this Unmanifested, another unmanifested Eternal, which is not destroyed when all beings are destroyed.",
    "anvaya": [
     {
-     "word": "परः तस्मात् तु भावः अन्यः",
-     "meaning": "but beyond that, another existence"
+     "word": "परः",
+     "meaning": "higher, beyond",
+     "base": "पर · higher, beyond",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "paraḥ"
     },
     {
-     "word": "अव्यक्तः अव्यक्तात् सनातनः",
-     "meaning": "unmanifest, (beyond) the unmanifest, eternal"
+     "word": "तस्मात्",
+     "meaning": "than that",
+     "base": "तद् · that",
+     "form": "pronoun, ablative singular (from/than)",
+     "iast": "tasmāt"
     },
     {
-     "word": "यः सः सर्वेषु भूतेषु",
-     "meaning": "which, when all beings"
+     "word": "तु",
+     "meaning": "but",
+     "base": "but, now, indeed",
+     "form": "indeclinable",
+     "iast": "tu"
     },
     {
-     "word": "नश्यत्सु न विनश्यति",
-     "meaning": "are perishing, does not perish"
+     "word": "भावः",
+     "meaning": "existence, reality",
+     "base": "भाव · being, state (from √भू)",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "bhāvaḥ"
+    },
+    {
+     "word": "अन्यः",
+     "meaning": "another, of a different kind",
+     "base": "अन्य · other",
+     "form": "pronominal adjective, masculine, nominative singular",
+     "iast": "anyaḥ"
+    },
+    {
+     "word": "अव्यक्तः",
+     "meaning": "unmanifest",
+     "base": "अव्यक्त · unmanifest",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अ (not) + व्यक्त (manifest): not manifest",
+     "iast": "avyaktaḥ"
+    },
+    {
+     "word": "अव्यक्तात्",
+     "meaning": "than the unmanifest",
+     "base": "अव्यक्त · unmanifest",
+     "form": "noun, neuter, ablative singular (from/than)",
+     "iast": "avyaktāt"
+    },
+    {
+     "word": "सनातनः",
+     "meaning": "eternal",
+     "base": "सनातन · eternal, ancient",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "sanātanaḥ"
+    },
+    {
+     "word": "यः",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, nominative singular",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "सः",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "saḥ"
+    },
+    {
+     "word": "सर्वेषु",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "pronominal adjective, neuter, locative plural",
+     "iast": "sarveṣu"
+    },
+    {
+     "word": "भूतेषु",
+     "meaning": "beings",
+     "base": "भूत · being, creature",
+     "form": "noun, neuter, locative plural (when ..., with the participle)",
+     "iast": "bhūteṣu"
+    },
+    {
+     "word": "नश्यत्सु",
+     "meaning": "while perishing",
+     "base": "√नश् · to perish",
+     "form": "present participle, neuter, locative plural (while they perish)",
+     "iast": "naśyatsu"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "विनश्यति",
+     "meaning": "perishes",
+     "base": "वि + √नश् · to perish utterly",
+     "form": "verb, present, 3rd person singular",
+     "iast": "vinaśyati"
     }
    ],
    "explanation": "Past the reservoir into which worlds dissolve stands a second unmanifest — avyakto 'vyaktāt — not the seed-state of things but what never entered the cycle at all. The first unmanifest is night between days; this one is what neither day nor night touch. When even the dissolution dissolves, this remains, undented.",
    "connection": "The decisive move past 8.18–19's cycle: behind the breathing, something that does not breathe in and out.",
-   "schools_note": null,
    "reflection": "Lean once today on what does not perish when all manifestation perishes — it is nearer than the news.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The first unmanifest is ignorance (avidyā), the seed of all beings; this other bhāva is the supreme Brahman, the Immutable, different in kind and not destroyed when everything from Brahmā down perishes."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Takes this second unmanifest as the individual self in its pure form of knowledge, beyond inert prakṛti; it is called unmanifest because no ordinary means of knowledge grasps it."
+    },
+    {
+     "lens": "bhakti",
+     "text": "This is the Lord's own nature: the cause even of the unmanifest that causes the moving and unmoving, beyond the reach of the eye and senses, and without beginning."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Beyond the perishing material worlds lies an eternal spiritual realm made by Yogmaya, which never dissolves, and which Krishna later says forms three-fourths of his creation."
+    }
+   ],
+   "hook": "Is there anything that survives when the whole universe dissolves?"
   },
   {
    "chapter": 8,
@@ -662,27 +2662,144 @@
    "translation": "What is called the Unmanifested and the Imperishable, That they say is the highest goal. They who reach It do not return (to this Samsara). That is My highest abode (place or state).",
    "anvaya": [
     {
-     "word": "अव्यक्तः अक्षरः इति उक्तः",
-     "meaning": "'unmanifest', 'imperishable' — thus called"
+     "word": "अव्यक्तः",
+     "meaning": "the unmanifest",
+     "base": "अव्यक्त · unmanifest",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अ (not) + व्यक्त (manifest): not manifest",
+     "iast": "avyaktaḥ"
     },
     {
-     "word": "तम् आहुः परमां गतिम्",
-     "meaning": "that they declare the supreme goal"
+     "word": "अक्षरः",
+     "meaning": "the imperishable",
+     "base": "अक्षर · imperishable",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अ (not) + क्षर (perishing): not perishing",
+     "iast": "akṣaraḥ"
     },
     {
-     "word": "यं प्राप्य न निवर्तन्ते",
-     "meaning": "attaining which they do not return"
+     "word": "इति",
+     "meaning": "thus (marks a name)",
+     "base": "thus; marks a quotation or name",
+     "form": "indeclinable",
+     "iast": "iti"
     },
     {
-     "word": "तत् धाम परमं मम",
-     "meaning": "that is my supreme abode"
+     "word": "उक्तः",
+     "meaning": "is called",
+     "base": "√वच् · to speak",
+     "form": "past passive participle, masculine, nominative singular (said, called)",
+     "iast": "uktaḥ"
+    },
+    {
+     "word": "तम्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, accusative singular (object)",
+     "iast": "tam"
+    },
+    {
+     "word": "आहुः",
+     "meaning": "they declare",
+     "base": "√अह् · to say",
+     "form": "verb, perfect with present sense, 3rd person plural",
+     "iast": "āhuḥ"
+    },
+    {
+     "word": "परमाम्",
+     "meaning": "the supreme",
+     "base": "परम · highest",
+     "form": "adjective, feminine, accusative singular",
+     "iast": "paramām"
+    },
+    {
+     "word": "गतिम्",
+     "meaning": "goal",
+     "base": "गति · going, goal (from √गम्)",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "gatim"
+    },
+    {
+     "word": "यम्",
+     "meaning": "which",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, accusative singular (object)",
+     "iast": "yam"
+    },
+    {
+     "word": "प्राप्य",
+     "meaning": "having reached",
+     "base": "प्र + √आप् · to reach, obtain",
+     "form": "gerund (having reached)",
+     "iast": "prāpya"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
+    },
+    {
+     "word": "निवर्तन्ते",
+     "meaning": "they return",
+     "base": "नि + √वृत् · to turn back",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "nivartante"
+    },
+    {
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "tat"
+    },
+    {
+     "word": "धाम",
+     "meaning": "abode, state",
+     "base": "धामन् · dwelling, abode",
+     "form": "noun, neuter, nominative singular",
+     "iast": "dhāma"
+    },
+    {
+     "word": "परमम्",
+     "meaning": "highest",
+     "base": "परम · highest",
+     "form": "adjective, neuter, nominative singular",
+     "iast": "paramam"
+    },
+    {
+     "word": "मम",
+     "meaning": "my",
+     "base": "अस्मद् · I",
+     "form": "pronoun, genitive singular (my)",
+     "iast": "mama"
     }
    ],
-   "explanation": "The chapter's threads tie: the akṣara of Arjuna's first question (8.1), the unfalling state of 8.20, and now a personal possessive that changes everything — dhāma paramaṁ *mama*. The Beyond-the-beyond is not a vacancy; it is his home address. The Absolute has a host.",
+   "explanation": "The chapter's threads tie: the akṣara of Krishna's first answer (8.3), the unfalling state of 8.20, and now a personal possessive that changes everything — dhāma paramaṁ *mama*. The Beyond-the-beyond is not a vacancy; it is his home address. The Absolute has a host.",
    "connection": "Names 8.20's deathless ground — and claims it: the impersonal summit is his residence.",
-   "schools_note": null,
    "reflection": "Note where your roads lead: most loop back; one does not. Take three steps on the no-return road today.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The unmanifest called the Immutable is the supreme goal, and 'my supreme abode' means the supreme state of Viṣṇu; reaching that Reality, none return to worldly life."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The abode is the freed self in its own nature, the highest object of the Lord's rule; or dhāma means luminosity, the boundless knowledge of the liberated self."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The genitive in 'my abode' is figurative, like 'Rāhu's head': the abode is the Lord's own nature, so He Himself is the supreme goal."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "He describes a divine spiritual sky holding the eternal abodes of God's many forms; a devotee who realizes any of these forms reaches its abode, receives a divine body and never returns."
+    }
+   ],
+   "hook": "What is the highest goal, the place from which no one returns?"
   },
   {
    "chapter": 8,
@@ -694,27 +2811,151 @@
    "translation": "That highest Purusha, O Arjuna, is attainable by unswerving devotion to Him alone within Whom all beings dwell and by Whom all this is pervaded.",
    "anvaya": [
     {
-     "word": "पुरुषः सः परः पार्थ",
-     "meaning": "that Purusha, the supreme, O Partha"
+     "word": "पुरुषः",
+     "meaning": "the Person",
+     "base": "पुरुष · person, the Supreme Self",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "puruṣaḥ"
     },
     {
-     "word": "भक्त्या लभ्यः तु अनन्यया",
-     "meaning": "is attainable by devotion that is undivided"
+     "word": "सः",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, nominative singular",
+     "iast": "saḥ"
     },
     {
-     "word": "यस्य अन्तःस्थानि भूतानि",
-     "meaning": "within whom beings dwell"
+     "word": "परः",
+     "meaning": "supreme",
+     "base": "पर · highest, beyond",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "paraḥ"
     },
     {
-     "word": "येन सर्वम् इदं ततम्",
-     "meaning": "by whom all this is pervaded"
+     "word": "पार्थ",
+     "meaning": "O son of Pṛthā (Arjuna)",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "भक्त्या",
+     "meaning": "by devotion",
+     "base": "भक्ति · devotion (from √भज्)",
+     "form": "noun, feminine, instrumental singular (by means of)",
+     "iast": "bhaktyā"
+    },
+    {
+     "word": "लभ्यः",
+     "meaning": "is attainable",
+     "base": "√लभ् · to obtain",
+     "form": "gerundive, masculine, nominative singular (to be attained)",
+     "iast": "labhyaḥ"
+    },
+    {
+     "word": "तु",
+     "meaning": "indeed",
+     "base": "but, now, indeed",
+     "form": "indeclinable",
+     "iast": "tu"
+    },
+    {
+     "word": "अनन्यया",
+     "meaning": "undivided, with no other object",
+     "base": "अनन्य · not directed to another",
+     "form": "adjective, feminine, instrumental singular (with भक्त्या)",
+     "parts": "अन् (not) + अन्य (other): having no other",
+     "iast": "ananyayā"
+    },
+    {
+     "word": "यस्य",
+     "meaning": "within whom (of whom)",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, genitive singular (of whom)",
+     "iast": "yasya"
+    },
+    {
+     "word": "अन्तःस्थानि",
+     "meaning": "dwelling within",
+     "base": "अन्तःस्थ · standing within",
+     "form": "adjective, neuter, nominative plural",
+     "parts": "अन्तर् (within) + स्थ (standing): standing inside",
+     "iast": "antaḥsthāni"
+    },
+    {
+     "word": "भूतानि",
+     "meaning": "beings",
+     "base": "भूत · being, creature",
+     "form": "noun, neuter, nominative plural",
+     "iast": "bhūtāni"
+    },
+    {
+     "word": "येन",
+     "meaning": "by whom",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, masculine, instrumental singular (by)",
+     "iast": "yena"
+    },
+    {
+     "word": "सर्वम्",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "pronominal adjective, neuter, nominative singular",
+     "iast": "sarvam"
+    },
+    {
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, nominative singular",
+     "iast": "idam"
+    },
+    {
+     "word": "ततम्",
+     "meaning": "is pervaded",
+     "base": "√तन् · to stretch, spread",
+     "form": "past passive participle, neuter, nominative singular (pervaded)",
+     "iast": "tatam"
     }
    ],
    "explanation": "How the unreachable is reached: bhaktyā tv ananyayā — by love with no second object. Not by the cosmological knowledge just displayed, not by austerity that scales only to Brahma's revolving realm: devotion alone crosses into the abode. The chapter that began with seven philosophical definitions answers, in the end, with one relationship.",
    "connection": "Gives 8.21's abode its single key — anticipating 11.54's identical claim at the vision's end.",
-   "schools_note": null,
    "reflection": "Try the stated price of the Supreme today: devotion without a second object — bhaktya labhyas tv ananyaya.",
-   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion."
+   "background": "The teaching zooms out to cosmic scale: worlds up to Brahma's realm return again; a thousand-age day and night of Brahma breathe all beings out and in — but beyond the unmanifest stands another Unmanifest that never perishes, My supreme abode, attained by undivided devotion.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The one-pointed devotion is knowledge directed to the Self. Beings rest in the Person as effects in their cause, and He pervades all as space pervades pots."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The Absolute is beyond time yet immanent in all beings; it is called unmanifest because it is hard to attain, and devotion is the means already named."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Ananyā means devotion with no other refuge: the Lord is reached by single-minded bhakti alone, not otherwise, and He is the cause within which all beings stand."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "An all-pervading God is hard to love, so worshipping His personal form purifies the heart and draws His grace; only exclusive devotion, by no other path, lets one know Him."
+    }
+   ],
+   "hook": "How can the Supreme, who pervades everything, actually be reached?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 11.14.21",
+     "note": "God says He is attained only by devotees who worship Him with faith and love, matching this verse's claim that He is reached through single-minded devotion."
+    },
+    {
+     "source": "Rāmāyaṇa",
+     "note": "Yoga, austerity, knowledge and detachment cannot reach God without loving devotion, supporting the verse's stress on devotion alone."
+    },
+    {
+     "source": "Chaitanya Charitāmṛta, Madhya 22.17",
+     "note": "Action, knowledge and yoga all depend on devotion to bear fruit, so devotion is the one indispensable path the verse names."
+    }
+   ]
   },
   {
    "chapter": 8,
@@ -726,59 +2967,248 @@
    "translation": "Now I will tell thee, O chief of Bharatas, the times departing at which the Yogis will return or not return.",
    "anvaya": [
     {
-     "word": "यत्र काले तु अनावृत्तिम्",
-     "meaning": "at which time, non-return"
+     "word": "यत्र",
+     "meaning": "at which",
+     "base": "यत्र · where, in which (from यद्)",
+     "form": "indeclinable",
+     "iast": "yatra"
     },
     {
-     "word": "आवृत्तिं च एव योगिनः",
-     "meaning": "and return, the yogis"
+     "word": "काले",
+     "meaning": "time",
+     "base": "काल · time",
+     "form": "noun, masculine, locative singular (at)",
+     "iast": "kāle"
     },
     {
-     "word": "प्रयाताः यान्ति तं कालं",
-     "meaning": "departing, attain — that time"
+     "word": "तु",
+     "meaning": "now",
+     "base": "but, now, indeed",
+     "form": "indeclinable",
+     "iast": "tu"
     },
     {
-     "word": "वक्ष्यामि भरतर्षभ",
-     "meaning": "I shall declare, O bull of the Bharatas"
+     "word": "अनावृत्तिम्",
+     "meaning": "non-return",
+     "base": "अनावृत्ति · not returning",
+     "form": "noun, feminine, accusative singular (goal reached)",
+     "parts": "अन् (not) + आवृत्ति (return): no return",
+     "iast": "anāvṛttim"
+    },
+    {
+     "word": "आवृत्तिम्",
+     "meaning": "return",
+     "base": "आवृत्ति · turning back (आ + √वृत्)",
+     "form": "noun, feminine, accusative singular (goal reached)",
+     "iast": "āvṛttim"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "एव",
+     "meaning": "also",
+     "base": "only, just, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "योगिनः",
+     "meaning": "the yogis",
+     "base": "योगिन् · one who practises yoga",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "yoginaḥ"
+    },
+    {
+     "word": "प्रयाताः",
+     "meaning": "having departed (at death)",
+     "base": "प्र + √या · to go forth, depart",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "prayātāḥ"
+    },
+    {
+     "word": "यान्ति",
+     "meaning": "go to, attain",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person plural",
+     "iast": "yānti"
+    },
+    {
+     "word": "तम्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, masculine, accusative singular",
+     "iast": "tam"
+    },
+    {
+     "word": "कालम्",
+     "meaning": "time",
+     "base": "काल · time",
+     "form": "noun, masculine, accusative singular (object)",
+     "iast": "kālam"
+    },
+    {
+     "word": "वक्ष्यामि",
+     "meaning": "I shall tell",
+     "base": "√वच् · to speak",
+     "form": "verb, future, 1st person singular",
+     "iast": "vakṣyāmi"
+    },
+    {
+     "word": "भरतर्षभ",
+     "meaning": "O best of the Bharatas",
+     "base": "भरतर्षभ · bull among the Bharatas",
+     "form": "vocative (calling Arjuna)",
+     "parts": "भरत (Bharata's line) + ऋषभ (bull, best): best of the Bharatas",
+     "iast": "bharatarṣabha"
     }
    ],
    "explanation": "A final technical appendix is announced: the traditional lore of departure-times, the cosmic schedule by which the dying are said to be routed. Krishna includes the old map — Arjuna's world knew and trusted it — before quietly relativizing it at the section's end.",
    "connection": "Opens the two-paths teaching (8.24–26), inherited from the Upanishads.",
-   "schools_note": null,
    "reflection": "Live one day so the hour of departure could fall anywhere in it without finding you unready.",
-   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift."
+   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "'Yogis' covers both meditators and men of ritual action; the latter are called yogis only by courtesy, as in 'the yoga of action for the yogis' (3.3)."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'Time' here stands for a path, marked by deities who preside over divisions of time from day to year; one path is for yogis who do not return, the other for doers of good works who do."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "He reads the two paths as an allegory: light stands for knowledge and detachment that lead to God, darkness for worldly attachment that keeps the soul returning to birth and death."
+    }
+   ],
+   "hook": "At what times do yogis who die return, and when do they not?"
   },
   {
    "chapter": 8,
    "verse": 24,
    "speaker": null,
-   "devanagari": "अग्निर्जोतिरहः शुक्लः षण्मासा उत्तरायणम् ।\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः॥",
-   "transliteration": "agnirjotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam\ntatra prayātā gacchanti brahma brahmavido janāḥ",
+   "devanagari": "अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम् ।\nतत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः॥",
+   "transliteration": "agnirjyotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam\ntatra prayātā gacchanti brahma brahmavido janāḥ",
    "essence": "Fire, light, day, the bright fortnight, the six months of the sun's northern course — departing then, the knowers of Brahman go to Brahman.",
    "translation": "Fire, light daytime, the bright fortnight, the six months of the northern path of the sun (the northern solstice) departing then (by these) men who know Brahman go to Brahman.",
    "anvaya": [
     {
-     "word": "अग्निः ज्योतिः अहः शुक्लः",
-     "meaning": "fire, light, day, the bright (fortnight)"
+     "word": "अग्निः",
+     "meaning": "fire",
+     "base": "अग्नि · fire",
+     "form": "noun, masculine, nominative singular",
+     "iast": "agniḥ"
     },
     {
-     "word": "षण्मासाः उत्तरायणम्",
-     "meaning": "the six months of the northern course"
+     "word": "ज्योतिः",
+     "meaning": "light, flame",
+     "base": "ज्योतिस् · light",
+     "form": "noun, neuter, nominative singular",
+     "iast": "jyotiḥ"
     },
     {
-     "word": "तत्र प्रयाताः गच्छन्ति",
-     "meaning": "departing then, they go"
+     "word": "अहः",
+     "meaning": "day",
+     "base": "अहन् · day",
+     "form": "noun, neuter, nominative singular",
+     "iast": "ahaḥ"
     },
     {
-     "word": "ब्रह्म ब्रह्मविदः जनाः",
-     "meaning": "to Brahman — the Brahman-knowing people"
+     "word": "शुक्लः",
+     "meaning": "the bright fortnight",
+     "base": "शुक्ल · bright, white",
+     "form": "adjective used as noun, masculine, nominative singular (pakṣa, fortnight, understood)",
+     "iast": "śuklaḥ"
+    },
+    {
+     "word": "षण्मासाः",
+     "meaning": "the six months",
+     "base": "षण्मास · six months",
+     "form": "noun, masculine, nominative plural",
+     "parts": "षष् (six) + मास (month): six months",
+     "iast": "ṣaṇmāsāḥ"
+    },
+    {
+     "word": "उत्तरायणम्",
+     "meaning": "the sun's northern course",
+     "base": "उत्तरायण · northward course of the sun",
+     "form": "noun, neuter, nominative singular",
+     "parts": "उत्तर (northern) + अयन (course): the northern course",
+     "iast": "uttarāyaṇam"
+    },
+    {
+     "word": "तत्र",
+     "meaning": "there, on that path",
+     "base": "there, then",
+     "form": "indeclinable",
+     "iast": "tatra"
+    },
+    {
+     "word": "प्रयाताः",
+     "meaning": "having departed (at death)",
+     "base": "प्र + √या · to go forth, depart",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "prayātāḥ"
+    },
+    {
+     "word": "गच्छन्ति",
+     "meaning": "go",
+     "base": "√गम् · to go",
+     "form": "verb, present, 3rd person plural",
+     "iast": "gacchanti"
+    },
+    {
+     "word": "ब्रह्म",
+     "meaning": "to Brahman",
+     "base": "ब्रह्मन् · Brahman, the Absolute",
+     "form": "noun, neuter, accusative singular (destination)",
+     "iast": "brahma"
+    },
+    {
+     "word": "ब्रह्मविदः",
+     "meaning": "knowers of Brahman",
+     "base": "ब्रह्मविद् · knower of Brahman",
+     "form": "noun, masculine, nominative plural (describes the people)",
+     "parts": "ब्रह्म (Brahman) + विद् (knower): those who know Brahman",
+     "iast": "brahmavidaḥ"
+    },
+    {
+     "word": "जनाः",
+     "meaning": "people",
+     "base": "जन · person",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "janāḥ"
     }
    ],
-   "explanation": "The luminous itinerary: every station on this route is a form of light — flame, brightness, day, waxing moon, the sun climbing north. Read literally, a calendar; read as the tradition's deeper voice does, a description of the *state* of departure: those who leave through light — through knowledge — do not come back.",
+   "explanation": "The luminous itinerary: every station on this route is a form of light — flame, brightness, day, waxing moon, the sun climbing north. Read literally, a calendar; the classical commentators read each station as a presiding deity on the Upanishads' path of the gods, guiding the soul upward stage by stage. Either way the route is made of light — of knowledge — and those who leave by it do not come back.",
    "connection": "The path of no return, mapped in the old solar vocabulary.",
-   "schools_note": "The bright and dark paths (8.24-26) divide interpreters: literalists map solstices and lunar fortnights of actual dying; Shankara and most classical readers take the times as presiding deities on the soul's two routes (devayana and pitriyana from the Upanishads); modern teachers often read them as states — clarity versus obscurity at death. All agree on 8.27's point: the yogi who knows both is bewildered by neither.",
    "reflection": "Walk the bright path in miniature today: act in daylight clarity, openly, with nothing to hide.",
-   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift."
+   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift.",
+   "checked": "SG",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Each station is a deity presiding over time, and the 'knowers' are meditators on qualified Brahman who reach it by stages. The fully realized have no going at all: they are Brahman here."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The upward course is described figuratively by words like fire and day because of its illuminating nature; the opposite course gets the opposite terms."
+    },
+    {
+     "lens": "bhakti",
+     "text": "The names point to the Upanishadic deities of flame, day, waxing fortnight and northern half-year, and stand in for the rest of the route given in śruti (year, world of the gods); devotees of the Lord travel it to Brahman."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The path of light symbolizes knowledge and discrimination; God-conscious souls who leave the world detached travel it, are freed from rebirth and reach God's divine abode."
+    }
+   ],
+   "hook": "Which path at death leads the knowers of the Absolute to it?"
   },
   {
    "chapter": 8,
@@ -790,27 +3220,116 @@
    "translation": "Attaining to the lunar light by smoke, night time, the dark fortnight also, the six months of the southern path of the sun (the southern solstice), the Yogi returns.",
    "anvaya": [
     {
-     "word": "धूमः रात्रिः तथा कृष्णः",
-     "meaning": "smoke, night, likewise the dark (fortnight)"
+     "word": "धूमः",
+     "meaning": "smoke",
+     "base": "धूम · smoke",
+     "form": "noun, masculine, nominative singular",
+     "iast": "dhūmaḥ"
     },
     {
-     "word": "षण्मासाः दक्षिणायनम्",
-     "meaning": "the six months of the southern course"
+     "word": "रात्रिः",
+     "meaning": "night",
+     "base": "रात्रि · night",
+     "form": "noun, feminine, nominative singular",
+     "iast": "rātriḥ"
     },
     {
-     "word": "तत्र चान्द्रमसं ज्योतिः",
-     "meaning": "there, the lunar light"
+     "word": "तथा",
+     "meaning": "likewise",
+     "base": "so, likewise",
+     "form": "indeclinable",
+     "iast": "tathā"
     },
     {
-     "word": "योगी प्राप्य निवर्तते",
-     "meaning": "the yogi, attaining, returns"
+     "word": "कृष्णः",
+     "meaning": "the dark fortnight",
+     "base": "कृष्ण · dark, black",
+     "form": "adjective used as noun, masculine, nominative singular (pakṣa, fortnight, understood)",
+     "iast": "kṛṣṇaḥ"
+    },
+    {
+     "word": "षण्मासाः",
+     "meaning": "the six months",
+     "base": "षण्मास · six months",
+     "form": "noun, masculine, nominative plural",
+     "parts": "षष् (six) + मास (month): six months",
+     "iast": "ṣaṇmāsāḥ"
+    },
+    {
+     "word": "दक्षिणायनम्",
+     "meaning": "the sun's southern course",
+     "base": "दक्षिणायन · southward course of the sun",
+     "form": "noun, neuter, nominative singular",
+     "parts": "दक्षिण (southern) + अयन (course): the southern course",
+     "iast": "dakṣiṇāyanam"
+    },
+    {
+     "word": "तत्र",
+     "meaning": "there, on that path",
+     "base": "there, then",
+     "form": "indeclinable",
+     "iast": "tatra"
+    },
+    {
+     "word": "चान्द्रमसम्",
+     "meaning": "lunar",
+     "base": "चान्द्रमस · of the moon",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "cāndramasam"
+    },
+    {
+     "word": "ज्योतिः",
+     "meaning": "light",
+     "base": "ज्योतिस् · light",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "jyotiḥ"
+    },
+    {
+     "word": "योगी",
+     "meaning": "the yogi",
+     "base": "योगिन् · one who practises yoga",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "yogī"
+    },
+    {
+     "word": "प्राप्य",
+     "meaning": "having reached",
+     "base": "प्र + √आप् · to reach, obtain",
+     "form": "gerund (having reached)",
+     "iast": "prāpya"
+    },
+    {
+     "word": "निवर्तते",
+     "meaning": "returns",
+     "base": "नि + √वृत् · to turn back",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "nivartate"
     }
    ],
    "explanation": "The mirrored route, every station dimmed: smoke for fire, night for day, waning for waxing, the sun's southern retreat. Its terminus is the moon's borrowed light — merit's heaven, lovely and finite — from which the traveler nivartate, comes back. Departure through dimness, through works without knowledge, circles home again.",
    "connection": "The path of return: the same journey taken through shadow instead of light.",
-   "schools_note": null,
    "reflection": "Notice your smoke-path hours — the dim, half-asleep ones — and reclaim one of them for clarity.",
-   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift."
+   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The 'yogi' here is the man of sacrifices and rites; reaching the lunar light, he enjoys the fruit of his works and returns when it is exhausted."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Desire-driven works lead by this path to heaven and back; forbidden deeds lead to hell and back; only meditation joined to selfless works leads to gradual liberation."
+    },
+    {
+     "lens": "practice",
+     "text": "Smoke, night and the dark fortnight may also stand for degrees of ignorance, attachment and passion: a route with no illumination, reached through ignorance."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The dark path stands for ignorance and bodily identification; souls attached to the world, even ritualists who reach the heavens, must return to earth once their merit runs out."
+    }
+   ],
+   "hook": "Which path at death brings a person back to this world again?"
   },
   {
    "chapter": 8,
@@ -822,27 +3341,119 @@
    "translation": "The bright and the dark paths of the world are verily thought to be eternal; by the one (the bright path) a man goes not to return and by the other (the dark path) he returns.",
    "anvaya": [
     {
-     "word": "शुक्लकृष्णे गती हि एते",
-     "meaning": "the bright and the dark — these two courses"
+     "word": "शुक्लकृष्णे",
+     "meaning": "the bright and the dark",
+     "base": "शुक्लकृष्ण · bright and dark",
+     "form": "adjective, feminine, nominative dual",
+     "parts": "शुक्ल (bright) + कृष्ण (dark): the bright one and the dark one",
+     "iast": "śuklakṛṣṇe"
     },
     {
-     "word": "जगतः शाश्वते मते",
-     "meaning": "of the world are deemed eternal"
+     "word": "गती",
+     "meaning": "two paths",
+     "base": "गति · going, path (from √गम्)",
+     "form": "noun, feminine, nominative dual",
+     "iast": "gatī"
     },
     {
-     "word": "एकया याति अनावृत्तिम्",
-     "meaning": "by one, one goes to non-return"
+     "word": "हि",
+     "meaning": "indeed",
+     "base": "for, indeed",
+     "form": "indeclinable",
+     "iast": "hi"
     },
     {
-     "word": "अन्यया आवर्तते पुनः",
-     "meaning": "by the other, one comes back again"
+     "word": "एते",
+     "meaning": "these two",
+     "base": "एतद् · this",
+     "form": "pronoun, feminine, nominative dual",
+     "iast": "ete"
+    },
+    {
+     "word": "जगतः",
+     "meaning": "of the world",
+     "base": "जगत् · world, all that moves",
+     "form": "noun, neuter, genitive singular (of)",
+     "iast": "jagataḥ"
+    },
+    {
+     "word": "शाश्वते",
+     "meaning": "eternal",
+     "base": "शाश्वत · everlasting",
+     "form": "adjective, feminine, nominative dual",
+     "iast": "śāśvate"
+    },
+    {
+     "word": "मते",
+     "meaning": "are held to be",
+     "base": "√मन् · to think",
+     "form": "past passive participle, feminine, nominative dual (considered)",
+     "iast": "mate"
+    },
+    {
+     "word": "एकया",
+     "meaning": "by the one",
+     "base": "एक · one",
+     "form": "numeral adjective, feminine, instrumental singular (by)",
+     "iast": "ekayā"
+    },
+    {
+     "word": "याति",
+     "meaning": "goes",
+     "base": "√या · to go",
+     "form": "verb, present, 3rd person singular",
+     "iast": "yāti"
+    },
+    {
+     "word": "अनावृत्तिम्",
+     "meaning": "to non-return",
+     "base": "अनावृत्ति · not returning",
+     "form": "noun, feminine, accusative singular (goal reached)",
+     "parts": "अन् (not) + आवृत्ति (return): no return",
+     "iast": "anāvṛttim"
+    },
+    {
+     "word": "अन्यया",
+     "meaning": "by the other",
+     "base": "अन्य · other",
+     "form": "pronominal adjective, feminine, instrumental singular (by)",
+     "iast": "anyayā"
+    },
+    {
+     "word": "आवर्तते",
+     "meaning": "returns",
+     "base": "आ + √वृत् · to turn back",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "āvartate"
+    },
+    {
+     "word": "पुनः",
+     "meaning": "again",
+     "base": "again",
+     "form": "indeclinable",
+     "iast": "punaḥ"
     }
    ],
-   "explanation": "The two itineraries stamped as permanent fixtures of the cosmos: śukla and kṛṣṇa, the bright way and the dark, always open, always carrying their respective traffic. Beneath the old astronomy, a clean fork: knowledge exits, merit revolves. Every life is, knowingly or not, buying one of the two tickets.",
+   "explanation": "The two itineraries stamped as permanent fixtures of the cosmos: śukla and kṛṣṇa, the bright way and the dark, always open, always carrying their respective traffic. Beneath the old astronomy, a clean fork: knowledge exits, merit revolves. Whoever walks either road, the seeker of knowledge or the doer of rites, is on a route whose end is already fixed.",
    "connection": "Summarizes 8.24–25 as standing cosmic law — before the next verse tells Arjuna what to do about it.",
-   "schools_note": null,
    "reflection": "Both paths are eternal but not equal; choose, in one decision today, the one of light.",
-   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift."
+   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The path is white because it reveals knowledge, black because that revelation is absent; both are eternal because worldly existence is, yet they open only to those qualified for knowledge or for rites."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Śruti names who takes each: those who worship with faith and austerity in the forest go to the light; those in the village who do meritorious works and give alms pass to the smoke (Chāndogya 5.10)."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Every soul at death takes one of the two paths, light or darkness, and its own karma decides which; one leads to liberation, the other back into the cycle of birth."
+    }
+   ],
+   "hook": "Are the bright and dark paths permanent features of the world?"
   },
   {
    "chapter": 8,
@@ -854,27 +3465,133 @@
    "translation": "Knowing these paths, O Arjuna, no Yogi is deluded; therefore at all times be steadfast in Yoga.",
    "anvaya": [
     {
-     "word": "न एते सृती पार्थ जानन्",
-     "meaning": "knowing these two paths, O Partha"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable",
+     "iast": "na"
     },
     {
-     "word": "योगी मुह्यति कश्चन",
-     "meaning": "no yogi whatever is deluded"
+     "word": "एते",
+     "meaning": "these two",
+     "base": "एतद् · this",
+     "form": "pronoun, feminine, accusative dual (object)",
+     "iast": "ete"
     },
     {
-     "word": "तस्मात् सर्वेषु कालेषु",
-     "meaning": "therefore, at all times"
+     "word": "सृती",
+     "meaning": "two paths",
+     "base": "सृति · path, course (from √सृ, to move)",
+     "form": "noun, feminine, accusative dual (object)",
+     "iast": "sṛtī"
     },
     {
-     "word": "योगयुक्तः भव अर्जुन",
-     "meaning": "be yoked in yoga, O Arjuna"
+     "word": "पार्थ",
+     "meaning": "O son of Pṛthā (Arjuna)",
+     "base": "पार्थ · son of Pṛthā",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "जानन्",
+     "meaning": "knowing",
+     "base": "√ज्ञा · to know",
+     "form": "present participle, masculine, nominative singular (while knowing)",
+     "iast": "jānan"
+    },
+    {
+     "word": "योगी",
+     "meaning": "a yogi",
+     "base": "योगिन् · one who practises yoga",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "yogī"
+    },
+    {
+     "word": "मुह्यति",
+     "meaning": "is deluded",
+     "base": "√मुह् · to be bewildered",
+     "form": "verb, present, 3rd person singular",
+     "iast": "muhyati"
+    },
+    {
+     "word": "कश्चन",
+     "meaning": "any (with न: no one)",
+     "base": "किम् + चन · someone, any",
+     "form": "indefinite pronoun, masculine, nominative singular",
+     "iast": "kaścana"
+    },
+    {
+     "word": "तस्मात्",
+     "meaning": "therefore",
+     "base": "तद् · that; here 'therefore'",
+     "form": "pronoun, ablative singular used as indeclinable (therefore)",
+     "iast": "tasmāt"
+    },
+    {
+     "word": "सर्वेषु",
+     "meaning": "at all",
+     "base": "सर्व · all",
+     "form": "pronominal adjective, masculine, locative plural",
+     "iast": "sarveṣu"
+    },
+    {
+     "word": "कालेषु",
+     "meaning": "times",
+     "base": "काल · time",
+     "form": "noun, masculine, locative plural (at)",
+     "iast": "kāleṣu"
+    },
+    {
+     "word": "योगयुक्तः",
+     "meaning": "steadfast in yoga",
+     "base": "योगयुक्त · joined in yoga",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "योग (yoga) + युक्त (joined): one joined in yoga",
+     "iast": "yogayuktaḥ"
+    },
+    {
+     "word": "भव",
+     "meaning": "be",
+     "base": "√भू · to be, become",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "bhava"
+    },
+    {
+     "word": "अर्जुन",
+     "meaning": "O Arjuna",
+     "base": "अर्जुन · Arjuna",
+     "form": "vocative (calling Arjuna)",
+     "iast": "arjuna"
     }
    ],
    "explanation": "The lore's practical cash-value, and it is deliberately deflating: knowing the schedule frees one from anxiety about the schedule. The yogi does not time his death to the bright fortnight; he makes himself bright at all times — sarveṣu kāleṣu, the chapter's refrain returning — so that any hour of departure is the right one.",
    "connection": "Resolves the two-paths teaching the same way 8.7 resolved the final-thought law: constancy beats timing.",
-   "schools_note": null,
    "reflection": "Let knowledge of the two paths remove anxiety, not add it — the yogi knows, and is not bewildered.",
-   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift."
+   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Knowing the two courses, one leading to worldly life and the other to Liberation, no yogi is deluded; so Arjuna should be steadfast in Yoga at all times."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The undeluded yogi goes by the path of the gods as his own; so Arjuna is told to meditate every day on that path of light."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The yogi knows the two courses by an internal method of yoga: the 'times' are inner units of time, and one practises yoga connected with them all."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Not being deluded means not craving heaven and its pleasures as if they were happiness; knowing the two paths, the yogi stays fixed on the Lord alone."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Keeping to the path of light for a while is not enough, since one easily drifts back into darkness; that is why Krishna says to be a yogi at all times, continuously."
+    }
+   ],
+   "hook": "What does knowing the two paths do for a yogi?"
   },
   {
    "chapter": 8,
@@ -886,27 +3603,181 @@
    "translation": "Whatever fruit of merit is declared (in the scriptures) to accrue from (the study of) the Vedas, (the performance of) sacrifices, (the practice of) austerities, and gifts beyond all this goes the Yogi, having known this; and he attains to the Supreme Primeval (first or ancient) Abode.",
    "anvaya": [
     {
-     "word": "वेदेषु यज्ञेषु तपःसु च एव",
-     "meaning": "in the Vedas, sacrifices, and austerities"
+     "word": "वेदेषु",
+     "meaning": "in the Vedas (their study)",
+     "base": "वेद · the Veda, sacred knowledge",
+     "form": "noun, masculine, locative plural (in regard to)",
+     "iast": "vedeṣu"
     },
     {
-     "word": "दानेषु यत् पुण्यफलं प्रदिष्टम्",
-     "meaning": "and in gifts, whatever merit-fruit is assigned"
+     "word": "यज्ञेषु",
+     "meaning": "in sacrifices",
+     "base": "यज्ञ · sacrifice, worship",
+     "form": "noun, masculine, locative plural (in regard to)",
+     "iast": "yajñeṣu"
     },
     {
-     "word": "अत्येति तत् सर्वम् इदं विदित्वा",
-     "meaning": "passes beyond all that, knowing this"
+     "word": "तपःसु",
+     "meaning": "in austerities",
+     "base": "तपस् · austerity, heat",
+     "form": "noun, neuter, locative plural (in regard to)",
+     "iast": "tapaḥsu"
     },
     {
-     "word": "योगी परं स्थानम् उपैति च आद्यम्",
-     "meaning": "and the yogi attains the supreme, primal place"
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "एव",
+     "meaning": "also",
+     "base": "only, just, indeed",
+     "form": "indeclinable",
+     "iast": "eva"
+    },
+    {
+     "word": "दानेषु",
+     "meaning": "in gifts",
+     "base": "दान · gift, giving",
+     "form": "noun, neuter, locative plural (in regard to)",
+     "iast": "dāneṣu"
+    },
+    {
+     "word": "यत्",
+     "meaning": "whatever",
+     "base": "यद् · who, which",
+     "form": "relative pronoun, neuter, nominative singular",
+     "iast": "yat"
+    },
+    {
+     "word": "पुण्यफलम्",
+     "meaning": "fruit of merit",
+     "base": "पुण्यफल · reward of merit",
+     "form": "noun, neuter, nominative singular",
+     "parts": "पुण्य (merit) + फल (fruit): the fruit of merit",
+     "iast": "puṇyaphalam"
+    },
+    {
+     "word": "प्रदिष्टम्",
+     "meaning": "is declared",
+     "base": "प्र + √दिश् · to point out, declare",
+     "form": "past passive participle, neuter, nominative singular (declared)",
+     "iast": "pradiṣṭam"
+    },
+    {
+     "word": "अत्येति",
+     "meaning": "goes beyond",
+     "base": "अति + √इ · to go beyond",
+     "form": "verb, present, 3rd person singular",
+     "iast": "atyeti"
+    },
+    {
+     "word": "तत्",
+     "meaning": "that",
+     "base": "तद् · that",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "tat"
+    },
+    {
+     "word": "सर्वम्",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "pronominal adjective, neuter, accusative singular",
+     "iast": "sarvam"
+    },
+    {
+     "word": "इदम्",
+     "meaning": "this (teaching)",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, accusative singular (object of knowing)",
+     "iast": "idam"
+    },
+    {
+     "word": "विदित्वा",
+     "meaning": "having known",
+     "base": "√विद् · to know",
+     "form": "gerund (having known)",
+     "iast": "viditvā"
+    },
+    {
+     "word": "योगी",
+     "meaning": "the yogi",
+     "base": "योगिन् · one who practises yoga",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "yogī"
+    },
+    {
+     "word": "परम्",
+     "meaning": "supreme",
+     "base": "पर · highest",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "param"
+    },
+    {
+     "word": "स्थानम्",
+     "meaning": "abode, state",
+     "base": "स्थान · place, abode (from √स्था)",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "sthānam"
+    },
+    {
+     "word": "उपैति",
+     "meaning": "reaches",
+     "base": "उप + √इ · to approach, reach",
+     "form": "verb, present, 3rd person singular",
+     "iast": "upaiti"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and",
+     "form": "indeclinable",
+     "iast": "ca"
+    },
+    {
+     "word": "आद्यम्",
+     "meaning": "primal, first",
+     "base": "आद्य · first, original",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "ādyam"
     }
    ],
    "explanation": "The chapter's closing audit: tally every reward scripture ever promised — Vedic recitation, sacrifice, austerity, charity — and the knower of this teaching atyeti, overtakes the whole column. Not by despising those goods but by aiming past their ceiling: they purchase the revolving heavens of 8.16; this knowledge purchases the ādya sthāna, the first and final home.",
    "connection": "Seals the chapter: against all of religion's negotiable rewards, one non-negotiable arrival.",
-   "schools_note": null,
    "reflection": "Aim past all listed merits today — study, rites, gifts, austerity — to what makes them small.",
-   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift."
+   "background": "Krishna closes with the two ancient paths of departure — the bright way of fire and light that does not return, and the smoke-dim way that does — and lifts the yogi who knows them beyond bewilderment, and beyond every merit of Vedas, sacrifice, austerity, and gift.",
+   "checked": "SGV",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Having fully understood and practised what was taught in answering Arjuna's seven questions, the yogi goes beyond all the merit of Vedic study, sacrifice, austerity and charity, and reaches the primordial State of God, Brahman."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'This' is the Lord's greatness taught in chapters 7 and 8; the joy of knowing it makes the yogi regard every promised reward as worthless as straw."
+    },
+    {
+     "lens": "shaiva",
+     "text": "He 'goes beyond' by constant remembrance of the Lord, which neutralizes the impressions left by all actions; with them gone, he easily attains the Supreme Śiva."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Knowing the answers to the chapter's questions, the yogi first gains a yogic glory above all those rewards, then, becoming a knower, reaches Viṣṇu's supreme state, the root of the world."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Rituals, austerity, charity and study bring only temporary material rewards unless joined with devotion; yogis who grasp this attach their minds to God alone and reach eternal happiness."
+    }
+   ],
+   "hook": "What does the yogi gain beyond the rewards of rituals, study and charity?",
+   "refs": [
+    {
+     "source": "Rāmāyaṇa",
+     "note": "Good conduct, austerity, sacrifice, chanting and charity cannot cure the mind's worldly disease without devotion, so only devotion leads beyond temporary rewards."
+    }
+   ]
   }
  ]
 }

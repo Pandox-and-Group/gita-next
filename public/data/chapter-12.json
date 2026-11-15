@@ -22,59 +22,275 @@
    "translation": "Those devotees who, ever steadfast, thus worship Thee and those also who worship the imperishable and the unmanifested which of them are better versed in Yoga?",
    "anvaya": [
     {
-     "word": "एवं सततयुक्ताः ये",
-     "meaning": "those thus constantly disciplined"
+     "word": "एवम्",
+     "meaning": "thus, in this way",
+     "base": "thus, so",
+     "form": "indeclinable adverb",
+     "iast": "evam"
     },
     {
-     "word": "भक्ताः त्वां पर्युपासते",
-     "meaning": "the devotees who worship you"
+     "word": "सततयुक्ताः",
+     "meaning": "ever steadfast",
+     "base": "सततयुक्त · constantly yoked",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "सतत (constant) + युक्त (yoked, devoted): constantly devoted",
+     "iast": "satatayuktāḥ"
     },
     {
-     "word": "ये च अपि अक्षरम् अव्यक्तं",
-     "meaning": "and those too who (worship) the Imperishable, Unmanifest"
+     "word": "ये",
+     "meaning": "those who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "ye"
     },
     {
-     "word": "तेषां के योगवित्तमाः",
-     "meaning": "of these, which are the best knowers of yoga"
+     "word": "भक्ताः",
+     "meaning": "devotees",
+     "base": "भक्त · devotee",
+     "form": "noun, masculine, nominative plural (subject)",
+     "iast": "bhaktāḥ"
+    },
+    {
+     "word": "त्वाम्",
+     "meaning": "you",
+     "base": "युष्मद् · you",
+     "form": "pronoun, accusative singular (object)",
+     "iast": "tvām"
+    },
+    {
+     "word": "पर्युपासते",
+     "meaning": "worship, devotedly attend",
+     "base": "परि + उप + √आस् · to worship all around, honour",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "paryupāsate"
+    },
+    {
+     "word": "ये",
+     "meaning": "those who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "ye"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "अपि",
+     "meaning": "also, even",
+     "base": "also, even",
+     "form": "indeclinable particle",
+     "iast": "api"
+    },
+    {
+     "word": "अक्षरम्",
+     "meaning": "the Imperishable",
+     "base": "अक्षर · imperishable, immutable",
+     "form": "adjective used as noun, neuter, accusative singular (object)",
+     "iast": "akṣaram"
+    },
+    {
+     "word": "अव्यक्तम्",
+     "meaning": "the Unmanifest",
+     "base": "अव्यक्त · unmanifest, not perceptible",
+     "form": "adjective, neuter, accusative singular (object)",
+     "iast": "avyaktam"
+    },
+    {
+     "word": "तेषाम्",
+     "meaning": "of them",
+     "base": "तद् · that, they",
+     "form": "pronoun, masculine, genitive plural (of)",
+     "iast": "teṣām"
+    },
+    {
+     "word": "के",
+     "meaning": "which ones, who",
+     "base": "किम् · who, what",
+     "form": "interrogative pronoun, masculine, nominative plural",
+     "iast": "ke"
+    },
+    {
+     "word": "योगवित्तमाः",
+     "meaning": "the best knowers of yoga",
+     "base": "योगवित्तम · best knower of yoga",
+     "form": "adjective, superlative, masculine, nominative plural",
+     "parts": "योग (yoga) + वित् (knower, from √विद्) + तम (most): the best among those who know yoga",
+     "iast": "yogavittamāḥ"
     }
    ],
    "explanation": "The question the vision made urgent: should one love the Person just seen, or contemplate the formless Absolute behind him? Arjuna asks like an engineer — which path is *better* — and his 'evam', 'thus', points back to 11.55's portrait. The whole chapter is the answer to this one fork.",
    "connection": "Born directly of ch11: form and formless both revealed — now which to worship?",
-   "schools_note": null,
    "reflection": "Hold your own version of the fork honestly today: does your heart pray to a face, or a vastness?",
-   "background": "Arjuna, having seen both the cosmic blaze and the beloved face, asks the question the vision forced: of those who worship You with steadfast love, and those who seek the imperishable unmanifest — which are the better knowers of yoga?"
+   "background": "Arjuna, having seen both the cosmic blaze and the beloved face, asks the question the vision forced: of those who worship You with steadfast love, and those who seek the imperishable unmanifest — which are the better knowers of yoga?",
+   "checked": "SGV",
+   "hook": "Who is the better yogi: one who loves God's form or seeks the formless?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Takes 'thus' as pointing back to 11.55. The second group are renunciates meditating on the Immutable, called unmanifest because it is free of all limiting adjuncts and beyond the reach of the senses."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Reads the Imperishable and Unmanifest here as the individual self in its true nature, not the supreme Brahman, and hears the question as: which of the two groups reaches its goal sooner?"
+    },
+    {
+     "lens": "bhakti",
+     "text": "Earlier chapters praised both the devotee and the man of knowledge as the best, so Arjuna asks which is finally better: worship of the Lord with attributes or contemplation of the attributeless."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Arjuna's question presumes God has both a formless aspect and a personal form; limiting God to either one is a mistake, though the path of worshipping the formless is said to be very hard."
+    }
+   ]
   },
   {
    "chapter": 12,
    "verse": 2,
-   "speaker": null,
-   "devanagari": "श्रीभगवानुवाच ।\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।\nश्रद्धया परयोपेताः ते मे युक्ततमा मताः॥",
-   "transliteration": "mayyāveśya mano ye māṃ nityayuktā upāsate\nśraddhayā parayopetāḥ te me yuktatamā matāḥ",
+   "speaker": "श्रीभगवानुवाच",
+   "devanagari": "मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।\nश्रद्धया परयोपेतास्ते मे युक्ततमा मताः॥",
+   "transliteration": "mayyāveśya mano ye māṃ nityayuktā upāsate\nśraddhayā parayopetāste me yuktatamā matāḥ",
    "essence": "The Blessed Lord says: those who, fixing their mind on me, worship me ever-disciplined and endowed with supreme faith — them I hold to be the most yoked.",
    "translation": "Those who, fixing their mind on Me, worship Me, ever steadfast and endowed with supreme faith, are the best in Yoga in My opinion.",
    "anvaya": [
     {
-     "word": "मयि आवेश्य मनः ये मां",
-     "meaning": "fixing the mind in me, those who me"
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
     },
     {
-     "word": "नित्ययुक्ताः उपासते",
-     "meaning": "ever-disciplined, worship"
+     "word": "आवेश्य",
+     "meaning": "fixing, making enter",
+     "base": "आ + √विश् · to enter (causative: make enter)",
+     "form": "gerund of the causative (having made enter)",
+     "iast": "āveśya"
     },
     {
-     "word": "श्रद्धया परया उपेताः",
-     "meaning": "endowed with supreme faith"
+     "word": "मनः",
+     "meaning": "the mind",
+     "base": "मनस् · mind",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "manaḥ"
     },
     {
-     "word": "ते मे युक्ततमाः मताः",
-     "meaning": "they, in my view, are the most yoked"
+     "word": "ये",
+     "meaning": "those who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "ye"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, accusative singular (object)",
+     "iast": "mām"
+    },
+    {
+     "word": "नित्ययुक्ताः",
+     "meaning": "ever steadfast",
+     "base": "नित्ययुक्त · always yoked",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "नित्य (always) + युक्त (yoked, devoted): always devoted",
+     "iast": "nityayuktāḥ"
+    },
+    {
+     "word": "उपासते",
+     "meaning": "worship, meditate on",
+     "base": "उप + √आस् · to sit near, worship",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "upāsate"
+    },
+    {
+     "word": "श्रद्धया",
+     "meaning": "with faith",
+     "base": "श्रद्धा · faith, trust",
+     "form": "noun, feminine, instrumental singular (with)",
+     "iast": "śraddhayā"
+    },
+    {
+     "word": "परया",
+     "meaning": "supreme",
+     "base": "पर · highest, supreme",
+     "form": "adjective, feminine, instrumental singular (with), agreeing with श्रद्धया",
+     "iast": "parayā"
+    },
+    {
+     "word": "उपेताः",
+     "meaning": "endowed",
+     "base": "उप + √इ · to approach, be possessed of",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "upetāḥ"
+    },
+    {
+     "word": "ते",
+     "meaning": "they",
+     "base": "तद् · that, they",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "te"
+    },
+    {
+     "word": "मे",
+     "meaning": "by me, in my view",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive singular, short form (by me, with मताः)",
+     "iast": "me"
+    },
+    {
+     "word": "युक्ततमाः",
+     "meaning": "most perfect in yoga",
+     "base": "युक्ततम · most yoked",
+     "form": "adjective, superlative, masculine, nominative plural",
+     "parts": "युक्त (yoked) + तम (most): the most yoked",
+     "iast": "yuktatamāḥ"
+    },
+    {
+     "word": "मताः",
+     "meaning": "are considered",
+     "base": "√मन् · to think, regard",
+     "form": "past passive participle, masculine, nominative plural (considered)",
+     "iast": "matāḥ"
     }
    ],
    "explanation": "A direct answer, rare in scripture: the form-lovers win — yuktatamāḥ, the same superlative that crowned 6.47. The deciding factors are named: āveśya, the mind not merely directed at him but *immersed*; and śraddhā parā, the highest grade of trust. Concreteness, it turns out, is not a concession but an advantage: love needs a face to find its full strength.",
    "connection": "Answers 12.1 cleanly — then immediately honors the other path in 12.3–4.",
-   "schools_note": null,
    "reflection": "Let love have a face today — fix the mind on the concrete sacred and feel devotion gain traction.",
-   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth."
+   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth.",
+   "checked": "SG",
+   "hook": "Whom does Krishna count as the most perfect in yoga?",
+   "refs": [
+    {
+     "source": "Śvetāśvatara Upaniṣad 6.11",
+     "note": "The one God lies hidden in all beings, pervading everything as the inner Self of all."
+    },
+    {
+     "source": "Bhāgavatam 1.2.11",
+     "note": "The knowers of truth say the one Reality is called Brahman, Paramātmā and Bhagavān; this frames the personal form as God's closest realization."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The form meant is the Cosmic form of 11. They are rightly called the best yogis because their minds stay fixed on him day and night; the verdict on the other group is held back for the next verses."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Stresses that these worshippers hold him as exceedingly dear and long for constant union; worshipping him as their supreme goal, they reach him soon and easily."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Fixing the mind on the Lord is here a spontaneous, unforced becoming-one with him, and the verse is a solemn declaration by the Lord."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "God is realized at different distances, as formless Brahman, as the Supreme Soul within, and as the personal Lord; devotees who worship the personal form with faith know him most closely and are the highest yogis."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -83,30 +299,116 @@
    "devanagari": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते ।\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम्॥",
    "transliteration": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate\nsarvatragamacintyañca kūṭasthamacalandhruvam",
    "essence": "But those who worship the Imperishable — the undefinable, unmanifest, all-pervading, unthinkable, summit-still, immovable, constant —",
-   "translation": "Swami Sivananda did not comment on this sloka",
+   "translation": "Those who worship the imperishable, the indefinable, the unmanifest, the omnipresent, the unthinkable, the immovable, and the eternal.",
    "anvaya": [
     {
-     "word": "ये तु अक्षरम् अनिर्देश्यम्",
-     "meaning": "but those who (worship) the Imperishable, the indefinable"
+     "word": "ये",
+     "meaning": "those who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "ye"
     },
     {
-     "word": "अव्यक्तं पर्युपासते",
-     "meaning": "the Unmanifest — worship"
+     "word": "तु",
+     "meaning": "but",
+     "base": "but, on the other hand",
+     "form": "indeclinable particle",
+     "iast": "tu"
     },
     {
-     "word": "सर्वत्रगम् अचिन्त्यं च",
-     "meaning": "the all-pervading, and the unthinkable"
+     "word": "अक्षरम्",
+     "meaning": "the Imperishable",
+     "base": "अक्षर · imperishable, immutable",
+     "form": "adjective used as noun, neuter, accusative singular (object)",
+     "iast": "akṣaram"
     },
     {
-     "word": "कूटस्थम् अचलं ध्रुवम्",
-     "meaning": "the summit-seated, unmoving, constant"
+     "word": "अनिर्देश्यम्",
+     "meaning": "the indefinable",
+     "base": "अ + निर् + √दिश् · not to be pointed out",
+     "form": "gerundive, neuter, accusative singular (that cannot be defined)",
+     "iast": "anirdeśyam"
+    },
+    {
+     "word": "अव्यक्तम्",
+     "meaning": "the unmanifest",
+     "base": "अव्यक्त · unmanifest",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "avyaktam"
+    },
+    {
+     "word": "पर्युपासते",
+     "meaning": "worship, devotedly attend",
+     "base": "परि + उप + √आस् · to worship all around, honour",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "paryupāsate"
+    },
+    {
+     "word": "सर्वत्रगम्",
+     "meaning": "all-pervading",
+     "base": "सर्वत्रग · going everywhere",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "सर्वत्र (everywhere) + ग (going): that which goes everywhere",
+     "iast": "sarvatragam"
+    },
+    {
+     "word": "अचिन्त्यम्",
+     "meaning": "the unthinkable",
+     "base": "अ + √चिन्त् · not to be thought",
+     "form": "gerundive, neuter, accusative singular (that cannot be conceived)",
+     "iast": "acintyam"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "कूटस्थम्",
+     "meaning": "the unchanging",
+     "base": "कूटस्थ · standing like an anvil, changeless",
+     "form": "adjective, neuter, accusative singular",
+     "parts": "कूट (anvil, peak) + स्थ (standing): standing fixed like an anvil",
+     "iast": "kūṭastham"
+    },
+    {
+     "word": "अचलम्",
+     "meaning": "the immovable",
+     "base": "अचल · not moving",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "acalam"
+    },
+    {
+     "word": "ध्रुवम्",
+     "meaning": "the constant, eternal",
+     "base": "ध्रुव · fixed, permanent",
+     "form": "adjective, neuter, accusative singular",
+     "iast": "dhruvam"
     }
    ],
-   "explanation": "The other path described in its own austere vocabulary — seven negations and abstractions in two lines, each word a door closing on imagery: undefinable, unmanifest, unthinkable. To worship *this* is to hold the mind to what gives the mind nothing to hold. The sentence itself withholds its verb until the next verse — even the grammar makes you wait.",
+   "explanation": "The other path described in its own austere vocabulary — eight epithets in two lines, most of them negations or abstractions, each word a door closing on imagery: undefinable, unmanifest, unthinkable. To worship *this* is to hold the mind to what gives the mind nothing to hold. The sentence itself withholds its main clause until the next verse — even the grammar makes you wait.",
    "connection": "Begins the honest account of the formless path before its difficulty is weighed in 12.5.",
-   "schools_note": null,
    "reflection": "Spend two minutes with the attributeless — no image, no name — and honor those who dwell there.",
-   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth."
+   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth.",
+   "checked": "SGV",
+   "text_note": "The translation of this verse was missing in the source dataset; it is taken from the Sivananda text in the gita/gita dataset.",
+   "hook": "What about those who worship the formless, unthinkable Imperishable?",
+   "views": [
+    {
+     "lens": "vishishtadvaita",
+     "text": "Reads every epithet as the individual self: indefinable because it is other than the body, all-pervading because it dwells in all bodies yet cannot be thought of in their terms, immovable because it never leaves its own nature."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Those who contemplate the motionless Self still superimpose on it the Lord's attributes, which is what epithets like 'all-pervading' express."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Krishna does not reject worship of the formless: those devoted to the unmanifest, all-pervading Brahman also reach him, and no one should claim their own idea of God is the only true one."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -118,91 +420,340 @@
    "translation": "Having restrained all the senses, even-minded everywhere, intent on the welfare of all beings verily they also come unto Me.",
    "anvaya": [
     {
-     "word": "सन्नियम्य इन्द्रियग्रामं",
-     "meaning": "fully restraining the troop of senses"
+     "word": "सन्नियम्य",
+     "meaning": "fully restraining",
+     "base": "सम् + नि + √यम् · to hold in, restrain",
+     "form": "gerund (having restrained)",
+     "iast": "sanniyamya"
     },
     {
-     "word": "सर्वत्र समबुद्धयः",
-     "meaning": "everywhere of even understanding"
+     "word": "इन्द्रियग्रामम्",
+     "meaning": "the whole group of senses",
+     "base": "इन्द्रियग्राम · host of senses",
+     "form": "noun, masculine, accusative singular (object)",
+     "parts": "इन्द्रिय (sense) + ग्राम (group, village): the whole set of senses",
+     "iast": "indriyagrāmam"
     },
     {
-     "word": "ते प्राप्नुवन्ति माम् एव",
-     "meaning": "they attain none other than me"
+     "word": "सर्वत्र",
+     "meaning": "everywhere, in all things",
+     "base": "everywhere",
+     "form": "indeclinable adverb",
+     "iast": "sarvatra"
     },
     {
-     "word": "सर्वभूतहिते रताः",
-     "meaning": "delighting in the welfare of all beings"
+     "word": "समबुद्धयः",
+     "meaning": "even-minded",
+     "base": "समबुद्धि · of even understanding",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "सम (even) + बुद्धि (understanding): those whose understanding is even",
+     "iast": "samabuddhayaḥ"
+    },
+    {
+     "word": "ते",
+     "meaning": "they",
+     "base": "तद् · that, they",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "te"
+    },
+    {
+     "word": "प्राप्नुवन्ति",
+     "meaning": "attain, reach",
+     "base": "प्र + √आप् · to reach, obtain",
+     "form": "verb, present, 3rd person plural",
+     "iast": "prāpnuvanti"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, accusative singular (object)",
+     "iast": "mām"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, only, indeed",
+     "base": "only, indeed (emphasis)",
+     "form": "indeclinable particle",
+     "iast": "eva"
+    },
+    {
+     "word": "सर्वभूतहिते",
+     "meaning": "in the welfare of all beings",
+     "base": "सर्वभूतहित · good of all beings",
+     "form": "noun, neuter, locative singular (in)",
+     "parts": "सर्व (all) + भूत (beings) + हित (welfare): the welfare of all beings",
+     "iast": "sarvabhūtahite"
+    },
+    {
+     "word": "रताः",
+     "meaning": "delighting, engaged",
+     "base": "√रम् · to delight in",
+     "form": "past participle, masculine, nominative plural",
+     "iast": "ratāḥ"
     }
    ],
    "explanation": "The formless path completed, with its signature ethics: total sense-governance, evenness everywhere, and — the warmth inside the austerity — sarva-bhūta-hite ratāḥ, joy in every creature's good. And the destination clause settles all rivalry: mām eva, *me alone*. There were never two summits; the impersonal seekers arrive at the same person by another face.",
    "connection": "Closes the question of destination — both roads end in him — leaving only the question of cost.",
-   "schools_note": null,
    "reflection": "Whichever path you walk, keep its ethic today: senses governed, delight in every being's welfare.",
-   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth."
+   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth.",
+   "checked": "V",
+   "hook": "Do seekers of the formless also reach God in the end?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "It goes without saying that they reach him: the man of knowledge is the Lord's very Self (7.18), so it is out of place to ask whether such people are the best among yogis."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Their evenness comes from seeing every self, in any body, as alike a knower. 'Reach me' means they realise a self that, in its freedom from samsara, is like his."
+    },
+    {
+     "lens": "practice",
+     "text": "Once likes and dislikes are destroyed through meditation on the Self, the yogi turns to the welfare of others, serves without tiring, and gives fearlessness to every creature."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Those who worship the formless with restrained senses, even minds and care for all beings also attain him, since God meets each seeker in the aspect they choose, here as the all-pervading Brahman."
+    }
+   ]
   },
   {
    "chapter": 12,
    "verse": 5,
    "speaker": null,
    "devanagari": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते॥",
-   "transliteration": "kleśo'dhikatarasteṣāmavyaktāsaktacetasām ||\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate",
+   "transliteration": "kleśo'dhikatarasteṣāmavyaktāsaktacetasām\navyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate",
    "essence": "Greater is the toil of those whose minds are set on the Unmanifest, for the unmanifest goal is reached by the embodied only with difficulty.",
    "translation": "Greater is their trouble whose minds are set on the unmanifested; for the goal; the unmanifested, is very hard for the embodied to reach.",
    "anvaya": [
     {
-     "word": "क्लेशः अधिकतरः तेषाम्",
-     "meaning": "greater is the affliction of those"
+     "word": "क्लेशः",
+     "meaning": "the trouble, toil",
+     "base": "क्लेश · pain, difficulty",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "kleśaḥ"
+    },
+    {
+     "word": "अधिकतरः",
+     "meaning": "greater",
+     "base": "अधिक · more, exceeding",
+     "form": "adjective, comparative, masculine, nominative singular",
+     "iast": "adhikataraḥ"
+    },
+    {
+     "word": "तेषाम्",
+     "meaning": "of those",
+     "base": "तद् · that, they",
+     "form": "pronoun, masculine, genitive plural (of)",
+     "iast": "teṣām"
     },
     {
      "word": "अव्यक्तासक्तचेतसाम्",
-     "meaning": "whose minds are attached to the Unmanifest"
+     "meaning": "whose minds are set on the Unmanifest",
+     "base": "अव्यक्तासक्तचेतस् · mind attached to the unmanifest",
+     "form": "adjective, masculine, genitive plural (of)",
+     "parts": "अव्यक्त (unmanifest) + आसक्त (attached) + चेतस् (mind): those whose mind is attached to the unmanifest",
+     "iast": "avyaktāsaktacetasām"
     },
     {
-     "word": "अव्यक्ता हि गतिः दुःखं",
-     "meaning": "for the unmanifest goal, with difficulty"
+     "word": "अव्यक्ता",
+     "meaning": "unmanifest",
+     "base": "अव्यक्त · unmanifest",
+     "form": "adjective, feminine, nominative singular, agreeing with गतिः",
+     "iast": "avyaktā"
     },
     {
-     "word": "देहवद्भिः अवाप्यते",
-     "meaning": "is attained by the embodied"
+     "word": "हि",
+     "meaning": "for, indeed",
+     "base": "for, because, indeed",
+     "form": "indeclinable particle",
+     "iast": "hi"
+    },
+    {
+     "word": "गतिः",
+     "meaning": "the goal, path",
+     "base": "गति · going, goal",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "gatiḥ"
+    },
+    {
+     "word": "दुःखम्",
+     "meaning": "with difficulty",
+     "base": "दुःख · pain, difficulty",
+     "form": "noun, neuter, accusative singular used as adverb (painfully)",
+     "iast": "duḥkham"
+    },
+    {
+     "word": "देहवद्भिः",
+     "meaning": "by the embodied",
+     "base": "देहवत् · having a body",
+     "form": "adjective used as noun, masculine, instrumental plural (by)",
+     "iast": "dehavadbhiḥ"
+    },
+    {
+     "word": "अवाप्यते",
+     "meaning": "is reached",
+     "base": "अव + √आप् · to obtain, reach",
+     "form": "verb, present passive, 3rd person singular (is reached)",
+     "iast": "avāpyate"
     }
    ],
    "explanation": "The cost accounting: kleśo 'dhikataraḥ — more friction, not less truth. The reason is in one word: dehavadbhiḥ, *by those who have bodies*. Embodied beings love through eyes, hands, voice; asking such creatures to adore a featureless absolute is asking a river to flow without banks. The formless path is honored — and priced for what it asks of incarnate hearts.",
    "connection": "The practical verdict behind 12.2's ranking: same summit, steeper face.",
-   "schools_note": "Schools divide on the force of this verse: Advaita reads the klesha as provisional — the formless path is harder but ultimate; Vaishnava commentators read it as the Gita's standing recommendation of the personal God for embodied souls. The text itself states difficulty, not inferiority.",
    "reflection": "Be kind to your embodiment today — you love through eyes and hands; let your practice use them.",
-   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth."
+   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth.",
+   "checked": "SGV",
+   "hook": "Why is the path to the formless so much harder for us?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The difficulty is that one must give up identifying with the body; 'the embodied' means those who take the body to be themselves."
+    },
+    {
+     "lens": "shaiva",
+     "text": "These seekers take on a double labour: they first superimpose the divine attributes on the Self and then contemplate it, while the Lord, already possessed of those attributes, is available without effort."
+    },
+    {
+     "lens": "practice",
+     "text": "Fixing the restless mind on the attributeless demands a sharp, subtle, one-pointed intellect, the fourfold qualification, and hearing, reflection and meditation under a teacher established in Brahman."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "We are embodied beings used to forms, so the mind finds no hold on the formless; and the attributeless Brahman offers no grace, so its seekers must cling by their own effort like a baby monkey, while devotees are carried like kittens."
+    }
+   ]
   },
   {
    "chapter": 12,
    "verse": 6,
    "speaker": null,
-   "devanagari": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः ।\nअनन्येनैव योगेन मां ध्यायन्त उपासते॥",
-   "transliteration": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparaḥ\nananyenaiva yogena māṃ dhyāyanta upāsate",
+   "devanagari": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः ।\nअनन्येनैव योगेन मां ध्यायन्त उपासते॥",
+   "transliteration": "ye tu sarvāṇi karmāṇi mayi saṃnyasya matparāḥ\nananyenaiva yogena māṃ dhyāyanta upāsate",
    "essence": "But those who, renouncing all actions in me and holding me supreme, worship me, meditating with a yoga turned to no other —",
    "translation": "But to those who worship Me, renouncing all actions in Me, regarding Me as the supreme gaol, meditating on Me with single-minded Yoga.",
    "anvaya": [
     {
-     "word": "ये तु सर्वाणि कर्माणि",
-     "meaning": "but those who all actions"
+     "word": "ये",
+     "meaning": "those who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "ye"
     },
     {
-     "word": "मयि संन्यस्य मत्पराः",
-     "meaning": "renouncing in me, holding me supreme"
+     "word": "तु",
+     "meaning": "but",
+     "base": "but, on the other hand",
+     "form": "indeclinable particle",
+     "iast": "tu"
     },
     {
-     "word": "अनन्येन एव योगेन",
-     "meaning": "with a yoga directed to none other"
+     "word": "सर्वाणि",
+     "meaning": "all",
+     "base": "सर्व · all",
+     "form": "adjective, neuter, accusative plural",
+     "iast": "sarvāṇi"
     },
     {
-     "word": "मां ध्यायन्तः उपासते",
-     "meaning": "worship me, meditating"
+     "word": "कर्माणि",
+     "meaning": "actions",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, accusative plural (object)",
+     "iast": "karmāṇi"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
+    },
+    {
+     "word": "संन्यस्य",
+     "meaning": "renouncing, laying down",
+     "base": "सम् + नि + √अस् · to lay down, renounce",
+     "form": "gerund (having laid down)",
+     "iast": "saṃnyasya"
+    },
+    {
+     "word": "मत्पराः",
+     "meaning": "holding me supreme",
+     "base": "मत्पर · intent on me",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "मत् (me) + पर (highest): those for whom I am the highest",
+     "iast": "matparāḥ"
+    },
+    {
+     "word": "अनन्येन",
+     "meaning": "with nothing else, single-minded",
+     "base": "अनन्य · not other, exclusive",
+     "form": "adjective, masculine, instrumental singular (with)",
+     "iast": "ananyena"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, only, indeed",
+     "base": "only, indeed (emphasis)",
+     "form": "indeclinable particle",
+     "iast": "eva"
+    },
+    {
+     "word": "योगेन",
+     "meaning": "by yoga, discipline",
+     "base": "योग · yoking, discipline",
+     "form": "noun, masculine, instrumental singular (by)",
+     "iast": "yogena"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, accusative singular (object)",
+     "iast": "mām"
+    },
+    {
+     "word": "ध्यायन्तः",
+     "meaning": "meditating",
+     "base": "√ध्यै · to meditate, contemplate",
+     "form": "present participle, masculine, nominative plural (while meditating)",
+     "iast": "dhyāyantaḥ"
+    },
+    {
+     "word": "उपासते",
+     "meaning": "worship, meditate on",
+     "base": "उप + √आस् · to sit near, worship",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "upāsate"
     }
    ],
-   "explanation": "The recommended path drawn in full: every action deposited in him (the trustee-relation of 3.30 returning), him as the one direction, meditation that does not glance sideways. Ananyena — the chapter's recurring key — no second object, no hedge, no backup deity. The sentence leans forward into the promise of the next verse.",
+   "explanation": "The recommended path drawn in full: every action deposited in him (the trustee-relation of 3.30 returning), him as the one direction, meditation that does not glance sideways. Ananyena — a key word across the Gita (8.14, 9.22, 13.10) — no second object, no hedge, no backup deity. The sentence leans forward into the promise of the next verse.",
    "connection": "Describes the devotee whose rescue 12.7 will announce.",
-   "schools_note": null,
    "reflection": "Deposit every action in Him today as you act — sannyasya mayi — and meditate on no second thing.",
-   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth."
+   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth.",
+   "checked": "SG",
+   "hook": "What do those who give all their actions to God do?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "These devotees dedicate all actions to God, accept him as supreme and meditate on him with single-minded yoga, meaning a yoga with no object other than the Cosmic Deity, the Self."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'All actions' includes eating and other acts that sustain the body as well as Vedic rites; and the worship itself — meditation, praise, prostration — is so dear to them that it is its own end."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Ananya means a yoga in which there is no other to be worshipped; for such single-minded devotees success comes without strain, by the Lord's grace."
+    },
+    {
+     "lens": "practice",
+     "text": "Even on the path of devotion one does not abandon action: one keeps acting and offers the fruits to the Lord."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Devotees of the personal form easily engage mind and senses in God through his names, form and pastimes, and so quickly unite their consciousness with him."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -214,27 +765,96 @@
    "translation": "To those whose minds are set on Me, O Arjuna, verily I become ere long the saviour out of the ocean of Samsara.",
    "anvaya": [
     {
-     "word": "तेषाम् अहं समुद्धर्ता",
-     "meaning": "of them I am the uplifter"
+     "word": "तेषाम्",
+     "meaning": "for them",
+     "base": "तद् · that, they",
+     "form": "pronoun, masculine, genitive plural (of/for)",
+     "iast": "teṣām"
+    },
+    {
+     "word": "अहम्",
+     "meaning": "I",
+     "base": "अस्मद् · I",
+     "form": "pronoun, nominative singular (subject)",
+     "iast": "aham"
+    },
+    {
+     "word": "समुद्धर्ता",
+     "meaning": "the deliverer, uplifter",
+     "base": "सम् + उद् + √हृ · to lift up and out",
+     "form": "agent noun, masculine, nominative singular (one who lifts out)",
+     "iast": "samuddhartā"
     },
     {
      "word": "मृत्युसंसारसागरात्",
-     "meaning": "from the ocean of death-and-rebirth"
+     "meaning": "from the ocean of death-bound worldly life",
+     "base": "मृत्युसंसारसागर · sea of deathly samsara",
+     "form": "noun, masculine, ablative singular (from)",
+     "parts": "मृत्यु (death) + संसार (cycle of births) + सागर (ocean): the ocean that is samsara bound up with death",
+     "iast": "mṛtyusaṃsārasāgarāt"
     },
     {
-     "word": "भवामि न चिरात् पार्थ",
-     "meaning": "I become, before long, O Partha"
+     "word": "भवामि",
+     "meaning": "I become",
+     "base": "√भू · to be, become",
+     "form": "verb, present, 1st person singular",
+     "iast": "bhavāmi"
     },
     {
-     "word": "मयि आवेशितचेतसाम्",
-     "meaning": "whose minds are absorbed in me"
+     "word": "नचिरात्",
+     "meaning": "before long, soon",
+     "base": "न चिर · not long",
+     "form": "indeclinable adverb",
+     "parts": "न (not) + चिरात् (after a long time): not after long",
+     "iast": "nacirāt"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O son of Pṛthā",
+     "base": "पार्थ · son of Pṛthā (Arjuna)",
+     "form": "vocative (calling Arjuna)",
+     "iast": "pārtha"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
+    },
+    {
+     "word": "आवेशितचेतसाम्",
+     "meaning": "whose minds are absorbed",
+     "base": "आवेशितचेतस् · mind made to enter",
+     "form": "adjective, masculine, genitive plural (of)",
+     "parts": "आवेशित (made to enter) + चेतस् (mind): those whose mind has been made to enter",
+     "iast": "āveśitacetasām"
     }
    ],
    "explanation": "The chapter's central transaction, and the grammar carries the theology: ahaṁ samuddhartā — *I* am the lifter-out. On the formless path the seeker swims the ocean; on this one, the Ocean's master reaches down. Na cirāt, without delay: grace does not keep office hours. The devotee's one task was completed in the previous verse — being findable, mind already in him.",
    "connection": "The payoff of 12.6's surrender — and the deepest reason 12.2 ranked this path first.",
-   "schools_note": null,
    "reflection": "When the ocean feels wide today, remember who lifts the surrendered — and stop swimming alone.",
-   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth."
+   "background": "Krishna answers with a tenderness the tradition treasures: both reach Me, but those whose minds are fixed on Me with supreme faith I deem the most yoked — for the unmanifest path is steep for embodied beings, while those who offer all to Me and meditate on Me with undivided yoga, I swiftly lift from the ocean of death and rebirth.",
+   "checked": "SGV",
+   "hook": "How quickly does God rescue those whose minds rest in him?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Samsara is fraught with death and is called a sea because it is so hard to cross; the 'I' who lifts them out is the Cosmic Person on whom their minds are fixed."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Samsara is called deadly because it stands in the way of reaching him; to those who worship only for its own sake he becomes the saviour soon."
+    },
+    {
+     "lens": "practice",
+     "text": "The one lifted is the devotee whose surrender is total and ungrudging, who leaves himself at the Lord's mercy and has given up even the idea of liberation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Because devotees offer their hearts without break, God soon gives his grace, removes their obstacles and himself becomes their savior from the cycle of birth and death."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -246,27 +866,142 @@
    "translation": "Fix thy mind in Me only, thy intellect in Me, (then) thou shalt no doubt live in Me alone hereafter.",
    "anvaya": [
     {
-     "word": "मयि एव मनः आधत्स्व",
-     "meaning": "in me alone place the mind"
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
     },
     {
-     "word": "मयि बुद्धिं निवेशय",
-     "meaning": "in me settle the understanding"
+     "word": "एव",
+     "meaning": "alone, only, indeed",
+     "base": "only, indeed (emphasis)",
+     "form": "indeclinable particle",
+     "iast": "eva"
     },
     {
-     "word": "निवसिष्यसि मयि एव",
-     "meaning": "you shall dwell in me alone"
+     "word": "मनः",
+     "meaning": "the mind",
+     "base": "मनस् · mind",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "manaḥ"
     },
     {
-     "word": "अतः ऊर्ध्वं न संशयः",
-     "meaning": "hereafter — there is no doubt"
+     "word": "आधत्स्व",
+     "meaning": "fix, place",
+     "base": "आ + √धा · to place, set",
+     "form": "imperative, 2nd person singular, middle voice (a command)",
+     "iast": "ādhatsva"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
+    },
+    {
+     "word": "बुद्धिम्",
+     "meaning": "the intellect, understanding",
+     "base": "बुद्धि · intellect, judgement",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "buddhim"
+    },
+    {
+     "word": "निवेशय",
+     "meaning": "make enter, settle",
+     "base": "नि + √विश् · to enter (causative: make settle)",
+     "form": "causative imperative, 2nd person singular (a command)",
+     "iast": "niveśaya"
+    },
+    {
+     "word": "निवसिष्यसि",
+     "meaning": "you will dwell",
+     "base": "नि + √वस् · to dwell, live",
+     "form": "verb, future, 2nd person singular",
+     "iast": "nivasiṣyasi"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, only, indeed",
+     "base": "only, indeed (emphasis)",
+     "form": "indeclinable particle",
+     "iast": "eva"
+    },
+    {
+     "word": "अतः",
+     "meaning": "from this, hence",
+     "base": "from this, therefore",
+     "form": "indeclinable adverb",
+     "iast": "ataḥ"
+    },
+    {
+     "word": "ऊर्ध्वम्",
+     "meaning": "after, hereafter",
+     "base": "ऊर्ध्व · upward, after",
+     "form": "indeclinable (with अतः: from then on)",
+     "iast": "ūrdhvam"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "संशयः",
+     "meaning": "doubt",
+     "base": "संशय · doubt",
+     "form": "noun, masculine, nominative singular",
+     "iast": "saṃśayaḥ"
     }
    ],
-   "explanation": "The instruction at its purest, before any concessions: both faculties — manas, the feeling-flowing mind, and buddhi, the deciding intellect — given one address. The promise uses the language of residence: nivasiṣyasi, you will *live* in me, not visit. And the chapter's gentlest reassurance closes it: na saṁśayaḥ, spoken to the man whose doubts have filled eleven chapters. Mayy eva mana adhatsva — place the mind in Me alone, settle the intellect in Me: the ladder's top rung stated first, and the commentaries note both faculties named — manas, the feeling current, and buddhi, the deciding one. Nivasishyasi mayy eva — you will dwell in Me: the verb of residence, not visitation. Ata urdhvam na samshayah: the chapter's signature reassurance, addressed to a doubter.",
+   "explanation": "The instruction at its purest, the ladder's top rung stated first: both faculties — manas, the feeling, flowing mind, and buddhi, the deciding intellect — given one address, mayy eva, in me alone. The promise uses the language of residence: nivasiṣyasi, you will *live* in me, not visit; Śaṅkara takes 'hereafter' as after the body falls. And the chapter's gentlest reassurance closes it: na saṁśayaḥ, no doubt — spoken to the man whose doubts have filled eleven chapters.",
    "connection": "Step one of the famous ladder (12.8–11): the ideal, stated first so the descents have a summit.",
-   "schools_note": null,
    "reflection": "Try the ideal first, tonight: mind placed in Him, intellect entered into Him — and dwell, doubtless.",
-   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace."
+   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace.",
+   "checked": "SGV",
+   "hook": "Where should you place your mind and intellect to live in God?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 3.25.15",
+     "note": "The mind decides bondage and freedom: attached to the world it binds, turned to God it liberates; hence the call to fix the mind on God."
+    },
+    {
+     "source": "Pañcadaśī",
+     "note": "Bondage and liberation are decided by the state of the mind."
+    },
+    {
+     "source": "Bhāgavatam 10.40.25",
+     "note": "Akrūra names the intellect's errors: taking the self for the body, the passing for lasting, and pain for pleasure; this is why it must be surrendered to God."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Manas is the power of thinking and doubting, buddhi the power that decides; 'hereafter' means after the body falls, and 'dwell in me' means living in identity with him."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Reads 'hereafter' as immediately: as soon as the mind is fixed with the conviction that he alone is the goal, one already lives in him."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Concentration forced by posture and effort still keeps the sense of meditator and meditated; the real awakening rises by itself, without fuel, and only then is the Lord realised."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Krishna asks for two things: absorb the mind in God, since God counts mental rather than merely physical acts, and surrender the intellect to him, as we follow a doctor beyond our own knowledge."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -278,27 +1013,127 @@
    "translation": "If thou art unable to fix thy mind steadily on Me, then by the Yoga of constant practice do thou seek to reach Me, O Arjuna.",
    "anvaya": [
     {
-     "word": "अथ चित्तं समाधातुं",
-     "meaning": "now, if the mind to fix"
+     "word": "अथ",
+     "meaning": "if, now",
+     "base": "now, if (opening a new case)",
+     "form": "indeclinable particle",
+     "iast": "atha"
     },
     {
-     "word": "न शक्नोषि मयि स्थिरम्",
-     "meaning": "you are not able, steadily, on me"
+     "word": "चित्तम्",
+     "meaning": "the mind",
+     "base": "चित्त · mind, thought",
+     "form": "noun, neuter, accusative singular (object)",
+     "iast": "cittam"
     },
     {
-     "word": "अभ्यासयोगेन ततः",
-     "meaning": "then by the yoga of practice"
+     "word": "समाधातुम्",
+     "meaning": "to fix, to settle",
+     "base": "सम् + आ + √धा · to put together, concentrate",
+     "form": "infinitive (to do)",
+     "iast": "samādhātum"
     },
     {
-     "word": "माम् इच्छ आप्तुं धनञ्जय",
-     "meaning": "seek to attain me, O Dhananjaya"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "शक्नोषि",
+     "meaning": "you are able",
+     "base": "√शक् · to be able",
+     "form": "verb, present, 2nd person singular",
+     "iast": "śaknoṣi"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
+    },
+    {
+     "word": "स्थिरम्",
+     "meaning": "steadily",
+     "base": "स्थिर · firm, steady",
+     "form": "adjective, neuter, accusative singular used as adverb (steadily)",
+     "iast": "sthiram"
+    },
+    {
+     "word": "अभ्यासयोगेन",
+     "meaning": "by the yoga of practice",
+     "base": "अभ्यासयोग · discipline of repetition",
+     "form": "noun, masculine, instrumental singular (by)",
+     "parts": "अभ्यास (repeated practice) + योग (discipline): the discipline that consists in repetition",
+     "iast": "abhyāsayogena"
+    },
+    {
+     "word": "ततः",
+     "meaning": "then",
+     "base": "then, thereupon",
+     "form": "indeclinable adverb",
+     "iast": "tataḥ"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, accusative singular (object)",
+     "iast": "mām"
+    },
+    {
+     "word": "इच्छ",
+     "meaning": "seek, wish",
+     "base": "√इष् · to wish, seek",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "iccha"
+    },
+    {
+     "word": "आप्तुम्",
+     "meaning": "to reach",
+     "base": "√आप् · to reach, obtain",
+     "form": "infinitive (to do)",
+     "iast": "āptum"
+    },
+    {
+     "word": "धनञ्जय",
+     "meaning": "O winner of wealth",
+     "base": "धनञ्जय · winner of wealth (Arjuna)",
+     "form": "vocative (calling Arjuna)",
+     "parts": "धनम् (wealth) + जय (winning): one who wins wealth",
+     "iast": "dhanañjaya"
     }
    ],
    "explanation": "The first 'if you cannot' — three words that make this chapter the kindest in the Gita. Steady absorption unavailable? Then abhyāsa: the unsteady version, done again and again, the mind brought back each time it strays (6.26's old patience). The ladder's genius is that no rung shames the one below it; each is simply where someone real is standing.",
    "connection": "Rung two: when 12.8's steadiness is out of reach, repetition is the road to it.",
-   "schools_note": null,
    "reflection": "Cannot hold steady? Then repeat: return the mind each time it strays — abhyasa is the unsteady's road.",
-   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace."
+   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace.",
+   "checked": "SGV",
+   "hook": "What if you cannot keep your mind steady on God yet?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Practice means repeatedly drawing the mind back from everything else and fixing it on a single object; the concentration that results is the yoga of practice."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The repetition is loving remembrance: dwelling again and again on his boundless qualities — beauty, compassion, sweetness, majesty, omniscience — until the mind settles on him."
+    },
+    {
+     "lens": "shaiva",
+     "text": "The mind's entry into the Lord is hard without a strong descent of grace and long service to one's teachers, so practice is prescribed."
+    },
+    {
+     "lens": "practice",
+     "text": "The name Dhananjaya is a hint: one who won great wealth for Yudhishthira's sacrifice can conquer the mind and win the wealth of Self-knowledge."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Those who cannot yet fix the mind on God should practise remembrance, bringing the wandering mind back to his names, forms and qualities again and again."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -310,27 +1145,116 @@
    "translation": "If thou art unable to practise even this Abhyasa Yoga, be thou intent on doing actions for My sake; even by doing actions for My sake, thou shalt attain perfection.",
    "anvaya": [
     {
-     "word": "अभ्यासे अपि असमर्थः असि",
-     "meaning": "if even in practice you are unable"
+     "word": "अभ्यासे",
+     "meaning": "in practice",
+     "base": "अभ्यास · repeated practice",
+     "form": "noun, masculine, locative singular (in)",
+     "iast": "abhyāse"
     },
     {
-     "word": "मत्कर्मपरमः भव",
-     "meaning": "become devoted to work for me"
+     "word": "अपि",
+     "meaning": "also, even",
+     "base": "also, even",
+     "form": "indeclinable particle",
+     "iast": "api"
     },
     {
-     "word": "मदर्थम् अपि कर्माणि",
-     "meaning": "actions even for my sake"
+     "word": "असमर्थः",
+     "meaning": "unable",
+     "base": "असमर्थ · incapable",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "asamarthaḥ"
     },
     {
-     "word": "कुर्वन् सिद्धिम् अवाप्स्यसि",
-     "meaning": "performing, you will attain perfection"
+     "word": "असि",
+     "meaning": "you are",
+     "base": "√अस् · to be",
+     "form": "verb, present, 2nd person singular",
+     "iast": "asi"
+    },
+    {
+     "word": "मत्कर्मपरमः",
+     "meaning": "intent on work for me",
+     "base": "मत्कर्मपरम · devoted to my work",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "मत् (me) + कर्म (work) + परम (highest): one for whom work for me is highest",
+     "iast": "matkarmaparamaḥ"
+    },
+    {
+     "word": "भव",
+     "meaning": "be, become",
+     "base": "√भू · to be, become",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "bhava"
+    },
+    {
+     "word": "मदर्थम्",
+     "meaning": "for my sake",
+     "base": "मदर्थ · for my purpose",
+     "form": "indeclinable adverb",
+     "parts": "मत् (me) + अर्थम् (for the sake of): for my sake",
+     "iast": "madartham"
+    },
+    {
+     "word": "अपि",
+     "meaning": "also, even",
+     "base": "also, even",
+     "form": "indeclinable particle",
+     "iast": "api"
+    },
+    {
+     "word": "कर्माणि",
+     "meaning": "actions",
+     "base": "कर्मन् · action, deed",
+     "form": "noun, neuter, accusative plural (object)",
+     "iast": "karmāṇi"
+    },
+    {
+     "word": "कुर्वन्",
+     "meaning": "doing",
+     "base": "√कृ · to do",
+     "form": "present participle, masculine, nominative singular (while doing)",
+     "iast": "kurvan"
+    },
+    {
+     "word": "सिद्धिम्",
+     "meaning": "perfection",
+     "base": "सिद्धि · accomplishment, perfection",
+     "form": "noun, feminine, accusative singular (object)",
+     "iast": "siddhim"
+    },
+    {
+     "word": "अवाप्स्यसि",
+     "meaning": "you will attain",
+     "base": "अव + √आप् · to obtain",
+     "form": "verb, future, 2nd person singular",
+     "iast": "avāpsyasi"
     }
    ],
    "explanation": "Rung three descends from the mind to the hands: cannot sit and practice? Then *do* — but do for him. Mad-artham, for my sake: the same workday, re-addressed, becomes worship; cooking, building, fighting, healing — each act a letter posted to one recipient. Perfection, the verse insists, is reachable through the calendar as surely as through the cushion.",
    "connection": "Rung three: contemplation replaced by consecrated action — the karma-yoga of Part One, now love-shaped.",
-   "schools_note": null,
    "reflection": "Cannot even practice? Re-address one task today: done for His sake — and let work become the worship.",
-   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace."
+   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace.",
+   "checked": "SGV",
+   "hook": "If steady practice is too hard, what simpler way is offered?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Works done for him lead to perfection gradually: first purity of mind, then concentration, then knowledge."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "'My works' are devotional acts: building temples, laying out gardens, lighting lamps, sweeping shrines, gathering flowers, chanting his names. Done with love, they steady the mind as practice would."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Takes 'works for me' as acts done to please him, such as Ekādaśī fasting, vows and singing his names; doing these alone, one gains liberation."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Those who cannot remember God constantly can keep doing their usual work but change the intention, doing it all for God's pleasure; this steadies the mind and slowly grows love for him."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -342,27 +1266,121 @@
    "translation": "If thou art unable to do even this, then, resorting to union with Me, renounce the fruits of all actions with the self controlled.",
    "anvaya": [
     {
-     "word": "अथ एतत् अपि अशक्तः असि",
-     "meaning": "now, if even this you are unable"
+     "word": "अथ",
+     "meaning": "if, now",
+     "base": "now, if (opening a new case)",
+     "form": "indeclinable particle",
+     "iast": "atha"
     },
     {
-     "word": "कर्तुं मद्योगम् आश्रितः",
-     "meaning": "to do — taking refuge in my yoga"
+     "word": "एतत्",
+     "meaning": "this",
+     "base": "एतद् · this",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "etat"
     },
     {
-     "word": "सर्वकर्मफलत्यागं",
-     "meaning": "the renunciation of the fruit of all actions"
+     "word": "अपि",
+     "meaning": "also, even",
+     "base": "also, even",
+     "form": "indeclinable particle",
+     "iast": "api"
     },
     {
-     "word": "ततः कुरु यतात्मवान्",
-     "meaning": "then perform, with self restrained"
+     "word": "अशक्तः",
+     "meaning": "unable",
+     "base": "अशक्त · incapable",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "aśaktaḥ"
+    },
+    {
+     "word": "असि",
+     "meaning": "you are",
+     "base": "√अस् · to be",
+     "form": "verb, present, 2nd person singular",
+     "iast": "asi"
+    },
+    {
+     "word": "कर्तुम्",
+     "meaning": "to do",
+     "base": "√कृ · to do",
+     "form": "infinitive (to do)",
+     "iast": "kartum"
+    },
+    {
+     "word": "मद्योगम्",
+     "meaning": "my yoga",
+     "base": "मद्योग · yoga directed to me",
+     "form": "noun, masculine, accusative singular (object)",
+     "parts": "मत् (me) + योग (discipline): the discipline that rests on me",
+     "iast": "madyogam"
+    },
+    {
+     "word": "आश्रितः",
+     "meaning": "taking refuge in",
+     "base": "आ + √श्रि · to resort to",
+     "form": "past participle, masculine, nominative singular (having resorted to)",
+     "iast": "āśritaḥ"
+    },
+    {
+     "word": "सर्वकर्मफलत्यागम्",
+     "meaning": "renouncing the fruit of all actions",
+     "base": "सर्वकर्मफलत्याग · giving up all works' fruits",
+     "form": "noun, masculine, accusative singular (object)",
+     "parts": "सर्व (all) + कर्म (action) + फल (fruit) + त्याग (giving up): giving up the fruit of all actions",
+     "iast": "sarvakarmaphalatyāgam"
+    },
+    {
+     "word": "ततः",
+     "meaning": "then",
+     "base": "then, thereupon",
+     "form": "indeclinable adverb",
+     "iast": "tataḥ"
+    },
+    {
+     "word": "कुरु",
+     "meaning": "do",
+     "base": "√कृ · to do",
+     "form": "imperative, 2nd person singular (a command)",
+     "iast": "kuru"
+    },
+    {
+     "word": "यतात्मवान्",
+     "meaning": "self-controlled",
+     "base": "यतात्मवत् · having a restrained self",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "यत (restrained) + आत्मन् (self, mind) + वत् (having): one possessed of a restrained self",
+     "iast": "yatātmavān"
     }
    ],
-   "explanation": "The lowest rung, and the most universally reachable: cannot even dedicate the work? Then keep working as you do — only let go of the outcome. No God-language required, no altered schedule; just the open hand where the clutch used to be. The ladder bottoms out at something *anyone*, of any belief, can begin this afternoon. No one is left without a first step.",
+   "explanation": "The lowest rung, and the most widely reachable: cannot even dedicate the work? Then keep working as you do — only let go of the outcome, with the self held in check. One thread of devotion stays: mad-yogam āśritaḥ, taking refuge in him, and the commentators read the release as handing the results over to him. No altered schedule; just the open hand where the clutch used to be. The ladder bottoms out at something anyone can begin this afternoon. No one is left without a first step.",
    "connection": "The final concession — which 12.12 will reveal is no concession at all.",
-   "schools_note": null,
    "reflection": "Cannot manage even that? Then do today's duties and release the results — the lowest rung lifts too.",
-   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace."
+   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace.",
+   "checked": "SGV",
+   "hook": "If you cannot even work for God, what is left to do?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "If unable even to work intent on the Lord, Arjuna should resort to Yoga for him, doing works dedicated to him, and then, with mind controlled, give up the results of all works."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "If even works for him are beyond you, turn to contemplating the self taught in the first six chapters, with renunciation of fruit as its means; once body-identification falls away, devotion to the Lord arises by itself."
+    },
+    {
+     "lens": "shaiva",
+     "text": "If you do not know the methods the scriptures lay down, simply offer yourself to him; he cites his own prayer asking the Lord to forgive every flawed act."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Do your duties as the Lord commands, as far as you can, and leave their results, seen or unseen, in his hands; laying the burden on him, you will be fulfilled by his grace."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "For those not yet convinced of their bond with God, the fourth option is to keep working but let go of the fruits; this detachment purifies the mind and readies the intellect for higher practice."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -374,27 +1392,115 @@
    "translation": "Better indeed is knowledge than practice; than knowledge meditation is better; than meditation the renunciation of the fruits of actions: peace immediately follows renunciation.",
    "anvaya": [
     {
-     "word": "श्रेयः हि ज्ञानम् अभ्यासात्",
-     "meaning": "better indeed is knowledge than practice"
+     "word": "श्रेयः",
+     "meaning": "better",
+     "base": "श्रेयस् · better, more excellent",
+     "form": "adjective, comparative, neuter, nominative singular",
+     "iast": "śreyaḥ"
     },
     {
-     "word": "ज्ञानात् ध्यानं विशिष्यते",
-     "meaning": "than knowledge, meditation excels"
+     "word": "हि",
+     "meaning": "for, indeed",
+     "base": "for, because, indeed",
+     "form": "indeclinable particle",
+     "iast": "hi"
     },
     {
-     "word": "ध्यानात् कर्मफलत्यागः",
-     "meaning": "than meditation, renunciation of action's fruit"
+     "word": "ज्ञानम्",
+     "meaning": "knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "jñānam"
     },
     {
-     "word": "त्यागात् शान्तिः अनन्तरम्",
-     "meaning": "from renunciation — peace, immediately"
+     "word": "अभ्यासात्",
+     "meaning": "than practice",
+     "base": "अभ्यास · repeated practice",
+     "form": "noun, masculine, ablative singular (than)",
+     "iast": "abhyāsāt"
+    },
+    {
+     "word": "ज्ञानात्",
+     "meaning": "than knowledge",
+     "base": "ज्ञान · knowledge",
+     "form": "noun, neuter, ablative singular (than)",
+     "iast": "jñānāt"
+    },
+    {
+     "word": "ध्यानम्",
+     "meaning": "meditation",
+     "base": "ध्यान · meditation",
+     "form": "noun, neuter, nominative singular (subject)",
+     "iast": "dhyānam"
+    },
+    {
+     "word": "विशिष्यते",
+     "meaning": "excels, is superior",
+     "base": "वि + √शिष् · to distinguish, excel",
+     "form": "verb, present passive, 3rd person singular",
+     "iast": "viśiṣyate"
+    },
+    {
+     "word": "ध्यानात्",
+     "meaning": "than meditation",
+     "base": "ध्यान · meditation",
+     "form": "noun, neuter, ablative singular (than)",
+     "iast": "dhyānāt"
+    },
+    {
+     "word": "कर्मफलत्यागः",
+     "meaning": "renouncing the fruit of action",
+     "base": "कर्मफलत्याग · giving up action's fruit",
+     "form": "noun, masculine, nominative singular (subject)",
+     "parts": "कर्म (action) + फल (fruit) + त्याग (giving up): giving up the fruit of action",
+     "iast": "karmaphalatyāgaḥ"
+    },
+    {
+     "word": "त्यागात्",
+     "meaning": "from renunciation",
+     "base": "त्याग · giving up",
+     "form": "noun, masculine, ablative singular (from)",
+     "iast": "tyāgāt"
+    },
+    {
+     "word": "शान्तिः",
+     "meaning": "peace",
+     "base": "शान्ति · peace",
+     "form": "noun, feminine, nominative singular (subject)",
+     "iast": "śāntiḥ"
+    },
+    {
+     "word": "अनन्तरम्",
+     "meaning": "immediately",
+     "base": "अनन्तर · without interval",
+     "form": "indeclinable adverb",
+     "iast": "anantaram"
     }
    ],
-   "explanation": "The chapter's sly reversal: the rung offered last as a concession is here ranked *first* in effect. Why? Because rote practice, book-knowledge, even meditation can all be performed by an ego still gripping its outcomes — while phala-tyāga is the grip itself released. And the timing claim is the boldest in the Gita: śāntir anantaram — peace not after lifetimes, but immediately. The hand opens; the war ends. Shreyo hi jnanam abhyasat — the ranking verse that puzzles on first reading: knowledge above practice, meditation above knowledge, and above meditation — the renunciation of fruit, with peace immediately after. The commentaries resolve it variously, but most read the point practically: the humblest-looking step is the most direct, because phala-tyaga is the one move the ego cannot co-opt. Shantir anantaram: the Gita's shortest delivery time.",
+   "explanation": "The chapter's sly reversal: the rung offered last as a concession is here ranked *first*. Knowledge above practice, meditation above knowledge, and above meditation the renunciation of fruit, with peace immediately after. The ranking puzzles on first reading; Śaṅkara treats it as praise meant to rouse interest in the humblest discipline. Read practically, the point holds: rote practice, book-knowledge, even meditation can all be performed by an ego still gripping its outcomes, while phala-tyāga is the grip itself released. And the timing claim is bold: śāntir anantaram — peace not after lifetimes, but immediately. The hand opens; the war ends.",
    "connection": "Re-values the ladder of 12.8–11: the humblest rung touches the goal most directly — and opens the portrait that follows.",
-   "schools_note": "The ascending ranking that ends with fruit-renunciation above meditation puzzled every commentator. Shankara resolves it as ranking for the one unable to do the prior practice (a descent restated as ascent); Ramanuja reads it as praise of karma-phala-tyaga as the safest universal means; Madhusudana as rhetorical climax. Practitioners across schools converge on its lived sense: the simplest release yields the most immediate peace.",
    "reflection": "Take the shortcut hidden at the bottom today: renounce one outcome and collect the immediate peace.",
-   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace."
+   "background": "A ladder is lowered rung by rung to every capacity: fix mind and intellect in Me and dwell in Me — if you cannot, reach Me by repeated practice; if not that, work for My sake; if even that is beyond you, then do your duty and renounce the fruit — for the renunciation of fruit brings immediate peace.",
+   "checked": "SGV",
+   "hook": "Why does letting go of results bring peace faster than knowledge or meditation?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "The ranking is praise, meant to rouse interest: as present-day Brahmins are honoured by the story of Agastya drinking the sea, the unenlightened man's renunciation of fruit shares in the glory of the sage's renunciation of all desire."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Read as steps in reverse: works done without desire destroy sin and bring peace; peace makes meditation on the self possible; meditation gives self-realisation; and from that comes supreme devotion."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Reads a causal chain: knowledge, the mind's entry into the Lord, makes absorption possible, and only then can one renounce fruits, for how could one renounce in what is unknown? So knowledge is the root."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The verse orders the stages: mechanical ritual is lower than spiritual knowledge, knowledge lower than meditation that controls the mind, and that leads to giving up the fruits of action, which brings peace."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -406,27 +1512,105 @@
    "translation": "He who hates no creature, who is friendly and compassionate to all, who is free from attachment and egoism, balanced in pleasure and pain, and forgiving.",
    "anvaya": [
     {
-     "word": "अद्वेष्टा सर्वभूतानां",
-     "meaning": "non-hating toward all beings"
+     "word": "अद्वेष्टा",
+     "meaning": "one who hates no one",
+     "base": "अद्वेष्टृ · non-hater",
+     "form": "agent noun, masculine, nominative singular",
+     "parts": "अ (not) + द्वेष्टृ (hater, from √द्विष्): one who does not hate",
+     "iast": "adveṣṭā"
     },
     {
-     "word": "मैत्रः करुणः एव च",
-     "meaning": "friendly, and compassionate"
+     "word": "सर्वभूतानाम्",
+     "meaning": "toward all beings",
+     "base": "सर्वभूत · all beings",
+     "form": "noun, neuter, genitive plural (of/toward)",
+     "parts": "सर्व (all) + भूत (being): all beings",
+     "iast": "sarvabhūtānām"
     },
     {
-     "word": "निर्ममः निरहङ्कारः",
-     "meaning": "without mine-ness, without ego"
+     "word": "मैत्रः",
+     "meaning": "friendly",
+     "base": "मैत्र · friendly",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "maitraḥ"
     },
     {
-     "word": "समदुःखसुखः क्षमी",
-     "meaning": "equal in sorrow and joy, forbearing"
+     "word": "करुणः",
+     "meaning": "compassionate",
+     "base": "करुण · compassionate",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "karuṇaḥ"
+    },
+    {
+     "word": "एव",
+     "meaning": "alone, only, indeed",
+     "base": "only, indeed (emphasis)",
+     "form": "indeclinable particle",
+     "iast": "eva"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "निर्ममः",
+     "meaning": "free of 'mine'",
+     "base": "निर्मम · without possessiveness",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "निर् (without) + मम (mine): one without the sense of 'mine'",
+     "iast": "nirmamaḥ"
+    },
+    {
+     "word": "निरहङ्कारः",
+     "meaning": "free of ego",
+     "base": "निरहङ्कार · without I-sense",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "निर् (without) + अहङ्कार (I-maker, ego): one without the sense of 'I'",
+     "iast": "nirahaṅkāraḥ"
+    },
+    {
+     "word": "समदुःखसुखः",
+     "meaning": "even in pain and pleasure",
+     "base": "समदुःखसुख · same in sorrow and joy",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "सम (same) + दुःख (pain) + सुख (pleasure): one to whom pain and pleasure are the same",
+     "iast": "samaduḥkhasukhaḥ"
+    },
+    {
+     "word": "क्षमी",
+     "meaning": "forgiving, forbearing",
+     "base": "क्षमिन् · patient, forgiving",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "kṣamī"
     }
    ],
-   "explanation": "The beloved-devotee portrait begins (12.13–19) — the Gita's most cherished passage, recited daily across centuries. First the foundation, and it is social before it is mystical: adveṣṭā, hating no one — not even those who qualify. Then maitra, karuṇa: friendship and compassion as default settings. The saint is described entirely by how it feels to be near them. Adveshta sarva-bhutanam — the beloved-devotee portrait opens, the passage Gandhi recited every evening for decades and called his daily mirror. The first credential is negative — hating none — then maitrah karunah, friendly, compassionate. The tradition notes what is absent from the entire portrait: no austerities, no visions, no learning. The saint is described entirely as a way of being-with.",
+   "explanation": "The beloved-devotee portrait begins (12.13–19), one of the Gita's most cherished passages. First the foundation, and it is social before it is mystical: adveṣṭā sarva-bhūtānām, hating no being — not even those who might seem to qualify. Then maitraḥ, karuṇaḥ: friendship and compassion as default settings. Then the two inner releases, nirmamaḥ and nirahaṅkāraḥ, free of 'mine' and of 'I', and the evenness and forbearance that follow from them. Notice what is absent from the whole portrait: no austerities, no visions, no learning. The saint is described entirely by how it feels to be near them.",
    "connection": "Opens the answer to an unasked question: what does 12.12's released person actually look like?",
-   "schools_note": null,
    "reflection": "Run the foundation check today: hating no being, friendly, compassionate — begin the portrait there.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "SGV",
+   "hook": "How does a devotee dear to God treat others and the self?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "He hates nothing, not even what causes him sorrow, because he sees all beings as his own Self; compassionate, he grants safety to every creature, as a monk does."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "He does not hate even those who wrong him, thinking the Lord moves them to it so that his own past faults are worked off; the portrait describes the karma-yogin who worships through his work."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Sorts the three by who is met: no hatred toward those above, friendship toward equals, compassion toward those below."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Verses 13 to 19 describe the devotees God loves: free of malice since all are parts of God, kind and compassionate, humble and free of pride, even in joy and sorrow, and quick to forgive."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -435,30 +1619,121 @@
    "devanagari": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः ।\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः॥",
    "transliteration": "santuṣṭaḥ satataṃ yogī yatātmā dṛḍhaniścayaḥ\nmayyarpitamanobuddhiryo madbhaktaḥ sa me priyaḥ",
    "essence": "— ever content, a yogi, self-governed, of firm resolve, with mind and understanding offered to me: that devotee of mine is dear to me.",
-   "translation": "Ever content, steady in meditation, self-controlled, possessed of firm conviction, with the mind and intellect dedicated to Me, he, My devtoee, is dear to Me.",
+   "translation": "Ever content, steady in meditation, self-controlled, possessed of firm conviction, with the mind and intellect dedicated to Me, he, My devotee, is dear to Me.",
    "anvaya": [
     {
-     "word": "सन्तुष्टः सततं योगी",
-     "meaning": "ever content, a yogi"
+     "word": "सन्तुष्टः",
+     "meaning": "content",
+     "base": "सम् + √तुष् · to be satisfied",
+     "form": "past participle, masculine, nominative singular (contented)",
+     "iast": "santuṣṭaḥ"
     },
     {
-     "word": "यतात्मा दृढनिश्चयः",
-     "meaning": "self-controlled, of firm conviction"
+     "word": "सततम्",
+     "meaning": "always",
+     "base": "सतत · constant",
+     "form": "indeclinable adverb",
+     "iast": "satatam"
     },
     {
-     "word": "मयि अर्पितमनोबुद्धिः",
-     "meaning": "with mind and understanding offered to me"
+     "word": "योगी",
+     "meaning": "a yogi",
+     "base": "योगिन् · one practising yoga",
+     "form": "noun, masculine, nominative singular",
+     "iast": "yogī"
     },
     {
-     "word": "यः मद्भक्तः सः मे प्रियः",
-     "meaning": "who is my devotee — that one is dear to me"
+     "word": "यतात्मा",
+     "meaning": "self-controlled",
+     "base": "यतात्मन् · whose self is restrained",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "यत (restrained) + आत्मन् (self): one whose self is restrained",
+     "iast": "yatātmā"
+    },
+    {
+     "word": "दृढनिश्चयः",
+     "meaning": "firm in conviction",
+     "base": "दृढनिश्चय · of firm resolve",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "दृढ (firm) + निश्चय (conviction): one whose conviction is firm",
+     "iast": "dṛḍhaniścayaḥ"
+    },
+    {
+     "word": "मयि",
+     "meaning": "in me, on me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, locative singular (in/on)",
+     "iast": "mayi"
+    },
+    {
+     "word": "अर्पितमनोबुद्धिः",
+     "meaning": "with mind and intellect offered",
+     "base": "अर्पितमनोबुद्धि · who has offered mind and intellect",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अर्पित (offered) + मनस् (mind) + बुद्धि (intellect): one whose mind and intellect are offered",
+     "iast": "arpitamanobuddhiḥ"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "मद्भक्तः",
+     "meaning": "my devotee",
+     "base": "मद्भक्त · devotee of mine",
+     "form": "noun, masculine, nominative singular",
+     "parts": "मद् (me) + भक्त (devotee): a devotee of me",
+     "iast": "madbhaktaḥ"
+    },
+    {
+     "word": "सः",
+     "meaning": "that one, he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive/dative singular, short form (to/for me)",
+     "iast": "me"
+    },
+    {
+     "word": "प्रियः",
+     "meaning": "dear",
+     "base": "प्रिय · dear, beloved",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "priyaḥ"
     }
    ],
-   "explanation": "Santuṣṭaḥ satatam — content *always*, contentment uncoupled from supply. Dṛḍha-niścayaḥ: gentleness, the portrait insists, is not vagueness; the soft-hearted devotee has a spine of resolve. And then the refrain enters that will toll through seven verses: sa me priyaḥ — that one is dear to me. God confessing, repeatedly, whom he loves.",
+   "explanation": "Santuṣṭaḥ satatam — content *always*, contentment uncoupled from supply. Dṛḍha-niścayaḥ: gentleness, the portrait insists, is not vagueness; the soft-hearted devotee has a spine of resolve. And then the refrain enters that will toll through the rest of the chapter: sa me priyaḥ — that one is dear to me. God confessing, repeatedly, whom he loves.",
    "connection": "First sounding of the chapter's refrain — the divine 'dear to me' that structures 12.14–19.",
-   "schools_note": null,
    "reflection": "Be content once today with what is, while staying firm about what you are doing — both at once.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "SGV",
+   "hook": "What inner qualities make a devotee dear to God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "This verse spells out what 7.17 hinted, that the man of knowledge is very dear to the Lord; his 'firm conviction' concerns the reality of the Self."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The yogi here ever contemplates the self as distinct from the body, and offers mind and reason in the conviction that Vāsudeva, pleased by selfless work, will grant the vision of the self."
+    },
+    {
+     "lens": "shaiva",
+     "text": "He is a yogi at all times because his inner faculty stays completely quiet even while he is busy with worldly dealings."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "These devotees are content because they want little, steadily absorbed in God, self-controlled, firm in conviction from scripture and the Guru, and have given mind and intellect to God, so the rest of life follows."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -470,27 +1745,149 @@
    "translation": "He by whom the world is not agitated and who cannot be agitated by the world, and who is freed from joy, anger, fear and anxiety he is dear to Me.",
    "anvaya": [
     {
-     "word": "यस्मात् न उद्विजते लोकः",
-     "meaning": "from whom the world does not shrink"
+     "word": "यस्मात्",
+     "meaning": "from whom",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, ablative singular (from)",
+     "iast": "yasmāt"
     },
     {
-     "word": "लोकात् न उद्विजते च यः",
-     "meaning": "and who does not shrink from the world"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "उद्विजते",
+     "meaning": "is agitated, shrinks",
+     "base": "उद् + √विज् · to tremble, be agitated",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "udvijate"
+    },
+    {
+     "word": "लोकः",
+     "meaning": "the world, people",
+     "base": "लोक · world, people",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "lokaḥ"
+    },
+    {
+     "word": "लोकात्",
+     "meaning": "from the world",
+     "base": "लोक · world, people",
+     "form": "noun, masculine, ablative singular (from)",
+     "iast": "lokāt"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "उद्विजते",
+     "meaning": "is agitated, shrinks",
+     "base": "उद् + √विज् · to tremble, be agitated",
+     "form": "verb, present, 3rd person singular (middle voice)",
+     "iast": "udvijate"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
     },
     {
      "word": "हर्षामर्षभयोद्वेगैः",
-     "meaning": "from elation, impatience, fear, agitation"
+     "meaning": "from elation, impatience, fear and anxiety",
+     "base": "हर्षामर्षभयोद्वेग · joy, intolerance, fear, distress",
+     "form": "noun, masculine, instrumental plural (from, with मुक्तः)",
+     "parts": "हर्ष (elation) + अमर्ष (impatience) + भय (fear) + उद्वेग (anxiety): a list of four, joined by 'and'",
+     "iast": "harṣāmarṣabhayodvegaiḥ"
     },
     {
-     "word": "मुक्तः यः सः च मे प्रियः",
-     "meaning": "who is freed — that one too is dear to me"
+     "word": "मुक्तः",
+     "meaning": "freed",
+     "base": "√मुच् · to release",
+     "form": "past participle, masculine, nominative singular (freed)",
+     "iast": "muktaḥ"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "सः",
+     "meaning": "that one, he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive/dative singular, short form (to/for me)",
+     "iast": "me"
+    },
+    {
+     "word": "प्रियः",
+     "meaning": "dear",
+     "base": "प्रिय · dear, beloved",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "priyaḥ"
     }
    ],
-   "explanation": "A two-way peace treaty with existence: na udvijate, twice — the world is not disturbed by them, they are not disturbed by the world. Such a person is, in the deepest sense, *safe* — safe to be around, safe inside themselves. The four named turbulences (thrill, irritation, fear, anxiety) are the weather they no longer generate or import. Yasman nodvijate loko — from whom the world does not shrink, and who does not shrink from the world: the double-direction peace the commentaries call the social test of realization. Harshamarsha-bhayodvegair muktah — free of the four turbulences. Jnaneshwar's gloss is loved: such a one is like a lake so still the village finally sees its own face in it.",
+   "explanation": "A two-way peace treaty with existence: na udvijate, twice — the world is not disturbed by them, and they are not disturbed by the world. Such a person is, in the deepest sense, *safe* — safe to be around, safe inside themselves. Then harṣāmarṣa-bhayodvegair muktaḥ: free of four named turbulences — elation, impatience, fear and anxiety — the weather they no longer generate or import. It is the portrait's social test: the realized person shows up first as someone no creature needs to fear.",
    "connection": "The portrait's social test: the devotee as a still point the world can rest near.",
-   "schools_note": null,
    "reflection": "Aim at the double peace today: agitate no one, and let no one's agitation move into you.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "SGV",
+   "hook": "Who neither disturbs the world nor is disturbed by it?",
+   "refs": [
+    {
+     "source": "Bhāgavatam 5.18.12",
+     "note": "All divine virtues appear in those devoted to the Lord, while the undevoted, whatever methods they try, chase their own minds; it explains why these qualities grow in devotees."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Glosses the four: harṣa is elation at gaining something dear, showing as thrilled hair and tears; amarṣa is intolerance; bhaya is fright; udvega is distress."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "He fears no one because he is certain he bears the world no enmity; so he neither favours some nor bristles at others."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Takes amarṣa as intolerance of another's gain, and udvega as the mind's agitation that fear and the rest produce."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Good qualities are the soul's natural state and shine once devotion cleans the mind; such devotees harm no one, stay gentle toward those who harm them, and are free of fear and anxiety because they are detached and accept God's will."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -502,27 +1899,111 @@
    "translation": "He who is free from wants, pure, expert, unconcerned, and free from pain, renouncing all undertakings or commencements he who is (thus) devoted to Me, is dear to Me.",
    "anvaya": [
     {
-     "word": "अनपेक्षः शुचिः दक्षः",
-     "meaning": "expectation-free, pure, skillful"
+     "word": "अनपेक्षः",
+     "meaning": "free of expectation",
+     "base": "अनपेक्ष · without longing",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अन् (without) + अपेक्षा (expectation): one without expectations",
+     "iast": "anapekṣaḥ"
     },
     {
-     "word": "उदासीनः गतव्यथः",
-     "meaning": "impartial, with anguish gone"
+     "word": "शुचिः",
+     "meaning": "pure",
+     "base": "शुचि · pure, clean",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "śuciḥ"
+    },
+    {
+     "word": "दक्षः",
+     "meaning": "skilful, capable",
+     "base": "दक्ष · able, dextrous",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "dakṣaḥ"
+    },
+    {
+     "word": "उदासीनः",
+     "meaning": "impartial, unconcerned",
+     "base": "उद् + √आस् · to sit apart",
+     "form": "adjective (participle), masculine, nominative singular",
+     "iast": "udāsīnaḥ"
+    },
+    {
+     "word": "गतव्यथः",
+     "meaning": "free of distress",
+     "base": "गतव्यथ · whose pain has gone",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "गत (gone) + व्यथा (distress): one whose distress has gone",
+     "iast": "gatavyathaḥ"
     },
     {
      "word": "सर्वारम्भपरित्यागी",
-     "meaning": "renouncer of all (selfish) undertakings"
+     "meaning": "renouncer of all (self-seeking) undertakings",
+     "base": "सर्वारम्भपरित्यागिन् · giving up every undertaking",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "सर्व (all) + आरम्भ (undertaking) + परित्यागिन् (one who gives up): one who gives up all undertakings",
+     "iast": "sarvārambhaparityāgī"
     },
     {
-     "word": "यः मद्भक्तः सः मे प्रियः",
-     "meaning": "who is my devotee — that one is dear to me"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "मद्भक्तः",
+     "meaning": "my devotee",
+     "base": "मद्भक्त · devotee of mine",
+     "form": "noun, masculine, nominative singular",
+     "parts": "मद् (me) + भक्त (devotee): a devotee of me",
+     "iast": "madbhaktaḥ"
+    },
+    {
+     "word": "सः",
+     "meaning": "that one, he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive/dative singular, short form (to/for me)",
+     "iast": "me"
+    },
+    {
+     "word": "प्रियः",
+     "meaning": "dear",
+     "base": "प्रिय · dear, beloved",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "priyaḥ"
     }
    ],
    "explanation": "Note dakṣaḥ — *skillful*, expert: the beloved devotee is not vague or otherworldly but competent, sharp at their work; holiness here includes craftsmanship. Anapekṣaḥ, expecting nothing: the quiet engine of all the rest. Sarvārambha-parityāgī: not the end of activity, but of the scheming kind — projects launched to inflate a self.",
    "connection": "Corrects the stereotype mid-portrait: detachment wedded to excellence.",
-   "schools_note": null,
    "reflection": "Pair purity with skill today — be the devotee who is also simply excellent at the work.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "SGV",
+   "hook": "What kind of person, expecting nothing for themselves, is dear to God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Dakṣa is one who grasps promptly and rightly the duty at hand; udāsīna is the monk who takes no side; the undertakings given up are works begun for results here or hereafter."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "Reads each word against scripture: pure by eating what the śāstra allows, expert in the rites it prescribes, and giving up every undertaking it does not require."
+    },
+    {
+     "lens": "practice",
+     "text": "His skill comes from having merged his will in the cosmic will: with no personal preference in the way, he acts swiftly and well."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Devotees rich in love for God are indifferent to worldly gain, pure inside and out, skilful because they treat work as service, carefree in his protection, and free of selfish motives."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -530,31 +2011,142 @@
    "speaker": null,
    "devanagari": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति ।\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः॥",
    "transliteration": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati\nśubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ",
-   "essence": "One who neither rejoices nor hates, neither grieves nor craves, who has renounced both the pleasant and the unpleasant — full of devotion, that one is dear to me.",
+   "essence": "One who neither rejoices nor hates, neither grieves nor craves, who has given up both good and evil deeds — full of devotion, that one is dear to me.",
    "translation": "He who neither rejoices, nor hates, nor grieves, nor desires, renouncing good and evil, and who is full of devotion, is dear to Me.",
    "anvaya": [
     {
-     "word": "यः न हृष्यति न द्वेष्टि",
-     "meaning": "who neither exults nor hates"
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
     },
     {
-     "word": "न शोचति न काङ्क्षति",
-     "meaning": "neither grieves nor craves"
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "हृष्यति",
+     "meaning": "rejoices, exults",
+     "base": "√हृष् · to rejoice, thrill",
+     "form": "verb, present, 3rd person singular",
+     "iast": "hṛṣyati"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "द्वेष्टि",
+     "meaning": "hates",
+     "base": "√द्विष् · to hate",
+     "form": "verb, present, 3rd person singular",
+     "iast": "dveṣṭi"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "शोचति",
+     "meaning": "grieves",
+     "base": "√शुच् · to grieve",
+     "form": "verb, present, 3rd person singular",
+     "iast": "śocati"
+    },
+    {
+     "word": "न",
+     "meaning": "not",
+     "base": "not",
+     "form": "indeclinable negative particle",
+     "iast": "na"
+    },
+    {
+     "word": "काङ्क्षति",
+     "meaning": "craves",
+     "base": "√काङ्क्ष् · to long for",
+     "form": "verb, present, 3rd person singular",
+     "iast": "kāṅkṣati"
     },
     {
      "word": "शुभाशुभपरित्यागी",
-     "meaning": "renouncer of the pleasant and unpleasant"
+     "meaning": "who gives up good and evil",
+     "base": "शुभाशुभपरित्यागिन् · renouncer of good and bad",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "शुभ (good) + अशुभ (evil) + परित्यागिन् (one who gives up): one who gives up both good and evil deeds",
+     "iast": "śubhāśubhaparityāgī"
     },
     {
-     "word": "भक्तिमान् यः सः मे प्रियः",
-     "meaning": "who is full of devotion — that one is dear to me"
+     "word": "भक्तिमान्",
+     "meaning": "full of devotion",
+     "base": "भक्तिमत् · possessing devotion",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "bhaktimān"
+    },
+    {
+     "word": "यः",
+     "meaning": "who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "yaḥ"
+    },
+    {
+     "word": "सः",
+     "meaning": "that one, he",
+     "base": "तद् · that, he",
+     "form": "pronoun, masculine, nominative singular (subject)",
+     "iast": "saḥ"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive/dative singular, short form (to/for me)",
+     "iast": "me"
+    },
+    {
+     "word": "प्रियः",
+     "meaning": "dear",
+     "base": "प्रिय · dear, beloved",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "priyaḥ"
     }
    ],
    "explanation": "Four verbs of the heart's old weather — exulting, hating, mourning, wanting — all quieted; even the moral seesaw of śubha and aśubha set down. What remains when all that is renounced? The verse answers in one word, placed like a signature: bhaktimān — *full of love*. The emptying was never toward emptiness; everything else left so that devotion could have the whole house.",
    "connection": "The portrait's secret revealed: every renunciation listed was making room for love.",
-   "schools_note": null,
    "reflection": "Make room for love today by quieting one of the four: exulting, hating, grieving, craving.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "GV",
+   "hook": "Who rises above joy and grief, craving and hatred?",
+   "refs": [
+    {
+     "source": "Nārada Bhakti Sūtra 5",
+     "note": "One who attains divine love neither craves nor grieves, neither hates nor delights in worldly things; this matches the devotee who neither rejoices nor laments."
+    }
+   ],
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Each verb has its object: no joy at gaining the coveted, no fretting at meeting the unwanted, no lament at losing the dear, no hankering for what is not yet had."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "He gives up merit as well as demerit, because merit binds just as surely as demerit; there is no difference between them in this respect."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Devotees steeped in God's bliss rise above worldly pleasure and despair, give up both sinful and merely ritual action by offering everything to God, and are filled with a love that keeps growing."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -563,30 +2155,99 @@
    "devanagari": "समः शत्रौ च मित्रे च तथा मानापमानयोः ।\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः॥",
    "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ",
    "essence": "Equal toward enemy and friend, and in honor and disgrace; equal in cold and heat, joy and sorrow; free of attachment —",
-   "translation": "Swami Sivananda did not comment on this sloka",
+   "translation": "He who is the same to foe and friend, and also in honor and dishonor, who is the same in cold and heat, in pleasure and pain, and who is free from attachment.",
    "anvaya": [
     {
-     "word": "समः शत्रौ च मित्रे च",
-     "meaning": "equal toward enemy and friend"
+     "word": "समः",
+     "meaning": "the same, equal",
+     "base": "सम · same, even",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "samaḥ"
     },
     {
-     "word": "तथा मानापमानयोः",
-     "meaning": "likewise in honor and dishonor"
+     "word": "शत्रौ",
+     "meaning": "toward an enemy",
+     "base": "शत्रु · enemy",
+     "form": "noun, masculine, locative singular (toward)",
+     "iast": "śatrau"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "मित्रे",
+     "meaning": "toward a friend",
+     "base": "मित्र · friend",
+     "form": "noun, neuter, locative singular (toward)",
+     "iast": "mitre"
+    },
+    {
+     "word": "च",
+     "meaning": "and",
+     "base": "and, also",
+     "form": "indeclinable conjunction",
+     "iast": "ca"
+    },
+    {
+     "word": "तथा",
+     "meaning": "likewise",
+     "base": "so, likewise",
+     "form": "indeclinable adverb",
+     "iast": "tathā"
+    },
+    {
+     "word": "मानापमानयोः",
+     "meaning": "in honour and dishonour",
+     "base": "मानापमान · honour and insult",
+     "form": "noun, masculine, locative dual (in)",
+     "parts": "मान (honour) + अपमान (dishonour): honour and dishonour, joined by 'and'",
+     "iast": "mānāpamānayoḥ"
     },
     {
      "word": "शीतोष्णसुखदुःखेषु",
-     "meaning": "in cold-heat, joy-sorrow"
+     "meaning": "in cold and heat, joy and sorrow",
+     "base": "शीतोष्णसुखदुःख · cold, heat, pleasure, pain",
+     "form": "noun, neuter, locative plural (in)",
+     "parts": "शीत (cold) + उष्ण (heat) + सुख (joy) + दुःख (sorrow): a list of four, joined by 'and'",
+     "iast": "śītoṣṇasukhaduḥkheṣu"
     },
     {
-     "word": "समः सङ्गविवर्जितः",
-     "meaning": "equal, free from attachment"
+     "word": "समः",
+     "meaning": "the same, equal",
+     "base": "सम · same, even",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "samaḥ"
+    },
+    {
+     "word": "सङ्गविवर्जितः",
+     "meaning": "free from attachment",
+     "base": "सङ्गविवर्जित · devoid of attachment",
+     "form": "adjective (past participle), masculine, nominative singular",
+     "parts": "सङ्ग (attachment) + विवर्जित (freed from): one freed from attachment",
+     "iast": "saṅgavivarjitaḥ"
     }
    ],
    "explanation": "The equality ladder climbs its full height: weather (cold-heat), feeling (joy-sorrow), reputation (honor-disgrace), and at the top the steepest rung — śatrau ca mitre ca, enemy and friend met with the same face. For Arjuna, looking across a field at men who are precisely both, the phrase is not abstract ethics; it is his Tuesday.",
    "connection": "The evenness of chapters 2–6 returns — now as a lover's trait rather than a technique.",
-   "schools_note": null,
    "reflection": "Try one hour of the steep equality: the same inner face toward a friend and toward a difficult one.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "SV",
+   "text_note": "The translation of this verse was missing in the source dataset; it is taken from the Sivananda text in the gita/gita dataset.",
+   "hook": "How does a true devotee stand before friend and foe, honor and insult?",
+   "views": [
+    {
+     "lens": "vishishtadvaita",
+     "text": "Goes beyond the general non-hatred of 12.13: this is evenness kept up while foe and friend are actually standing before one, the mark of a more advanced devotee."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "The devotee is equal to friend and foe, as Prahlāda judged his own son and his Guru's son without bias, and is unmoved by honor, dishonor, heat or cold because the mind is absorbed in God."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -595,30 +2256,109 @@
    "devanagari": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः॥",
    "transliteration": "tulyanindāstutirmaunī santuṣṭo yena kenacit\naniketaḥ sthiramatirbhaktimānme priyo naraḥ",
    "essence": "— alike in blame and praise, silent, content with whatever comes, homeless, steady-minded, full of devotion: that one is dear to me.",
-   "translation": "He to whom censure and praise are eal, who is silent, content with anything, homeless, of a steady mind, and full of devotion that man is dear to Me.",
+   "translation": "He to whom censure and praise are equal, who is silent, content with anything, homeless, of a steady mind, and full of devotion that man is dear to Me.",
    "anvaya": [
     {
-     "word": "तुल्यनिन्दास्तुतिः मौनी",
-     "meaning": "alike in blame and praise, silent"
+     "word": "तुल्यनिन्दास्तुतिः",
+     "meaning": "alike in blame and praise",
+     "base": "तुल्यनिन्दास्तुति · same in censure and praise",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "तुल्य (equal) + निन्दा (blame) + स्तुति (praise): one to whom blame and praise are equal",
+     "iast": "tulyanindāstutiḥ"
     },
     {
-     "word": "सन्तुष्टः येन केनचित्",
-     "meaning": "content with whatever (comes)"
+     "word": "मौनी",
+     "meaning": "silent, restrained in speech",
+     "base": "मौनिन् · one who keeps silence",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "maunī"
     },
     {
-     "word": "अनिकेतः स्थिरमतिः",
-     "meaning": "without a home, of steady mind"
+     "word": "सन्तुष्टः",
+     "meaning": "content",
+     "base": "सम् + √तुष् · to be satisfied",
+     "form": "past participle, masculine, nominative singular (contented)",
+     "iast": "santuṣṭaḥ"
     },
     {
-     "word": "भक्तिमान् मे प्रियः नरः",
-     "meaning": "full of devotion — dear to me is that person"
+     "word": "येन",
+     "meaning": "with whatever",
+     "base": "यद् · who, which",
+     "form": "pronoun, neuter, instrumental singular (with)",
+     "iast": "yena"
+    },
+    {
+     "word": "केनचित्",
+     "meaning": "anything at all",
+     "base": "किम् + चित् · anyone, anything",
+     "form": "indefinite pronoun, neuter, instrumental singular (with)",
+     "iast": "kenacit"
+    },
+    {
+     "word": "अनिकेतः",
+     "meaning": "homeless",
+     "base": "अनिकेत · without a fixed home",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "अ (without) + निकेत (dwelling): one without a fixed dwelling",
+     "iast": "aniketaḥ"
+    },
+    {
+     "word": "स्थिरमतिः",
+     "meaning": "steady-minded",
+     "base": "स्थिरमति · of steady mind",
+     "form": "adjective, masculine, nominative singular",
+     "parts": "स्थिर (steady) + मति (mind, thought): one whose mind is steady",
+     "iast": "sthiramatiḥ"
+    },
+    {
+     "word": "भक्तिमान्",
+     "meaning": "full of devotion",
+     "base": "भक्तिमत् · possessing devotion",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "bhaktimān"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive/dative singular, short form (to/for me)",
+     "iast": "me"
+    },
+    {
+     "word": "प्रियः",
+     "meaning": "dear",
+     "base": "प्रिय · dear, beloved",
+     "form": "adjective, masculine, nominative singular",
+     "iast": "priyaḥ"
+    },
+    {
+     "word": "नरः",
+     "meaning": "a person",
+     "base": "नर · man, person",
+     "form": "noun, masculine, nominative singular (subject)",
+     "iast": "naraḥ"
     }
    ],
    "explanation": "The portrait's last strokes: tulya-nindā-stutiḥ — the two voices that rule most lives, criticism and applause, finally at the same volume; maunī, the silence of one with nothing to defend; aniketaḥ, homeless — read literally by renunciants, inwardly by householders: at home everywhere because rooted nowhere circumstantial. And once more, bhaktimān: love, the trait the list cannot stop repeating.",
    "connection": "Completes the seven-verse portrait — before 12.20 turns it into an invitation.",
-   "schools_note": null,
    "reflection": "Turn praise and blame to the same volume for one day — and find home wherever you are standing.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "GV",
+   "hook": "How does a true devotee respond to praise, blame and having little?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "Content with whatever keeps the body going; homeless, with no fixed residence. Devotion is named again and again in this chapter because it is the means to knowledge."
+    },
+    {
+     "lens": "shaiva",
+     "text": "Takes aniketa as one with no fixed resolve in worldly life, no 'this alone must be done by me'; such a person takes pleasure and pain as they come."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Love for God burns so brightly in the devotee that praise and blame, comfort and hardship lose their hold; like Ramakrishna facing illness, such a person does not pull the mind away from God."
+    }
+   ]
   },
   {
    "chapter": 12,
@@ -630,27 +2370,124 @@
    "translation": "They verily who follow this immortal Dharma (law or doctrine) as described above, endowed with faith, regarding Me as their supreme goal, they, the devotees, are exceedingly dear to Me.",
    "anvaya": [
     {
-     "word": "ये तु धर्म्यामृतम् इदं",
-     "meaning": "but those who this nectar of dharma"
+     "word": "ये",
+     "meaning": "those who",
+     "base": "यद् · who, which",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "ye"
     },
     {
-     "word": "यथोक्तं पर्युपासते",
-     "meaning": "as declared, devotedly follow"
+     "word": "तु",
+     "meaning": "but",
+     "base": "but, on the other hand",
+     "form": "indeclinable particle",
+     "iast": "tu"
     },
     {
-     "word": "श्रद्दधानाः मत्परमाः",
-     "meaning": "full of faith, holding me supreme"
+     "word": "धर्म्यामृतम्",
+     "meaning": "nectar of dharma",
+     "base": "धर्म्यामृत · righteous nectar",
+     "form": "noun, neuter, accusative singular (object)",
+     "parts": "धर्म्य (in accord with dharma) + अमृत (nectar of immortality): the nectar that is one with dharma",
+     "iast": "dharmyāmṛtam"
     },
     {
-     "word": "भक्ताः ते अतीव मे प्रियाः",
-     "meaning": "those devotees are exceedingly dear to me"
+     "word": "इदम्",
+     "meaning": "this",
+     "base": "इदम् · this",
+     "form": "pronoun, neuter, accusative singular (object)",
+     "iast": "idam"
+    },
+    {
+     "word": "यथोक्तम्",
+     "meaning": "as declared",
+     "base": "यथोक्त · as said",
+     "form": "indeclinable adverb",
+     "parts": "यथा (as) + उक्त (said): as it has been said",
+     "iast": "yathoktam"
+    },
+    {
+     "word": "पर्युपासते",
+     "meaning": "worship, devotedly attend",
+     "base": "परि + उप + √आस् · to worship all around, honour",
+     "form": "verb, present, 3rd person plural (middle voice)",
+     "iast": "paryupāsate"
+    },
+    {
+     "word": "श्रद्दधानाः",
+     "meaning": "having faith",
+     "base": "श्रत् + √धा · to place trust",
+     "form": "present participle, masculine, nominative plural (trusting)",
+     "iast": "śraddadhānāḥ"
+    },
+    {
+     "word": "मत्परमाः",
+     "meaning": "holding me supreme",
+     "base": "मत्परम · having me as highest",
+     "form": "adjective, masculine, nominative plural",
+     "parts": "मत् (me) + परम (highest): those for whom I am the highest",
+     "iast": "matparamāḥ"
+    },
+    {
+     "word": "भक्ताः",
+     "meaning": "devotees",
+     "base": "भक्त · devotee",
+     "form": "noun, masculine, nominative plural",
+     "iast": "bhaktāḥ"
+    },
+    {
+     "word": "ते",
+     "meaning": "they",
+     "base": "तद् · that, they",
+     "form": "pronoun, masculine, nominative plural (subject)",
+     "iast": "te"
+    },
+    {
+     "word": "अतीव",
+     "meaning": "exceedingly",
+     "base": "exceedingly, very much",
+     "form": "indeclinable adverb",
+     "iast": "atīva"
+    },
+    {
+     "word": "मे",
+     "meaning": "to me",
+     "base": "अस्मद् · I, me",
+     "form": "pronoun, genitive/dative singular, short form (to/for me)",
+     "iast": "me"
+    },
+    {
+     "word": "प्रियाः",
+     "meaning": "dear",
+     "base": "प्रिय · dear, beloved",
+     "form": "adjective, masculine, nominative plural",
+     "iast": "priyāḥ"
     }
    ],
    "explanation": "The closing widens the door: the superlative — atīva me priyāḥ, *exceedingly* dear — goes not to those who have completed the portrait but to those who paryupāsate, who keep honoring it, walking toward it with faith. The standard of 12.13–19 might discourage; this verse insures against that: the attempt itself, sincerely sustained, already receives the fullest love. The chapter ends, fittingly, mid-embrace.",
    "connection": "Seals the bhakti chapter: the portrait was the destination; faith-filled practice of it is already arrival.",
-   "schools_note": null,
    "reflection": "You need not finish the portrait to be loved — follow it with faith today, and be already exceedingly dear.",
-   "background": "The chapter closes with the portrait Gandhi recited nightly for decades — the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me."
+   "background": "The chapter closes with the portrait of the devotee dear to Krishna: hating none, friendly and compassionate, free of 'I' and 'mine', even in pleasure and pain, content, self-governed, agitating no one and unagitated, the same in honor and disgrace — and the seal: those who follow this immortal dharma with faith, holding Me supreme, are exceedingly dear to Me.",
+   "checked": "SGV",
+   "hook": "Who among devotees is dearest of all to God?",
+   "views": [
+    {
+     "lens": "advaita",
+     "text": "These are monks whose devotion is knowledge of the supreme Reality; the nectar is called so because, inseparable from virtue, it leads to immortality. The verse completes what 7.17 hinted."
+    },
+    {
+     "lens": "vishishtadvaita",
+     "text": "The nectar is the bhakti-yoga of 12.2: at once virtuous duty and nectar, since even as a means it gives the bliss of the goal. The chapter thus closes on devotion's superiority over self-contemplation."
+    },
+    {
+     "lens": "bhakti",
+     "text": "Dharma itself is nectar because it is the means to immortality; he notes that some read the compound as dharmyāmṛtam."
+    },
+    {
+     "lens": "bhaktiyoga",
+     "text": "Closing the chapter, Krishna sums up his answer: devotion to his personal form is the highest path, and those who make him their goal and live these virtues with faith are exceedingly dear to him."
+    }
+   ]
   }
  ]
 }

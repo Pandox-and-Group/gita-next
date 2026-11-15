@@ -44,26 +44,42 @@ for fully offline reading after first visit.
 ```json
 {
   "chapter": 2, "verse": 47,
-  "speaker": "श्रीभगवानुवाच",            // optional उवाच rubric
-  "devanagari": "…", "transliteration": "…",
+  "speaker": "श्रीभगवानुवाच",            // उवाच rubric, or null
+  "devanagari": "…", "transliteration": "…",   // IAST
+  "hook": "the question this verse answers",
   "essence": "one line shown on the card",
-  "translation": "Sivananda (public domain)",
-  "anvaya": [{ "word": "कर्मणि एव", "meaning": "in action alone" }],  // optional
-  "explanation": "…",                      // optional — व्याख्या
-  "connection": "…",                       // optional — link to previous verse
-  "schools_note": "…"                      // optional — दृष्टिभेद
+  "translation": "Swami Sivananda",
+  "explanation": "…",                      // व्याख्या
+  "views": [{ "lens": "advaita", "text": "…" }],   // दृष्टिभेद, see lenses below
+  "refs": [{ "source": "Kaṭha Upaniṣad 1.2.18", "note": "…" }],  // optional
+  "connection": "…", "reflection": "…", "background": "…",
+  "anvaya": [{ "word": "कर्मणि", "iast": "karmaṇi", "meaning": "in action",
+               "base": "कर्मन् · action, deed",
+               "form": "noun, neuter, locative singular (in/on)",
+               "parts": "compounds only" }],
+  "checked": "SGV",                        // editions the text matches: Supersite, GRETIL critical ed., Vedicscriptures
+  "text_note": "variant reading or data note"   // optional
 }
 ```
 
-The reader renders gracefully when optional fields are missing (shloka +
-translation only). **Chapters 1 and 2 are fully enriched** (anvaya, explanation,
-connection for all 119 verses, plus selective schools notes). To enrich
-chapters 3–18, edit the chapter JSON and add the optional fields per verse —
-no code changes needed.
+Lenses: `advaita` (Śaṅkara), `vishishtadvaita` (Rāmānuja), `shaiva` (Abhinavagupta),
+`bhakti` (Śrīdhara), `practice` (Sivananda), `bhaktiyoga` (Mukundananda). Labels live in
+`LENS` in `lib/engine.js`.
 
-## Sources
+The teaching overlay has two tabs: **teaching** (hook, translation, explanation, ways of
+seeing, scriptures cited, thread, reflection, background, sources) and **word by word**.
+All fields except the four on the card are optional and the reader skips what is missing.
+After changing anything in `public/data`, bump `V` in `public/sw.js`.
 
-- Verse text/transliteration: vedicscriptures/bhagavad-gita dataset.
-- Translation: Swami Sivananda (public domain).
-- Essence lines, anvaya, explanations, connections, school notes for ch. 1–2:
-  original prose written for this app.
+## Sources and audit
+
+All 701 verses were audited in November 2026: text against three editions, teachings
+against the classical commentaries. Method, sources, every correction and what is still
+unverified are in [docs/AUDIT.md](docs/AUDIT.md).
+
+- Verse text and transliteration: vedicscriptures/bhagavad-gita dataset, corrected against
+  Gita Supersite (IIT Kanpur) and the BORI critical edition (GRETIL).
+- Translation: Swami Sivananda.
+- Ways of seeing: paraphrased from Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Sivananda
+  and Swami Mukundananda (holy-bhagavad-gita.org), each credited on the card.
+- Hooks, essence lines, explanations, threads, reflections and word notes: written for this app.
