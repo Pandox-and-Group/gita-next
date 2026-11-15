@@ -1,6 +1,6 @@
 # गीता — a sacred book you scroll through
 
-**Live:** https://bhagawadgita.netlify.app/
+**Live:** https://gita.rpandox.com/
 
 A mobile-first reader for the Bhagavad Gita: one shloka per screen, scroll-snap
 vertical feed, tap to unfold meaning, chapter-end interstitials, quiet progress.
@@ -21,11 +21,16 @@ pnpm build && pnpm start
 
 ## Deploy
 
-Hosted on Netlify with `@netlify/plugin-nextjs` (see `netlify.toml`). Pushes to
-`main` deploy automatically to https://bhagawadgita.netlify.app/.
+Runs at https://gita.rpandox.com on the Pandox server as a small nginx container. Every push to `main` is checked,
+built into an image and deployed by CI (`.github/workflows/ci.yml`); the server side lives in `deploy/`. How it
+works, how to roll back and how it was installed: [docs/DEPLOY.md](docs/DEPLOY.md).
 
-Installable as a PWA; `public/sw.js` precaches all 18 chapter files and fonts
-for fully offline reading after first visit.
+```bash
+docker build -t gita-next . && docker run --rm -p 3400:3400 gita-next   # the production image, locally
+```
+
+Installable as a PWA; `public/sw.js` stores all 18 chapter files, the fonts and the page's own scripts for fully
+offline reading after the first visit. From a reader's second visit the app offers to install itself.
 
 ## Structure
 

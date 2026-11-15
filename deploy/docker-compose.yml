@@ -1,0 +1,32 @@
+# gita.rpandox.com on the Pandox server, run from /opt/gita (docs/DEPLOY.md). Its own compose project: nothing here
+# is shared with /opt/pandox. nginx on the host terminates TLS and proxies to 127.0.0.1:3400 (deploy/nginx/gita.conf).
+name: gita
+
+services:
+  gita:
+    # A local tag. deploy.sh pulls the image CI built by its digest and points this tag at it, so what runs is
+    # always one exact build and a rollback is a retag.
+    image: gita-next:live
+    pull_policy: never
+    container_name: gita
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    labels:
+      # The platform's Watchtower only touches labelled containers; say so explicitly for this one.
+      com.centurylinklabs.watchtower.enable: "false"
+    ports:
+      - "127.0.0.1:3400:3400"
+    mem_limit: 48m # nginx serving static files: about 8 MB in use
+    read_only: true
+    tmpfs:
+      - /tmp
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3400/healthz"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
