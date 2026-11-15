@@ -8,7 +8,7 @@ Full lists: [audit-issues.md](audit-issues.md) (every finding in the teachings) 
 
 | Source | Used for | Where |
 |---|---|---|
-| Gita Supersite, IIT Kanpur (text as carried in the gita/gita dataset) | Sanskrit text, second copy of the Sivananda translation | https://www.gitasupersite.iitk.ac.in · https://github.com/gita/gita |
+| Gita Supersite, IIT Kanpur: all 701 verses compared through the copy in the gita/gita dataset; 12 verses also checked directly on the site | Sanskrit text, second copy of the Sivananda translation | https://www.gitasupersite.iitk.ac.in · https://github.com/gita/gita |
 | Critical edition of the Mahābhārata (BORI), GRETIL e-text by M. Tokunaga, rev. J. Smith | Sanskrit text (700 verses; lacks 13.1) | https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/ext/bhgce__u.htm |
 | vedicscriptures/bhagavad-gita dataset | The app's original text and translation; the commentaries below | https://github.com/vedicscriptures/bhagavad-gita |
 | Śaṅkara, Gītā-bhāṣya (English, Swami Gambhirananda) | Advaita view; checking the teachings | in the dataset above |
@@ -32,11 +32,11 @@ Commentaries and the holy-bhagavad-gita.org text are paraphrased in a sentence o
 
 ## What changed
 
-- **Sanskrit text: 17 corrections** (list below).
-- **Transliteration: 56 verses corrected.**
-- **Translation: 142 verses** — dropped letters restored ("coneror" → "conqueror", "alities" → "qualities"), stray markers removed, six missing translations filled, and 18.45 replaced (the dataset carried 5.10's translation there).
+- **Sanskrit text: 17 corrections** (list below); counting the speaker lines moved out, 44 verse texts changed.
+- **Transliteration: 38 verses corrected.**
+- **Translation: 137 verses** — dropped letters restored ("coneror" → "conqueror", "alities" → "qualities"), stray markers removed, six missing translations filled, and 18.45 replaced (the dataset carried 5.10's translation there).
 - **Speaker lines:** 28 verses had "श्रीभगवानुवाच" inside the verse text; moved to the speaker field.
-- **Teachings:** 383 findings corrected in the text. The most common problems were claims credited to a named teacher or "the tradition" that the commentaries do not support, and explanations that were two drafts joined together.
+- **Teachings:** 383 findings corrected in the text. Fields rewritten: explanation 219, background 28, connection 20, essence 15, reflection 11 verses. The most common problems were claims credited to a named teacher or "the tradition" that the commentaries do not support, and explanations that were two drafts joined together.
 - **School notes** (the old free-text "ways of seeing", 79 findings) are replaced everywhere by view cards written from the commentaries themselves.
 - **Chapter index:** 27 corrections to names, meanings and summaries.
 
@@ -45,7 +45,7 @@ Commentaries and the holy-bhagavad-gita.org text are paraphrased in a sentence o
 - **Ways of seeing:** 2752 view cards on 699 verses — Mukundananda 685, Śaṅkara 633, Rāmānuja 567, Śrīdhara 443, Abhinavagupta 240, Sivananda 184. Śaṅkara does not comment on 1.1–2.9.
 - **Word by word:** 9009 entries; every word of every verse with its meaning, dictionary form, grammar in plain words and compound parts.
 - **Hook:** one question per verse that the verse itself answers.
-- **Scripture references:** 375 references on 246 verses, 92 of them to Upanishads, as cited in Swami Mukundananda's commentary.
+- **Scripture references:** 362 references on 240 verses, 92 of them to Upanishads, as cited in Swami Mukundananda's commentary. Where he cites “the Ramayan” without a number, the quotation is from Tulsīdās's Rāmcaritmānas and is labelled so. His 13 citations of the Bible and the Tao Te Ching were left out.
 - **Sources** shown on every verse in the reader.
 
 ## Sanskrit corrections
@@ -123,7 +123,9 @@ Commentaries and the holy-bhagavad-gita.org text are paraphrased in a sentence o
 ## Not verified — read this before relying on it
 
 - **Only the Sanskrit text, transliteration and translation were verified mechanically.** Everything else was judged by reading.
-- The reading was done by AI reviewers (Claude), one pass per verse, against commentary excerpts cut at about 2,500 characters. A point made late in a long commentary may have been missed. A sample was spot-checked by hand; not every verse.
+- The reading was done by AI reviewers (Claude), one pass per verse, against commentary excerpts cut at about 2,500 characters. A point made late in a long commentary may have been missed. A sample was spot-checked by hand; not every verse. One verse (18.45) had another verse's commentary filed under it in the dataset; the commentary labels of all verses were then checked by script and no other case was found.
+- **Background** texts are shared by groups of verses. Reviewers mostly confirmed them at a glance and corrected 26; they were not read as closely as the explanations.
+- **Hooks** were written from the Sanskrit and the translations and checked by script for form only; a sample was read by hand.
 - **Grammar** in the word lists was checked against the commentators' glosses, not against a grammar reference or a Sanskrit scholar.
 - **Scripture references** carry the chapter and verse numbers exactly as Swami Mukundananda's commentary gives them. They were not looked up in the Upanishads themselves.
 - **View cards** are paraphrases of one commentator on one verse. They are not that school's whole position.

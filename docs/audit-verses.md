@@ -57,7 +57,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 2.4 | Supersite, Critical ed., Dataset | Rāmānuja, Śrīdhara, Mukundananda | — |
 | 2.5 | Supersite, Dataset | Rāmānuja, Śrīdhara, Mukundananda | — |
 | 2.6 | Supersite, Critical ed., Dataset | Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 9.22.19; Bhāgavatam 6.3.20 |
-| 2.7 | Critical ed., Dataset | Rāmānuja, Śrīdhara, Mukundananda | Muṇḍaka Upaniṣad 1.2.12; Bhāgavatam 11.3.21; Rāmāyaṇa |
+| 2.7 | Critical ed., Dataset | Rāmānuja, Śrīdhara, Mukundananda | Muṇḍaka Upaniṣad 1.2.12; Bhāgavatam 11.3.21; Rāmcaritmānas (Tulsīdās) |
 | 2.8 | Supersite, Critical ed., Dataset | Śrīdhara, Mukundananda | — |
 | 2.9 | Supersite, Critical ed., Dataset | Rāmānuja, Mukundananda | — |
 | 2.10 | Supersite, Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Chāndogya Upaniṣad |
@@ -68,8 +68,8 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 2.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Sivananda, Mukundananda | — |
 | 2.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 1.12; Śvetāśvatara Upaniṣad 1.8; Taittirīya Upaniṣad 2.6.4 |
 | 2.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Praśna Upaniṣad 3.6; Chāndogya Upaniṣad 8.3.3; Brahma Sūtra 2.3.23 |
-| 2.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bible, Genesis 3:19 |
-| 2.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmāyaṇa; Vedas |
+| 2.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
+| 2.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās); Vedas |
 | 2.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Kaṭha Upaniṣad 1.2.18; Bṛhadāraṇyaka Upaniṣad 4.4.25 |
 | 2.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 2.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Nyāya Darśana 3.1.18; Nyāya Darśana 3.1.21 |
@@ -112,7 +112,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 2.59 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Taittirīya Upaniṣad 2.7.2 |
 | 2.60 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Bhāgavatam 9.6.50 |
 | 2.61 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bhāgavatam 9.4.18-20 |
-| 2.62 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 9.19.13; Rāmāyaṇa |
+| 2.62 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 9.19.13; Rāmcaritmānas (Tulsīdās) |
 | 2.63 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 2.64 | Supersite, Critical ed. | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 2.65 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
@@ -173,13 +173,13 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 4.5 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 4.6 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bṛhadāraṇyaka Upaniṣad 2.3.1; Padma Purāṇa |
 | 4.7 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Bhāgavatam 10.51.37; Padma Purāṇa |
-| 4.8 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Rāmāyaṇa |
+| 4.8 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 4.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 10.3.9; Bhāgavatam 10.3.8 |
-| 4.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmāyaṇa; Matthew 5.8 |
+| 4.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 4.11 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Vālmīki Rāmāyaṇa |
 | 4.12 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 4.13 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
-| 4.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Rāmāyaṇa; Bhāgavatam 10.33.35 |
+| 4.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Rāmcaritmānas (Tulsīdās); Bhāgavatam 10.33.35 |
 | 4.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 4.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 6.3.19 |
 | 4.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
@@ -200,7 +200,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 4.32 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 4.33 | Supersite, Critical ed., Dataset | Śrīdhara, Sivananda, Mukundananda | — |
 | 4.34 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Chāndogya Upaniṣad 6.14.2; Bhāgavatam 11.22.10; Bhāgavatam 7.5.32 |
-| 4.35 | Supersite, Critical ed. | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 4.35 | Supersite, Critical ed. | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 4.36 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Mukundananda | Kaṭha Upaniṣad 1.3.9 |
 | 4.37 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 4.38 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | Yoga Darśana 1.49 |
@@ -209,7 +209,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 4.41 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Mukundananda | — |
 | 4.42 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Mukundananda | — |
 | 5.1 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
-| 5.2 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 5.2 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 5.3 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 5.4 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 11.2.48 |
 | 5.5 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Sivananda, Mukundananda | Pañcadaśī |
@@ -223,16 +223,16 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 5.13 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 3.18 |
 | 5.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 5.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
-| 5.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 5.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 5.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 5.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
-| 5.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmāyaṇa; Mahābhārata |
+| 5.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās); Mahābhārata |
 | 5.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 5.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Taittirīya Upaniṣad 3.6; Bhāgavatam 7.6.23; Padma Purāṇa |
 | 5.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 5.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 5.5.1 |
 | 5.24 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Yoga Sūtra 1.48 |
-| 5.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Rāmāyaṇa |
+| 5.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 5.26 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 5.27 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | — |
 | 5.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
@@ -245,14 +245,14 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 6.6 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Dhammapada 1.3 |
 | 6.7 | Supersite, Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 6.8 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Sivananda, Mukundananda | — |
-| 6.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Īśa Upaniṣad 1; Puruṣa Sūkta; Rāmāyaṇa |
+| 6.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Īśa Upaniṣad 1; Puruṣa Sūkta; Rāmcaritmānas (Tulsīdās) |
 | 6.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
 | 6.11 | Supersite, Critical ed., Dataset | Rāmānuja, Sivananda, Mukundananda | — |
 | 6.12 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Brahma Sūtra 4.1.7; Brahma Sūtra 4.1.9; Yoga Sūtra 2.46 |
 | 6.13 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | Brahma Sūtra 4.1.7; Brahma Sūtra 4.1.9; Yoga Sūtra 2.46 |
 | 6.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Yoga Sūtra 2.38; Agni Purāṇa |
-| 6.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Rāmāyaṇa |
-| 6.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | Īśa Upaniṣad 9; Caraka Saṃhitā; Rāmāyaṇa |
+| 6.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Rāmcaritmānas (Tulsīdās) |
+| 6.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | Īśa Upaniṣad 9; Caraka Saṃhitā; Rāmcaritmānas (Tulsīdās) |
 | 6.17 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Sivananda, Mukundananda | — |
 | 6.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 6.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
@@ -297,18 +297,18 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 7.11 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 7.12 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 7.13 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
-| 7.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 4.10; Rāmāyaṇa |
+| 7.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 4.10; Rāmcaritmānas (Tulsīdās) |
 | 7.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
 | 7.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
 | 7.17 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 7.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Chaitanya Charitāmṛta, Ādi Līlā 4.166, 4.171; Nārada Bhakti Sūtra 24; Ādi Purāṇa 1.2.231 |
-| 7.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 7.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 7.20 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Mukundananda | — |
 | 7.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 7.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 7.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Sivananda, Mukundananda | — |
 | 7.24 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Padma Purāṇa, Pātāla Khaṇḍa 77.60 |
-| 7.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Viṣṇu Purāṇa 6.7.61; Rāmāyaṇa |
+| 7.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Viṣṇu Purāṇa 6.7.61; Rāmcaritmānas (Tulsīdās) |
 | 7.26 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Muṇḍaka Upaniṣad 1.1.9; Kaṭha Upaniṣad 1.2.9; Taittirīya Upaniṣad 2.9.1 |
 | 7.27 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 7.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
@@ -326,8 +326,8 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 8.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda | — |
 | 8.11 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bṛhadāraṇyaka Upaniṣad 3.8.9 |
 | 8.12 | Supersite, Critical ed. | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | — |
-| 8.13 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bible, John 1:1 |
-| 8.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 11.12.15; Rāmāyaṇa; Nārada Bhakti Sūtra 10 |
+| 8.13 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
+| 8.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 11.12.15; Rāmcaritmānas (Tulsīdās); Nārada Bhakti Sūtra 10 |
 | 8.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 8.16 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 8.17 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | — |
@@ -335,34 +335,34 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 8.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 8.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 8.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
-| 8.22 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 11.14.21; Rāmāyaṇa; Chaitanya Charitāmṛta, Madhya 22.17 |
+| 8.22 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 11.14.21; Rāmcaritmānas (Tulsīdās); Chaitanya Charitāmṛta, Madhya 22.17 |
 | 8.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 8.24 | Supersite, Critical ed. | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 8.25 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | — |
 | 8.26 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 8.27 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
-| 8.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 8.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 9.1 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 9.2 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhakti Rasāmṛta Sindhu 1.1.18 |
-| 9.3 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Bhakti Rasāmṛta Sindhu 1.4.15; 2 Corinthians 5:7 |
+| 9.3 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Bhakti Rasāmṛta Sindhu 1.4.15 |
 | 9.4 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Śvetāśvatara Upaniṣad 6.11; Īśa Upaniṣad 1; Puruṣa Sūkta |
 | 9.5 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 2.5.13 |
 | 9.6 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 9.7 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 9.8 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
-| 9.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 9.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 9.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 9.11 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Gopāla Tāpanī Upaniṣad 1.13; Ṛg Veda 1.22.164 (sūkta 31); Bhāgavatam 7.15.75 |
 | 9.12 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 9.13 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Brahma Vaivarta Purāṇa |
-| 9.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 12.3.52; Rāmāyaṇa; Bhakti Rasāmṛta Sindhu 1.2.145 |
+| 9.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 12.3.52; Rāmcaritmānas (Tulsīdās); Bhakti Rasāmṛta Sindhu 1.2.145 |
 | 9.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
-| 9.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | Rāmāyaṇa |
-| 9.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Rāmāyaṇa |
-| 9.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Subāla Śruti, mantra 6; Rāmāyaṇa |
+| 9.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | Rāmcaritmānas (Tulsīdās) |
+| 9.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Rāmcaritmānas (Tulsīdās) |
+| 9.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Subāla Śruti, mantra 6; Rāmcaritmānas (Tulsīdās) |
 | 9.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bhāgavatam 2.9.32 |
 | 9.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
-| 9.21 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bhāgavatam 11.10.26; Rāmāyaṇa; Nārada Purāṇa |
+| 9.21 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bhāgavatam 11.10.26; Rāmcaritmānas (Tulsīdās); Nārada Purāṇa |
 | 9.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 9.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 4.31.14 |
 | 9.24 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
@@ -371,7 +371,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 9.27 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Bhāgavatam 11.2.36; Nārada Bhakti Sūtra 19 |
 | 9.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 9.29 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
-| 9.30 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Rāmāyaṇa |
+| 9.30 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 9.31 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 9.32 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Śrīdhara, Sivananda, Mukundananda | Bhāgavatam 3.28.8; Padma Purāṇa |
 | 9.33 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | — |
@@ -384,7 +384,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 10.6 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 10.7 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 10.8 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Ṛg Veda 10.125.5; Bhāgavatam 1.3.28; Brahma Saṃhitā 5.48 |
-| 10.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Matthew 6:21 |
+| 10.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 10.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Kena Upaniṣad 2.3; Bṛhadāraṇyaka Upaniṣad 3.9.26; Yajur Veda |
 | 10.11 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Brahma Sūtra 3.4.38 |
 | 10.12 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Mahābhārata, Bhīṣma Parva 68 |
@@ -394,13 +394,13 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 10.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 10.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 10.18 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 1.1.19 |
-| 10.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 1.9; Rāmāyaṇa; Bhāgavatam 11.4.2 |
+| 10.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 1.9; Rāmcaritmānas (Tulsīdās); Bhāgavatam 11.4.2 |
 | 10.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Taittirīya Upaniṣad 3.1.1; Bhāgavatam 5.18.13; Bhāgavatam 10.14.55 |
-| 10.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Rāmāyaṇa |
+| 10.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 10.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Kaṭha Upaniṣad 2.2.13 |
 | 10.23 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | — |
 | 10.24 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Mukundananda | Bhāgavatam 11.16.22 |
-| 10.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Rāmāyaṇa |
+| 10.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 10.26 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 10.27 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Mukundananda | — |
 | 10.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
@@ -437,7 +437,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 11.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
 | 11.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Kaṭha Upaniṣad 1.2.15; Bhāgavatam 1.2.28 |
 | 11.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
-| 11.20 | Supersite, Dataset | Śaṅkara, Rāmānuja, Mukundananda | Rāmāyaṇa |
+| 11.20 | Supersite, Dataset | Śaṅkara, Rāmānuja, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 11.21 | Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 11.22 | Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 11.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 3.14; Kaṭha Upaniṣad 2.3.3 |
@@ -513,14 +513,14 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 13.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Kaṭha Upaniṣad 2.2.15; Vedas |
 | 13.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Muṇḍaka Upaniṣad 3.2.1; Śvetāśvatara Upaniṣad 6.23; Māṭhar Śruti |
 | 13.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Paramātma Sandarbha 39.1 |
-| 13.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 13.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 13.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 13.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Muṇḍaka Upaniṣad 3.1.1-2 |
 | 13.24 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 1.8 |
 | 13.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 4.29.49 |
 | 13.26 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bhāgavatam 1.2.17 |
 | 13.27 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
-| 13.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Śvetāśvatara Upaniṣad 6.11; Bhāgavatam 10.86.31; Rāmāyaṇa |
+| 13.28 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Śvetāśvatara Upaniṣad 6.11; Bhāgavatam 10.86.31; Rāmcaritmānas (Tulsīdās) |
 | 13.29 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 13.30 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Tantra Bhāgavata; Yoga Vāsiṣṭha |
 | 13.31 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
@@ -563,7 +563,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 15.6 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Brahma Saṃhitā 43; Brahma Saṃhitā 37 |
 | 15.7 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Kaṭha Upaniṣad 2.1.1 |
 | 15.8 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
-| 15.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Rāmāyaṇa |
+| 15.9 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 15.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 15.11 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 15.12 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Kena Upaniṣad |
@@ -587,10 +587,10 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 16.10 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
 | 16.11 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 16.12 | Supersite, Critical ed., Dataset | Śaṅkara, Abhinavagupta, Sivananda, Mukundananda | Bhāgavatam 7.14.8 |
-| 16.13 | Supersite, Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Tao Te Ching, Chapter 6; Luke 14:10-11 |
-| 16.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | Tao Te Ching, Chapter 6; Luke 14:10-11 |
-| 16.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Tao Te Ching, Chapter 6; Luke 14:10-11 |
-| 16.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmāyaṇa; Garuḍa Purāṇa; Numbers 32.23 |
+| 16.13 | Supersite, Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
+| 16.14 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
+| 16.15 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
+| 16.16 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās); Garuḍa Purāṇa |
 | 16.17 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Mahābhārata |
 | 16.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
 | 16.19 | Supersite, Critical ed. | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
@@ -618,7 +618,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 17.17 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 17.18 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 17.19 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | — |
-| 17.20 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | Bhaviṣya Purāṇa; Rāmāyaṇa; Skanda Purāṇa |
+| 17.20 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | Bhaviṣya Purāṇa; Rāmcaritmānas (Tulsīdās); Skanda Purāṇa |
 | 17.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Sivananda, Mukundananda | — |
 | 17.22 | Supersite, Critical ed., Dataset | Śaṅkara, Śrīdhara, Sivananda, Mukundananda | — |
 | 17.23 | Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
@@ -649,7 +649,7 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 18.20 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | Bhāgavatam 1.2.11; Brahma Saṁhitā 5.32 |
 | 18.21 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 18.22 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
-| 18.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Mahābhārata 5.15.17; Luke 6.31 |
+| 18.23 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Sivananda, Mukundananda | Mahābhārata 5.15.17 |
 | 18.24 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 18.25 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Mukundananda | — |
 | 18.26 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | — |
@@ -688,8 +688,8 @@ Text: which editions the Sanskrit matches exactly after normalising spelling. Vi
 | 18.59 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 18.60 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | — |
 | 18.61 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
-| 18.62 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 6.18; Bhāgavatam 11.12.15; Rāmāyaṇa |
-| 18.63 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmāyaṇa |
+| 18.62 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Śvetāśvatara Upaniṣad 6.18; Bhāgavatam 11.12.15; Rāmcaritmānas (Tulsīdās) |
+| 18.63 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Rāmcaritmānas (Tulsīdās) |
 | 18.64 | Critical ed., Dataset | Śaṅkara, Rāmānuja, Śrīdhara, Mukundananda | — |
 | 18.65 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Mukundananda | Bhāgavatam 9.4.18-20 |
 | 18.66 | Supersite, Critical ed., Dataset | Śaṅkara, Rāmānuja, Abhinavagupta, Śrīdhara, Mukundananda | Bhāgavatam 11.5.41; Bhāgavatam 11.11.32 |
