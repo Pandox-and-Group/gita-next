@@ -167,6 +167,15 @@ details.xsec[open] summary{margin-bottom:.6rem}
 .ixsaved h4{font-weight:400;font-size:.8rem;color:var(--acc);margin-bottom:1rem}
 .vgrid.wide{grid-template-columns:repeat(auto-fill,minmax(3.6rem,1fr))}
 
+#inst{position:fixed;left:0;right:0;bottom:0;z-index:7;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;
+  padding:.9rem max(4vw,calc(50vw - 17rem)) calc(.9rem + env(safe-area-inset-bottom));background:var(--bg);
+  border-top:1px solid rgba(128,128,128,.25);border-top:1px solid color-mix(in srgb,var(--ink) 12%,transparent);
+  font-size:.84rem;line-height:1.6;color:var(--mut);transition:background 1.2s ease}
+#inst[hidden]{display:none}
+#inst .instact{display:flex;gap:1.4rem;margin-left:auto}
+#inst button{min-height:2.75rem;padding:0 .2rem;border:0;background:none;font:inherit;font-size:.84rem;color:var(--mut);cursor:pointer}
+#inst #instgo{color:var(--acc)}
+#inst button:focus-visible{outline:1px solid var(--acc);outline-offset:4px}
 #veil{position:fixed;inset:0;z-index:12;background:var(--bg);opacity:0;pointer-events:none;
   transition:opacity .35s ease}
 #veil.on{opacity:1;pointer-events:auto}
